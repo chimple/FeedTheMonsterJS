@@ -54,13 +54,13 @@ export class GameScore {
   }
   
   public static calculateStarCount(score: number): number {
+   
     switch (score) {
-      case 200:
+      case 25:
         return 1;
-      case 300:
-      case 400:
+      case 50:
         return 2;
-      case 500:
+      case 75:
         return 3;
       default:
         return 0;
