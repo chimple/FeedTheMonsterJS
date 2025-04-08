@@ -678,7 +678,7 @@ export class GameplayScene {
   }
 
   private handleCorrectStoneDrop = (feedbackIndex: number): void => {
-    this.score += 100;
+    this.score += 25;
     this.feedbackTextEffects.wrapText(this.getRandomFeedBackText(feedbackIndex));
   };
 
@@ -741,7 +741,7 @@ export class GameplayScene {
       json_version_number: this.jsonVersionNumber,
       success_or_failure:
         GameScore.calculateStarCount(this.score) >= 3 ? "success" : "failure",
-      number_of_successful_puzzles: this.score / 100,
+      number_of_successful_puzzles: this.score / 25,
       level_number: this.levelData.levelMeta.levelNumber,
       duration: (endTime - this.startTime) / 1000,
     };
