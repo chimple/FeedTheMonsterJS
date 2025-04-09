@@ -16,7 +16,7 @@ import {
   PIN_STAR_3,
   WIN_BG,
 } from "@constants";
-
+declare const window: any;
 export class LevelEndScene {
   public canvas: HTMLCanvasElement;
   public height: number;
@@ -170,6 +170,11 @@ export class LevelEndScene {
   }
   drawStars() {
     if (this.starCount >= 1 && this.starDrawnCount >= 1) {
+      if (window.Android) {
+        console.log("Hello FTM Android");
+        window.Android.sendDataToContainer(this.starCount);
+      }
+      console.log("starCount", this.starCount, this.starDrawnCount);
       this.context.drawImage(
         this.loadedImages.star1Img,
         this.width * 0.2 - (this.width * 0.19) / 2,
@@ -211,7 +216,7 @@ export class LevelEndScene {
   }
 
   handleMouseClick = (event) => {
-    const selfElement:HTMLElement =document.getElementById("canvas");
+    const selfElement: HTMLElement = document.getElementById("canvas");
     var rect = selfElement.getBoundingClientRect();
     const x = event.clientX - rect.left;
     const y = event.clientY - rect.top;
@@ -232,10 +237,7 @@ export class LevelEndScene {
       // pass same data as level is same
       this.switchToGameplayCB(gamePlayData, "LevelEnd");
     }
-    if (
-      this.isLastLevel &&
-      this.nextButton.onClick(x, y)
-    ) {
+    if (this.isLastLevel && this.nextButton.onClick(x, y)) {
       this.audioPlayer.playButtonClickSound();
       let next = Number(this.currentLevel) + 1;
       let gamePlayData = {

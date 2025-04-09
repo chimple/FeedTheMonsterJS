@@ -4,6 +4,7 @@ export class GameScore {
   public static currentlanguage: string = lang;
 
   public static setGameLevelScore(currentLevelInfo, score) {
+    console.log("SCORE>>>", { score, currentLevelInfo });
     let starsGained = this.calculateStarCount(score);
     let levelPlayedInfo = {
       levelName: currentLevelInfo.levelMeta.levelType,
@@ -25,27 +26,34 @@ export class GameScore {
     } else {
       allGamelevelInfo.push(levelPlayedInfo);
     }
-    localStorage.setItem(this.currentlanguage + "gamePlayedInfo", JSON.stringify(allGamelevelInfo));
+    console.log("BPUTTTTTTT", allGamelevelInfo);
+    localStorage.setItem(
+      this.currentlanguage + "gamePlayedInfo",
+      JSON.stringify(allGamelevelInfo)
+    );
   }
-
 
   public static getAllGameLevelInfo(): Map<string, any>[] {
     const data = localStorage.getItem(this.currentlanguage + "gamePlayedInfo");
-    return data == undefined ? [] : JSON.parse(data) as Map<string, any>[];
+    return data == undefined ? [] : (JSON.parse(data) as Map<string, any>[]);
   }
 
   public static setTotalStarCount(starsGained): void {
     let starCount = this.getTotalStarCount();
     let totalStarCount = starCount + starsGained;
-    localStorage.setItem(this.currentlanguage + "totalStarCount",totalStarCount);
-
+    localStorage.setItem(
+      this.currentlanguage + "totalStarCount",
+      totalStarCount
+    );
   }
 
   public static getTotalStarCount(): number {
-    const starCount = localStorage.getItem(this.currentlanguage + "totalStarCount");
-    return starCount == undefined ? 0: parseInt(starCount);
+    const starCount = localStorage.getItem(
+      this.currentlanguage + "totalStarCount"
+    );
+    return starCount == undefined ? 0 : parseInt(starCount);
   }
-  
+
   public static calculateStarCount(score: number): number {
     return score == 200
       ? 1
