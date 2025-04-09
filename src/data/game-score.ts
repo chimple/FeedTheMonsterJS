@@ -47,16 +47,13 @@ export class GameScore {
   }
   
   public static calculateStarCount(score: number): number {
-    switch (score) {
-      case 25:
-        return 1;
-      case 50:
-        return 2;
-      case 75:
-        return 3;
-      default:
-        return 0;
-    }
+    return score == 25
+      ? 1
+      : score == 50
+      ? 2
+      : score == 75
+      ? 3
+      : 0;
   }
 
   public static getDatafromStorage() {
