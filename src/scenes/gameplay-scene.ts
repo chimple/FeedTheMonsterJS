@@ -89,6 +89,12 @@ export class GameplayScene {
   public isGameStarted: boolean = false;
   public time: number = 0;
   public score: number = 0;
+
+  public totalQuizzes: number = 0;
+  public quizScore: number = 0;
+  public wrongMoves: number = 0; 
+  public rightMoves: number = 0
+
   public switchToLevelSelection: Function;
   public reloadScene: Function;
   audioPlayer: AudioPlayer;
@@ -678,7 +684,11 @@ export class GameplayScene {
   }
 
   private handleCorrectStoneDrop = (feedbackIndex: number): void => {
-    this.score += 25;
+    this.score = Math.round(this.totalQuizzes > 0
+      ? this.quizScore / this.totalQuizzes * 70 + 
+        this.rightMoves / (this.rightMoves + this.wrongMoves) * 30
+      : this.rightMoves / (this.rightMoves + this.wrongMoves) * 100);
+
     this.feedbackTextEffects.wrapText(this.getRandomFeedBackText(feedbackIndex));
   };
 
@@ -741,7 +751,7 @@ export class GameplayScene {
       json_version_number: this.jsonVersionNumber,
       success_or_failure:
         GameScore.calculateStarCount(this.score) >= 3 ? "success" : "failure",
-      number_of_successful_puzzles: this.score / 25,
+        number_of_successful_puzzles: Math.floor(this.score / 25), // Since 100/4=25
       level_number: this.levelData.levelMeta.levelNumber,
       duration: (endTime - this.startTime) / 1000,
     };
