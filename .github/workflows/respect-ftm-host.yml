@@ -32,9 +32,7 @@ jobs:
       #     echo 'REACT_APP_GITHUB_BASE=/cuba' >> .env
 
       - name: Build
-        run: |
-          npm run dev
-          npm run wb:inject
+        run: npm run build
 
       - name: Deploy to Firebase
         uses: w9jds/firebase-action@v13.0.3
