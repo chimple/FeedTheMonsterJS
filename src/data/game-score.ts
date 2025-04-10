@@ -47,9 +47,9 @@ export class GameScore {
   }
   
   public static calculateStarCount(score: number): number {
-    return score >= 0 && score <= 25
+    return score >= 25 && score <= 50
     ? 1
-    : score > 25 && score <= 75
+    : score > 50 && score <= 75
     ? 2
     : score > 75 && score <= 100
     ? 3

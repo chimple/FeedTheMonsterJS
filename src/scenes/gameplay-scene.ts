@@ -90,8 +90,7 @@ export class GameplayScene {
   public time: number = 0;
   public score: number = 0;
 
-  public totalQuizzes: number = 0;
-  public quizScore: number = 0;
+  public hasPerfectScore: boolean = false; // Track if player made no mistakes
   public wrongMoves: number = 0; 
   public rightMoves: number = 0
 
@@ -621,13 +620,11 @@ export class GameplayScene {
       feedBackIndex
     );
     if (isCorrect) {
-      this.rightMoves++;
       this.handleCorrectStoneDrop(feedBackIndex);
     }else{
-      this.wrongMoves++;
+      this.handleWrongAnswer();
     }
     this.handleStoneDropEnd(isCorrect);
-    this.score = this.calculateScore();  // Update score after each puzzle
   }
 
   public wordPuzzle(droppedStoneInstance: StoneConfig) {
@@ -651,7 +648,6 @@ export class GameplayScene {
     );
 
     if (isCorrect) {
-      this.rightMoves++; 
       if (this.wordPuzzleLogic.validateWordPuzzle()) {
         this.handleCorrectStoneDrop(feedBackIndex);
         this.handleStoneDropEnd(isCorrect, "Word");
@@ -672,11 +668,11 @@ export class GameplayScene {
         this.hasFed = false; //re-enables idle reset when stones are not fed.
       }, 2000);
     } else {
-      this.wrongMoves++;
+      this.handleWrongAnswer();
       this.handleStoneDropEnd(isCorrect, "Word");
       this.stonesCount = 1;
     }
-    this.score = this.calculateScore();  // Update score after each puzzle
+    this.calculateScore();  // Update score after each puzzle
   }
 
 
@@ -694,26 +690,28 @@ export class GameplayScene {
     this.loadPuzzle();
   }
 
-  private calculateScore(): number {
-    let score: number;
-    if (this.totalQuizzes > 0) {
-        const quizPercentage = (this.quizScore / this.totalQuizzes) * 70;
-        const movesPercentage = (this.rightMoves / (this.rightMoves + this.wrongMoves)) * 30;
-        score = Math.round(quizPercentage + movesPercentage);
-    } else {
-        score = Math.round((this.rightMoves / (this.rightMoves + this.wrongMoves)) * 100);
+  private calculateScore(): void {
+    const totalMoves = this.rightMoves + this.wrongMoves;
+    // Calculate score based on accuracy (0-100 scale)
+    this.score = totalMoves > 0 
+      ? Math.round((this.rightMoves / totalMoves) * 100)
+      : 0;
+    this.hasPerfectScore = this.wrongMoves === 0;
+
+    if (isNaN(this.score)) {
+        this.score = 0;
     }
-    if (isNaN(score)) {
-        score = 0;
-    }
-    return score;
   }
 
   private handleCorrectStoneDrop = (feedbackIndex: number): void => {
-
-    this.score = this.calculateScore();
+    this.rightMoves++
+    this.calculateScore();
     this.feedbackTextEffects.wrapText(this.getRandomFeedBackText(feedbackIndex));
-    
+  };
+
+  private handleWrongAnswer = (): void => {
+    this.wrongMoves++;
+    this.calculateScore();
   };
 
   private dispatchStoneDropEvent(isCorrect: boolean): void {
@@ -767,15 +765,20 @@ export class GameplayScene {
 
   public logLevelEndFirebaseEvent() {
     let endTime = Date.now();
+
+    const successfulPuzzles = this.rightMoves; // Direct count of correct puzzles
+
     const levelCompletedData: LevelCompletedEvent = {
       cr_user_id: pseudoId,
       ftm_language: lang,
       profile_number: 0,
       version_number: document.getElementById("version-info-id").innerHTML,
       json_version_number: this.jsonVersionNumber,
-      success_or_failure:
-        GameScore.calculateStarCount(this.score) >= 3 ? "success" : "failure",
-        number_of_successful_puzzles: Math.floor(this.score / 25), // Since 100/4=25
+      success_or_failure: GameScore.calculateStarCount(this.score) >= 3 ? "success" : "failure",
+      number_of_successful_puzzles: successfulPuzzles, // More accurate
+      right_moves: this.rightMoves,
+      wrong_moves: this.wrongMoves,
+      perfect_run: this.hasPerfectScore,
       level_number: this.levelData.levelMeta.levelNumber,
       duration: (endTime - this.startTime) / 1000,
     };

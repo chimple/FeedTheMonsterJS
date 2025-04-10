@@ -33,6 +33,9 @@ export interface PuzzleCompletedEvent extends CommonEventProperties {
     
 }
 export interface LevelCompletedEvent extends CommonEventProperties {
+    right_moves: number,
+    wrong_moves: number,
+    perfect_run: boolean,
     success_or_failure: string;
     level_number: number;
     number_of_successful_puzzles: number;
