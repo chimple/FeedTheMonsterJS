@@ -553,6 +553,7 @@ export class GameplayScene {
     if (timerEnded) {
       this.logPuzzleEndFirebaseEvent(false);
     }
+
     this.counter += 1; //increment Puzzle
     this.isGameStarted = false;
 
@@ -609,8 +610,10 @@ export class GameplayScene {
   }
 
   public letterPuzzle(droppedStone: string) {
+    
     if (this.pickedStone && this.pickedStone.frame <= 99) {
       return; // Prevent dragging if the stone is animating
+      
     }
     const feedBackIndex = this.getRandomInt(0, 1);
     const isCorrect = this.checkStoneDropped(
@@ -618,7 +621,10 @@ export class GameplayScene {
       feedBackIndex
     );
     if (isCorrect) {
+      this.rightMoves++;
       this.handleCorrectStoneDrop(feedBackIndex);
+    }else{
+      this.wrongMoves++;
     }
     this.handleStoneDropEnd(isCorrect);
   }
@@ -644,6 +650,7 @@ export class GameplayScene {
     );
 
     if (isCorrect) {
+      this.rightMoves++; 
       if (this.wordPuzzleLogic.validateWordPuzzle()) {
         this.handleCorrectStoneDrop(feedBackIndex);
         this.handleStoneDropEnd(isCorrect, "Word");
@@ -664,10 +671,20 @@ export class GameplayScene {
         this.hasFed = false; //re-enables idle reset when stones are not fed.
       }, 2000);
     } else {
+      this.wrongMoves++;
       this.handleStoneDropEnd(isCorrect, "Word");
       this.stonesCount = 1;
     }
   }
+
+  public handleQuizAnswer(isCorrect: boolean) {
+    this.totalQuizzes++;
+    if (isCorrect) {
+        this.quizScore++;
+    }
+    this.isQuizAnsweredCorrectly = isCorrect;
+    this.score = this.calculateScore();
+}
 
   resetToIdleAnimation(callback: () => void, delay: number) {
     if (this.resetAnimationID !== undefined) {
@@ -683,13 +700,32 @@ export class GameplayScene {
     this.loadPuzzle();
   }
 
-  private handleCorrectStoneDrop = (feedbackIndex: number): void => {
-    this.score = Math.round(this.totalQuizzes > 0
-      ? this.quizScore / this.totalQuizzes * 70 + 
-        this.rightMoves / (this.rightMoves + this.wrongMoves) * 30
-      : this.rightMoves / (this.rightMoves + this.wrongMoves) * 100);
+  private calculateScore(): number {
+    let score: number;
+    
+    if (this.totalQuizzes > 0) {
+        // Weighted score: 70% quiz performance, 30% game moves
+        const quizPercentage = (this.quizScore / this.totalQuizzes) * 70;
+        const movesPercentage = (this.rightMoves / (this.rightMoves + this.wrongMoves)) * 30;
+        score = Math.round(quizPercentage + movesPercentage);
+    } else {
+        // Pure game moves performance (100%)
+        score = Math.round((this.rightMoves / (this.rightMoves + this.wrongMoves)) * 100);
+    }
 
+    // Handle edge cases (division by zero, NaN)
+    if (isNaN(score)) {
+        score = 0;
+    }
+
+    return score;
+}
+
+  private handleCorrectStoneDrop = (feedbackIndex: number): void => {
+
+    this.score = this.calculateScore();
     this.feedbackTextEffects.wrapText(this.getRandomFeedBackText(feedbackIndex));
+    
   };
 
   private dispatchStoneDropEvent(isCorrect: boolean): void {
