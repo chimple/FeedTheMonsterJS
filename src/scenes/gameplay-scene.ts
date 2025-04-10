@@ -627,6 +627,7 @@ export class GameplayScene {
       this.wrongMoves++;
     }
     this.handleStoneDropEnd(isCorrect);
+    this.score = this.calculateScore();  // Update score after each puzzle
   }
 
   public wordPuzzle(droppedStoneInstance: StoneConfig) {
@@ -675,6 +676,7 @@ export class GameplayScene {
       this.handleStoneDropEnd(isCorrect, "Word");
       this.stonesCount = 1;
     }
+    this.score = this.calculateScore();  // Update score after each puzzle
   }
 
 
