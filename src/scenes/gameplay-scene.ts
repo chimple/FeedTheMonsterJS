@@ -677,14 +677,6 @@ export class GameplayScene {
     }
   }
 
-  public handleQuizAnswer(isCorrect: boolean) {
-    this.totalQuizzes++;
-    if (isCorrect) {
-        this.quizScore++;
-    }
-    this.isQuizAnsweredCorrectly = isCorrect;
-    this.score = this.calculateScore();
-}
 
   resetToIdleAnimation(callback: () => void, delay: number) {
     if (this.resetAnimationID !== undefined) {
@@ -702,24 +694,18 @@ export class GameplayScene {
 
   private calculateScore(): number {
     let score: number;
-    
     if (this.totalQuizzes > 0) {
-        // Weighted score: 70% quiz performance, 30% game moves
         const quizPercentage = (this.quizScore / this.totalQuizzes) * 70;
         const movesPercentage = (this.rightMoves / (this.rightMoves + this.wrongMoves)) * 30;
         score = Math.round(quizPercentage + movesPercentage);
     } else {
-        // Pure game moves performance (100%)
         score = Math.round((this.rightMoves / (this.rightMoves + this.wrongMoves)) * 100);
     }
-
-    // Handle edge cases (division by zero, NaN)
     if (isNaN(score)) {
         score = 0;
     }
-
     return score;
-}
+  }
 
   private handleCorrectStoneDrop = (feedbackIndex: number): void => {
 
