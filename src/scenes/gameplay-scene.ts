@@ -89,8 +89,6 @@ export class GameplayScene {
   public isGameStarted: boolean = false;
   public time: number = 0;
   public score: number = 0;
-
-  public hasPerfectScore: boolean = false; // Track if player made no mistakes
   public wrongMoves: number = 0; 
   public rightMoves: number = 0
 
@@ -672,7 +670,6 @@ export class GameplayScene {
       this.handleStoneDropEnd(isCorrect, "Word");
       this.stonesCount = 1;
     }
-    this.calculateScore();  // Update score after each puzzle
   }
 
 
@@ -696,7 +693,6 @@ export class GameplayScene {
     this.score = totalMoves > 0 
       ? Math.round((this.rightMoves / totalMoves) * 100)
       : 0;
-    this.hasPerfectScore = this.wrongMoves === 0;
 
     if (isNaN(this.score)) {
         this.score = 0;
@@ -711,7 +707,6 @@ export class GameplayScene {
 
   private handleWrongAnswer = (): void => {
     this.wrongMoves++;
-    this.calculateScore();
   };
 
   private dispatchStoneDropEvent(isCorrect: boolean): void {
@@ -766,6 +761,12 @@ export class GameplayScene {
   public logLevelEndFirebaseEvent() {
     let endTime = Date.now();
 
+    console.log(`Level completed! Final stats:
+      Score: ${this.score}
+      Correct moves: ${this.rightMoves}
+      Wrong moves: ${this.wrongMoves}
+      `);
+
     const successfulPuzzles = this.rightMoves; // Direct count of correct puzzles
 
     const levelCompletedData: LevelCompletedEvent = {
@@ -778,7 +779,6 @@ export class GameplayScene {
       number_of_successful_puzzles: successfulPuzzles, // More accurate
       right_moves: this.rightMoves,
       wrong_moves: this.wrongMoves,
-      perfect_run: this.hasPerfectScore,
       level_number: this.levelData.levelMeta.levelNumber,
       duration: (endTime - this.startTime) / 1000,
     };
