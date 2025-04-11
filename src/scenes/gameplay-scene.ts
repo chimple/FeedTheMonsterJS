@@ -760,13 +760,7 @@ export class GameplayScene {
 
   public logLevelEndFirebaseEvent() {
     let endTime = Date.now();
-
-    console.log(`Level completed! Final stats:
-      Score: ${this.score}
-      Correct moves: ${this.rightMoves}
-      Wrong moves: ${this.wrongMoves}
-      `);
-
+    
     const successfulPuzzles = this.rightMoves; // Direct count of correct puzzles
 
     const levelCompletedData: LevelCompletedEvent = {
