@@ -18,7 +18,7 @@ import {
   SessionEnd,
 } from "./src/Firebase/firebase-event-interface";
 import { URL } from "@data";
-import { AndroidBridge } from "src/common/utils";
+import { AndroidBridge } from "./src/common/utils";
 declare const window: any;
 
 class App {
