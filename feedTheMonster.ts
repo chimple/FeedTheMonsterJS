@@ -18,6 +18,7 @@ import {
   SessionEnd,
 } from "./src/Firebase/firebase-event-interface";
 import { URL } from "@data";
+import { AndroidBridge } from "src/common/utils";
 declare const window: any;
 
 class App {
@@ -72,7 +73,13 @@ class App {
   }
 
   private async init() {
+    window.onDataFromAndroid = function (responseJson) {
+      const data = JSON.parse(responseJson);
+      console.log("Received from Android:", data);
+      // You can now do something with the data
+    };
     console.log("hello ftm");
+    AndroidBridge.requestDataFromContainer("score");
     const font = await Utils.getLanguageSpecificFont(this.lang);
     await this.loadAndCacheFont(font, `./assets/fonts/${font}.ttf`);
     await this.loadTitleFeedbackCustomFont();

@@ -13,13 +13,18 @@ export class Utils {
 
   public static getConvertedDevProdURL(url: string): string {
     if (Debugger.DevelopmentLink) {
-      return url.slice(
-        0,
-        url.indexOf(this.UrlSubstring) + this.UrlSubstring.length
-      ) + "dev" + url.slice(url.indexOf(this.UrlSubstring) + this.UrlSubstring.length);
+      return (
+        url.slice(
+          0,
+          url.indexOf(this.UrlSubstring) + this.UrlSubstring.length
+        ) +
+        "dev" +
+        url.slice(url.indexOf(this.UrlSubstring) + this.UrlSubstring.length)
+      );
     } else if (Debugger.TestLink) {
       return url.replace(this.subdomain, TestServer);
-    } return url;
+    }
+    return url;
   }
 
   public static getLanguageSpecificFont(language: string): string {
@@ -152,7 +157,7 @@ export function isClickInsideButton(
     // Check for circular button
     const distance = Math.sqrt(
       (xClick - (buttonX + buttonWidth / 2)) ** 2 +
-      (yClick - (buttonY + buttonHeight / 2)) ** 2
+        (yClick - (buttonY + buttonHeight / 2)) ** 2
     );
     return distance < buttonWidth / 2;
   } else {
@@ -183,4 +188,35 @@ export const hideElement = (isHide: boolean = false, element: HTMLElement) => {
   } else {
     element.classList.add("show");
   }
+};
+
+//**************** this is android bridge type and declarations please don't remove it */
+interface AndroidBridge {
+  sendDataToContainer: (data: any) => void; // this is the method name from android
+  requestDataFromContainer: (data: any) => any;
+  // add another method here if needed for the javascript interface from android
+}
+
+declare global {
+  interface Window {
+    Android?: AndroidBridge;
+  }
+}
+
+export const AndroidBridge = {
+  sendDataToContainer(data: any) {
+    if (window.Android?.sendDataToContainer) {
+      window.Android.sendDataToContainer(data);
+    } else {
+      console.warn("Android bridge not available: sendDataToContainer");
+    }
+  },
+
+  requestDataFromContainer(type: any) {
+    if (window.Android?.requestDataFromContainer) {
+      window.Android.requestDataFromContainer(type);
+    } else {
+      console.warn("Android bridge not available: requestDataFromJS");
+    }
+  },
 };

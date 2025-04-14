@@ -16,7 +16,7 @@ import {
   PIN_STAR_3,
   WIN_BG,
 } from "@constants";
-declare const window: any;
+import { AndroidBridge } from "../common/utils";
 export class LevelEndScene {
   public canvas: HTMLCanvasElement;
   public height: number;
@@ -170,10 +170,7 @@ export class LevelEndScene {
   }
   drawStars() {
     if (this.starCount >= 1 && this.starDrawnCount >= 1) {
-      if (window.Android) {
-        console.log("Hello FTM Android");
-        window.Android.sendDataToContainer(this.starCount);
-      }
+      AndroidBridge.sendDataToContainer(this.starCount);
       console.log("starCount", this.starCount, this.starDrawnCount);
       this.context.drawImage(
         this.loadedImages.star1Img,
