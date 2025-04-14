@@ -55,15 +55,13 @@ export class GameScore {
   }
 
   public static calculateStarCount(score: number): number {
-    return score == 200
-      ? 1
-      : score == 300
-      ? 2
-      : score == 400
-      ? 2
-      : score == 500
-      ? 3
-      : 0;
+    return score >= 25 && score <= 50
+    ? 1
+    : score > 50 && score <= 75
+    ? 2
+    : score > 75 && score <= 100
+    ? 3
+    : 0;
   }
 
   public static getDatafromStorage() {
