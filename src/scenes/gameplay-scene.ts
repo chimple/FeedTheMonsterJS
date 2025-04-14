@@ -89,6 +89,9 @@ export class GameplayScene {
   public isGameStarted: boolean = false;
   public time: number = 0;
   public score: number = 0;
+  public wrongMoves: number = 0; 
+  public rightMoves: number = 0
+
   public switchToLevelSelection: Function;
   public reloadScene: Function;
   audioPlayer: AudioPlayer;
@@ -547,6 +550,7 @@ export class GameplayScene {
     if (timerEnded) {
       this.logPuzzleEndFirebaseEvent(false);
     }
+
     this.counter += 1; //increment Puzzle
     this.isGameStarted = false;
 
@@ -603,8 +607,10 @@ export class GameplayScene {
   }
 
   public letterPuzzle(droppedStone: string) {
+    
     if (this.pickedStone && this.pickedStone.frame <= 99) {
       return; // Prevent dragging if the stone is animating
+      
     }
     const feedBackIndex = this.getRandomInt(0, 1);
     const isCorrect = this.checkStoneDropped(
@@ -613,6 +619,8 @@ export class GameplayScene {
     );
     if (isCorrect) {
       this.handleCorrectStoneDrop(feedBackIndex);
+    }else{
+      this.handleWrongAnswer();
     }
     this.handleStoneDropEnd(isCorrect);
   }
@@ -658,10 +666,12 @@ export class GameplayScene {
         this.hasFed = false; //re-enables idle reset when stones are not fed.
       }, 2000);
     } else {
+      this.handleWrongAnswer();
       this.handleStoneDropEnd(isCorrect, "Word");
       this.stonesCount = 1;
     }
   }
+
 
   resetToIdleAnimation(callback: () => void, delay: number) {
     if (this.resetAnimationID !== undefined) {
@@ -677,9 +687,26 @@ export class GameplayScene {
     this.loadPuzzle();
   }
 
+  private calculateScore(): void {
+    const totalMoves = this.rightMoves + this.wrongMoves;
+    // Calculate score based on accuracy (0-100 scale)
+    this.score = totalMoves > 0 
+      ? Math.round((this.rightMoves / totalMoves) * 100)
+      : 0;
+
+    if (isNaN(this.score)) {
+        this.score = 0;
+    }
+  }
+
   private handleCorrectStoneDrop = (feedbackIndex: number): void => {
-    this.score += 100;
+    this.rightMoves++
+    this.calculateScore();
     this.feedbackTextEffects.wrapText(this.getRandomFeedBackText(feedbackIndex));
+  };
+
+  private handleWrongAnswer = (): void => {
+    this.wrongMoves++;
   };
 
   private dispatchStoneDropEvent(isCorrect: boolean): void {
@@ -733,15 +760,19 @@ export class GameplayScene {
 
   public logLevelEndFirebaseEvent() {
     let endTime = Date.now();
+    
+    const successfulPuzzles = this.rightMoves; // Direct count of correct puzzles
+
     const levelCompletedData: LevelCompletedEvent = {
       cr_user_id: pseudoId,
       ftm_language: lang,
       profile_number: 0,
       version_number: document.getElementById("version-info-id").innerHTML,
       json_version_number: this.jsonVersionNumber,
-      success_or_failure:
-        GameScore.calculateStarCount(this.score) >= 3 ? "success" : "failure",
-      number_of_successful_puzzles: this.score / 100,
+      success_or_failure: GameScore.calculateStarCount(this.score) >= 3 ? "success" : "failure",
+      number_of_successful_puzzles: successfulPuzzles, // More accurate
+      right_moves: this.rightMoves,
+      wrong_moves: this.wrongMoves,
       level_number: this.levelData.levelMeta.levelNumber,
       duration: (endTime - this.startTime) / 1000,
     };
