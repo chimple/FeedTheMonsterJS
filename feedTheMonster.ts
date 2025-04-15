@@ -79,7 +79,7 @@ class App {
     };
     console.log("hello ftm");
     AndroidBridge.requestDataFromContainer("score").then((data) => {
-      console.log("Received score data from Container:", data);
+      console.log("Received score data from Container:", JSON.stringify(data));
     });
     const font = await Utils.getLanguageSpecificFont(this.lang);
     await this.loadAndCacheFont(font, `./assets/fonts/${font}.ttf`);
