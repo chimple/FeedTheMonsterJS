@@ -203,6 +203,12 @@ declare global {
   }
 }
 
+type CallbackMap = {
+  [key: string]: (data: any) => void;
+};
+
+const _callbacks: CallbackMap = {};
+
 export const AndroidBridge = {
   sendDataToContainer(data: any) {
     if (window.Android?.sendDataToContainer) {
@@ -212,11 +218,38 @@ export const AndroidBridge = {
     }
   },
 
-  requestDataFromContainer(type: any) {
-    if (window.Android?.requestDataFromContainer) {
-      window.Android.requestDataFromContainer(type);
-    } else {
-      console.warn("Android bridge not available: requestDataFromJS");
+  requestDataFromContainer(type: string): Promise<any> {
+    return new Promise((resolve, reject) => {
+      if (window.Android?.requestDataFromContainer) {
+        _callbacks[type] = resolve; // store callback by type
+        window.Android.requestDataFromContainer(type);
+      } else {
+        reject("Android bridge not available");
+      }
+    });
+  },
+
+  _handleDataFromAndroid(responseJson: string) {
+    try {
+      const data = JSON.parse(responseJson);
+      const type = data?.type;
+
+      if (type && _callbacks[type]) {
+        _callbacks[type](data); // Resolve the Promise
+        delete _callbacks[type]; // Clean up after resolving
+      } else {
+        console.warn("No callback found for type:", type);
+      }
+    } catch (e) {
+      console.error("Failed to parse data from Android:", e);
     }
   },
+
+  // requestDataFromContainer(type: any) {
+  //   if (window.Android?.requestDataFromContainer) {
+  //     window.Android.requestDataFromContainer(type);
+  //   } else {
+  //     console.warn("Android bridge not available: requestDataFromJS");
+  //   }
+  // },
 };

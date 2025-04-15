@@ -73,13 +73,14 @@ class App {
   }
 
   private async init() {
-    window.onDataFromAndroid = function (responseJson) {
-      const data = JSON.parse(responseJson);
-      console.log("Received from Android:", data);
-      // You can now do something with the data
+    // Make sure to listen for the response globally
+    window.onDataFromAndroid = function (responseJson: string) {
+      AndroidBridge._handleDataFromAndroid(responseJson);
     };
     console.log("hello ftm");
-    AndroidBridge.requestDataFromContainer("score");
+    AndroidBridge.requestDataFromContainer("score").then((data) => {
+      console.log("Received score data from Container:", data);
+    });
     const font = await Utils.getLanguageSpecificFont(this.lang);
     await this.loadAndCacheFont(font, `./assets/fonts/${font}.ttf`);
     await this.loadTitleFeedbackCustomFont();
