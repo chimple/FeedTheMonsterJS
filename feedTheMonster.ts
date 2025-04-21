@@ -41,6 +41,7 @@ class App {
   private logged25: boolean = false;
   private logged50: boolean = false;
   private logged75: boolean = false;
+  public isDeepLink: boolean = false;
 
   firebaseIntegration: FirebaseIntegration;
   constructor(lang: string) {
@@ -73,13 +74,18 @@ class App {
   }
 
   private async init() {
-    let lessonId = 0;
+    let lessonId;
     if (window.Android && typeof window.Android.getLessonId === 'function') {
         lessonId = window.Android.getLessonId();
+        if(lessonId != "") {
+            this.isDeepLink = true;
+        }
         console.log("Lesson ID from Android:", lessonId);
     }
     setTimeout(() => {
-      if(lessonId > 0){
+      if(this.isDeepLink){
+        this.isDeepLink = false;
+        console.log("Lesson ID from Android:", lessonId);
         this.startGameWithLevel(lessonId);
       }
     }, 3000);
