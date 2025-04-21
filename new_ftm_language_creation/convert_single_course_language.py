@@ -1,21 +1,18 @@
-import json
 import os
 import sys
-
-# run which lang you want to convert --> python new_ftm_language_creation\convert_single_course_language.py lang/marathi/ftm_marathi.json
+import json
+import zipfile
 
 def convert_ftm_to_opds(input_file):
     # Load the input JSON
     with open(input_file, 'r', encoding='utf-8') as f:
         ftm_data = json.load(f)
 
-    # Get the language name (from langname or filename fallback)
+    # Get language name
     lang_name = ftm_data.get("langname")
     if not lang_name:
-        # fallback: extract from filename like "ftm_marathi.json" => "marathi"
         lang_name = os.path.basename(input_file).split("_")[-1].split(".")[0].capitalize()
 
-    # Make folder name lowercase
     lang_folder = lang_name.strip().lower()
 
     # Build course structure
@@ -51,16 +48,31 @@ def convert_ftm_to_opds(input_file):
 
         course["lessons"].append(lesson)
 
-    # Dynamic output folder based on lang
+    # Create output folder
     output_folder = os.path.join("public", "assets", "course", lang_folder)
     os.makedirs(output_folder, exist_ok=True)
 
     # Save course.json
-    output_path = os.path.join(output_folder, "course.json")
-    with open(output_path, 'w', encoding='utf-8') as f:
+    course_json_path = os.path.join(output_folder, "course.json")
+    with open(course_json_path, 'w', encoding='utf-8') as f:
         json.dump(course, f, ensure_ascii=False, indent=2)
 
-    print(f"Successfully created: {output_path}")
+    print(f"Successfully created course.json at: {course_json_path}")
+
+    # Create .opdf by zipping the entire course folder
+    opdf_path = os.path.join(output_folder, f"{lang_folder}.opdf")
+    create_opdf(output_folder, opdf_path)
+
+def create_opdf(folder_path, output_opdf_path):
+    with zipfile.ZipFile(output_opdf_path, 'w', zipfile.ZIP_DEFLATED) as opdf:
+        for root, _, files in os.walk(folder_path):
+            for file in files:
+                if file.endswith(".opdf"):
+                    continue  # Avoid adding the opdf file inside itself
+                file_path = os.path.join(root, file)
+                arcname = os.path.relpath(file_path, folder_path)
+                opdf.write(file_path, arcname=arcname)
+    print(f"Created OPDF package at: {output_opdf_path}")
 
 # ---- Run the script from terminal ----
 if __name__ == "__main__":
