@@ -121,7 +121,7 @@ export class StartScene {
       });
       this.toggleBtn.style.display = "none";
       this.audioPlayer.playButtonClickSound();
-      if (!!Utils.isDeepLink) {
+      if (!Utils.isDeepLink) {
         self.switchSceneToLevelSelection("StartScene");
       }
     }
