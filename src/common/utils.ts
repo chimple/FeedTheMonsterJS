@@ -192,7 +192,7 @@ export const hideElement = (isHide: boolean = false, element: HTMLElement) => {
 
 //**************** this is android bridge type and declarations please don't remove it */
 interface AndroidBridge {
-  sendDataToContainer: (data: any) => void; // this is the method name from android
+  sendDataToContainer: (key: string, data: any) => void; // this is the method name from android
   requestDataFromContainer: (data: any) => any;
   // add another method here if needed for the javascript interface from android
 }
@@ -210,9 +210,9 @@ type CallbackMap = {
 const _callbacks: CallbackMap = {};
 
 export const AndroidBridge = {
-  sendDataToContainer(data: any) {
+  sendDataToContainer(key: string, data: any) {
     if (window.Android?.sendDataToContainer) {
-      window.Android.sendDataToContainer(data);
+      window.Android.sendDataToContainer(key, data);
     } else {
       console.warn("Android bridge not available: sendDataToContainer");
     }

@@ -90,7 +90,7 @@ class App {
         );
       })
       .catch((error) => {
-        console.error("Error receiving score data from Container:", error);
+        console.error("Error receiving images data from Container:", error);
       });
     const font = await Utils.getLanguageSpecificFont(this.lang);
     await this.loadAndCacheFont(font, `./assets/fonts/${font}.ttf`);
