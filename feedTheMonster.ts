@@ -41,6 +41,7 @@ class App {
   private logged25: boolean = false;
   private logged50: boolean = false;
   private logged75: boolean = false;
+  public isDeepLink: boolean = false;
 
   firebaseIntegration: FirebaseIntegration;
   constructor(lang: string) {
@@ -73,6 +74,21 @@ class App {
   }
 
   private async init() {
+    let lessonId;
+    if (window.Android && typeof window.Android.getLessonId === 'function') {
+        lessonId = window.Android.getLessonId();
+        if(lessonId != "") {
+            this.isDeepLink = true;
+        }
+        console.log("Lesson ID from Android:", lessonId);
+    }
+    setTimeout(() => {
+      if(this.isDeepLink){
+        this.isDeepLink = false;
+        console.log("Lesson ID from Android:", lessonId);
+        this.startGameWithLevel(lessonId);
+      }
+    }, 3000);
     // Make sure to listen for the response globally
     window.onDataFromAndroid = function (responseJson: string) {
       AndroidBridge._handleDataFromAndroid(responseJson);
@@ -432,6 +448,32 @@ class App {
       }
     }
   };
+
+  public startGameWithLevel(levelNumber: string | number): void {
+    console.log(`📱 FTM: Starting game with level ${levelNumber}`);
+    if (this.sceneHandler) {
+      // Switch to level selection scene first
+      this.sceneHandler.switchSceneToLevelSelection("START");
+      
+      // After a delay to ensure the level selection scene is loaded,
+      // start the game with the specified level
+      setTimeout(() => {
+        console.log(`📱 FTM: Starting level ${levelNumber} after level selection scene loads`);
+        // Create the gameplay data structure similar to what startGame uses in level-selection-scene.ts
+        const gamePlayData = {
+          currentLevelData: {
+            ...this.dataModal.levels[levelNumber],
+            levelNumber: levelNumber,
+          },
+          selectedLevelNumber: levelNumber,
+        };
+        // Call the switchSceneToGameplay method with the gameplay data
+        this.sceneHandler.switchSceneToGameplay(gamePlayData, "LevelSelection");
+      }, 1000); // Delay to ensure level selection scene is loaded
+    } else {
+      console.error("📱 FTM: Cannot start game - scene handler not initialized");
+    }
+  }
 
   //Shows the progress bar.
   showProgressBar() {
