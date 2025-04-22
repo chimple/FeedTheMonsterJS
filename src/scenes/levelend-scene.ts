@@ -169,7 +169,7 @@ export class LevelEndScene {
     });
   }
   drawStars() {
-    console.log("Hellow Draw Starsss");
+    console.log("Is Android bridge available?", window.Android);
     if (this.starCount >= 1 && this.starDrawnCount >= 1) {
       AndroidBridge.sendDataToContainer(this.starCount);
       console.log("starCount", this.starCount, this.starDrawnCount);
