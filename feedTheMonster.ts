@@ -74,13 +74,24 @@ class App {
 
   private async init() {
     // Make sure to listen for the response globally
+    console.log(
+      "Android available: requestDataFromContainer",
+      !!window.Android?.requestDataFromContainer
+    );
     window.onDataFromAndroid = function (responseJson: string) {
       AndroidBridge._handleDataFromAndroid(responseJson);
     };
-    console.log("hello ftm");
-    AndroidBridge.requestDataFromContainer("score").then((data) => {
-      console.log("Received score data from Container:", JSON.stringify(data));
-    });
+    console.log("hello world from FTM");
+    AndroidBridge.requestDataFromContainer("images")
+      .then((data) => {
+        console.log(
+          "Received score data from Container:",
+          JSON.stringify(data)
+        );
+      })
+      .catch((error) => {
+        console.error("Error receiving score data from Container:", error);
+      });
     const font = await Utils.getLanguageSpecificFont(this.lang);
     await this.loadAndCacheFont(font, `./assets/fonts/${font}.ttf`);
     await this.loadTitleFeedbackCustomFont();
