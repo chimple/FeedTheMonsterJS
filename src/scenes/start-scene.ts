@@ -121,9 +121,9 @@ export class StartScene {
       });
       this.toggleBtn.style.display = "none";
       this.audioPlayer.playButtonClickSound();
-      // if (!deeplink) {
-      // self.switchSceneToLevelSelection("StartScene");
-      // }
+      if (!!Utils.isDeepLink) {
+        self.switchSceneToLevelSelection("StartScene");
+      }
     }
   };
   logTappedStartFirebaseEvent() {
