@@ -80,8 +80,8 @@ class App {
 
   private async init() {
     let lessonId;
-    if (true) {
-      lessonId = 2;
+    if (window.Android && typeof window.Android.getLessonId === "function") {
+      lessonId = window.Android.getLessonId();
       if (lessonId != "") {
         Utils.isDeepLink = true;
       }
