@@ -46,6 +46,7 @@ import {
   loadDynamicBgAssets,
 } from "@compositions";
 import { WordPuzzleLogic } from '@gamepuzzles';
+import { AndroidBridge } from "../common/utils";
 
 export class GameplayScene {
   public width: number;
@@ -777,6 +778,7 @@ export class GameplayScene {
       duration: (endTime - this.startTime) / 1000,
     };
     this.firebaseIntegration.sendLevelCompletedEvent(levelCompletedData);
+    AndroidBridge.sendDataToContainer("gameData", levelCompletedData);
   }
 
   public startGameTime() {

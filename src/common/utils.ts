@@ -211,10 +211,17 @@ const _callbacks: CallbackMap = {};
 
 export const AndroidBridge = {
   sendDataToContainer(key: string, data: any) {
-    if (window.Android?.sendDataToContainer) {
-      window.Android.sendDataToContainer(key, data);
-    } else {
-      console.warn("Android bridge not available: sendDataToContainer");
+    try {
+      console.log(`Attempting to send ${key} to container:`, JSON.stringify(data));
+      if (window.Android?.sendDataToContainer) {
+        // Stringify the data before sending to avoid [object Object] issues
+        const jsonData = typeof data === 'object' ? JSON.stringify(data) : data;
+        window.Android.sendDataToContainer(key, jsonData);
+      } else {
+        console.warn("Android bridge not available: sendDataToContainer");
+      }
+    } catch (error) {
+      console.error("Error sending data to container:", error);
     }
   },
 
