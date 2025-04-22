@@ -1,13 +1,7 @@
 import { Monster, AudioPlayer } from "@components";
 import { PlayButton } from "@buttons";
 import { DataModal } from "@data";
-import {
-  lang,
-  pseudoId,
-  StoneConfig,
-  toggleDebugMode,
-  Utils,
-} from "@common";
+import { lang, pseudoId, StoneConfig, toggleDebugMode, Utils } from "@common";
 import { FirebaseIntegration } from "../Firebase/firebase-integration";
 import { createBackground, defaultBgDrawing } from "@compositions";
 import {
@@ -127,7 +121,9 @@ export class StartScene {
       });
       this.toggleBtn.style.display = "none";
       this.audioPlayer.playButtonClickSound();
-      self.switchSceneToLevelSelection("StartScene");
+      // if (!deeplink) {
+      // self.switchSceneToLevelSelection("StartScene");
+      // }
     }
   };
   logTappedStartFirebaseEvent() {
@@ -137,7 +133,12 @@ export class StartScene {
       ftm_language: lang,
       profile_number: 0,
       version_number: document.getElementById("version-info-id").innerHTML,
-      json_version_number: !!this.data.majVersion && !!this.data.minVersion ? this.data.majVersion.toString() + "." + this.data.minVersion.toString() : "",
+      json_version_number:
+        !!this.data.majVersion && !!this.data.minVersion
+          ? this.data.majVersion.toString() +
+            "." +
+            this.data.minVersion.toString()
+          : "",
     };
     FirebaseIntegration.getInstance().sendTappedStartEvent(tappedStartData);
   }
