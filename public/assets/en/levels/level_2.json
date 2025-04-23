@@ -1,0 +1,110 @@
+{
+  "level": 2,
+  "type": "LetterOnly",
+  "letterGroup": 1,
+  "puzzles": [
+    {
+      "segmentNumber": 0,
+      "prompt": {
+        "PromptText": "n",
+        "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/english/audios/n.mp3"
+      },
+      "targetstones": [
+        {
+          "StoneText": "n"
+        }
+      ],
+      "foilstones": [
+        {
+          "StoneText": "p"
+        },
+        {
+          "StoneText": "n"
+        }
+      ]
+    },
+    {
+      "segmentNumber": 1,
+      "prompt": {
+        "PromptText": "p",
+        "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/english/audios/p.mp3"
+      },
+      "targetstones": [
+        {
+          "StoneText": "p"
+        }
+      ],
+      "foilstones": [
+        {
+          "StoneText": "n"
+        },
+        {
+          "StoneText": "m"
+        }
+      ]
+    },
+    {
+      "segmentNumber": 2,
+      "prompt": {
+        "PromptText": "a",
+        "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/english/audios/a.mp3"
+      },
+      "targetstones": [
+        {
+          "StoneText": "a"
+        }
+      ],
+      "foilstones": [
+        {
+          "StoneText": "t"
+        },
+        {
+          "StoneText": "m"
+        }
+      ]
+    },
+    {
+      "segmentNumber": 3,
+      "prompt": {
+        "PromptText": "p",
+        "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/english/audios/p.mp3"
+      },
+      "targetstones": [
+        {
+          "StoneText": "p"
+        }
+      ],
+      "foilstones": [
+        {
+          "StoneText": "p"
+        },
+        {
+          "StoneText": "c"
+        }
+      ]
+    },
+    {
+      "segmentNumber": 4,
+      "prompt": {
+        "PromptText": "m",
+        "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/english/audios/m.mp3"
+      },
+      "targetstones": [
+        {
+          "StoneText": "m"
+        }
+      ],
+      "foilstones": [
+        {
+          "StoneText": "c"
+        },
+        {
+          "StoneText": "a"
+        },
+        {
+          "StoneText": "p"
+        }
+      ]
+    }
+  ]
+}

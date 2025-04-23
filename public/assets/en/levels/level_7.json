@@ -1,0 +1,155 @@
+{
+  "level": 7,
+  "type": "Word",
+  "letterGroup": 3,
+  "puzzles": [
+    {
+      "segmentNumber": 0,
+      "prompt": {
+        "PromptText": "cat",
+        "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/english/audios/cat.mp3"
+      },
+      "targetstones": [
+        {
+          "StoneText": "c"
+        },
+        {
+          "StoneText": "a"
+        },
+        {
+          "StoneText": "t"
+        }
+      ],
+      "foilstones": [
+        {
+          "StoneText": "t"
+        },
+        {
+          "StoneText": "m"
+        },
+        {
+          "StoneText": "n"
+        }
+      ]
+    },
+    {
+      "segmentNumber": 1,
+      "prompt": {
+        "PromptText": "pan",
+        "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/english/audios/pan.mp3"
+      },
+      "targetstones": [
+        {
+          "StoneText": "p"
+        },
+        {
+          "StoneText": "a"
+        },
+        {
+          "StoneText": "n"
+        }
+      ],
+      "foilstones": [
+        {
+          "StoneText": "n"
+        },
+        {
+          "StoneText": "c"
+        },
+        {
+          "StoneText": "t"
+        }
+      ]
+    },
+    {
+      "segmentNumber": 2,
+      "prompt": {
+        "PromptText": "mat",
+        "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/english/audios/mat.mp3"
+      },
+      "targetstones": [
+        {
+          "StoneText": "m"
+        },
+        {
+          "StoneText": "a"
+        },
+        {
+          "StoneText": "t"
+        }
+      ],
+      "foilstones": [
+        {
+          "StoneText": "c"
+        },
+        {
+          "StoneText": "t"
+        },
+        {
+          "StoneText": "t"
+        }
+      ]
+    },
+    {
+      "segmentNumber": 3,
+      "prompt": {
+        "PromptText": "pat",
+        "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/english/audios/pat.mp3"
+      },
+      "targetstones": [
+        {
+          "StoneText": "p"
+        },
+        {
+          "StoneText": "a"
+        },
+        {
+          "StoneText": "t"
+        }
+      ],
+      "foilstones": [
+        {
+          "StoneText": "t"
+        },
+        {
+          "StoneText": "a"
+        },
+        {
+          "StoneText": "m"
+        }
+      ]
+    },
+    {
+      "segmentNumber": 4,
+      "prompt": {
+        "PromptText": "tan",
+        "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/english/audios/tan.mp3"
+      },
+      "targetstones": [
+        {
+          "StoneText": "t"
+        },
+        {
+          "StoneText": "a"
+        },
+        {
+          "StoneText": "n"
+        }
+      ],
+      "foilstones": [
+        {
+          "StoneText": "t"
+        },
+        {
+          "StoneText": "a"
+        },
+        {
+          "StoneText": "n"
+        },
+        {
+          "StoneText": "t"
+        }
+      ]
+    }
+  ]
+}

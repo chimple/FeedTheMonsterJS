@@ -1,0 +1,257 @@
+{
+  "level": 80,
+  "type": "Word",
+  "letterGroup": 15,
+  "puzzles": [
+    {
+      "segmentNumber": 0,
+      "prompt": {
+        "PromptText": "brake",
+        "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/english/audios/brake.mp3"
+      },
+      "targetstones": [
+        {
+          "StoneText": "b"
+        },
+        {
+          "StoneText": "r"
+        },
+        {
+          "StoneText": "a"
+        },
+        {
+          "StoneText": "k"
+        },
+        {
+          "StoneText": "e"
+        }
+      ],
+      "foilstones": [
+        {
+          "StoneText": "ame"
+        },
+        {
+          "StoneText": "s"
+        },
+        {
+          "StoneText": "t"
+        },
+        {
+          "StoneText": "b"
+        },
+        {
+          "StoneText": "ape"
+        },
+        {
+          "StoneText": "n"
+        },
+        {
+          "StoneText": "r"
+        },
+        {
+          "StoneText": "k"
+        }
+      ]
+    },
+    {
+      "segmentNumber": 1,
+      "prompt": {
+        "PromptText": "grape",
+        "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/english/audios/grape.mp3"
+      },
+      "targetstones": [
+        {
+          "StoneText": "g"
+        },
+        {
+          "StoneText": "r"
+        },
+        {
+          "StoneText": "a"
+        },
+        {
+          "StoneText": "p"
+        },
+        {
+          "StoneText": "e"
+        }
+      ],
+      "foilstones": [
+        {
+          "StoneText": "w"
+        },
+        {
+          "StoneText": "r"
+        },
+        {
+          "StoneText": "z"
+        },
+        {
+          "StoneText": "n"
+        },
+        {
+          "StoneText": "h"
+        },
+        {
+          "StoneText": "l"
+        },
+        {
+          "StoneText": "h"
+        },
+        {
+          "StoneText": "p"
+        }
+      ]
+    },
+    {
+      "segmentNumber": 2,
+      "prompt": {
+        "PromptText": "stale",
+        "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/english/audios/stale.mp3"
+      },
+      "targetstones": [
+        {
+          "StoneText": "s"
+        },
+        {
+          "StoneText": "t"
+        },
+        {
+          "StoneText": "a"
+        },
+        {
+          "StoneText": "l"
+        },
+        {
+          "StoneText": "e"
+        }
+      ],
+      "foilstones": [
+        {
+          "StoneText": "e"
+        },
+        {
+          "StoneText": "br"
+        },
+        {
+          "StoneText": "t"
+        },
+        {
+          "StoneText": "w"
+        },
+        {
+          "StoneText": "o"
+        },
+        {
+          "StoneText": "p"
+        },
+        {
+          "StoneText": "u"
+        }
+      ]
+    },
+    {
+      "segmentNumber": 3,
+      "prompt": {
+        "PromptText": "blade",
+        "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/english/audios/blade.mp3"
+      },
+      "targetstones": [
+        {
+          "StoneText": "b"
+        },
+        {
+          "StoneText": "l"
+        },
+        {
+          "StoneText": "a"
+        },
+        {
+          "StoneText": "d"
+        },
+        {
+          "StoneText": "e"
+        }
+      ],
+      "foilstones": [
+        {
+          "StoneText": "bl"
+        },
+        {
+          "StoneText": "qu"
+        },
+        {
+          "StoneText": "d"
+        },
+        {
+          "StoneText": "ap"
+        },
+        {
+          "StoneText": "r"
+        },
+        {
+          "StoneText": "e"
+        },
+        {
+          "StoneText": "e"
+        },
+        {
+          "StoneText": "l"
+        }
+      ]
+    },
+    {
+      "segmentNumber": 4,
+      "prompt": {
+        "PromptText": "plane",
+        "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/english/audios/plane.mp3"
+      },
+      "targetstones": [
+        {
+          "StoneText": "p"
+        },
+        {
+          "StoneText": "l"
+        },
+        {
+          "StoneText": "a"
+        },
+        {
+          "StoneText": "n"
+        },
+        {
+          "StoneText": "e"
+        }
+      ],
+      "foilstones": [
+        {
+          "StoneText": "fr"
+        },
+        {
+          "StoneText": "bl"
+        },
+        {
+          "StoneText": "e"
+        },
+        {
+          "StoneText": "m"
+        },
+        {
+          "StoneText": "g"
+        },
+        {
+          "StoneText": "k"
+        },
+        {
+          "StoneText": "p"
+        },
+        {
+          "StoneText": "p"
+        },
+        {
+          "StoneText": "m"
+        }
+      ]
+    }
+  ]
+}

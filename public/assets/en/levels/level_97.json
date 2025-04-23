@@ -1,0 +1,257 @@
+{
+  "level": 97,
+  "type": "Word",
+  "letterGroup": 14,
+  "puzzles": [
+    {
+      "segmentNumber": 0,
+      "prompt": {
+        "PromptText": "spine",
+        "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/english/audios/spine.mp3"
+      },
+      "targetstones": [
+        {
+          "StoneText": "s"
+        },
+        {
+          "StoneText": "p"
+        },
+        {
+          "StoneText": "i"
+        },
+        {
+          "StoneText": "n"
+        },
+        {
+          "StoneText": "e"
+        }
+      ],
+      "foilstones": [
+        {
+          "StoneText": "gr"
+        },
+        {
+          "StoneText": "o"
+        },
+        {
+          "StoneText": "e"
+        },
+        {
+          "StoneText": "s"
+        },
+        {
+          "StoneText": "m"
+        },
+        {
+          "StoneText": "an"
+        },
+        {
+          "StoneText": "p"
+        },
+        {
+          "StoneText": "s"
+        }
+      ]
+    },
+    {
+      "segmentNumber": 1,
+      "prompt": {
+        "PromptText": "whine",
+        "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/english/audios/whine.mp3"
+      },
+      "targetstones": [
+        {
+          "StoneText": "w"
+        },
+        {
+          "StoneText": "h"
+        },
+        {
+          "StoneText": "i"
+        },
+        {
+          "StoneText": "n"
+        },
+        {
+          "StoneText": "e"
+        }
+      ],
+      "foilstones": [
+        {
+          "StoneText": "h"
+        },
+        {
+          "StoneText": "b"
+        },
+        {
+          "StoneText": "p"
+        },
+        {
+          "StoneText": "sw"
+        },
+        {
+          "StoneText": "cr"
+        },
+        {
+          "StoneText": "d"
+        },
+        {
+          "StoneText": "ap"
+        },
+        {
+          "StoneText": "p"
+        }
+      ]
+    },
+    {
+      "segmentNumber": 2,
+      "prompt": {
+        "PromptText": "pride",
+        "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/english/audios/pride.mp3"
+      },
+      "targetstones": [
+        {
+          "StoneText": "p"
+        },
+        {
+          "StoneText": "r"
+        },
+        {
+          "StoneText": "i"
+        },
+        {
+          "StoneText": "d"
+        },
+        {
+          "StoneText": "e"
+        }
+      ],
+      "foilstones": [
+        {
+          "StoneText": "i"
+        },
+        {
+          "StoneText": "e"
+        },
+        {
+          "StoneText": "pr"
+        },
+        {
+          "StoneText": "an"
+        },
+        {
+          "StoneText": "h"
+        },
+        {
+          "StoneText": "pr"
+        },
+        {
+          "StoneText": "p"
+        },
+        {
+          "StoneText": "fr"
+        }
+      ]
+    },
+    {
+      "segmentNumber": 3,
+      "prompt": {
+        "PromptText": "spike",
+        "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/english/audios/spike.mp3"
+      },
+      "targetstones": [
+        {
+          "StoneText": "s"
+        },
+        {
+          "StoneText": "p"
+        },
+        {
+          "StoneText": "i"
+        },
+        {
+          "StoneText": "k"
+        },
+        {
+          "StoneText": "e"
+        }
+      ],
+      "foilstones": [
+        {
+          "StoneText": "sh"
+        },
+        {
+          "StoneText": "ane"
+        },
+        {
+          "StoneText": "h"
+        },
+        {
+          "StoneText": "i"
+        },
+        {
+          "StoneText": "ame"
+        },
+        {
+          "StoneText": "i"
+        },
+        {
+          "StoneText": "p"
+        }
+      ]
+    },
+    {
+      "segmentNumber": 4,
+      "prompt": {
+        "PromptText": "shine",
+        "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/english/audios/shine.mp3"
+      },
+      "targetstones": [
+        {
+          "StoneText": "s"
+        },
+        {
+          "StoneText": "h"
+        },
+        {
+          "StoneText": "i"
+        },
+        {
+          "StoneText": "n"
+        },
+        {
+          "StoneText": "e"
+        }
+      ],
+      "foilstones": [
+        {
+          "StoneText": "o"
+        },
+        {
+          "StoneText": "ipe"
+        },
+        {
+          "StoneText": "p"
+        },
+        {
+          "StoneText": "i"
+        },
+        {
+          "StoneText": "qu"
+        },
+        {
+          "StoneText": "d"
+        },
+        {
+          "StoneText": "n"
+        },
+        {
+          "StoneText": "ake"
+        },
+        {
+          "StoneText": "i"
+        }
+      ]
+    }
+  ]
+}

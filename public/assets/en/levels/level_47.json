@@ -1,0 +1,155 @@
+{
+  "level": 47,
+  "type": "Word",
+  "letterGroup": 12,
+  "puzzles": [
+    {
+      "segmentNumber": 0,
+      "prompt": {
+        "PromptText": "wed",
+        "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/english/audios/wed.mp3"
+      },
+      "targetstones": [
+        {
+          "StoneText": "w"
+        },
+        {
+          "StoneText": "e"
+        },
+        {
+          "StoneText": "d"
+        }
+      ],
+      "foilstones": [
+        {
+          "StoneText": "w"
+        },
+        {
+          "StoneText": "f"
+        },
+        {
+          "StoneText": "e"
+        }
+      ]
+    },
+    {
+      "segmentNumber": 1,
+      "prompt": {
+        "PromptText": "ted",
+        "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/english/audios/ted.mp3"
+      },
+      "targetstones": [
+        {
+          "StoneText": "t"
+        },
+        {
+          "StoneText": "e"
+        },
+        {
+          "StoneText": "d"
+        }
+      ],
+      "foilstones": [
+        {
+          "StoneText": "i"
+        },
+        {
+          "StoneText": "t"
+        },
+        {
+          "StoneText": "y"
+        }
+      ]
+    },
+    {
+      "segmentNumber": 2,
+      "prompt": {
+        "PromptText": "jet",
+        "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/english/audios/jet.mp3"
+      },
+      "targetstones": [
+        {
+          "StoneText": "j"
+        },
+        {
+          "StoneText": "e"
+        },
+        {
+          "StoneText": "t"
+        }
+      ],
+      "foilstones": [
+        {
+          "StoneText": "i"
+        },
+        {
+          "StoneText": "x"
+        },
+        {
+          "StoneText": "r"
+        }
+      ]
+    },
+    {
+      "segmentNumber": 3,
+      "prompt": {
+        "PromptText": "den",
+        "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/english/audios/den.mp3"
+      },
+      "targetstones": [
+        {
+          "StoneText": "d"
+        },
+        {
+          "StoneText": "e"
+        },
+        {
+          "StoneText": "n"
+        }
+      ],
+      "foilstones": [
+        {
+          "StoneText": "qu"
+        },
+        {
+          "StoneText": "d"
+        },
+        {
+          "StoneText": "u"
+        },
+        {
+          "StoneText": "w"
+        }
+      ]
+    },
+    {
+      "segmentNumber": 4,
+      "prompt": {
+        "PromptText": "wet",
+        "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/english/audios/wet.mp3"
+      },
+      "targetstones": [
+        {
+          "StoneText": "w"
+        },
+        {
+          "StoneText": "e"
+        },
+        {
+          "StoneText": "t"
+        }
+      ],
+      "foilstones": [
+        {
+          "StoneText": "x"
+        },
+        {
+          "StoneText": "n"
+        },
+        {
+          "StoneText": "t"
+        }
+      ]
+    }
+  ]
+}

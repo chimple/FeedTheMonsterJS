@@ -1,0 +1,191 @@
+{
+  "level": 88,
+  "type": "LetterOnly",
+  "letterGroup": 16,
+  "puzzles": [
+    {
+      "segmentNumber": 0,
+      "prompt": {
+        "PromptText": "ice",
+        "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/english/audios/ice.mp3"
+      },
+      "targetstones": [
+        {
+          "StoneText": "ice"
+        }
+      ],
+      "foilstones": [
+        {
+          "StoneText": "sp"
+        },
+        {
+          "StoneText": "ide"
+        },
+        {
+          "StoneText": "ike"
+        },
+        {
+          "StoneText": "ipe"
+        },
+        {
+          "StoneText": "ipe"
+        },
+        {
+          "StoneText": "ame"
+        },
+        {
+          "StoneText": "ide"
+        },
+        {
+          "StoneText": "cr"
+        }
+      ]
+    },
+    {
+      "segmentNumber": 1,
+      "prompt": {
+        "PromptText": "ide",
+        "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/english/audios/ide.mp3"
+      },
+      "targetstones": [
+        {
+          "StoneText": "ide"
+        }
+      ],
+      "foilstones": [
+        {
+          "StoneText": "l"
+        },
+        {
+          "StoneText": "wr"
+        },
+        {
+          "StoneText": "bl"
+        },
+        {
+          "StoneText": "t"
+        },
+        {
+          "StoneText": "s"
+        },
+        {
+          "StoneText": "sh"
+        },
+        {
+          "StoneText": "qu"
+        },
+        {
+          "StoneText": "ite"
+        }
+      ]
+    },
+    {
+      "segmentNumber": 2,
+      "prompt": {
+        "PromptText": "ipe",
+        "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/english/audios/ipe.mp3"
+      },
+      "targetstones": [
+        {
+          "StoneText": "ipe"
+        }
+      ],
+      "foilstones": [
+        {
+          "StoneText": "wh"
+        },
+        {
+          "StoneText": "y"
+        },
+        {
+          "StoneText": "ipe"
+        },
+        {
+          "StoneText": "l"
+        },
+        {
+          "StoneText": "d"
+        },
+        {
+          "StoneText": "e"
+        }
+      ]
+    },
+    {
+      "segmentNumber": 3,
+      "prompt": {
+        "PromptText": "ite",
+        "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/english/audios/ite.mp3"
+      },
+      "targetstones": [
+        {
+          "StoneText": "ite"
+        }
+      ],
+      "foilstones": [
+        {
+          "StoneText": "d"
+        },
+        {
+          "StoneText": "fl"
+        },
+        {
+          "StoneText": "ide"
+        },
+        {
+          "StoneText": "l"
+        },
+        {
+          "StoneText": "y"
+        },
+        {
+          "StoneText": "e"
+        },
+        {
+          "StoneText": "ite"
+        }
+      ]
+    },
+    {
+      "segmentNumber": 4,
+      "prompt": {
+        "PromptText": "ipe",
+        "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/english/audios/ipe.mp3"
+      },
+      "targetstones": [
+        {
+          "StoneText": "ipe"
+        }
+      ],
+      "foilstones": [
+        {
+          "StoneText": "ipe"
+        },
+        {
+          "StoneText": "ipe"
+        },
+        {
+          "StoneText": "pr"
+        },
+        {
+          "StoneText": "e"
+        },
+        {
+          "StoneText": "wr"
+        },
+        {
+          "StoneText": "fr"
+        },
+        {
+          "StoneText": "n"
+        },
+        {
+          "StoneText": "ine"
+        },
+        {
+          "StoneText": "p"
+        }
+      ]
+    }
+  ]
+}

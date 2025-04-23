@@ -1,0 +1,221 @@
+{
+  "level": 64,
+  "type": "Word",
+  "letterGroup": 16,
+  "puzzles": [
+    {
+      "segmentNumber": 0,
+      "prompt": {
+        "PromptText": "wed",
+        "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/english/audios/wed.mp3"
+      },
+      "targetstones": [
+        {
+          "StoneText": "w"
+        },
+        {
+          "StoneText": "e"
+        },
+        {
+          "StoneText": "d"
+        }
+      ],
+      "foilstones": [
+        {
+          "StoneText": "v"
+        },
+        {
+          "StoneText": "e"
+        },
+        {
+          "StoneText": "e"
+        },
+        {
+          "StoneText": "b"
+        },
+        {
+          "StoneText": "n"
+        },
+        {
+          "StoneText": "w"
+        },
+        {
+          "StoneText": "i"
+        },
+        {
+          "StoneText": "n"
+        }
+      ]
+    },
+    {
+      "segmentNumber": 1,
+      "prompt": {
+        "PromptText": "ted",
+        "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/english/audios/ted.mp3"
+      },
+      "targetstones": [
+        {
+          "StoneText": "t"
+        },
+        {
+          "StoneText": "e"
+        },
+        {
+          "StoneText": "d"
+        }
+      ],
+      "foilstones": [
+        {
+          "StoneText": "t"
+        },
+        {
+          "StoneText": "e"
+        },
+        {
+          "StoneText": "n"
+        },
+        {
+          "StoneText": "e"
+        },
+        {
+          "StoneText": "w"
+        },
+        {
+          "StoneText": "y"
+        },
+        {
+          "StoneText": "t"
+        },
+        {
+          "StoneText": "w"
+        }
+      ]
+    },
+    {
+      "segmentNumber": 2,
+      "prompt": {
+        "PromptText": "jet",
+        "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/english/audios/jet.mp3"
+      },
+      "targetstones": [
+        {
+          "StoneText": "j"
+        },
+        {
+          "StoneText": "e"
+        },
+        {
+          "StoneText": "t"
+        }
+      ],
+      "foilstones": [
+        {
+          "StoneText": "p"
+        },
+        {
+          "StoneText": "e"
+        },
+        {
+          "StoneText": "z"
+        },
+        {
+          "StoneText": "s"
+        },
+        {
+          "StoneText": "x"
+        },
+        {
+          "StoneText": "t"
+        }
+      ]
+    },
+    {
+      "segmentNumber": 3,
+      "prompt": {
+        "PromptText": "den",
+        "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/english/audios/den.mp3"
+      },
+      "targetstones": [
+        {
+          "StoneText": "d"
+        },
+        {
+          "StoneText": "e"
+        },
+        {
+          "StoneText": "n"
+        }
+      ],
+      "foilstones": [
+        {
+          "StoneText": "d"
+        },
+        {
+          "StoneText": "d"
+        },
+        {
+          "StoneText": "t"
+        },
+        {
+          "StoneText": "w"
+        },
+        {
+          "StoneText": "z"
+        },
+        {
+          "StoneText": "g"
+        },
+        {
+          "StoneText": "u"
+        }
+      ]
+    },
+    {
+      "segmentNumber": 4,
+      "prompt": {
+        "PromptText": "wet",
+        "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/english/audios/wet.mp3"
+      },
+      "targetstones": [
+        {
+          "StoneText": "w"
+        },
+        {
+          "StoneText": "e"
+        },
+        {
+          "StoneText": "t"
+        }
+      ],
+      "foilstones": [
+        {
+          "StoneText": "w"
+        },
+        {
+          "StoneText": "a"
+        },
+        {
+          "StoneText": "t"
+        },
+        {
+          "StoneText": "x"
+        },
+        {
+          "StoneText": "u"
+        },
+        {
+          "StoneText": "j"
+        },
+        {
+          "StoneText": "z"
+        },
+        {
+          "StoneText": "h"
+        },
+        {
+          "StoneText": "e"
+        }
+      ]
+    }
+  ]
+}

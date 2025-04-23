@@ -1,0 +1,227 @@
+{
+  "level": 62,
+  "type": "Word",
+  "letterGroup": 15,
+  "puzzles": [
+    {
+      "segmentNumber": 0,
+      "prompt": {
+        "PromptText": "tug",
+        "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/english/audios/tug.mp3"
+      },
+      "targetstones": [
+        {
+          "StoneText": "t"
+        },
+        {
+          "StoneText": "u"
+        },
+        {
+          "StoneText": "g"
+        }
+      ],
+      "foilstones": [
+        {
+          "StoneText": "u"
+        },
+        {
+          "StoneText": "t"
+        },
+        {
+          "StoneText": "b"
+        },
+        {
+          "StoneText": "z"
+        },
+        {
+          "StoneText": "t"
+        },
+        {
+          "StoneText": "t"
+        },
+        {
+          "StoneText": "p"
+        },
+        {
+          "StoneText": "j"
+        }
+      ]
+    },
+    {
+      "segmentNumber": 1,
+      "prompt": {
+        "PromptText": "rut",
+        "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/english/audios/rut.mp3"
+      },
+      "targetstones": [
+        {
+          "StoneText": "r"
+        },
+        {
+          "StoneText": "u"
+        },
+        {
+          "StoneText": "t"
+        }
+      ],
+      "foilstones": [
+        {
+          "StoneText": "w"
+        },
+        {
+          "StoneText": "h"
+        },
+        {
+          "StoneText": "u"
+        },
+        {
+          "StoneText": "n"
+        },
+        {
+          "StoneText": "d"
+        },
+        {
+          "StoneText": "c"
+        },
+        {
+          "StoneText": "b"
+        },
+        {
+          "StoneText": "k"
+        }
+      ]
+    },
+    {
+      "segmentNumber": 2,
+      "prompt": {
+        "PromptText": "cub",
+        "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/english/audios/cub.mp3"
+      },
+      "targetstones": [
+        {
+          "StoneText": "c"
+        },
+        {
+          "StoneText": "u"
+        },
+        {
+          "StoneText": "b"
+        }
+      ],
+      "foilstones": [
+        {
+          "StoneText": "u"
+        },
+        {
+          "StoneText": "u"
+        },
+        {
+          "StoneText": "l"
+        },
+        {
+          "StoneText": "u"
+        },
+        {
+          "StoneText": "n"
+        },
+        {
+          "StoneText": "y"
+        },
+        {
+          "StoneText": "h"
+        }
+      ]
+    },
+    {
+      "segmentNumber": 3,
+      "prompt": {
+        "PromptText": "nut",
+        "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/english/audios/nut.mp3"
+      },
+      "targetstones": [
+        {
+          "StoneText": "n"
+        },
+        {
+          "StoneText": "u"
+        },
+        {
+          "StoneText": "t"
+        }
+      ],
+      "foilstones": [
+        {
+          "StoneText": "t"
+        },
+        {
+          "StoneText": "g"
+        },
+        {
+          "StoneText": "g"
+        },
+        {
+          "StoneText": "u"
+        },
+        {
+          "StoneText": "u"
+        },
+        {
+          "StoneText": "g"
+        },
+        {
+          "StoneText": "b"
+        },
+        {
+          "StoneText": "z"
+        }
+      ]
+    },
+    {
+      "segmentNumber": 4,
+      "prompt": {
+        "PromptText": "bug",
+        "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/english/audios/bug.mp3"
+      },
+      "targetstones": [
+        {
+          "StoneText": "b"
+        },
+        {
+          "StoneText": "u"
+        },
+        {
+          "StoneText": "g"
+        }
+      ],
+      "foilstones": [
+        {
+          "StoneText": "u"
+        },
+        {
+          "StoneText": "g"
+        },
+        {
+          "StoneText": "r"
+        },
+        {
+          "StoneText": "r"
+        },
+        {
+          "StoneText": "t"
+        },
+        {
+          "StoneText": "n"
+        },
+        {
+          "StoneText": "b"
+        },
+        {
+          "StoneText": "l"
+        },
+        {
+          "StoneText": "qu"
+        }
+      ]
+    }
+  ]
+}
