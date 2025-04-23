@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "title": "Feed the Monster - English Chapter",
+    "numberOfItems": 1
+  },
+  "navigation": [],
+  "groups": [
+    {
+      "metadata": {
+        "title": "Focused Phonics Practice"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "lang/english/feed_the_monster_en.opds.json",
+          "type": "application/opds+json"
+        }
+      ],
+      "publications": [
+        {
+          "metadata": {
+            "title": "Lesson 1: Letters A, C, T, P",
+            "identifier": "ftm-en-lesson1",
+            "language": "en",
+            "modified": "2025-04-23T00:00:00Z"
+          },
+          "links": [
+            {
+              "rel": "self",
+              "href": "https://feedthemonster.curiouscontent.org/lang/english/ftm_english_lesson1.json",
+              "type": "application/json"
+            }
+          ],
+          "images": []
+        }
+      ]
+    }
+  ]
+}
