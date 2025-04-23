@@ -1,4 +1,5 @@
 import { Debugger, lang } from "@common";
+import { AndroidBridge } from "../common/utils";
 
 export class GameScore {
   public static currentlanguage: string = lang;
@@ -34,7 +35,28 @@ export class GameScore {
   }
 
   public static getAllGameLevelInfo(): Map<string, any>[] {
-    const data = localStorage.getItem(this.currentlanguage + "gamePlayedInfo");
+    // Try to get data from localStorage
+    let data = undefined;
+    console.log("GETTTTTTTT", data);
+    
+    // If data exists, use it
+    // if (data) {
+    //   return JSON.parse(data) as Map<string, any>[];
+    // }
+    
+    // Otherwise try to request from Android bridge
+    if (window.Android?.sendGameLevelInfoToJS) {
+      console.log("Requesting game level info from Android");
+      AndroidBridge.requestGameLevelInfo()
+        .then(levelInfo => {
+          data = levelInfo;
+          console.log("Received game level info in response to request:", levelInfo);
+        })
+        .catch(err => console.error("Failed to get game level info:", err));
+    }
+    
+    // Return empty array if no data available yet
+    console.log("RETURNING DATA", data);
     return data == undefined ? [] : (JSON.parse(data) as Map<string, any>[]);
   }
 
