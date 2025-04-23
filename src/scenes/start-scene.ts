@@ -99,7 +99,12 @@ export class StartScene {
     document.addEventListener("selectstart", function (e) {
       e.preventDefault();
     });
-    this.handler.addEventListener("click", this.handleMouseClick, false);
+    console.log("if (!Utils.isDeepLink) {", !Utils.isDeepLink);
+
+    if (!Utils.isDeepLink) {
+      console.log("added mouseclick");
+      this.handler.addEventListener("click", this.handleMouseClick, false);
+    }
   }
 
   handleMouseClick = (event) => {
@@ -121,9 +126,8 @@ export class StartScene {
       });
       this.toggleBtn.style.display = "none";
       this.audioPlayer.playButtonClickSound();
-      if (!Utils.isDeepLink) {
-        self.switchSceneToLevelSelection("StartScene");
-      }
+      console.log("if (!Utils.isDeepLink) {", !Utils.isDeepLink);
+      self.switchSceneToLevelSelection("StartScene");
     }
   };
   logTappedStartFirebaseEvent() {
