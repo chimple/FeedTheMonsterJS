@@ -47,7 +47,6 @@ class App {
   private logged25: boolean = false;
   private logged50: boolean = false;
   private logged75: boolean = false;
-  public isDeepLink: boolean = false;
 
   firebaseIntegration: FirebaseIntegration;
   constructor(lang: string) {
@@ -104,16 +103,10 @@ class App {
       AndroidBridge._handleDataFromAndroid(responseJson);
     };
     console.log("hello world from FTM");
-    AndroidBridge.requestDataFromContainer("images")
-      .then((data) => {
-        console.log(
-          "Received score data from Container:",
-          JSON.stringify(data)
-        );
-      })
-      .catch((error) => {
-        console.error("Error receiving images data from Container:", error);
-      });
+    console.log("hello ftm");
+    AndroidBridge.requestDataFromContainer("score").then((data) => {
+      console.log("Received score data from Container:", JSON.stringify(data));
+    });
     const font = await Utils.getLanguageSpecificFont(this.lang);
     await this.loadAndCacheFont(font, `./assets/fonts/${font}.ttf`);
     await this.loadTitleFeedbackCustomFont();

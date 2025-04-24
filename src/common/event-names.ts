@@ -1,6 +1,7 @@
 // custom Events
 export const LOADPUZZLE: string = "loadpuzzle";
 export const STONEDROP: string = "stonesdropped";
+export const GAME_LEVEL_INFO_EVENT = 'gameLevelInfoUpdated';
 
 // default Events
 export const MOUSEMOVE: string = "mousemove";

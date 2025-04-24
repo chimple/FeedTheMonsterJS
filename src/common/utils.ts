@@ -1,6 +1,7 @@
 import { Debugger } from "@common";
 import { TestServer } from "@constants";
 import { languageFontMapping } from "@data/i18-font-mapping";
+import { GAME_LEVEL_INFO_EVENT } from "./event-names";
 export class Utils {
   public static UrlSubstring: string = "/feedthemonster";
   public static subdomain: string = "https://feedthemonster.curiouscontent.org";
@@ -210,9 +211,6 @@ type CallbackMap = {
 };
 
 const _callbacks: CallbackMap = {};
-
-// Add a specific event for game level info updates
-const GAME_LEVEL_INFO_EVENT = 'gameLevelInfoUpdated';
 
 export const AndroidBridge = {
   sendDataToContainer(key: string, data: any) {
