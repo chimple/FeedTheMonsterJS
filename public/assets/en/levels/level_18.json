@@ -2,25 +2,10 @@
   "metadata": {
     "title": "Level 18",
     "type": "Word",
-    "letterGroup": 6
-  },
-  "links": [
-    {
-      "rel": "self",
-      "href": "levels/level_18.json",
-      "type": "application/opds+json"
-    }
-  ],
-  "navigation": [
-    {
-      "title": "Segment 0",
-      "type": "application/json",
-      "properties": {
-        "segmentNumber": 0,
-        "prompt": {
-          "PromptText": "nit",
-          "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/english/audios/nit.mp3"
-        },
+    "letterGroup": 6,
+    "puzzles": [
+      {
+        "SegmentNumber": 0,
         "targetstones": [
           {
             "StoneText": "n"
@@ -32,6 +17,10 @@
             "StoneText": "t"
           }
         ],
+        "prompt": {
+          "PromptText": "nit",
+          "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/english/audios/nit.mp3"
+        },
         "foilstones": [
           {
             "StoneText": "t"
@@ -46,17 +35,9 @@
             "StoneText": "l"
           }
         ]
-      }
-    },
-    {
-      "title": "Segment 1",
-      "type": "application/json",
-      "properties": {
-        "segmentNumber": 1,
-        "prompt": {
-          "PromptText": "pit",
-          "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/english/audios/pit.mp3"
-        },
+      },
+      {
+        "SegmentNumber": 1,
         "targetstones": [
           {
             "StoneText": "p"
@@ -68,6 +49,10 @@
             "StoneText": "t"
           }
         ],
+        "prompt": {
+          "PromptText": "pit",
+          "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/english/audios/pit.mp3"
+        },
         "foilstones": [
           {
             "StoneText": "t"
@@ -82,17 +67,9 @@
             "StoneText": "i"
           }
         ]
-      }
-    },
-    {
-      "title": "Segment 2",
-      "type": "application/json",
-      "properties": {
-        "segmentNumber": 2,
-        "prompt": {
-          "PromptText": "lit",
-          "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/english/audios/lit.mp3"
-        },
+      },
+      {
+        "SegmentNumber": 2,
         "targetstones": [
           {
             "StoneText": "l"
@@ -104,6 +81,10 @@
             "StoneText": "t"
           }
         ],
+        "prompt": {
+          "PromptText": "lit",
+          "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/english/audios/lit.mp3"
+        },
         "foilstones": [
           {
             "StoneText": "p"
@@ -118,17 +99,9 @@
             "StoneText": "f"
           }
         ]
-      }
-    },
-    {
-      "title": "Segment 3",
-      "type": "application/json",
-      "properties": {
-        "segmentNumber": 3,
-        "prompt": {
-          "PromptText": "it",
-          "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/english/audios/it.mp3"
-        },
+      },
+      {
+        "SegmentNumber": 3,
         "targetstones": [
           {
             "StoneText": "i"
@@ -137,6 +110,10 @@
             "StoneText": "t"
           }
         ],
+        "prompt": {
+          "PromptText": "it",
+          "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/english/audios/it.mp3"
+        },
         "foilstones": [
           {
             "StoneText": "l"
@@ -151,17 +128,9 @@
             "StoneText": "a"
           }
         ]
-      }
-    },
-    {
-      "title": "Segment 4",
-      "type": "application/json",
-      "properties": {
-        "segmentNumber": 4,
-        "prompt": {
-          "PromptText": "fin",
-          "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/english/audios/fin.mp3"
-        },
+      },
+      {
+        "SegmentNumber": 4,
         "targetstones": [
           {
             "StoneText": "f"
@@ -173,6 +142,10 @@
             "StoneText": "n"
           }
         ],
+        "prompt": {
+          "PromptText": "fin",
+          "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/english/audios/fin.mp3"
+        },
         "foilstones": [
           {
             "StoneText": "i"
@@ -194,6 +167,13 @@
           }
         ]
       }
+    ]
+  },
+  "links": [
+    {
+      "rel": "self",
+      "href": "levels/level_18.json",
+      "type": "application/opds+json"
     }
   ]
 }

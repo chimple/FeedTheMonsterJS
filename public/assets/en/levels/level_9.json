@@ -2,30 +2,19 @@
   "metadata": {
     "title": "Level 9",
     "type": "LetterOnly",
-    "letterGroup": 3
-  },
-  "links": [
-    {
-      "rel": "self",
-      "href": "levels/level_9.json",
-      "type": "application/opds+json"
-    }
-  ],
-  "navigation": [
-    {
-      "title": "Segment 0",
-      "type": "application/json",
-      "properties": {
-        "segmentNumber": 0,
-        "prompt": {
-          "PromptText": "k",
-          "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/english/audios/k.mp3"
-        },
+    "letterGroup": 3,
+    "puzzles": [
+      {
+        "SegmentNumber": 0,
         "targetstones": [
           {
             "StoneText": "k"
           }
         ],
+        "prompt": {
+          "PromptText": "k",
+          "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/english/audios/k.mp3"
+        },
         "foilstones": [
           {
             "StoneText": "s"
@@ -37,22 +26,18 @@
             "StoneText": "k"
           }
         ]
-      }
-    },
-    {
-      "title": "Segment 1",
-      "type": "application/json",
-      "properties": {
-        "segmentNumber": 1,
-        "prompt": {
-          "PromptText": "i",
-          "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/english/audios/i.mp3"
-        },
+      },
+      {
+        "SegmentNumber": 1,
         "targetstones": [
           {
             "StoneText": "i"
           }
         ],
+        "prompt": {
+          "PromptText": "i",
+          "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/english/audios/i.mp3"
+        },
         "foilstones": [
           {
             "StoneText": "a"
@@ -67,22 +52,18 @@
             "StoneText": "p"
           }
         ]
-      }
-    },
-    {
-      "title": "Segment 2",
-      "type": "application/json",
-      "properties": {
-        "segmentNumber": 2,
-        "prompt": {
-          "PromptText": "n",
-          "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/english/audios/n.mp3"
-        },
+      },
+      {
+        "SegmentNumber": 2,
         "targetstones": [
           {
             "StoneText": "n"
           }
         ],
+        "prompt": {
+          "PromptText": "n",
+          "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/english/audios/n.mp3"
+        },
         "foilstones": [
           {
             "StoneText": "i"
@@ -94,22 +75,18 @@
             "StoneText": "m"
           }
         ]
-      }
-    },
-    {
-      "title": "Segment 3",
-      "type": "application/json",
-      "properties": {
-        "segmentNumber": 3,
-        "prompt": {
-          "PromptText": "s",
-          "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/english/audios/s.mp3"
-        },
+      },
+      {
+        "SegmentNumber": 3,
         "targetstones": [
           {
             "StoneText": "s"
           }
         ],
+        "prompt": {
+          "PromptText": "s",
+          "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/english/audios/s.mp3"
+        },
         "foilstones": [
           {
             "StoneText": "i"
@@ -121,22 +98,18 @@
             "StoneText": "n"
           }
         ]
-      }
-    },
-    {
-      "title": "Segment 4",
-      "type": "application/json",
-      "properties": {
-        "segmentNumber": 4,
-        "prompt": {
-          "PromptText": "p",
-          "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/english/audios/p.mp3"
-        },
+      },
+      {
+        "SegmentNumber": 4,
         "targetstones": [
           {
             "StoneText": "p"
           }
         ],
+        "prompt": {
+          "PromptText": "p",
+          "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/english/audios/p.mp3"
+        },
         "foilstones": [
           {
             "StoneText": "i"
@@ -149,6 +122,13 @@
           }
         ]
       }
+    ]
+  },
+  "links": [
+    {
+      "rel": "self",
+      "href": "levels/level_9.json",
+      "type": "application/opds+json"
     }
   ]
 }
