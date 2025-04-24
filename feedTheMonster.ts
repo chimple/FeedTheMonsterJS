@@ -95,9 +95,14 @@ class App {
       }
     }, 3000);
     // Make sure to listen for the response globally
+    console.log(
+      "Android available: requestDataFromContainer",
+      !!window.Android?.requestDataFromContainer
+    );
     window.onDataFromAndroid = function (responseJson: string) {
       AndroidBridge._handleDataFromAndroid(responseJson);
     };
+    console.log("hello world from FTM");
     console.log("hello ftm");
     AndroidBridge.requestDataFromContainer("score").then((data) => {
       console.log("Received score data from Container:", JSON.stringify(data));
