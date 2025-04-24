@@ -39,4 +39,5 @@ export interface LevelCompletedEvent extends CommonEventProperties {
     level_number: number;
     number_of_successful_puzzles: number;
     duration: number;
+    score: number;
 }  

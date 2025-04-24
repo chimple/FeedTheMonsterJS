@@ -169,10 +169,20 @@ export class LevelEndScene {
     });
   }
   drawStars() {
-    console.log("Is Android bridge available?", window.Android);
+    if (window.Android) {
+      console.log("Android bridge is available in levelend-scene");
+    } else {
+      console.log("Android bridge is NOT available in levelend-scene");
+    }
+    
     if (this.starCount >= 1 && this.starDrawnCount >= 1) {
-      AndroidBridge.sendDataToContainer("start-count", this.starCount);
-      console.log("starCount", this.starCount, this.starDrawnCount);
+      try {
+        AndroidBridge.sendDataToContainer("star-count", this.starCount);
+        console.log("Sent star count to container:", this.starCount, this.starDrawnCount);
+      } catch (error) {
+        console.error("Failed to send star count:", error);
+      }
+      
       this.context.drawImage(
         this.loadedImages.star1Img,
         this.width * 0.2 - (this.width * 0.19) / 2,

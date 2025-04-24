@@ -4,6 +4,7 @@ import { languageFontMapping } from "@data/i18-font-mapping";
 export class Utils {
   public static UrlSubstring: string = "/feedthemonster";
   public static subdomain: string = "https://feedthemonster.curiouscontent.org";
+  public static isDeepLink: boolean;
 
   /*
    * TODO: - update level gen script so that it uses relative urls
@@ -194,6 +195,7 @@ export const hideElement = (isHide: boolean = false, element: HTMLElement) => {
 interface AndroidBridge {
   sendDataToContainer: (key: string, data: any) => void; // this is the method name from android
   requestDataFromContainer: (data: any) => any;
+  sendGameLevelInfoToJS: () => void; // New method to request game level data from Android
   // add another method here if needed for the javascript interface from android
 }
 
@@ -211,10 +213,17 @@ const _callbacks: CallbackMap = {};
 
 export const AndroidBridge = {
   sendDataToContainer(key: string, data: any) {
-    if (window.Android?.sendDataToContainer) {
-      window.Android.sendDataToContainer(key, data);
-    } else {
-      console.warn("Android bridge not available: sendDataToContainer");
+    try {
+      console.log(`Attempting to send ${key} to container:`, JSON.stringify(data));
+      if (window.Android?.sendDataToContainer) {
+        // Stringify the data before sending to avoid [object Object] issues
+        const jsonData = typeof data === 'object' ? JSON.stringify(data) : data;
+        window.Android.sendDataToContainer(key, jsonData);
+      } else {
+        console.warn("Android bridge not available: sendDataToContainer");
+      }
+    } catch (error) {
+      console.error("Error sending data to container:", error);
     }
   },
 
@@ -229,10 +238,34 @@ export const AndroidBridge = {
     });
   },
 
+  requestGameLevelInfo(): Promise<any> {
+    return new Promise((resolve, reject) => {
+      try {
+        if (window.Android?.sendGameLevelInfoToJS) {
+          // Store the callback in the _callbacks map with a specific type
+          _callbacks["gameLevelInfo"] = resolve;
+          
+          // Request the game level info from Android
+          window.Android.sendGameLevelInfoToJS();
+        } else {
+          reject("Android bridge not available: sendGameLevelInfoToJS");
+        }
+      } catch (error) {
+        reject(error);
+      }
+    });
+  },
+
   _handleDataFromAndroid(responseJson: string) {
     try {
       const data = JSON.parse(responseJson);
       const type = data?.type;
+
+      // Handle game level info specifically
+      if (type === "gameLevelInfo" && data.data) {
+        this._handleGameLevelInfo(data);
+        return;
+      }
 
       if (type && _callbacks[type]) {
         _callbacks[type](data); // Resolve the Promise
@@ -245,11 +278,30 @@ export const AndroidBridge = {
     }
   },
 
-  // requestDataFromContainer(type: any) {
-  //   if (window.Android?.requestDataFromContainer) {
-  //     window.Android.requestDataFromContainer(type);
-  //   } else {
-  //     console.warn("Android bridge not available: requestDataFromJS");
-  //   }
-  // },
+  _handleGameLevelInfo(data: any) {
+    try {
+      if (data && data.data) {
+        const gameLevelInfo = data.data;
+        
+        // Get language from the game state or global context
+        const currentLanguage = window.localStorage.getItem('lang') || 'english';
+        
+        // Save to localStorage
+        localStorage.setItem(
+          currentLanguage + "gamePlayedInfo", 
+          JSON.stringify(gameLevelInfo)
+        );
+        
+        console.log("Received and saved game level info from Android:", gameLevelInfo);
+        
+        // Use the callback system instead of events
+        if (_callbacks["gameLevelInfo"]) {
+          _callbacks["gameLevelInfo"](gameLevelInfo);
+          delete _callbacks["gameLevelInfo"];
+        }
+      }
+    } catch (e) {
+      console.error("Failed to process game level info from Android:", e);
+    }
+  }
 };
