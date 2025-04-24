@@ -1,7 +1,6 @@
 import { Debugger } from "@common";
 import { TestServer } from "@constants";
 import { languageFontMapping } from "@data/i18-font-mapping";
-import { GAME_LEVEL_INFO_EVENT } from "./event-names";
 export class Utils {
   public static UrlSubstring: string = "/feedthemonster";
   public static subdomain: string = "https://feedthemonster.curiouscontent.org";
@@ -243,14 +242,8 @@ export const AndroidBridge = {
     return new Promise((resolve, reject) => {
       try {
         if (window.Android?.sendGameLevelInfoToJS) {
-          // Create a one-time event listener
-          const handleGameLevelInfo = (event: CustomEvent) => {
-            document.removeEventListener(GAME_LEVEL_INFO_EVENT, handleGameLevelInfo as EventListener);
-            resolve(event.detail);
-          };
-          
-          // Listen for the game level info event
-          document.addEventListener(GAME_LEVEL_INFO_EVENT, handleGameLevelInfo as EventListener);
+          // Store the callback in the _callbacks map with a specific type
+          _callbacks["gameLevelInfo"] = resolve;
           
           // Request the game level info from Android
           window.Android.sendGameLevelInfoToJS();
@@ -301,11 +294,11 @@ export const AndroidBridge = {
         
         console.log("Received and saved game level info from Android:", gameLevelInfo);
         
-        // Dispatch an event to notify components
-        const event = new CustomEvent(GAME_LEVEL_INFO_EVENT, { 
-          detail: gameLevelInfo 
-        });
-        document.dispatchEvent(event);
+        // Use the callback system instead of events
+        if (_callbacks["gameLevelInfo"]) {
+          _callbacks["gameLevelInfo"](gameLevelInfo);
+          delete _callbacks["gameLevelInfo"];
+        }
       }
     } catch (e) {
       console.error("Failed to process game level info from Android:", e);
