@@ -19,6 +19,7 @@ import {
 } from "./src/Firebase/firebase-event-interface";
 import { URL } from "@data";
 import { AndroidBridge } from "./src/common/utils";
+import { getOPDSData } from "@data/opds-api-data";
 declare const window: any;
 
 class App {
@@ -98,7 +99,7 @@ class App {
     await this.preloadGameAudios();
     this.handleLoadingScreen();
     this.setupCanvas();
-    const data = await getData();
+    const data = await getOPDSData();
     this.majVersion = data.majversion;
     this.minVersion = data.minversion;
     this.dataModal = this.createDataModal(data);
