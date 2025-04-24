@@ -1,7 +1,13 @@
 import * as Sentry from "@sentry/browser";
 import { getData, DataModal, customFonts } from "@data";
 import { SceneHandler } from "@sceneHandler";
-import { AUDIO_URL_PRELOAD, IsCached, PreviousPlayedLevel } from "@constants";
+import {
+  AUDIO_URL_PRELOAD,
+  IsCached,
+  PreviousPlayedLevel,
+  SCENE_NAME_GAME_PLAY,
+  SCENE_NAME_LEVEL_SELECT,
+} from "@constants";
 import { Workbox } from "workbox-window";
 import { FirebaseIntegration } from "./src/Firebase/firebase-integration";
 import {
@@ -75,16 +81,16 @@ class App {
 
   private async init() {
     let lessonId;
-    if (window.Android && typeof window.Android.getLessonId === 'function') {
-        lessonId = window.Android.getLessonId();
-        if(lessonId != "") {
-            this.isDeepLink = true;
-        }
-        console.log("Lesson ID from Android:", lessonId);
+    if (window.Android && typeof window.Android.getLessonId === "function") {
+      lessonId = window.Android.getLessonId();
+      if (lessonId != "") {
+        Utils.isDeepLink = true;
+      }
+      console.log("Lesson ID from Android:", lessonId);
     }
     setTimeout(() => {
-      if(this.isDeepLink){
-        this.isDeepLink = false;
+      if (Utils.isDeepLink) {
+        Utils.isDeepLink = false;
         console.log("Lesson ID from Android:", lessonId);
         this.startGameWithLevel(lessonId);
       }
@@ -465,11 +471,13 @@ class App {
     if (this.sceneHandler) {
       // Switch to level selection scene first
       this.sceneHandler.switchSceneToLevelSelection("START");
-      
+
       // After a delay to ensure the level selection scene is loaded,
       // start the game with the specified level
       setTimeout(() => {
-        console.log(`📱 FTM: Starting level ${levelNumber} after level selection scene loads`);
+        console.log(
+          `📱 FTM: Starting level ${levelNumber} after level selection scene loads`
+        );
         // Create the gameplay data structure similar to what startGame uses in level-selection-scene.ts
         const gamePlayData = {
           currentLevelData: {
@@ -479,10 +487,15 @@ class App {
           selectedLevelNumber: levelNumber,
         };
         // Call the switchSceneToGameplay method with the gameplay data
-        this.sceneHandler.switchSceneToGameplay(gamePlayData, "LevelSelection");
+        this.sceneHandler.switchSceneToGameplay(
+          gamePlayData,
+          SCENE_NAME_LEVEL_SELECT
+        );
       }, 1000); // Delay to ensure level selection scene is loaded
     } else {
-      console.error("📱 FTM: Cannot start game - scene handler not initialized");
+      console.error(
+        "📱 FTM: Cannot start game - scene handler not initialized"
+      );
     }
   }
 
