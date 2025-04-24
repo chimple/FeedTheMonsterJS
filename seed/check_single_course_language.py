@@ -1,4 +1,4 @@
-# python new_ftm_language_creation\convert_single_course_language.py lang/english/ftm_english.json public/assets/en
+# python seed\convert_single_course_language.py lang/english/ftm_english.json public/assets/en
 import os
 import sys
 import json
