@@ -35,21 +35,21 @@ export class GameScore {
   }
 
   public static getAllGameLevelInfo(): Map<string, any>[] {
-    const dummyData = [];
+    const levelInfoData = [];
     
     if (window.Android?.sendGameLevelInfoToJS) {
       console.log("Requesting game level info from Android");
       AndroidBridge.requestGameLevelInfo()
         .then(levelInfo => {
           levelInfo.forEach(element => {
-            dummyData.push(element);
+            levelInfoData.push(element);
           });
           console.log("Received game level info in response to request:", levelInfo);
         })
         .catch(err => console.error("Failed to get game level info:", err));
     }
 
-    return dummyData as any;
+    return levelInfoData as any;
   }
 
   public static setTotalStarCount(starsGained): void {
