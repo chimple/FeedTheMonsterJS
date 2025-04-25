@@ -91,6 +91,7 @@ class App {
       if (Utils.isDeepLink) {
         Utils.isDeepLink = false;
         console.log("Lesson ID from Android:", lessonId);
+        Utils.levelNum = lessonId;
         this.startGameWithLevel(lessonId);
       }
     }, 3000);
