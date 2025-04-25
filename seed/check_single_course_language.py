@@ -94,7 +94,4 @@ def convert_ftm_to_opds(input_file, output_dir):
     print(f"OPDS course.json created at: {course_file}")
 
 if __name__ == "__main__":
-    if len(sys.argv) < 3:
-        print("Usage: python script.py <input_ftm_json> <output_directory>")
-        sys.exit(1)
     convert_ftm_to_opds(sys.argv[1], sys.argv[2])
