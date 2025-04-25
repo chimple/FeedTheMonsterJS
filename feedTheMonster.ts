@@ -463,29 +463,20 @@ class App {
   public startGameWithLevel(levelNumber: string | number): void {
     console.log(`📱 FTM: Starting game with level ${levelNumber}`);
     if (this.sceneHandler) {
-      // Switch to level selection scene first
-      this.sceneHandler.switchSceneToLevelSelection("START");
-
-      // After a delay to ensure the level selection scene is loaded,
-      // start the game with the specified level
-      setTimeout(() => {
-        console.log(
-          `📱 FTM: Starting level ${levelNumber} after level selection scene loads`
-        );
-        // Create the gameplay data structure similar to what startGame uses in level-selection-scene.ts
-        const gamePlayData = {
-          currentLevelData: {
-            ...this.dataModal.levels[levelNumber],
-            levelNumber: levelNumber,
-          },
-          selectedLevelNumber: levelNumber,
-        };
-        // Call the switchSceneToGameplay method with the gameplay data
-        this.sceneHandler.switchSceneToGameplay(
-          gamePlayData,
-          SCENE_NAME_LEVEL_SELECT
-        );
-      }, 1000); // Delay to ensure level selection scene is loaded
+      // Skip level selection screen and directly start the game
+      console.log(`📱 FTM: Directly starting level ${levelNumber}`);
+      
+      // Create the gameplay data structure
+      const gamePlayData = {
+        currentLevelData: {
+          ...this.dataModal.levels[levelNumber],
+          levelNumber: levelNumber,
+        },
+        selectedLevelNumber: levelNumber,
+      };
+      
+      // Call the switchSceneToGameplay method directly with the gameplay data
+      this.sceneHandler.switchSceneToGameplay(gamePlayData, "START");
     } else {
       console.error(
         "📱 FTM: Cannot start game - scene handler not initialized"
