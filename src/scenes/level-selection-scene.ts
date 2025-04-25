@@ -3,6 +3,7 @@ import {
   lang,
   pseudoId,
   loadImages,
+  Utils,
 } from "@common";
 import { AudioPlayer } from "@components";
 import { getData, GameScore } from "@data";
@@ -258,6 +259,7 @@ export class LevelSelectionScreen {
         (index) => {
           this.audioPlayer.playButtonClickSound();
           this.levelNumber = index + this.levelSelectionPageIndex - 1;
+          Utils.levelNum = this.levelNumber;
           this.startGame(this.levelNumber);
         }
       )
