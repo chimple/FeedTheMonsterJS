@@ -1,53 +1,43 @@
-import { lang } from "@common";
+let resolvedData: any = null;
 
-const OPDS_URL = `./lang/${lang}/feed_the_monster_${lang}.opds.json`;
-
-export async function getOPDSData() {
-    const opdsResponse = await fetch(OPDS_URL, {
-    method: "GET",
-    headers: {
-        "Content-Type": "application/opds+json",
-    },
-    });
-
-    if (!opdsResponse.ok) {
-    throw new Error("Failed to fetch OPDS feed");
+export function getOPDSData(): Promise<any> {
+  return new Promise((resolve, reject) => {
+    if (resolvedData) {
+      return resolve(resolvedData);
     }
 
-    const opdsData = await opdsResponse.json();
+    (window as any).onDataFromAndroid = (jsonString: string) => {
+      try {
+        const data = JSON.parse(jsonString);
 
-    // Extract lesson URL from publication
-    const publication = opdsData?.groups?.[0]?.publications?.[0];
-    const lessonUrl = publication?.links?.[0]?.href;
+        const publication = data?.groups?.[0]?.publications?.[0];
+        const lessonUrlData = publication?.links?.[0]?.lessonData;
 
-    if (!lessonUrl) {
-    throw new Error("Lesson URL not found in OPDS feed");
-    }
+        if (!lessonUrlData) {
+          return reject("Lesson data not found in OPDS JSON");
+        }
 
-    const lessonResponse = await fetch(lessonUrl, {
-    method: "GET",
-    headers: {
-        "Content-Type": "application/json",
-    },
-    });
+        resolvedData = {
+          ...lessonUrlData,
+          title: publication.metadata?.title,
+          identifier: publication.metadata?.identifier,
+          Language: publication.metadata?.language,
+          RightToLeft: publication.metadata?.RightToLeft,
+          FeedbackTexts: publication.metadata?.feedbackTexts,
+          FeedbackAudios: publication.metadata?.feedbackAudios,
+          OtherAudios: publication.metadata?.otherAudios,
+          majversion: publication.metadata?.majversion,
+          minversion: publication.metadata?.minversion,
+          langname: publication.metadata?.langname,
+        };
 
-    if (!lessonResponse.ok) {
-    throw new Error("Failed to fetch lesson data");
-    }
+        resolve(resolvedData);
+      } catch (e) {
+        console.error("Failed to parse data from Android bridge:", e);
+        reject(e);
+      }
+    };
 
-    const lessonData = await lessonResponse.json();
-
-  return {
-    ...lessonData,
-    title: publication.metadata?.title,
-    identifier: publication.metadata?.identifier,
-    Language: publication.metadata?.language,
-    RightToLeft: publication.metadata?.RightToLeft,
-    FeedbackTexts: publication.metadata?.feedbackTexts,
-    FeedbackAudios: publication.metadata?.feedbackAudios,
-    OtherAudios: publication.metadata?.otherAudios,
-    majversion: publication.metadata?.majversion,
-    minversion: publication.metadata?.minversion,
-    langname: publication.metadata?.langname
-  };
+    (window as any).requestDataFromContainer?.("FTM_OPDS_DATA");
+  });
 }
