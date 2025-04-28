@@ -7,6 +7,7 @@ import {
 } from "@common";
 import { AudioPlayer } from "@components";
 import { getData, GameScore } from "@data";
+import { getOPDSData } from "@data/opds-api-data";
 import { SelectedLevel } from "../Firebase/firebase-event-interface";
 import { FirebaseIntegration } from "../Firebase/firebase-integration";
 import {
@@ -112,7 +113,7 @@ export class LevelSelectionScreen {
   }
 
   private async init() {
-    const data = await getData();
+    const data = await getOPDSData();
     this.majVersion = data.majversion;
     this.minVersion = data.minversion;
   }
