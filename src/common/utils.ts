@@ -1,6 +1,7 @@
 import { Debugger } from "@common";
 import { TestServer } from "@constants";
 import { languageFontMapping } from "@data/i18-font-mapping";
+import * as JSZip from "jszip";
 export class Utils {
   public static UrlSubstring: string = "/feedthemonster";
   public static subdomain: string = "https://feedthemonster.curiouscontent.org";
@@ -214,10 +215,13 @@ const _callbacks: CallbackMap = {};
 export const AndroidBridge = {
   sendDataToContainer(key: string, data: any) {
     try {
-      console.log(`Attempting to send ${key} to container:`, JSON.stringify(data));
+      console.log(
+        `Attempting to send ${key} to container:`,
+        JSON.stringify(data)
+      );
       if (window.Android?.sendDataToContainer) {
         // Stringify the data before sending to avoid [object Object] issues
-        const jsonData = typeof data === 'object' ? JSON.stringify(data) : data;
+        const jsonData = typeof data === "object" ? JSON.stringify(data) : data;
         window.Android.sendDataToContainer(key, jsonData);
       } else {
         console.warn("Android bridge not available: sendDataToContainer");
@@ -244,7 +248,7 @@ export const AndroidBridge = {
         if (window.Android?.sendGameLevelInfoToJS) {
           // Store the callback in the _callbacks map with a specific type
           _callbacks["gameLevelInfo"] = resolve;
-          
+
           // Request the game level info from Android
           window.Android.sendGameLevelInfoToJS();
         } else {
@@ -277,31 +281,43 @@ export const AndroidBridge = {
       console.error("Failed to parse data from Android:", e);
     }
   },
-
-  _handleGameLevelInfo(data: any) {
-    try {
-      if (data && data.data) {
-        const gameLevelInfo = data.data;
-        
-        // Get language from the game state or global context
-        const currentLanguage = window.localStorage.getItem('lang') || 'english';
-        
-        // Save to localStorage
-        localStorage.setItem(
-          currentLanguage + "gamePlayedInfo", 
-          JSON.stringify(gameLevelInfo)
-        );
-        
-        console.log("Received and saved game level info from Android:", gameLevelInfo);
-        
-        // Use the callback system instead of events
-        if (_callbacks["gameLevelInfo"]) {
-          _callbacks["gameLevelInfo"](gameLevelInfo);
-          delete _callbacks["gameLevelInfo"];
-        }
-      }
-    } catch (e) {
-      console.error("Failed to process game level info from Android:", e);
-    }
-  }
 };
+
+// Function to decode base64 to ArrayBuffer
+function base64ToArrayBuffer(base64) {
+  const binaryString = atob(base64);
+  const len = binaryString.length;
+  const bytes = new Uint8Array(len);
+  for (let i = 0; i < len; i++) {
+    bytes[i] = binaryString.charCodeAt(i);
+  }
+  return bytes.buffer;
+}
+
+// Function to extract ZIP and use the contents
+export async function handleReceivedZipData(base64Zip) {
+  const zipArrayBuffer = base64ToArrayBuffer(base64Zip);
+  const zip = await JSZip.loadAsync(zipArrayBuffer);
+
+  Object.keys(zip.files).forEach(async (filename) => {
+    const file = zip.files[filename];
+
+    if (!file.dir) {
+      const content = await file.async("blob");
+
+      if (filename.endsWith(".json")) {
+        const jsonData = await content.text();
+        console.log("Extracted JSON:", JSON.parse(jsonData));
+      } else if (filename.endsWith(".mp3")) {
+        const audioURL = URL.createObjectURL(content);
+        const audio = new Audio(audioURL);
+        audio.play();
+      } else if (filename.endsWith(".jpg") || filename.endsWith(".png")) {
+        const imgURL = URL.createObjectURL(content);
+        const imgElement = document.createElement("img");
+        imgElement.src = imgURL;
+        document.body.appendChild(imgElement);
+      }
+    }
+  });
+}
