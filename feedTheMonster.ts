@@ -79,7 +79,6 @@ class App {
     window.addEventListener("resize", this.handleResize.bind(this));
   }
 
-  //private isRespect = false;
   private async init() {
     try {
       let lessonId;
