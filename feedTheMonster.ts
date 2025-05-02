@@ -80,65 +80,78 @@ class App {
   }
 
   private async init() {
-    let lessonId;
-    if (window.Android && typeof window.Android.getLessonId === "function") {
-      lessonId = window.Android.getLessonId();
-      if (lessonId != "") {
-        Utils.isDeepLink = true;
-      }
-      console.log("Lesson ID from Android:", lessonId);
-    }
-    setTimeout(() => {
-      if (Utils.isDeepLink) {
-        Utils.isDeepLink = false;
+    try {
+      let lessonId;
+      if (window.Android && typeof window.Android.getLessonId === "function") {
+        lessonId = window.Android.getLessonId();
+        if (lessonId != "") {
+          Utils.isDeepLink = true;
+        }
         console.log("Lesson ID from Android:", lessonId);
-        Utils.levelNum = lessonId;
-        this.startGameWithLevel(lessonId);
       }
-    }, 3000);
-    // Make sure to listen for the response globally
-    console.log(
-      "Android available: requestDataFromContainer",
-      !!window.Android?.requestDataFromContainer
-    );
-    window.onDataFromAndroid = function (responseJson: string) {
-      AndroidBridge._handleDataFromAndroid(responseJson);
-    };
-    console.log("hello world from FTM");
-    console.log("hello ftm");
-    AndroidBridge.requestDataFromContainer("score").then((data) => {
-      console.log("Received score data from Container:", JSON.stringify(data));
-    });
-    const font = await Utils.getLanguageSpecificFont(this.lang);
-    await this.loadAndCacheFont(font, `./assets/fonts/${font}.ttf`);
-    await this.loadTitleFeedbackCustomFont();
-    await this.preloadGameAudios();
-    this.handleLoadingScreen();
-    this.setupCanvas();
-    const data = await getOPDSData();
-    this.majVersion = data.majversion;
-    this.minVersion = data.minversion;
-    this.dataModal = this.createDataModal(data);
-    this.globalInitialization(data);
-    this.logSessionStartFirebaseEvent();
-    window.addEventListener("resize", async () => {
-      this.handleResize(this.dataModal);
-    });
+      setTimeout(() => {
+        if (Utils.isDeepLink) {
+          Utils.isDeepLink = false;
+          console.log("Lesson ID from Android:", lessonId);
+          Utils.levelNum = lessonId;
+          this.startGameWithLevel(lessonId);
+        }
+      }, 3000);
+      // Make sure to listen for the response globally
+      console.log(
+        "Android available: requestDataFromContainer",
+        !!window.Android?.requestDataFromContainer
+      );
+      window.onDataFromAndroid = function (responseJson: string) {
+        AndroidBridge._handleDataFromAndroid(responseJson);
+      };
+      console.log("hello world from FTM");
+      console.log("hello ftm");
 
-    const playedInfo = localStorage.getItem(this.lang + "gamePlayedInfo");
-    const nextPlayableLevel = playedInfo
-      ? JSON.parse(playedInfo).length - 1
-      : 0;
-    const storageKey = Debugger.DebugMode
-      ? PreviousPlayedLevel + this.lang + "Debug"
-      : PreviousPlayedLevel + this.lang;
+      if (AndroidBridge !== undefined) {
+        AndroidBridge.requestDataFromContainer("score").then((data) => {
+          console.log(
+            "Received score data from Container:",
+            JSON.stringify(data)
+          );
+        });
+      } else {
+        console.log("AndroidBridge not available");
+      }
 
-    localStorage.setItem(storageKey, nextPlayableLevel.toString());
+      const font = await Utils.getLanguageSpecificFont(this.lang);
+      await this.loadAndCacheFont(font, `./assets/fonts/${font}.ttf`);
+      await this.loadTitleFeedbackCustomFont();
+      await this.preloadGameAudios();
+      this.handleLoadingScreen();
+      this.setupCanvas();
+      const data = Utils.isRespect ? await getOPDSData() : await getData();
+      this.majVersion = data.majversion;
+      this.minVersion = data.minversion;
+      this.dataModal = this.createDataModal(data);
+      this.globalInitialization(data);
+      this.logSessionStartFirebaseEvent();
+      window.addEventListener("resize", async () => {
+        this.handleResize(this.dataModal);
+      });
 
-    if (this.is_cached.has(this.lang)) {
-      this.handleCachedScenario(this.dataModal);
+      const playedInfo = localStorage.getItem(this.lang + "gamePlayedInfo");
+      const nextPlayableLevel = playedInfo
+        ? JSON.parse(playedInfo).length - 1
+        : 0;
+      const storageKey = Debugger.DebugMode
+        ? PreviousPlayedLevel + this.lang + "Debug"
+        : PreviousPlayedLevel + this.lang;
+
+      localStorage.setItem(storageKey, nextPlayableLevel.toString());
+
+      if (this.is_cached.has(this.lang)) {
+        this.handleCachedScenario(this.dataModal);
+      }
+      this.registerWorkbox();
+    } catch (err) {
+      console.error("Error in init:", err);
     }
-    this.registerWorkbox();
   }
 
   private async loadTitleFeedbackCustomFont() {
@@ -466,7 +479,7 @@ class App {
     if (this.sceneHandler) {
       // Skip level selection screen and directly start the game
       console.log(`📱 FTM: Directly starting level ${levelNumber}`);
-      
+
       // Create the gameplay data structure
       const gamePlayData = {
         currentLevelData: {
@@ -475,7 +488,7 @@ class App {
         },
         selectedLevelNumber: levelNumber,
       };
-      
+
       // Call the switchSceneToGameplay method directly with the gameplay data
       this.sceneHandler.switchSceneToGameplay(gamePlayData, "START");
     } else {
