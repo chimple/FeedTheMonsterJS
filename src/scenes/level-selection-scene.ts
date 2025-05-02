@@ -1,10 +1,4 @@
-import {
-  Debugger,
-  lang,
-  pseudoId,
-  loadImages,
-  Utils,
-} from "@common";
+import { Debugger, lang, pseudoId, loadImages, Utils } from "@common";
 import { AudioPlayer } from "@components";
 import { getData, GameScore } from "@data";
 import { getOPDSData } from "@data/opds-api-data";
@@ -15,7 +9,7 @@ import {
   levelSelectBgDrawing,
   createLevelObject,
   getdefaultCloudBtnsPos,
-  loadLevelImages
+  loadLevelImages,
 } from "@compositions";
 import {
   PreviousPlayedLevel,
@@ -24,7 +18,7 @@ import {
   BACK_BTN_IMG,
   AUDIO_INTRO,
 } from "@constants";
-import { LevelBloonButton } from '@buttons';
+import { LevelBloonButton } from "@buttons";
 
 export class LevelSelectionScreen {
   private canvas: HTMLCanvasElement;
@@ -57,7 +51,7 @@ export class LevelSelectionScreen {
   private leftBtnSize: number;
   private leftBtnX: number;
   private leftBtnY: number;
-  private levelButtons: any
+  private levelButtons: any;
 
   constructor(canvas: HTMLCanvasElement, data: any, callBack: Function) {
     this.canvas = canvas;
@@ -113,7 +107,7 @@ export class LevelSelectionScreen {
   }
 
   private async init() {
-    const data = await getOPDSData();
+    const data = Utils.isRespect ? await getOPDSData() : await getData();
     this.majVersion = data.majversion;
     this.minVersion = data.minversion;
   }
@@ -140,12 +134,10 @@ export class LevelSelectionScreen {
       );
     });
     this.levels = await Promise.all(levelsArr);
-    this.levelButtons = this.levels.map(btnCoordinates => {
-      return new LevelBloonButton(
-        this.canvas,
-        this.context,
-        {...btnCoordinates},
-      )
+    this.levelButtons = this.levels.map((btnCoordinates) => {
+      return new LevelBloonButton(this.canvas, this.context, {
+        ...btnCoordinates,
+      });
     });
   }
 
@@ -251,7 +243,7 @@ export class LevelSelectionScreen {
       this.downButton(this.levelSelectionPageIndex);
     }
 
-    for(let btn of this.levelButtons) {
+    for (let btn of this.levelButtons) {
       btn.onClick(
         x,
         y,
@@ -263,12 +255,13 @@ export class LevelSelectionScreen {
           Utils.levelNum = this.levelNumber;
           this.startGame(this.levelNumber);
         }
-      )
+      );
     }
   };
 
   private drawLevel(levelBtn: any, gameLevelData: []) {
-    const currentLevelIndex = levelBtn.levelData.index + this.levelSelectionPageIndex;
+    const currentLevelIndex =
+      levelBtn.levelData.index + this.levelSelectionPageIndex;
     const currentLevel = currentLevelIndex - 1;
 
     const nextLevelPlay = this.unlockLevelIndex + 1;
@@ -288,8 +281,7 @@ export class LevelSelectionScreen {
 
       Debugger.DebugMode
         ? this.context.fillText(
-            this.data.levels[currentLevelIndex - 1]
-              .levelMeta.levelType,
+            this.data.levels[currentLevelIndex - 1].levelMeta.levelType,
             levelBtn.levelData.x + levelBtn.btnSize / 3.5,
             levelBtn.levelData.y + levelBtn.btnSize / 1.3
           )
@@ -298,10 +290,7 @@ export class LevelSelectionScreen {
   }
   private draw() {
     for (let levelBtn of this.levelButtons) {
-      this.drawLevel(
-        levelBtn,
-        this.gameLevelData
-      );
+      this.drawLevel(levelBtn, this.gameLevelData);
     }
   }
 
@@ -345,14 +334,14 @@ export class LevelSelectionScreen {
 
   checkUnlockedLevel(gameLevelData) {
     if (gameLevelData.length != undefined) {
-        for (let game of gameLevelData) {
-          if (this.unlockLevelIndex < parseInt(game.levelNumber)) {
-            game.starCount >= 2
-              ? (this.unlockLevelIndex = parseInt(game.levelNumber))
-              : null;
-          }
+      for (let game of gameLevelData) {
+        if (this.unlockLevelIndex < parseInt(game.levelNumber)) {
+          game.starCount >= 2
+            ? (this.unlockLevelIndex = parseInt(game.levelNumber))
+            : null;
         }
       }
+    }
   }
 
   private startGame(level_number: string | number) {
