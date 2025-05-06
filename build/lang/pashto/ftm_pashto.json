@@ -10,9 +10,9 @@
   "minversion": 7,
   "langname": "PASHTO",
   "FeedbackAudios": [
-    "https://feedthemonster.curiouscontent.org/lang/pashto/audios/fantastic.mp3",
-    "https://feedthemonster.curiouscontent.org/lang/pashto/audios/great.mp3",
-    "https://feedthemonster.curiouscontent.org/lang/pashto/audios/amazing.mp3"
+    "lang/pashto/audios/fantastic.mp3",
+    "lang/pashto/audios/great.mp3",
+    "lang/pashto/audios/amazing.mp3"
   ],
   "OtherAudios": {
     "Select your player": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/Select-your-player.mp3",
@@ -39,7 +39,7 @@
           ],
           "prompt": {
             "PromptText": "غ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/غ.mp3"
+            "PromptAudio": "lang/pashto/audios/غ.mp3"
           },
           "foilstones": [
             {
@@ -59,7 +59,7 @@
           ],
           "prompt": {
             "PromptText": "ل",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ل.mp3"
+            "PromptAudio": "lang/pashto/audios/ل.mp3"
           },
           "foilstones": [
             {
@@ -79,7 +79,7 @@
           ],
           "prompt": {
             "PromptText": "ا",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ا.mp3"
+            "PromptAudio": "lang/pashto/audios/ا.mp3"
           },
           "foilstones": [
             {
@@ -99,7 +99,7 @@
           ],
           "prompt": {
             "PromptText": "ن",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ن.mp3"
+            "PromptAudio": "lang/pashto/audios/ن.mp3"
           },
           "foilstones": [
             {
@@ -119,7 +119,7 @@
           ],
           "prompt": {
             "PromptText": "ف",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ف.mp3"
+            "PromptAudio": "lang/pashto/audios/ف.mp3"
           },
           "foilstones": [
             {
@@ -154,7 +154,7 @@
           ],
           "prompt": {
             "PromptText": "ت",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ت.mp3"
+            "PromptAudio": "lang/pashto/audios/ت.mp3"
           },
           "foilstones": [
             {
@@ -177,7 +177,7 @@
           ],
           "prompt": {
             "PromptText": "ا",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ا.mp3"
+            "PromptAudio": "lang/pashto/audios/ا.mp3"
           },
           "foilstones": [
             {
@@ -200,7 +200,7 @@
           ],
           "prompt": {
             "PromptText": "غ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/غ.mp3"
+            "PromptAudio": "lang/pashto/audios/غ.mp3"
           },
           "foilstones": [
             {
@@ -223,7 +223,7 @@
           ],
           "prompt": {
             "PromptText": "ا",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ا.mp3"
+            "PromptAudio": "lang/pashto/audios/ا.mp3"
           },
           "foilstones": [
             {
@@ -246,7 +246,7 @@
           ],
           "prompt": {
             "PromptText": "ل",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ل.mp3"
+            "PromptAudio": "lang/pashto/audios/ل.mp3"
           },
           "foilstones": [
             {
@@ -284,7 +284,7 @@
           ],
           "prompt": {
             "PromptText": "ل",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ل.mp3"
+            "PromptAudio": "lang/pashto/audios/ل.mp3"
           },
           "foilstones": [
             {
@@ -304,7 +304,7 @@
           ],
           "prompt": {
             "PromptText": "ت",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ت.mp3"
+            "PromptAudio": "lang/pashto/audios/ت.mp3"
           },
           "foilstones": [
             {
@@ -324,7 +324,7 @@
           ],
           "prompt": {
             "PromptText": "ن",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ن.mp3"
+            "PromptAudio": "lang/pashto/audios/ن.mp3"
           },
           "foilstones": [
             {
@@ -344,7 +344,7 @@
           ],
           "prompt": {
             "PromptText": "ف",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ف.mp3"
+            "PromptAudio": "lang/pashto/audios/ف.mp3"
           },
           "foilstones": [
             {
@@ -364,7 +364,7 @@
           ],
           "prompt": {
             "PromptText": "ا",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ا.mp3"
+            "PromptAudio": "lang/pashto/audios/ا.mp3"
           },
           "foilstones": [
             {
@@ -399,7 +399,7 @@
           ],
           "prompt": {
             "PromptText": "ا",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ا.mp3"
+            "PromptAudio": "lang/pashto/audios/ا.mp3"
           },
           "foilstones": [
             {
@@ -419,7 +419,7 @@
           ],
           "prompt": {
             "PromptText": "غ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/غ.mp3"
+            "PromptAudio": "lang/pashto/audios/غ.mp3"
           },
           "foilstones": [
             {
@@ -439,7 +439,7 @@
           ],
           "prompt": {
             "PromptText": "ف",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ف.mp3"
+            "PromptAudio": "lang/pashto/audios/ف.mp3"
           },
           "foilstones": [
             {
@@ -459,7 +459,7 @@
           ],
           "prompt": {
             "PromptText": "ل",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ل.mp3"
+            "PromptAudio": "lang/pashto/audios/ل.mp3"
           },
           "foilstones": [
             {
@@ -479,7 +479,7 @@
           ],
           "prompt": {
             "PromptText": "ن",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ن.mp3"
+            "PromptAudio": "lang/pashto/audios/ن.mp3"
           },
           "foilstones": [
             {
@@ -514,7 +514,7 @@
           ],
           "prompt": {
             "PromptText": "غ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/غ.mp3"
+            "PromptAudio": "lang/pashto/audios/غ.mp3"
           },
           "foilstones": [
             {
@@ -537,7 +537,7 @@
           ],
           "prompt": {
             "PromptText": "ن",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ن.mp3"
+            "PromptAudio": "lang/pashto/audios/ن.mp3"
           },
           "foilstones": [
             {
@@ -560,7 +560,7 @@
           ],
           "prompt": {
             "PromptText": "ا",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ا.mp3"
+            "PromptAudio": "lang/pashto/audios/ا.mp3"
           },
           "foilstones": [
             {
@@ -583,7 +583,7 @@
           ],
           "prompt": {
             "PromptText": "ل",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ل.mp3"
+            "PromptAudio": "lang/pashto/audios/ل.mp3"
           },
           "foilstones": [
             {
@@ -606,7 +606,7 @@
           ],
           "prompt": {
             "PromptText": "ف",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ف.mp3"
+            "PromptAudio": "lang/pashto/audios/ف.mp3"
           },
           "foilstones": [
             {
@@ -644,7 +644,7 @@
           ],
           "prompt": {
             "PromptText": "ف",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ف.mp3"
+            "PromptAudio": "lang/pashto/audios/ف.mp3"
           },
           "foilstones": [
             {
@@ -667,7 +667,7 @@
           ],
           "prompt": {
             "PromptText": "غ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/غ.mp3"
+            "PromptAudio": "lang/pashto/audios/غ.mp3"
           },
           "foilstones": [
             {
@@ -690,7 +690,7 @@
           ],
           "prompt": {
             "PromptText": "ن",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ن.mp3"
+            "PromptAudio": "lang/pashto/audios/ن.mp3"
           },
           "foilstones": [
             {
@@ -713,7 +713,7 @@
           ],
           "prompt": {
             "PromptText": "ل",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ل.mp3"
+            "PromptAudio": "lang/pashto/audios/ل.mp3"
           },
           "foilstones": [
             {
@@ -736,7 +736,7 @@
           ],
           "prompt": {
             "PromptText": "ا",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ا.mp3"
+            "PromptAudio": "lang/pashto/audios/ا.mp3"
           },
           "foilstones": [
             {
@@ -774,7 +774,7 @@
           ],
           "prompt": {
             "PromptText": "ر",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ر.mp3"
+            "PromptAudio": "lang/pashto/audios/ر.mp3"
           },
           "foilstones": [
             {
@@ -797,7 +797,7 @@
           ],
           "prompt": {
             "PromptText": "آ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/آ.mp3"
+            "PromptAudio": "lang/pashto/audios/آ.mp3"
           },
           "foilstones": [
             {
@@ -820,7 +820,7 @@
           ],
           "prompt": {
             "PromptText": "م",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/م.mp3"
+            "PromptAudio": "lang/pashto/audios/م.mp3"
           },
           "foilstones": [
             {
@@ -843,7 +843,7 @@
           ],
           "prompt": {
             "PromptText": "غ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/غ.mp3"
+            "PromptAudio": "lang/pashto/audios/غ.mp3"
           },
           "foilstones": [
             {
@@ -866,7 +866,7 @@
           ],
           "prompt": {
             "PromptText": "ث",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ث.mp3"
+            "PromptAudio": "lang/pashto/audios/ث.mp3"
           },
           "foilstones": [
             {
@@ -904,7 +904,7 @@
           ],
           "prompt": {
             "PromptText": "غ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/غ.mp3"
+            "PromptAudio": "lang/pashto/audios/غ.mp3"
           },
           "foilstones": [
             {
@@ -927,7 +927,7 @@
           ],
           "prompt": {
             "PromptText": "آ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/آ.mp3"
+            "PromptAudio": "lang/pashto/audios/آ.mp3"
           },
           "foilstones": [
             {
@@ -950,7 +950,7 @@
           ],
           "prompt": {
             "PromptText": "ڼ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ڼ.mp3"
+            "PromptAudio": "lang/pashto/audios/ڼ.mp3"
           },
           "foilstones": [
             {
@@ -973,7 +973,7 @@
           ],
           "prompt": {
             "PromptText": "ر",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ر.mp3"
+            "PromptAudio": "lang/pashto/audios/ر.mp3"
           },
           "foilstones": [
             {
@@ -996,7 +996,7 @@
           ],
           "prompt": {
             "PromptText": "ق",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ق.mp3"
+            "PromptAudio": "lang/pashto/audios/ق.mp3"
           },
           "foilstones": [
             {
@@ -1034,7 +1034,7 @@
           ],
           "prompt": {
             "PromptText": "ث",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ث.mp3"
+            "PromptAudio": "lang/pashto/audios/ث.mp3"
           },
           "foilstones": [
             {
@@ -1057,7 +1057,7 @@
           ],
           "prompt": {
             "PromptText": "م",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/م.mp3"
+            "PromptAudio": "lang/pashto/audios/م.mp3"
           },
           "foilstones": [
             {
@@ -1080,7 +1080,7 @@
           ],
           "prompt": {
             "PromptText": "ق",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ق.mp3"
+            "PromptAudio": "lang/pashto/audios/ق.mp3"
           },
           "foilstones": [
             {
@@ -1103,7 +1103,7 @@
           ],
           "prompt": {
             "PromptText": "غ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/غ.mp3"
+            "PromptAudio": "lang/pashto/audios/غ.mp3"
           },
           "foilstones": [
             {
@@ -1126,7 +1126,7 @@
           ],
           "prompt": {
             "PromptText": "آ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/آ.mp3"
+            "PromptAudio": "lang/pashto/audios/آ.mp3"
           },
           "foilstones": [
             {
@@ -1164,7 +1164,7 @@
           ],
           "prompt": {
             "PromptText": "ر",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ر.mp3"
+            "PromptAudio": "lang/pashto/audios/ر.mp3"
           },
           "foilstones": [
             {
@@ -1187,7 +1187,7 @@
           ],
           "prompt": {
             "PromptText": "ڼ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ڼ.mp3"
+            "PromptAudio": "lang/pashto/audios/ڼ.mp3"
           },
           "foilstones": [
             {
@@ -1213,7 +1213,7 @@
           ],
           "prompt": {
             "PromptText": "غ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/غ.mp3"
+            "PromptAudio": "lang/pashto/audios/غ.mp3"
           },
           "foilstones": [
             {
@@ -1236,7 +1236,7 @@
           ],
           "prompt": {
             "PromptText": "ق",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ق.mp3"
+            "PromptAudio": "lang/pashto/audios/ق.mp3"
           },
           "foilstones": [
             {
@@ -1259,7 +1259,7 @@
           ],
           "prompt": {
             "PromptText": "آ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/آ.mp3"
+            "PromptAudio": "lang/pashto/audios/آ.mp3"
           },
           "foilstones": [
             {
@@ -1294,7 +1294,7 @@
           ],
           "prompt": {
             "PromptText": "ث",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ث.mp3"
+            "PromptAudio": "lang/pashto/audios/ث.mp3"
           },
           "foilstones": [
             {
@@ -1317,7 +1317,7 @@
           ],
           "prompt": {
             "PromptText": "آ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/آ.mp3"
+            "PromptAudio": "lang/pashto/audios/آ.mp3"
           },
           "foilstones": [
             {
@@ -1340,7 +1340,7 @@
           ],
           "prompt": {
             "PromptText": "غ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/غ.mp3"
+            "PromptAudio": "lang/pashto/audios/غ.mp3"
           },
           "foilstones": [
             {
@@ -1363,7 +1363,7 @@
           ],
           "prompt": {
             "PromptText": "ر",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ر.mp3"
+            "PromptAudio": "lang/pashto/audios/ر.mp3"
           },
           "foilstones": [
             {
@@ -1389,7 +1389,7 @@
           ],
           "prompt": {
             "PromptText": "ڼ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ڼ.mp3"
+            "PromptAudio": "lang/pashto/audios/ڼ.mp3"
           },
           "foilstones": [
             {
@@ -1424,7 +1424,7 @@
           ],
           "prompt": {
             "PromptText": "م",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/م.mp3"
+            "PromptAudio": "lang/pashto/audios/م.mp3"
           },
           "foilstones": [
             {
@@ -1447,7 +1447,7 @@
           ],
           "prompt": {
             "PromptText": "ق",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ق.mp3"
+            "PromptAudio": "lang/pashto/audios/ق.mp3"
           },
           "foilstones": [
             {
@@ -1470,7 +1470,7 @@
           ],
           "prompt": {
             "PromptText": "ث",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ث.mp3"
+            "PromptAudio": "lang/pashto/audios/ث.mp3"
           },
           "foilstones": [
             {
@@ -1493,7 +1493,7 @@
           ],
           "prompt": {
             "PromptText": "ر",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ر.mp3"
+            "PromptAudio": "lang/pashto/audios/ر.mp3"
           },
           "foilstones": [
             {
@@ -1516,7 +1516,7 @@
           ],
           "prompt": {
             "PromptText": "م",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/م.mp3"
+            "PromptAudio": "lang/pashto/audios/م.mp3"
           },
           "foilstones": [
             {
@@ -1554,7 +1554,7 @@
           ],
           "prompt": {
             "PromptText": "ر",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ر.mp3"
+            "PromptAudio": "lang/pashto/audios/ر.mp3"
           },
           "foilstones": [
             {
@@ -1577,7 +1577,7 @@
           ],
           "prompt": {
             "PromptText": "آ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/آ.mp3"
+            "PromptAudio": "lang/pashto/audios/آ.mp3"
           },
           "foilstones": [
             {
@@ -1600,7 +1600,7 @@
           ],
           "prompt": {
             "PromptText": "ق",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ق.mp3"
+            "PromptAudio": "lang/pashto/audios/ق.mp3"
           },
           "foilstones": [
             {
@@ -1623,7 +1623,7 @@
           ],
           "prompt": {
             "PromptText": "غ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/غ.mp3"
+            "PromptAudio": "lang/pashto/audios/غ.mp3"
           },
           "foilstones": [
             {
@@ -1646,7 +1646,7 @@
           ],
           "prompt": {
             "PromptText": "ث",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ث.mp3"
+            "PromptAudio": "lang/pashto/audios/ث.mp3"
           },
           "foilstones": [
             {
@@ -1684,7 +1684,7 @@
           ],
           "prompt": {
             "PromptText": "غ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/غ.mp3"
+            "PromptAudio": "lang/pashto/audios/غ.mp3"
           },
           "foilstones": [
             {
@@ -1707,7 +1707,7 @@
           ],
           "prompt": {
             "PromptText": "ق",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ق.mp3"
+            "PromptAudio": "lang/pashto/audios/ق.mp3"
           },
           "foilstones": [
             {
@@ -1730,7 +1730,7 @@
           ],
           "prompt": {
             "PromptText": "ق",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ق.mp3"
+            "PromptAudio": "lang/pashto/audios/ق.mp3"
           },
           "foilstones": [
             {
@@ -1753,7 +1753,7 @@
           ],
           "prompt": {
             "PromptText": "غ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/غ.mp3"
+            "PromptAudio": "lang/pashto/audios/غ.mp3"
           },
           "foilstones": [
             {
@@ -1776,7 +1776,7 @@
           ],
           "prompt": {
             "PromptText": "آ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/آ.mp3"
+            "PromptAudio": "lang/pashto/audios/آ.mp3"
           },
           "foilstones": [
             {
@@ -1814,7 +1814,7 @@
           ],
           "prompt": {
             "PromptText": "ځ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ځ.mp3"
+            "PromptAudio": "lang/pashto/audios/ځ.mp3"
           },
           "foilstones": [
             {
@@ -1834,7 +1834,7 @@
           ],
           "prompt": {
             "PromptText": "ۍ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ۍ.mp3"
+            "PromptAudio": "lang/pashto/audios/ۍ.mp3"
           },
           "foilstones": [
             {
@@ -1854,7 +1854,7 @@
           ],
           "prompt": {
             "PromptText": "ړ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ړ.mp3"
+            "PromptAudio": "lang/pashto/audios/ړ.mp3"
           },
           "foilstones": [
             {
@@ -1874,7 +1874,7 @@
           ],
           "prompt": {
             "PromptText": "و",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/و.mp3"
+            "PromptAudio": "lang/pashto/audios/و.mp3"
           },
           "foilstones": [
             {
@@ -1894,7 +1894,7 @@
           ],
           "prompt": {
             "PromptText": "پ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/پ.mp3"
+            "PromptAudio": "lang/pashto/audios/پ.mp3"
           },
           "foilstones": [
             {
@@ -1929,7 +1929,7 @@
           ],
           "prompt": {
             "PromptText": "ج",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ج.mp3"
+            "PromptAudio": "lang/pashto/audios/ج.mp3"
           },
           "foilstones": [
             {
@@ -1952,7 +1952,7 @@
           ],
           "prompt": {
             "PromptText": "خ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/خ.mp3"
+            "PromptAudio": "lang/pashto/audios/خ.mp3"
           },
           "foilstones": [
             {
@@ -1975,7 +1975,7 @@
           ],
           "prompt": {
             "PromptText": "ش",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ش.mp3"
+            "PromptAudio": "lang/pashto/audios/ش.mp3"
           },
           "foilstones": [
             {
@@ -1998,7 +1998,7 @@
           ],
           "prompt": {
             "PromptText": "ۍ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ۍ.mp3"
+            "PromptAudio": "lang/pashto/audios/ۍ.mp3"
           },
           "foilstones": [
             {
@@ -2021,7 +2021,7 @@
           ],
           "prompt": {
             "PromptText": "پ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/پ.mp3"
+            "PromptAudio": "lang/pashto/audios/پ.mp3"
           },
           "foilstones": [
             {
@@ -2059,7 +2059,7 @@
           ],
           "prompt": {
             "PromptText": "ځ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ځ.mp3"
+            "PromptAudio": "lang/pashto/audios/ځ.mp3"
           },
           "foilstones": [
             {
@@ -2088,7 +2088,7 @@
           ],
           "prompt": {
             "PromptText": "ش",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ش.mp3"
+            "PromptAudio": "lang/pashto/audios/ش.mp3"
           },
           "foilstones": [
             {
@@ -2114,7 +2114,7 @@
           ],
           "prompt": {
             "PromptText": "و",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/و.mp3"
+            "PromptAudio": "lang/pashto/audios/و.mp3"
           },
           "foilstones": [
             {
@@ -2137,7 +2137,7 @@
           ],
           "prompt": {
             "PromptText": "ړ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ړ.mp3"
+            "PromptAudio": "lang/pashto/audios/ړ.mp3"
           },
           "foilstones": [
             {
@@ -2163,7 +2163,7 @@
           ],
           "prompt": {
             "PromptText": "ج",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ج.mp3"
+            "PromptAudio": "lang/pashto/audios/ج.mp3"
           },
           "foilstones": [
             {
@@ -2201,7 +2201,7 @@
           ],
           "prompt": {
             "PromptText": "ۍ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ۍ.mp3"
+            "PromptAudio": "lang/pashto/audios/ۍ.mp3"
           },
           "foilstones": [
             {
@@ -2227,7 +2227,7 @@
           ],
           "prompt": {
             "PromptText": "ج",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ج.mp3"
+            "PromptAudio": "lang/pashto/audios/ج.mp3"
           },
           "foilstones": [
             {
@@ -2253,7 +2253,7 @@
           ],
           "prompt": {
             "PromptText": "خ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/خ.mp3"
+            "PromptAudio": "lang/pashto/audios/خ.mp3"
           },
           "foilstones": [
             {
@@ -2279,7 +2279,7 @@
           ],
           "prompt": {
             "PromptText": "و",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/و.mp3"
+            "PromptAudio": "lang/pashto/audios/و.mp3"
           },
           "foilstones": [
             {
@@ -2305,7 +2305,7 @@
           ],
           "prompt": {
             "PromptText": "ړ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ړ.mp3"
+            "PromptAudio": "lang/pashto/audios/ړ.mp3"
           },
           "foilstones": [
             {
@@ -2349,7 +2349,7 @@
           ],
           "prompt": {
             "PromptText": "ځ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ځ.mp3"
+            "PromptAudio": "lang/pashto/audios/ځ.mp3"
           },
           "foilstones": [
             {
@@ -2375,7 +2375,7 @@
           ],
           "prompt": {
             "PromptText": "پ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/پ.mp3"
+            "PromptAudio": "lang/pashto/audios/پ.mp3"
           },
           "foilstones": [
             {
@@ -2401,7 +2401,7 @@
           ],
           "prompt": {
             "PromptText": "ش",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ش.mp3"
+            "PromptAudio": "lang/pashto/audios/ش.mp3"
           },
           "foilstones": [
             {
@@ -2427,7 +2427,7 @@
           ],
           "prompt": {
             "PromptText": "خ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/خ.mp3"
+            "PromptAudio": "lang/pashto/audios/خ.mp3"
           },
           "foilstones": [
             {
@@ -2453,7 +2453,7 @@
           ],
           "prompt": {
             "PromptText": "ج",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ج.mp3"
+            "PromptAudio": "lang/pashto/audios/ج.mp3"
           },
           "foilstones": [
             {
@@ -2497,7 +2497,7 @@
           ],
           "prompt": {
             "PromptText": "و",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/و.mp3"
+            "PromptAudio": "lang/pashto/audios/و.mp3"
           },
           "foilstones": [
             {
@@ -2523,7 +2523,7 @@
           ],
           "prompt": {
             "PromptText": "ج",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ج.mp3"
+            "PromptAudio": "lang/pashto/audios/ج.mp3"
           },
           "foilstones": [
             {
@@ -2549,7 +2549,7 @@
           ],
           "prompt": {
             "PromptText": "ش",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ش.mp3"
+            "PromptAudio": "lang/pashto/audios/ش.mp3"
           },
           "foilstones": [
             {
@@ -2575,7 +2575,7 @@
           ],
           "prompt": {
             "PromptText": "خ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/خ.mp3"
+            "PromptAudio": "lang/pashto/audios/خ.mp3"
           },
           "foilstones": [
             {
@@ -2601,7 +2601,7 @@
           ],
           "prompt": {
             "PromptText": "ج",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ج.mp3"
+            "PromptAudio": "lang/pashto/audios/ج.mp3"
           },
           "foilstones": [
             {
@@ -2645,7 +2645,7 @@
           ],
           "prompt": {
             "PromptText": "ځ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ځ.mp3"
+            "PromptAudio": "lang/pashto/audios/ځ.mp3"
           },
           "foilstones": [
             {
@@ -2671,7 +2671,7 @@
           ],
           "prompt": {
             "PromptText": "خ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/خ.mp3"
+            "PromptAudio": "lang/pashto/audios/خ.mp3"
           },
           "foilstones": [
             {
@@ -2697,7 +2697,7 @@
           ],
           "prompt": {
             "PromptText": "ۍ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ۍ.mp3"
+            "PromptAudio": "lang/pashto/audios/ۍ.mp3"
           },
           "foilstones": [
             {
@@ -2723,7 +2723,7 @@
           ],
           "prompt": {
             "PromptText": "پ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/پ.mp3"
+            "PromptAudio": "lang/pashto/audios/پ.mp3"
           },
           "foilstones": [
             {
@@ -2749,7 +2749,7 @@
           ],
           "prompt": {
             "PromptText": "و",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/و.mp3"
+            "PromptAudio": "lang/pashto/audios/و.mp3"
           },
           "foilstones": [
             {
@@ -2793,7 +2793,7 @@
           ],
           "prompt": {
             "PromptText": "خ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/خ.mp3"
+            "PromptAudio": "lang/pashto/audios/خ.mp3"
           },
           "foilstones": [
             {
@@ -2816,7 +2816,7 @@
           ],
           "prompt": {
             "PromptText": "ج",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ج.mp3"
+            "PromptAudio": "lang/pashto/audios/ج.mp3"
           },
           "foilstones": [
             {
@@ -2839,7 +2839,7 @@
           ],
           "prompt": {
             "PromptText": "ۍ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ۍ.mp3"
+            "PromptAudio": "lang/pashto/audios/ۍ.mp3"
           },
           "foilstones": [
             {
@@ -2862,7 +2862,7 @@
           ],
           "prompt": {
             "PromptText": "ړ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ړ.mp3"
+            "PromptAudio": "lang/pashto/audios/ړ.mp3"
           },
           "foilstones": [
             {
@@ -2885,7 +2885,7 @@
           ],
           "prompt": {
             "PromptText": "و",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/و.mp3"
+            "PromptAudio": "lang/pashto/audios/و.mp3"
           },
           "foilstones": [
             {
@@ -2923,7 +2923,7 @@
           ],
           "prompt": {
             "PromptText": "ظ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ظ.mp3"
+            "PromptAudio": "lang/pashto/audios/ظ.mp3"
           },
           "foilstones": [
             {
@@ -2946,7 +2946,7 @@
           ],
           "prompt": {
             "PromptText": "ې",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ې.mp3"
+            "PromptAudio": "lang/pashto/audios/ې.mp3"
           },
           "foilstones": [
             {
@@ -2969,7 +2969,7 @@
           ],
           "prompt": {
             "PromptText": "ز",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ز.mp3"
+            "PromptAudio": "lang/pashto/audios/ز.mp3"
           },
           "foilstones": [
             {
@@ -2992,7 +2992,7 @@
           ],
           "prompt": {
             "PromptText": "ن",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ن.mp3"
+            "PromptAudio": "lang/pashto/audios/ن.mp3"
           },
           "foilstones": [
             {
@@ -3015,7 +3015,7 @@
           ],
           "prompt": {
             "PromptText": "ږ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ږ.mp3"
+            "PromptAudio": "lang/pashto/audios/ږ.mp3"
           },
           "foilstones": [
             {
@@ -3050,7 +3050,7 @@
           ],
           "prompt": {
             "PromptText": "ح",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ح.mp3"
+            "PromptAudio": "lang/pashto/audios/ح.mp3"
           },
           "foilstones": [
             {
@@ -3073,7 +3073,7 @@
           ],
           "prompt": {
             "PromptText": "ب",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ب.mp3"
+            "PromptAudio": "lang/pashto/audios/ب.mp3"
           },
           "foilstones": [
             {
@@ -3096,7 +3096,7 @@
           ],
           "prompt": {
             "PromptText": "ک",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ک.mp3"
+            "PromptAudio": "lang/pashto/audios/ک.mp3"
           },
           "foilstones": [
             {
@@ -3122,7 +3122,7 @@
           ],
           "prompt": {
             "PromptText": "و",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/و.mp3"
+            "PromptAudio": "lang/pashto/audios/و.mp3"
           },
           "foilstones": [
             {
@@ -3145,7 +3145,7 @@
           ],
           "prompt": {
             "PromptText": "ت",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ت.mp3"
+            "PromptAudio": "lang/pashto/audios/ت.mp3"
           },
           "foilstones": [
             {
@@ -3180,7 +3180,7 @@
           ],
           "prompt": {
             "PromptText": "ږ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ږ.mp3"
+            "PromptAudio": "lang/pashto/audios/ږ.mp3"
           },
           "foilstones": [
             {
@@ -3203,7 +3203,7 @@
           ],
           "prompt": {
             "PromptText": "ز",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ز.mp3"
+            "PromptAudio": "lang/pashto/audios/ز.mp3"
           },
           "foilstones": [
             {
@@ -3226,7 +3226,7 @@
           ],
           "prompt": {
             "PromptText": "ظ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ظ.mp3"
+            "PromptAudio": "lang/pashto/audios/ظ.mp3"
           },
           "foilstones": [
             {
@@ -3249,7 +3249,7 @@
           ],
           "prompt": {
             "PromptText": "ک",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ک.mp3"
+            "PromptAudio": "lang/pashto/audios/ک.mp3"
           },
           "foilstones": [
             {
@@ -3272,7 +3272,7 @@
           ],
           "prompt": {
             "PromptText": "ت",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ت.mp3"
+            "PromptAudio": "lang/pashto/audios/ت.mp3"
           },
           "foilstones": [
             {
@@ -3310,7 +3310,7 @@
           ],
           "prompt": {
             "PromptText": "ک",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ک.mp3"
+            "PromptAudio": "lang/pashto/audios/ک.mp3"
           },
           "foilstones": [
             {
@@ -3333,7 +3333,7 @@
           ],
           "prompt": {
             "PromptText": "و",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/و.mp3"
+            "PromptAudio": "lang/pashto/audios/و.mp3"
           },
           "foilstones": [
             {
@@ -3356,7 +3356,7 @@
           ],
           "prompt": {
             "PromptText": "ح",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ح.mp3"
+            "PromptAudio": "lang/pashto/audios/ح.mp3"
           },
           "foilstones": [
             {
@@ -3382,7 +3382,7 @@
           ],
           "prompt": {
             "PromptText": "ږ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ږ.mp3"
+            "PromptAudio": "lang/pashto/audios/ږ.mp3"
           },
           "foilstones": [
             {
@@ -3405,7 +3405,7 @@
           ],
           "prompt": {
             "PromptText": "ح",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ح.mp3"
+            "PromptAudio": "lang/pashto/audios/ح.mp3"
           },
           "foilstones": [
             {
@@ -3440,7 +3440,7 @@
           ],
           "prompt": {
             "PromptText": "ن",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ن.mp3"
+            "PromptAudio": "lang/pashto/audios/ن.mp3"
           },
           "foilstones": [
             {
@@ -3463,7 +3463,7 @@
           ],
           "prompt": {
             "PromptText": "ت",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ت.mp3"
+            "PromptAudio": "lang/pashto/audios/ت.mp3"
           },
           "foilstones": [
             {
@@ -3486,7 +3486,7 @@
           ],
           "prompt": {
             "PromptText": "و",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/و.mp3"
+            "PromptAudio": "lang/pashto/audios/و.mp3"
           },
           "foilstones": [
             {
@@ -3512,7 +3512,7 @@
           ],
           "prompt": {
             "PromptText": "ب",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ب.mp3"
+            "PromptAudio": "lang/pashto/audios/ب.mp3"
           },
           "foilstones": [
             {
@@ -3535,7 +3535,7 @@
           ],
           "prompt": {
             "PromptText": "ن",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ن.mp3"
+            "PromptAudio": "lang/pashto/audios/ن.mp3"
           },
           "foilstones": [
             {
@@ -3570,7 +3570,7 @@
           ],
           "prompt": {
             "PromptText": "ت",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ت.mp3"
+            "PromptAudio": "lang/pashto/audios/ت.mp3"
           },
           "foilstones": [
             {
@@ -3593,7 +3593,7 @@
           ],
           "prompt": {
             "PromptText": "ظ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ظ.mp3"
+            "PromptAudio": "lang/pashto/audios/ظ.mp3"
           },
           "foilstones": [
             {
@@ -3616,7 +3616,7 @@
           ],
           "prompt": {
             "PromptText": "ب",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ب.mp3"
+            "PromptAudio": "lang/pashto/audios/ب.mp3"
           },
           "foilstones": [
             {
@@ -3642,7 +3642,7 @@
           ],
           "prompt": {
             "PromptText": "و",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/و.mp3"
+            "PromptAudio": "lang/pashto/audios/و.mp3"
           },
           "foilstones": [
             {
@@ -3665,7 +3665,7 @@
           ],
           "prompt": {
             "PromptText": "ږ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ږ.mp3"
+            "PromptAudio": "lang/pashto/audios/ږ.mp3"
           },
           "foilstones": [
             {
@@ -3700,7 +3700,7 @@
           ],
           "prompt": {
             "PromptText": "ک",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ک.mp3"
+            "PromptAudio": "lang/pashto/audios/ک.mp3"
           },
           "foilstones": [
             {
@@ -3732,7 +3732,7 @@
           ],
           "prompt": {
             "PromptText": "ز",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ز.mp3"
+            "PromptAudio": "lang/pashto/audios/ز.mp3"
           },
           "foilstones": [
             {
@@ -3761,7 +3761,7 @@
           ],
           "prompt": {
             "PromptText": "ن",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ن.mp3"
+            "PromptAudio": "lang/pashto/audios/ن.mp3"
           },
           "foilstones": [
             {
@@ -3793,7 +3793,7 @@
           ],
           "prompt": {
             "PromptText": "ح",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ح.mp3"
+            "PromptAudio": "lang/pashto/audios/ح.mp3"
           },
           "foilstones": [
             {
@@ -3822,7 +3822,7 @@
           ],
           "prompt": {
             "PromptText": "ې",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ې.mp3"
+            "PromptAudio": "lang/pashto/audios/ې.mp3"
           },
           "foilstones": [
             {
@@ -3866,7 +3866,7 @@
           ],
           "prompt": {
             "PromptText": "ن",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ن.mp3"
+            "PromptAudio": "lang/pashto/audios/ن.mp3"
           },
           "foilstones": [
             {
@@ -3898,7 +3898,7 @@
           ],
           "prompt": {
             "PromptText": "و",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/و.mp3"
+            "PromptAudio": "lang/pashto/audios/و.mp3"
           },
           "foilstones": [
             {
@@ -3930,7 +3930,7 @@
           ],
           "prompt": {
             "PromptText": "ې",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ې.mp3"
+            "PromptAudio": "lang/pashto/audios/ې.mp3"
           },
           "foilstones": [
             {
@@ -3959,7 +3959,7 @@
           ],
           "prompt": {
             "PromptText": "ز",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ز.mp3"
+            "PromptAudio": "lang/pashto/audios/ز.mp3"
           },
           "foilstones": [
             {
@@ -3988,7 +3988,7 @@
           ],
           "prompt": {
             "PromptText": "ب",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ب.mp3"
+            "PromptAudio": "lang/pashto/audios/ب.mp3"
           },
           "foilstones": [
             {
@@ -4032,7 +4032,7 @@
           ],
           "prompt": {
             "PromptText": "ن",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ن.mp3"
+            "PromptAudio": "lang/pashto/audios/ن.mp3"
           },
           "foilstones": [
             {
@@ -4064,7 +4064,7 @@
           ],
           "prompt": {
             "PromptText": "ت",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ت.mp3"
+            "PromptAudio": "lang/pashto/audios/ت.mp3"
           },
           "foilstones": [
             {
@@ -4096,7 +4096,7 @@
           ],
           "prompt": {
             "PromptText": "ن",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ن.mp3"
+            "PromptAudio": "lang/pashto/audios/ن.mp3"
           },
           "foilstones": [
             {
@@ -4125,7 +4125,7 @@
           ],
           "prompt": {
             "PromptText": "و",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/و.mp3"
+            "PromptAudio": "lang/pashto/audios/و.mp3"
           },
           "foilstones": [
             {
@@ -4154,7 +4154,7 @@
           ],
           "prompt": {
             "PromptText": "ت",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ت.mp3"
+            "PromptAudio": "lang/pashto/audios/ت.mp3"
           },
           "foilstones": [
             {
@@ -4198,7 +4198,7 @@
           ],
           "prompt": {
             "PromptText": "ک",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ک.mp3"
+            "PromptAudio": "lang/pashto/audios/ک.mp3"
           },
           "foilstones": [
             {
@@ -4227,7 +4227,7 @@
           ],
           "prompt": {
             "PromptText": "ت",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ت.mp3"
+            "PromptAudio": "lang/pashto/audios/ت.mp3"
           },
           "foilstones": [
             {
@@ -4259,7 +4259,7 @@
           ],
           "prompt": {
             "PromptText": "ز",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ز.mp3"
+            "PromptAudio": "lang/pashto/audios/ز.mp3"
           },
           "foilstones": [
             {
@@ -4291,7 +4291,7 @@
           ],
           "prompt": {
             "PromptText": "ت",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ت.mp3"
+            "PromptAudio": "lang/pashto/audios/ت.mp3"
           },
           "foilstones": [
             {
@@ -4320,7 +4320,7 @@
           ],
           "prompt": {
             "PromptText": "ب",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ب.mp3"
+            "PromptAudio": "lang/pashto/audios/ب.mp3"
           },
           "foilstones": [
             {
@@ -4364,7 +4364,7 @@
           ],
           "prompt": {
             "PromptText": "ظ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ظ.mp3"
+            "PromptAudio": "lang/pashto/audios/ظ.mp3"
           },
           "foilstones": [
             {
@@ -4396,7 +4396,7 @@
           ],
           "prompt": {
             "PromptText": "ک",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ک.mp3"
+            "PromptAudio": "lang/pashto/audios/ک.mp3"
           },
           "foilstones": [
             {
@@ -4428,7 +4428,7 @@
           ],
           "prompt": {
             "PromptText": "و",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/و.mp3"
+            "PromptAudio": "lang/pashto/audios/و.mp3"
           },
           "foilstones": [
             {
@@ -4457,7 +4457,7 @@
           ],
           "prompt": {
             "PromptText": "ن",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ن.mp3"
+            "PromptAudio": "lang/pashto/audios/ن.mp3"
           },
           "foilstones": [
             {
@@ -4489,7 +4489,7 @@
           ],
           "prompt": {
             "PromptText": "ب",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ب.mp3"
+            "PromptAudio": "lang/pashto/audios/ب.mp3"
           },
           "foilstones": [
             {
@@ -4530,7 +4530,7 @@
           ],
           "prompt": {
             "PromptText": "ز",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ز.mp3"
+            "PromptAudio": "lang/pashto/audios/ز.mp3"
           },
           "foilstones": [
             {
@@ -4562,7 +4562,7 @@
           ],
           "prompt": {
             "PromptText": "ت",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ت.mp3"
+            "PromptAudio": "lang/pashto/audios/ت.mp3"
           },
           "foilstones": [
             {
@@ -4594,7 +4594,7 @@
           ],
           "prompt": {
             "PromptText": "ږ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ږ.mp3"
+            "PromptAudio": "lang/pashto/audios/ږ.mp3"
           },
           "foilstones": [
             {
@@ -4623,7 +4623,7 @@
           ],
           "prompt": {
             "PromptText": "ې",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ې.mp3"
+            "PromptAudio": "lang/pashto/audios/ې.mp3"
           },
           "foilstones": [
             {
@@ -4655,7 +4655,7 @@
           ],
           "prompt": {
             "PromptText": "ح",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ح.mp3"
+            "PromptAudio": "lang/pashto/audios/ح.mp3"
           },
           "foilstones": [
             {
@@ -4696,7 +4696,7 @@
           ],
           "prompt": {
             "PromptText": "ظ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ظ.mp3"
+            "PromptAudio": "lang/pashto/audios/ظ.mp3"
           },
           "foilstones": [
             {
@@ -4728,7 +4728,7 @@
           ],
           "prompt": {
             "PromptText": "ې",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ې.mp3"
+            "PromptAudio": "lang/pashto/audios/ې.mp3"
           },
           "foilstones": [
             {
@@ -4760,7 +4760,7 @@
           ],
           "prompt": {
             "PromptText": "ن",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ن.mp3"
+            "PromptAudio": "lang/pashto/audios/ن.mp3"
           },
           "foilstones": [
             {
@@ -4789,7 +4789,7 @@
           ],
           "prompt": {
             "PromptText": "ې",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ې.mp3"
+            "PromptAudio": "lang/pashto/audios/ې.mp3"
           },
           "foilstones": [
             {
@@ -4821,7 +4821,7 @@
           ],
           "prompt": {
             "PromptText": "و",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/و.mp3"
+            "PromptAudio": "lang/pashto/audios/و.mp3"
           },
           "foilstones": [
             {
@@ -4862,7 +4862,7 @@
           ],
           "prompt": {
             "PromptText": "ږ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ږ.mp3"
+            "PromptAudio": "lang/pashto/audios/ږ.mp3"
           },
           "foilstones": [
             {
@@ -4900,7 +4900,7 @@
           ],
           "prompt": {
             "PromptText": "ز",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ز.mp3"
+            "PromptAudio": "lang/pashto/audios/ز.mp3"
           },
           "foilstones": [
             {
@@ -4935,7 +4935,7 @@
           ],
           "prompt": {
             "PromptText": "ح",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ح.mp3"
+            "PromptAudio": "lang/pashto/audios/ح.mp3"
           },
           "foilstones": [
             {
@@ -4973,7 +4973,7 @@
           ],
           "prompt": {
             "PromptText": "ن",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ن.mp3"
+            "PromptAudio": "lang/pashto/audios/ن.mp3"
           },
           "foilstones": [
             {
@@ -5005,7 +5005,7 @@
           ],
           "prompt": {
             "PromptText": "ظ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ظ.mp3"
+            "PromptAudio": "lang/pashto/audios/ظ.mp3"
           },
           "foilstones": [
             {
@@ -5058,7 +5058,7 @@
           ],
           "prompt": {
             "PromptText": "خ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/خ.mp3"
+            "PromptAudio": "lang/pashto/audios/خ.mp3"
           },
           "foilstones": [
             {
@@ -5093,7 +5093,7 @@
           ],
           "prompt": {
             "PromptText": "ج",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ج.mp3"
+            "PromptAudio": "lang/pashto/audios/ج.mp3"
           },
           "foilstones": [
             {
@@ -5131,7 +5131,7 @@
           ],
           "prompt": {
             "PromptText": "ځ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ځ.mp3"
+            "PromptAudio": "lang/pashto/audios/ځ.mp3"
           },
           "foilstones": [
             {
@@ -5169,7 +5169,7 @@
           ],
           "prompt": {
             "PromptText": "پ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/پ.mp3"
+            "PromptAudio": "lang/pashto/audios/پ.mp3"
           },
           "foilstones": [
             {
@@ -5210,7 +5210,7 @@
           ],
           "prompt": {
             "PromptText": "ۍ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ۍ.mp3"
+            "PromptAudio": "lang/pashto/audios/ۍ.mp3"
           },
           "foilstones": [
             {
@@ -5254,7 +5254,7 @@
           ],
           "prompt": {
             "PromptText": "ظ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ظ.mp3"
+            "PromptAudio": "lang/pashto/audios/ظ.mp3"
           },
           "foilstones": [
             {
@@ -5292,7 +5292,7 @@
           ],
           "prompt": {
             "PromptText": "ظ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ظ.mp3"
+            "PromptAudio": "lang/pashto/audios/ظ.mp3"
           },
           "foilstones": [
             {
@@ -5333,7 +5333,7 @@
           ],
           "prompt": {
             "PromptText": "ح",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ح.mp3"
+            "PromptAudio": "lang/pashto/audios/ح.mp3"
           },
           "foilstones": [
             {
@@ -5371,7 +5371,7 @@
           ],
           "prompt": {
             "PromptText": "ن",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ن.mp3"
+            "PromptAudio": "lang/pashto/audios/ن.mp3"
           },
           "foilstones": [
             {
@@ -5406,7 +5406,7 @@
           ],
           "prompt": {
             "PromptText": "ن",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ن.mp3"
+            "PromptAudio": "lang/pashto/audios/ن.mp3"
           },
           "foilstones": [
             {
@@ -5456,7 +5456,7 @@
           ],
           "prompt": {
             "PromptText": "ب",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ب.mp3"
+            "PromptAudio": "lang/pashto/audios/ب.mp3"
           },
           "foilstones": [
             {
@@ -5494,7 +5494,7 @@
           ],
           "prompt": {
             "PromptText": "ټ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ټ.mp3"
+            "PromptAudio": "lang/pashto/audios/ټ.mp3"
           },
           "foilstones": [
             {
@@ -5532,7 +5532,7 @@
           ],
           "prompt": {
             "PromptText": "ذ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ذ.mp3"
+            "PromptAudio": "lang/pashto/audios/ذ.mp3"
           },
           "foilstones": [
             {
@@ -5570,7 +5570,7 @@
           ],
           "prompt": {
             "PromptText": "خ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/خ.mp3"
+            "PromptAudio": "lang/pashto/audios/خ.mp3"
           },
           "foilstones": [
             {
@@ -5605,7 +5605,7 @@
           ],
           "prompt": {
             "PromptText": "چ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/چ.mp3"
+            "PromptAudio": "lang/pashto/audios/چ.mp3"
           },
           "foilstones": [
             {
@@ -5658,7 +5658,7 @@
           ],
           "prompt": {
             "PromptText": "و",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/و.mp3"
+            "PromptAudio": "lang/pashto/audios/و.mp3"
           },
           "foilstones": [
             {
@@ -5696,7 +5696,7 @@
           ],
           "prompt": {
             "PromptText": "ژ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ژ.mp3"
+            "PromptAudio": "lang/pashto/audios/ژ.mp3"
           },
           "foilstones": [
             {
@@ -5734,7 +5734,7 @@
           ],
           "prompt": {
             "PromptText": "س",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/س.mp3"
+            "PromptAudio": "lang/pashto/audios/س.mp3"
           },
           "foilstones": [
             {
@@ -5772,7 +5772,7 @@
           ],
           "prompt": {
             "PromptText": "ي",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ي.mp3"
+            "PromptAudio": "lang/pashto/audios/ي.mp3"
           },
           "foilstones": [
             {
@@ -5813,7 +5813,7 @@
           ],
           "prompt": {
             "PromptText": "ټ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ټ.mp3"
+            "PromptAudio": "lang/pashto/audios/ټ.mp3"
           },
           "foilstones": [
             {
@@ -5860,7 +5860,7 @@
           ],
           "prompt": {
             "PromptText": "و",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/و.mp3"
+            "PromptAudio": "lang/pashto/audios/و.mp3"
           },
           "foilstones": [
             {
@@ -5898,7 +5898,7 @@
           ],
           "prompt": {
             "PromptText": "ژ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ژ.mp3"
+            "PromptAudio": "lang/pashto/audios/ژ.mp3"
           },
           "foilstones": [
             {
@@ -5936,7 +5936,7 @@
           ],
           "prompt": {
             "PromptText": "ب",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ب.mp3"
+            "PromptAudio": "lang/pashto/audios/ب.mp3"
           },
           "foilstones": [
             {
@@ -5974,7 +5974,7 @@
           ],
           "prompt": {
             "PromptText": "ټ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ټ.mp3"
+            "PromptAudio": "lang/pashto/audios/ټ.mp3"
           },
           "foilstones": [
             {
@@ -6015,7 +6015,7 @@
           ],
           "prompt": {
             "PromptText": "خ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/خ.mp3"
+            "PromptAudio": "lang/pashto/audios/خ.mp3"
           },
           "foilstones": [
             {
@@ -6062,7 +6062,7 @@
           ],
           "prompt": {
             "PromptText": "ي",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ي.mp3"
+            "PromptAudio": "lang/pashto/audios/ي.mp3"
           },
           "foilstones": [
             {
@@ -6100,7 +6100,7 @@
           ],
           "prompt": {
             "PromptText": "چ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/چ.mp3"
+            "PromptAudio": "lang/pashto/audios/چ.mp3"
           },
           "foilstones": [
             {
@@ -6138,7 +6138,7 @@
           ],
           "prompt": {
             "PromptText": "خ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/خ.mp3"
+            "PromptAudio": "lang/pashto/audios/خ.mp3"
           },
           "foilstones": [
             {
@@ -6176,7 +6176,7 @@
           ],
           "prompt": {
             "PromptText": "ژ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ژ.mp3"
+            "PromptAudio": "lang/pashto/audios/ژ.mp3"
           },
           "foilstones": [
             {
@@ -6217,7 +6217,7 @@
           ],
           "prompt": {
             "PromptText": "ژ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ژ.mp3"
+            "PromptAudio": "lang/pashto/audios/ژ.mp3"
           },
           "foilstones": [
             {
@@ -6264,7 +6264,7 @@
           ],
           "prompt": {
             "PromptText": "و",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/و.mp3"
+            "PromptAudio": "lang/pashto/audios/و.mp3"
           },
           "foilstones": [
             {
@@ -6302,7 +6302,7 @@
           ],
           "prompt": {
             "PromptText": "خ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/خ.mp3"
+            "PromptAudio": "lang/pashto/audios/خ.mp3"
           },
           "foilstones": [
             {
@@ -6340,7 +6340,7 @@
           ],
           "prompt": {
             "PromptText": "ټ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ټ.mp3"
+            "PromptAudio": "lang/pashto/audios/ټ.mp3"
           },
           "foilstones": [
             {
@@ -6378,7 +6378,7 @@
           ],
           "prompt": {
             "PromptText": "چ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/چ.mp3"
+            "PromptAudio": "lang/pashto/audios/چ.mp3"
           },
           "foilstones": [
             {
@@ -6413,7 +6413,7 @@
           ],
           "prompt": {
             "PromptText": "ژ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ژ.mp3"
+            "PromptAudio": "lang/pashto/audios/ژ.mp3"
           },
           "foilstones": [
             {
@@ -6466,7 +6466,7 @@
           ],
           "prompt": {
             "PromptText": "ب",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ب.mp3"
+            "PromptAudio": "lang/pashto/audios/ب.mp3"
           },
           "foilstones": [
             {
@@ -6504,7 +6504,7 @@
           ],
           "prompt": {
             "PromptText": "ي",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ي.mp3"
+            "PromptAudio": "lang/pashto/audios/ي.mp3"
           },
           "foilstones": [
             {
@@ -6542,7 +6542,7 @@
           ],
           "prompt": {
             "PromptText": "س",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/س.mp3"
+            "PromptAudio": "lang/pashto/audios/س.mp3"
           },
           "foilstones": [
             {
@@ -6580,7 +6580,7 @@
           ],
           "prompt": {
             "PromptText": "ذ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ذ.mp3"
+            "PromptAudio": "lang/pashto/audios/ذ.mp3"
           },
           "foilstones": [
             {
@@ -6615,7 +6615,7 @@
           ],
           "prompt": {
             "PromptText": "چ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/چ.mp3"
+            "PromptAudio": "lang/pashto/audios/چ.mp3"
           },
           "foilstones": [
             {
@@ -6668,7 +6668,7 @@
           ],
           "prompt": {
             "PromptText": "ب",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ب.mp3"
+            "PromptAudio": "lang/pashto/audios/ب.mp3"
           },
           "foilstones": [
             {
@@ -6706,7 +6706,7 @@
           ],
           "prompt": {
             "PromptText": "خ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/خ.mp3"
+            "PromptAudio": "lang/pashto/audios/خ.mp3"
           },
           "foilstones": [
             {
@@ -6744,7 +6744,7 @@
           ],
           "prompt": {
             "PromptText": "ب",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ب.mp3"
+            "PromptAudio": "lang/pashto/audios/ب.mp3"
           },
           "foilstones": [
             {
@@ -6779,7 +6779,7 @@
           ],
           "prompt": {
             "PromptText": "ټ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ټ.mp3"
+            "PromptAudio": "lang/pashto/audios/ټ.mp3"
           },
           "foilstones": [
             {
@@ -6820,7 +6820,7 @@
           ],
           "prompt": {
             "PromptText": "چ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/چ.mp3"
+            "PromptAudio": "lang/pashto/audios/چ.mp3"
           },
           "foilstones": [
             {
@@ -6870,7 +6870,7 @@
           ],
           "prompt": {
             "PromptText": "س",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/س.mp3"
+            "PromptAudio": "lang/pashto/audios/س.mp3"
           },
           "foilstones": [
             {
@@ -6908,7 +6908,7 @@
           ],
           "prompt": {
             "PromptText": "ټ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ټ.mp3"
+            "PromptAudio": "lang/pashto/audios/ټ.mp3"
           },
           "foilstones": [
             {
@@ -6946,7 +6946,7 @@
           ],
           "prompt": {
             "PromptText": "چ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/چ.mp3"
+            "PromptAudio": "lang/pashto/audios/چ.mp3"
           },
           "foilstones": [
             {
@@ -6984,7 +6984,7 @@
           ],
           "prompt": {
             "PromptText": "ذ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ذ.mp3"
+            "PromptAudio": "lang/pashto/audios/ذ.mp3"
           },
           "foilstones": [
             {
@@ -7019,7 +7019,7 @@
           ],
           "prompt": {
             "PromptText": "چ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/چ.mp3"
+            "PromptAudio": "lang/pashto/audios/چ.mp3"
           },
           "foilstones": [
             {
@@ -7072,7 +7072,7 @@
           ],
           "prompt": {
             "PromptText": "ي",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ي.mp3"
+            "PromptAudio": "lang/pashto/audios/ي.mp3"
           },
           "foilstones": [
             {
@@ -7110,7 +7110,7 @@
           ],
           "prompt": {
             "PromptText": "ذ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ذ.mp3"
+            "PromptAudio": "lang/pashto/audios/ذ.mp3"
           },
           "foilstones": [
             {
@@ -7148,7 +7148,7 @@
           ],
           "prompt": {
             "PromptText": "ټ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ټ.mp3"
+            "PromptAudio": "lang/pashto/audios/ټ.mp3"
           },
           "foilstones": [
             {
@@ -7186,7 +7186,7 @@
           ],
           "prompt": {
             "PromptText": "و",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/و.mp3"
+            "PromptAudio": "lang/pashto/audios/و.mp3"
           },
           "foilstones": [
             {
@@ -7221,7 +7221,7 @@
           ],
           "prompt": {
             "PromptText": "چ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/چ.mp3"
+            "PromptAudio": "lang/pashto/audios/چ.mp3"
           },
           "foilstones": [
             {
@@ -7274,7 +7274,7 @@
           ],
           "prompt": {
             "PromptText": "س",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/س.mp3"
+            "PromptAudio": "lang/pashto/audios/س.mp3"
           },
           "foilstones": [
             {
@@ -7297,7 +7297,7 @@
           ],
           "prompt": {
             "PromptText": "چ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/چ.mp3"
+            "PromptAudio": "lang/pashto/audios/چ.mp3"
           },
           "foilstones": [
             {
@@ -7320,7 +7320,7 @@
           ],
           "prompt": {
             "PromptText": "و",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/و.mp3"
+            "PromptAudio": "lang/pashto/audios/و.mp3"
           },
           "foilstones": [
             {
@@ -7343,7 +7343,7 @@
           ],
           "prompt": {
             "PromptText": "ژ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ژ.mp3"
+            "PromptAudio": "lang/pashto/audios/ژ.mp3"
           },
           "foilstones": [
             {
@@ -7369,7 +7369,7 @@
           ],
           "prompt": {
             "PromptText": "ذ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ذ.mp3"
+            "PromptAudio": "lang/pashto/audios/ذ.mp3"
           },
           "foilstones": [
             {
@@ -7404,7 +7404,7 @@
           ],
           "prompt": {
             "PromptText": "ټ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ټ.mp3"
+            "PromptAudio": "lang/pashto/audios/ټ.mp3"
           },
           "foilstones": [
             {
@@ -7427,7 +7427,7 @@
           ],
           "prompt": {
             "PromptText": "خ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/خ.mp3"
+            "PromptAudio": "lang/pashto/audios/خ.mp3"
           },
           "foilstones": [
             {
@@ -7450,7 +7450,7 @@
           ],
           "prompt": {
             "PromptText": "ي",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ي.mp3"
+            "PromptAudio": "lang/pashto/audios/ي.mp3"
           },
           "foilstones": [
             {
@@ -7473,7 +7473,7 @@
           ],
           "prompt": {
             "PromptText": "ب",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ب.mp3"
+            "PromptAudio": "lang/pashto/audios/ب.mp3"
           },
           "foilstones": [
             {
@@ -7499,7 +7499,7 @@
           ],
           "prompt": {
             "PromptText": "س",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/س.mp3"
+            "PromptAudio": "lang/pashto/audios/س.mp3"
           },
           "foilstones": [
             {
@@ -7534,7 +7534,7 @@
           ],
           "prompt": {
             "PromptText": "ګ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ګ.mp3"
+            "PromptAudio": "lang/pashto/audios/ګ.mp3"
           },
           "foilstones": [
             {
@@ -7572,7 +7572,7 @@
           ],
           "prompt": {
             "PromptText": "ه",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ه.mp3"
+            "PromptAudio": "lang/pashto/audios/ه.mp3"
           },
           "foilstones": [
             {
@@ -7610,7 +7610,7 @@
           ],
           "prompt": {
             "PromptText": "و",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/و.mp3"
+            "PromptAudio": "lang/pashto/audios/و.mp3"
           },
           "foilstones": [
             {
@@ -7645,7 +7645,7 @@
           ],
           "prompt": {
             "PromptText": "ض",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ض.mp3"
+            "PromptAudio": "lang/pashto/audios/ض.mp3"
           },
           "foilstones": [
             {
@@ -7686,7 +7686,7 @@
           ],
           "prompt": {
             "PromptText": "س",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/س.mp3"
+            "PromptAudio": "lang/pashto/audios/س.mp3"
           },
           "foilstones": [
             {
@@ -7736,7 +7736,7 @@
           ],
           "prompt": {
             "PromptText": "د",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/د.mp3"
+            "PromptAudio": "lang/pashto/audios/د.mp3"
           },
           "foilstones": [
             {
@@ -7774,7 +7774,7 @@
           ],
           "prompt": {
             "PromptText": "س",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/س.mp3"
+            "PromptAudio": "lang/pashto/audios/س.mp3"
           },
           "foilstones": [
             {
@@ -7812,7 +7812,7 @@
           ],
           "prompt": {
             "PromptText": "ه",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ه.mp3"
+            "PromptAudio": "lang/pashto/audios/ه.mp3"
           },
           "foilstones": [
             {
@@ -7850,7 +7850,7 @@
           ],
           "prompt": {
             "PromptText": "ګ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ګ.mp3"
+            "PromptAudio": "lang/pashto/audios/ګ.mp3"
           },
           "foilstones": [
             {
@@ -7885,7 +7885,7 @@
           ],
           "prompt": {
             "PromptText": "ض",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ض.mp3"
+            "PromptAudio": "lang/pashto/audios/ض.mp3"
           },
           "foilstones": [
             {
@@ -7938,7 +7938,7 @@
           ],
           "prompt": {
             "PromptText": "د",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/د.mp3"
+            "PromptAudio": "lang/pashto/audios/د.mp3"
           },
           "foilstones": [
             {
@@ -7976,7 +7976,7 @@
           ],
           "prompt": {
             "PromptText": "ه",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ه.mp3"
+            "PromptAudio": "lang/pashto/audios/ه.mp3"
           },
           "foilstones": [
             {
@@ -8014,7 +8014,7 @@
           ],
           "prompt": {
             "PromptText": "ه",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ه.mp3"
+            "PromptAudio": "lang/pashto/audios/ه.mp3"
           },
           "foilstones": [
             {
@@ -8049,7 +8049,7 @@
           ],
           "prompt": {
             "PromptText": "ګ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ګ.mp3"
+            "PromptAudio": "lang/pashto/audios/ګ.mp3"
           },
           "foilstones": [
             {
@@ -8090,7 +8090,7 @@
           ],
           "prompt": {
             "PromptText": "ه",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ه.mp3"
+            "PromptAudio": "lang/pashto/audios/ه.mp3"
           },
           "foilstones": [
             {
@@ -8140,7 +8140,7 @@
           ],
           "prompt": {
             "PromptText": "ه",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ه.mp3"
+            "PromptAudio": "lang/pashto/audios/ه.mp3"
           },
           "foilstones": [
             {
@@ -8178,7 +8178,7 @@
           ],
           "prompt": {
             "PromptText": "ګ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ګ.mp3"
+            "PromptAudio": "lang/pashto/audios/ګ.mp3"
           },
           "foilstones": [
             {
@@ -8219,7 +8219,7 @@
           ],
           "prompt": {
             "PromptText": "ض",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ض.mp3"
+            "PromptAudio": "lang/pashto/audios/ض.mp3"
           },
           "foilstones": [
             {
@@ -8257,7 +8257,7 @@
           ],
           "prompt": {
             "PromptText": "د",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/د.mp3"
+            "PromptAudio": "lang/pashto/audios/د.mp3"
           },
           "foilstones": [
             {
@@ -8292,7 +8292,7 @@
           ],
           "prompt": {
             "PromptText": "و",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/و.mp3"
+            "PromptAudio": "lang/pashto/audios/و.mp3"
           },
           "foilstones": [
             {
@@ -8342,7 +8342,7 @@
           ],
           "prompt": {
             "PromptText": "ګ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ګ.mp3"
+            "PromptAudio": "lang/pashto/audios/ګ.mp3"
           },
           "foilstones": [
             {
@@ -8380,7 +8380,7 @@
           ],
           "prompt": {
             "PromptText": "و",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/و.mp3"
+            "PromptAudio": "lang/pashto/audios/و.mp3"
           },
           "foilstones": [
             {
@@ -8418,7 +8418,7 @@
           ],
           "prompt": {
             "PromptText": "س",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/س.mp3"
+            "PromptAudio": "lang/pashto/audios/س.mp3"
           },
           "foilstones": [
             {
@@ -8456,7 +8456,7 @@
           ],
           "prompt": {
             "PromptText": "ګ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ګ.mp3"
+            "PromptAudio": "lang/pashto/audios/ګ.mp3"
           },
           "foilstones": [
             {
@@ -8491,7 +8491,7 @@
           ],
           "prompt": {
             "PromptText": "و",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/و.mp3"
+            "PromptAudio": "lang/pashto/audios/و.mp3"
           },
           "foilstones": [
             {
@@ -8544,7 +8544,7 @@
           ],
           "prompt": {
             "PromptText": "ض",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ض.mp3"
+            "PromptAudio": "lang/pashto/audios/ض.mp3"
           },
           "foilstones": [
             {
@@ -8582,7 +8582,7 @@
           ],
           "prompt": {
             "PromptText": "ګ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ګ.mp3"
+            "PromptAudio": "lang/pashto/audios/ګ.mp3"
           },
           "foilstones": [
             {
@@ -8620,7 +8620,7 @@
           ],
           "prompt": {
             "PromptText": "ه",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ه.mp3"
+            "PromptAudio": "lang/pashto/audios/ه.mp3"
           },
           "foilstones": [
             {
@@ -8658,7 +8658,7 @@
           ],
           "prompt": {
             "PromptText": "د",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/د.mp3"
+            "PromptAudio": "lang/pashto/audios/د.mp3"
           },
           "foilstones": [
             {
@@ -8693,7 +8693,7 @@
           ],
           "prompt": {
             "PromptText": "و",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/و.mp3"
+            "PromptAudio": "lang/pashto/audios/و.mp3"
           },
           "foilstones": [
             {
@@ -8746,7 +8746,7 @@
           ],
           "prompt": {
             "PromptText": "س",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/س.mp3"
+            "PromptAudio": "lang/pashto/audios/س.mp3"
           },
           "foilstones": [
             {
@@ -8784,7 +8784,7 @@
           ],
           "prompt": {
             "PromptText": "ه",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ه.mp3"
+            "PromptAudio": "lang/pashto/audios/ه.mp3"
           },
           "foilstones": [
             {
@@ -8825,7 +8825,7 @@
           ],
           "prompt": {
             "PromptText": "ض",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ض.mp3"
+            "PromptAudio": "lang/pashto/audios/ض.mp3"
           },
           "foilstones": [
             {
@@ -8863,7 +8863,7 @@
           ],
           "prompt": {
             "PromptText": "ه",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ه.mp3"
+            "PromptAudio": "lang/pashto/audios/ه.mp3"
           },
           "foilstones": [
             {
@@ -8898,7 +8898,7 @@
           ],
           "prompt": {
             "PromptText": "د",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/د.mp3"
+            "PromptAudio": "lang/pashto/audios/د.mp3"
           },
           "foilstones": [
             {
@@ -8948,7 +8948,7 @@
           ],
           "prompt": {
             "PromptText": "و",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/و.mp3"
+            "PromptAudio": "lang/pashto/audios/و.mp3"
           },
           "foilstones": [
             {
@@ -8986,7 +8986,7 @@
           ],
           "prompt": {
             "PromptText": "س",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/س.mp3"
+            "PromptAudio": "lang/pashto/audios/س.mp3"
           },
           "foilstones": [
             {
@@ -9024,7 +9024,7 @@
           ],
           "prompt": {
             "PromptText": "ه",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ه.mp3"
+            "PromptAudio": "lang/pashto/audios/ه.mp3"
           },
           "foilstones": [
             {
@@ -9062,7 +9062,7 @@
           ],
           "prompt": {
             "PromptText": "د",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/د.mp3"
+            "PromptAudio": "lang/pashto/audios/د.mp3"
           },
           "foilstones": [
             {
@@ -9097,7 +9097,7 @@
           ],
           "prompt": {
             "PromptText": "ه",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ه.mp3"
+            "PromptAudio": "lang/pashto/audios/ه.mp3"
           },
           "foilstones": [
             {
@@ -9150,7 +9150,7 @@
           ],
           "prompt": {
             "PromptText": "و",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/و.mp3"
+            "PromptAudio": "lang/pashto/audios/و.mp3"
           },
           "foilstones": [
             {
@@ -9188,7 +9188,7 @@
           ],
           "prompt": {
             "PromptText": "ه",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ه.mp3"
+            "PromptAudio": "lang/pashto/audios/ه.mp3"
           },
           "foilstones": [
             {
@@ -9226,7 +9226,7 @@
           ],
           "prompt": {
             "PromptText": "د",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/د.mp3"
+            "PromptAudio": "lang/pashto/audios/د.mp3"
           },
           "foilstones": [
             {
@@ -9264,7 +9264,7 @@
           ],
           "prompt": {
             "PromptText": "ض",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ض.mp3"
+            "PromptAudio": "lang/pashto/audios/ض.mp3"
           },
           "foilstones": [
             {
@@ -9299,7 +9299,7 @@
           ],
           "prompt": {
             "PromptText": "ض",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ض.mp3"
+            "PromptAudio": "lang/pashto/audios/ض.mp3"
           },
           "foilstones": [
             {
@@ -9352,7 +9352,7 @@
           ],
           "prompt": {
             "PromptText": "ګ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ګ.mp3"
+            "PromptAudio": "lang/pashto/audios/ګ.mp3"
           },
           "foilstones": [
             {
@@ -9390,7 +9390,7 @@
           ],
           "prompt": {
             "PromptText": "د",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/د.mp3"
+            "PromptAudio": "lang/pashto/audios/د.mp3"
           },
           "foilstones": [
             {
@@ -9428,7 +9428,7 @@
           ],
           "prompt": {
             "PromptText": "ض",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ض.mp3"
+            "PromptAudio": "lang/pashto/audios/ض.mp3"
           },
           "foilstones": [
             {
@@ -9463,7 +9463,7 @@
           ],
           "prompt": {
             "PromptText": "و",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/و.mp3"
+            "PromptAudio": "lang/pashto/audios/و.mp3"
           },
           "foilstones": [
             {
@@ -9501,7 +9501,7 @@
           ],
           "prompt": {
             "PromptText": "ه",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ه.mp3"
+            "PromptAudio": "lang/pashto/audios/ه.mp3"
           },
           "foilstones": [
             {
@@ -9554,7 +9554,7 @@
           ],
           "prompt": {
             "PromptText": "ه",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ه.mp3"
+            "PromptAudio": "lang/pashto/audios/ه.mp3"
           },
           "foilstones": [
             {
@@ -9592,7 +9592,7 @@
           ],
           "prompt": {
             "PromptText": "س",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/س.mp3"
+            "PromptAudio": "lang/pashto/audios/س.mp3"
           },
           "foilstones": [
             {
@@ -9630,7 +9630,7 @@
           ],
           "prompt": {
             "PromptText": "و",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/و.mp3"
+            "PromptAudio": "lang/pashto/audios/و.mp3"
           },
           "foilstones": [
             {
@@ -9665,7 +9665,7 @@
           ],
           "prompt": {
             "PromptText": "ض",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ض.mp3"
+            "PromptAudio": "lang/pashto/audios/ض.mp3"
           },
           "foilstones": [
             {
@@ -9703,7 +9703,7 @@
           ],
           "prompt": {
             "PromptText": "ګ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ګ.mp3"
+            "PromptAudio": "lang/pashto/audios/ګ.mp3"
           },
           "foilstones": [
             {
@@ -9756,7 +9756,7 @@
           ],
           "prompt": {
             "PromptText": "د",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/د.mp3"
+            "PromptAudio": "lang/pashto/audios/د.mp3"
           },
           "foilstones": [
             {
@@ -9794,7 +9794,7 @@
           ],
           "prompt": {
             "PromptText": "ه",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ه.mp3"
+            "PromptAudio": "lang/pashto/audios/ه.mp3"
           },
           "foilstones": [
             {
@@ -9832,7 +9832,7 @@
           ],
           "prompt": {
             "PromptText": "د",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/د.mp3"
+            "PromptAudio": "lang/pashto/audios/د.mp3"
           },
           "foilstones": [
             {
@@ -9867,7 +9867,7 @@
           ],
           "prompt": {
             "PromptText": "ض",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ض.mp3"
+            "PromptAudio": "lang/pashto/audios/ض.mp3"
           },
           "foilstones": [
             {
@@ -9905,7 +9905,7 @@
           ],
           "prompt": {
             "PromptText": "د",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/د.mp3"
+            "PromptAudio": "lang/pashto/audios/د.mp3"
           },
           "foilstones": [
             {
@@ -9958,7 +9958,7 @@
           ],
           "prompt": {
             "PromptText": "ض",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ض.mp3"
+            "PromptAudio": "lang/pashto/audios/ض.mp3"
           },
           "foilstones": [
             {
@@ -9996,7 +9996,7 @@
           ],
           "prompt": {
             "PromptText": "ه",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ه.mp3"
+            "PromptAudio": "lang/pashto/audios/ه.mp3"
           },
           "foilstones": [
             {
@@ -10034,7 +10034,7 @@
           ],
           "prompt": {
             "PromptText": "ګ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ګ.mp3"
+            "PromptAudio": "lang/pashto/audios/ګ.mp3"
           },
           "foilstones": [
             {
@@ -10069,7 +10069,7 @@
           ],
           "prompt": {
             "PromptText": "ګ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ګ.mp3"
+            "PromptAudio": "lang/pashto/audios/ګ.mp3"
           },
           "foilstones": [
             {
@@ -10107,7 +10107,7 @@
           ],
           "prompt": {
             "PromptText": "ګ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ګ.mp3"
+            "PromptAudio": "lang/pashto/audios/ګ.mp3"
           },
           "foilstones": [
             {
@@ -10160,7 +10160,7 @@
           ],
           "prompt": {
             "PromptText": "و",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/و.mp3"
+            "PromptAudio": "lang/pashto/audios/و.mp3"
           },
           "foilstones": [
             {
@@ -10198,7 +10198,7 @@
           ],
           "prompt": {
             "PromptText": "ه",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ه.mp3"
+            "PromptAudio": "lang/pashto/audios/ه.mp3"
           },
           "foilstones": [
             {
@@ -10236,7 +10236,7 @@
           ],
           "prompt": {
             "PromptText": "ګ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ګ.mp3"
+            "PromptAudio": "lang/pashto/audios/ګ.mp3"
           },
           "foilstones": [
             {
@@ -10271,7 +10271,7 @@
           ],
           "prompt": {
             "PromptText": "ګ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ګ.mp3"
+            "PromptAudio": "lang/pashto/audios/ګ.mp3"
           },
           "foilstones": [
             {
@@ -10309,7 +10309,7 @@
           ],
           "prompt": {
             "PromptText": "د",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/د.mp3"
+            "PromptAudio": "lang/pashto/audios/د.mp3"
           },
           "foilstones": [
             {
@@ -10362,7 +10362,7 @@
           ],
           "prompt": {
             "PromptText": "ګ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ګ.mp3"
+            "PromptAudio": "lang/pashto/audios/ګ.mp3"
           },
           "foilstones": [
             {
@@ -10400,7 +10400,7 @@
           ],
           "prompt": {
             "PromptText": "د",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/د.mp3"
+            "PromptAudio": "lang/pashto/audios/د.mp3"
           },
           "foilstones": [
             {
@@ -10438,7 +10438,7 @@
           ],
           "prompt": {
             "PromptText": "ض",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ض.mp3"
+            "PromptAudio": "lang/pashto/audios/ض.mp3"
           },
           "foilstones": [
             {
@@ -10473,7 +10473,7 @@
           ],
           "prompt": {
             "PromptText": "ګ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ګ.mp3"
+            "PromptAudio": "lang/pashto/audios/ګ.mp3"
           },
           "foilstones": [
             {
@@ -10511,7 +10511,7 @@
           ],
           "prompt": {
             "PromptText": "د",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/د.mp3"
+            "PromptAudio": "lang/pashto/audios/د.mp3"
           },
           "foilstones": [
             {
@@ -10564,7 +10564,7 @@
           ],
           "prompt": {
             "PromptText": "ط",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ط.mp3"
+            "PromptAudio": "lang/pashto/audios/ط.mp3"
           },
           "foilstones": [
             {
@@ -10602,7 +10602,7 @@
           ],
           "prompt": {
             "PromptText": "ډ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ډ.mp3"
+            "PromptAudio": "lang/pashto/audios/ډ.mp3"
           },
           "foilstones": [
             {
@@ -10640,7 +10640,7 @@
           ],
           "prompt": {
             "PromptText": "ئ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ئ.mp3"
+            "PromptAudio": "lang/pashto/audios/ئ.mp3"
           },
           "foilstones": [
             {
@@ -10672,7 +10672,7 @@
           ],
           "prompt": {
             "PromptText": "ۀ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ۀ.mp3"
+            "PromptAudio": "lang/pashto/audios/ۀ.mp3"
           },
           "foilstones": [
             {
@@ -10707,7 +10707,7 @@
           ],
           "prompt": {
             "PromptText": "ع",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ع.mp3"
+            "PromptAudio": "lang/pashto/audios/ع.mp3"
           },
           "foilstones": [
             {
@@ -10760,7 +10760,7 @@
           ],
           "prompt": {
             "PromptText": "ص",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ص.mp3"
+            "PromptAudio": "lang/pashto/audios/ص.mp3"
           },
           "foilstones": [
             {
@@ -10798,7 +10798,7 @@
           ],
           "prompt": {
             "PromptText": "ی",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ی.mp3"
+            "PromptAudio": "lang/pashto/audios/ی.mp3"
           },
           "foilstones": [
             {
@@ -10836,7 +10836,7 @@
           ],
           "prompt": {
             "PromptText": "ښ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ښ.mp3"
+            "PromptAudio": "lang/pashto/audios/ښ.mp3"
           },
           "foilstones": [
             {
@@ -10874,7 +10874,7 @@
           ],
           "prompt": {
             "PromptText": "ئ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ئ.mp3"
+            "PromptAudio": "lang/pashto/audios/ئ.mp3"
           },
           "foilstones": [
             {
@@ -10909,7 +10909,7 @@
           ],
           "prompt": {
             "PromptText": "ط",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ط.mp3"
+            "PromptAudio": "lang/pashto/audios/ط.mp3"
           },
           "foilstones": [
             {
@@ -10962,7 +10962,7 @@
           ],
           "prompt": {
             "PromptText": "ی",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ی.mp3"
+            "PromptAudio": "lang/pashto/audios/ی.mp3"
           },
           "foilstones": [
             {
@@ -11000,7 +11000,7 @@
           ],
           "prompt": {
             "PromptText": "ښ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ښ.mp3"
+            "PromptAudio": "lang/pashto/audios/ښ.mp3"
           },
           "foilstones": [
             {
@@ -11038,7 +11038,7 @@
           ],
           "prompt": {
             "PromptText": "ښ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ښ.mp3"
+            "PromptAudio": "lang/pashto/audios/ښ.mp3"
           },
           "foilstones": [
             {
@@ -11070,7 +11070,7 @@
           ],
           "prompt": {
             "PromptText": "ع",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ع.mp3"
+            "PromptAudio": "lang/pashto/audios/ع.mp3"
           },
           "foilstones": [
             {
@@ -11105,7 +11105,7 @@
           ],
           "prompt": {
             "PromptText": "ط",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ط.mp3"
+            "PromptAudio": "lang/pashto/audios/ط.mp3"
           },
           "foilstones": [
             {
@@ -11158,7 +11158,7 @@
           ],
           "prompt": {
             "PromptText": "ع",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ع.mp3"
+            "PromptAudio": "lang/pashto/audios/ع.mp3"
           },
           "foilstones": [
             {
@@ -11196,7 +11196,7 @@
           ],
           "prompt": {
             "PromptText": "ئ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ئ.mp3"
+            "PromptAudio": "lang/pashto/audios/ئ.mp3"
           },
           "foilstones": [
             {
@@ -11234,7 +11234,7 @@
           ],
           "prompt": {
             "PromptText": "ط",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ط.mp3"
+            "PromptAudio": "lang/pashto/audios/ط.mp3"
           },
           "foilstones": [
             {
@@ -11272,7 +11272,7 @@
           ],
           "prompt": {
             "PromptText": "ښ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ښ.mp3"
+            "PromptAudio": "lang/pashto/audios/ښ.mp3"
           },
           "foilstones": [
             {
@@ -11307,7 +11307,7 @@
           ],
           "prompt": {
             "PromptText": "ډ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ډ.mp3"
+            "PromptAudio": "lang/pashto/audios/ډ.mp3"
           },
           "foilstones": [
             {
@@ -11360,7 +11360,7 @@
           ],
           "prompt": {
             "PromptText": "ۀ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ۀ.mp3"
+            "PromptAudio": "lang/pashto/audios/ۀ.mp3"
           },
           "foilstones": [
             {
@@ -11398,7 +11398,7 @@
           ],
           "prompt": {
             "PromptText": "ۀ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ۀ.mp3"
+            "PromptAudio": "lang/pashto/audios/ۀ.mp3"
           },
           "foilstones": [
             {
@@ -11436,7 +11436,7 @@
           ],
           "prompt": {
             "PromptText": "ع",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ع.mp3"
+            "PromptAudio": "lang/pashto/audios/ع.mp3"
           },
           "foilstones": [
             {
@@ -11468,7 +11468,7 @@
           ],
           "prompt": {
             "PromptText": "ص",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ص.mp3"
+            "PromptAudio": "lang/pashto/audios/ص.mp3"
           },
           "foilstones": [
             {
@@ -11503,7 +11503,7 @@
           ],
           "prompt": {
             "PromptText": "ۀ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ۀ.mp3"
+            "PromptAudio": "lang/pashto/audios/ۀ.mp3"
           },
           "foilstones": [
             {
@@ -11556,7 +11556,7 @@
           ],
           "prompt": {
             "PromptText": "ص",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ص.mp3"
+            "PromptAudio": "lang/pashto/audios/ص.mp3"
           },
           "foilstones": [
             {
@@ -11594,7 +11594,7 @@
           ],
           "prompt": {
             "PromptText": "ع",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ع.mp3"
+            "PromptAudio": "lang/pashto/audios/ع.mp3"
           },
           "foilstones": [
             {
@@ -11632,7 +11632,7 @@
           ],
           "prompt": {
             "PromptText": "ط",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ط.mp3"
+            "PromptAudio": "lang/pashto/audios/ط.mp3"
           },
           "foilstones": [
             {
@@ -11670,7 +11670,7 @@
           ],
           "prompt": {
             "PromptText": "ۀ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ۀ.mp3"
+            "PromptAudio": "lang/pashto/audios/ۀ.mp3"
           },
           "foilstones": [
             {
@@ -11711,7 +11711,7 @@
           ],
           "prompt": {
             "PromptText": "ډ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ډ.mp3"
+            "PromptAudio": "lang/pashto/audios/ډ.mp3"
           },
           "foilstones": [
             {
@@ -11758,7 +11758,7 @@
           ],
           "prompt": {
             "PromptText": "ئ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ئ.mp3"
+            "PromptAudio": "lang/pashto/audios/ئ.mp3"
           },
           "foilstones": [
             {
@@ -11796,7 +11796,7 @@
           ],
           "prompt": {
             "PromptText": "ی",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ی.mp3"
+            "PromptAudio": "lang/pashto/audios/ی.mp3"
           },
           "foilstones": [
             {
@@ -11834,7 +11834,7 @@
           ],
           "prompt": {
             "PromptText": "ښ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ښ.mp3"
+            "PromptAudio": "lang/pashto/audios/ښ.mp3"
           },
           "foilstones": [
             {
@@ -11866,7 +11866,7 @@
           ],
           "prompt": {
             "PromptText": "ډ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ډ.mp3"
+            "PromptAudio": "lang/pashto/audios/ډ.mp3"
           },
           "foilstones": [
             {
@@ -11901,7 +11901,7 @@
           ],
           "prompt": {
             "PromptText": "ښ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ښ.mp3"
+            "PromptAudio": "lang/pashto/audios/ښ.mp3"
           },
           "foilstones": [
             {
@@ -11954,7 +11954,7 @@
           ],
           "prompt": {
             "PromptText": "ښ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ښ.mp3"
+            "PromptAudio": "lang/pashto/audios/ښ.mp3"
           },
           "foilstones": [
             {
@@ -11992,7 +11992,7 @@
           ],
           "prompt": {
             "PromptText": "ډ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ډ.mp3"
+            "PromptAudio": "lang/pashto/audios/ډ.mp3"
           },
           "foilstones": [
             {
@@ -12030,7 +12030,7 @@
           ],
           "prompt": {
             "PromptText": "ی",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ی.mp3"
+            "PromptAudio": "lang/pashto/audios/ی.mp3"
           },
           "foilstones": [
             {
@@ -12068,7 +12068,7 @@
           ],
           "prompt": {
             "PromptText": "ی",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ی.mp3"
+            "PromptAudio": "lang/pashto/audios/ی.mp3"
           },
           "foilstones": [
             {
@@ -12103,7 +12103,7 @@
           ],
           "prompt": {
             "PromptText": "ی",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ی.mp3"
+            "PromptAudio": "lang/pashto/audios/ی.mp3"
           },
           "foilstones": [
             {
@@ -12156,7 +12156,7 @@
           ],
           "prompt": {
             "PromptText": "ص",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ص.mp3"
+            "PromptAudio": "lang/pashto/audios/ص.mp3"
           },
           "foilstones": [
             {
@@ -12194,7 +12194,7 @@
           ],
           "prompt": {
             "PromptText": "ۀ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ۀ.mp3"
+            "PromptAudio": "lang/pashto/audios/ۀ.mp3"
           },
           "foilstones": [
             {
@@ -12232,7 +12232,7 @@
           ],
           "prompt": {
             "PromptText": "ط",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ط.mp3"
+            "PromptAudio": "lang/pashto/audios/ط.mp3"
           },
           "foilstones": [
             {
@@ -12270,7 +12270,7 @@
           ],
           "prompt": {
             "PromptText": "ښ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ښ.mp3"
+            "PromptAudio": "lang/pashto/audios/ښ.mp3"
           },
           "foilstones": [
             {
@@ -12305,7 +12305,7 @@
           ],
           "prompt": {
             "PromptText": "ئ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ئ.mp3"
+            "PromptAudio": "lang/pashto/audios/ئ.mp3"
           },
           "foilstones": [
             {
@@ -12358,7 +12358,7 @@
           ],
           "prompt": {
             "PromptText": "ډ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ډ.mp3"
+            "PromptAudio": "lang/pashto/audios/ډ.mp3"
           },
           "foilstones": [
             {
@@ -12396,7 +12396,7 @@
           ],
           "prompt": {
             "PromptText": "ع",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ع.mp3"
+            "PromptAudio": "lang/pashto/audios/ع.mp3"
           },
           "foilstones": [
             {
@@ -12434,7 +12434,7 @@
           ],
           "prompt": {
             "PromptText": "ی",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ی.mp3"
+            "PromptAudio": "lang/pashto/audios/ی.mp3"
           },
           "foilstones": [
             {
@@ -12466,7 +12466,7 @@
           ],
           "prompt": {
             "PromptText": "ئ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ئ.mp3"
+            "PromptAudio": "lang/pashto/audios/ئ.mp3"
           },
           "foilstones": [
             {
@@ -12501,7 +12501,7 @@
           ],
           "prompt": {
             "PromptText": "ئ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ئ.mp3"
+            "PromptAudio": "lang/pashto/audios/ئ.mp3"
           },
           "foilstones": [
             {
@@ -12554,7 +12554,7 @@
           ],
           "prompt": {
             "PromptText": "ئ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ئ.mp3"
+            "PromptAudio": "lang/pashto/audios/ئ.mp3"
           },
           "foilstones": [
             {
@@ -12592,7 +12592,7 @@
           ],
           "prompt": {
             "PromptText": "ۀ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ۀ.mp3"
+            "PromptAudio": "lang/pashto/audios/ۀ.mp3"
           },
           "foilstones": [
             {
@@ -12630,7 +12630,7 @@
           ],
           "prompt": {
             "PromptText": "ی",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ی.mp3"
+            "PromptAudio": "lang/pashto/audios/ی.mp3"
           },
           "foilstones": [
             {
@@ -12668,7 +12668,7 @@
           ],
           "prompt": {
             "PromptText": "ئ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ئ.mp3"
+            "PromptAudio": "lang/pashto/audios/ئ.mp3"
           },
           "foilstones": [
             {
@@ -12703,7 +12703,7 @@
           ],
           "prompt": {
             "PromptText": "ی",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ی.mp3"
+            "PromptAudio": "lang/pashto/audios/ی.mp3"
           },
           "foilstones": [
             {
@@ -12756,7 +12756,7 @@
           ],
           "prompt": {
             "PromptText": "ع",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ع.mp3"
+            "PromptAudio": "lang/pashto/audios/ع.mp3"
           },
           "foilstones": [
             {
@@ -12794,7 +12794,7 @@
           ],
           "prompt": {
             "PromptText": "ص",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ص.mp3"
+            "PromptAudio": "lang/pashto/audios/ص.mp3"
           },
           "foilstones": [
             {
@@ -12832,7 +12832,7 @@
           ],
           "prompt": {
             "PromptText": "ص",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ص.mp3"
+            "PromptAudio": "lang/pashto/audios/ص.mp3"
           },
           "foilstones": [
             {
@@ -12870,7 +12870,7 @@
           ],
           "prompt": {
             "PromptText": "ی",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ی.mp3"
+            "PromptAudio": "lang/pashto/audios/ی.mp3"
           },
           "foilstones": [
             {
@@ -12911,7 +12911,7 @@
           ],
           "prompt": {
             "PromptText": "ډ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ډ.mp3"
+            "PromptAudio": "lang/pashto/audios/ډ.mp3"
           },
           "foilstones": [
             {
@@ -12958,7 +12958,7 @@
           ],
           "prompt": {
             "PromptText": "ط",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ط.mp3"
+            "PromptAudio": "lang/pashto/audios/ط.mp3"
           },
           "foilstones": [
             {
@@ -12996,7 +12996,7 @@
           ],
           "prompt": {
             "PromptText": "ډ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ډ.mp3"
+            "PromptAudio": "lang/pashto/audios/ډ.mp3"
           },
           "foilstones": [
             {
@@ -13034,7 +13034,7 @@
           ],
           "prompt": {
             "PromptText": "ع",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ع.mp3"
+            "PromptAudio": "lang/pashto/audios/ع.mp3"
           },
           "foilstones": [
             {
@@ -13066,7 +13066,7 @@
           ],
           "prompt": {
             "PromptText": "ښ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ښ.mp3"
+            "PromptAudio": "lang/pashto/audios/ښ.mp3"
           },
           "foilstones": [
             {
@@ -13101,7 +13101,7 @@
           ],
           "prompt": {
             "PromptText": "ص",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/pashto/audios/ص.mp3"
+            "PromptAudio": "lang/pashto/audios/ص.mp3"
           },
           "foilstones": [
             {

@@ -10,9 +10,9 @@
   "minversion": 15,
   "langname": "VIETNAMESE",
   "FeedbackAudios": [
-    "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/fantastic.mp3",
-    "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/great.mp3",
-    "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/amazing.mp3"
+    "lang/vietnamese/audios/fantastic.mp3",
+    "lang/vietnamese/audios/great.mp3",
+    "lang/vietnamese/audios/amazing.mp3"
   ],
   "OtherAudios": {
     "Select your player": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/Select-your-player.mp3",
@@ -39,7 +39,7 @@
           ],
           "prompt": {
             "PromptText": "d",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/d.mp3"
+            "PromptAudio": "lang/vietnamese/audios/d.mp3"
           },
           "foilstones": [
             {
@@ -59,7 +59,7 @@
           ],
           "prompt": {
             "PromptText": "a",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/a.mp3"
+            "PromptAudio": "lang/vietnamese/audios/a.mp3"
           },
           "foilstones": [
             {
@@ -79,7 +79,7 @@
           ],
           "prompt": {
             "PromptText": "b",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/b.mp3"
+            "PromptAudio": "lang/vietnamese/audios/b.mp3"
           },
           "foilstones": [
             {
@@ -99,7 +99,7 @@
           ],
           "prompt": {
             "PromptText": "nh",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/nh.mp3"
+            "PromptAudio": "lang/vietnamese/audios/nh.mp3"
           },
           "foilstones": [
             {
@@ -119,7 +119,7 @@
           ],
           "prompt": {
             "PromptText": "x",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/x.mp3"
+            "PromptAudio": "lang/vietnamese/audios/x.mp3"
           },
           "foilstones": [
             {
@@ -154,7 +154,7 @@
           ],
           "prompt": {
             "PromptText": "x",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/x.mp3"
+            "PromptAudio": "lang/vietnamese/audios/x.mp3"
           },
           "foilstones": [
             {
@@ -177,7 +177,7 @@
           ],
           "prompt": {
             "PromptText": "nh",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/nh.mp3"
+            "PromptAudio": "lang/vietnamese/audios/nh.mp3"
           },
           "foilstones": [
             {
@@ -200,7 +200,7 @@
           ],
           "prompt": {
             "PromptText": "b",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/b.mp3"
+            "PromptAudio": "lang/vietnamese/audios/b.mp3"
           },
           "foilstones": [
             {
@@ -223,7 +223,7 @@
           ],
           "prompt": {
             "PromptText": "ph",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/ph.mp3"
+            "PromptAudio": "lang/vietnamese/audios/ph.mp3"
           },
           "foilstones": [
             {
@@ -246,7 +246,7 @@
           ],
           "prompt": {
             "PromptText": "x",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/x.mp3"
+            "PromptAudio": "lang/vietnamese/audios/x.mp3"
           },
           "foilstones": [
             {
@@ -284,7 +284,7 @@
           ],
           "prompt": {
             "PromptText": "ph",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/ph.mp3"
+            "PromptAudio": "lang/vietnamese/audios/ph.mp3"
           },
           "foilstones": [
             {
@@ -304,7 +304,7 @@
           ],
           "prompt": {
             "PromptText": "b",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/b.mp3"
+            "PromptAudio": "lang/vietnamese/audios/b.mp3"
           },
           "foilstones": [
             {
@@ -324,7 +324,7 @@
           ],
           "prompt": {
             "PromptText": "x",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/x.mp3"
+            "PromptAudio": "lang/vietnamese/audios/x.mp3"
           },
           "foilstones": [
             {
@@ -344,7 +344,7 @@
           ],
           "prompt": {
             "PromptText": "a",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/a.mp3"
+            "PromptAudio": "lang/vietnamese/audios/a.mp3"
           },
           "foilstones": [
             {
@@ -364,7 +364,7 @@
           ],
           "prompt": {
             "PromptText": "nh",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/nh.mp3"
+            "PromptAudio": "lang/vietnamese/audios/nh.mp3"
           },
           "foilstones": [
             {
@@ -399,7 +399,7 @@
           ],
           "prompt": {
             "PromptText": "nh",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/nh.mp3"
+            "PromptAudio": "lang/vietnamese/audios/nh.mp3"
           },
           "foilstones": [
             {
@@ -419,7 +419,7 @@
           ],
           "prompt": {
             "PromptText": "a",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/a.mp3"
+            "PromptAudio": "lang/vietnamese/audios/a.mp3"
           },
           "foilstones": [
             {
@@ -439,7 +439,7 @@
           ],
           "prompt": {
             "PromptText": "b",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/b.mp3"
+            "PromptAudio": "lang/vietnamese/audios/b.mp3"
           },
           "foilstones": [
             {
@@ -459,7 +459,7 @@
           ],
           "prompt": {
             "PromptText": "x",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/x.mp3"
+            "PromptAudio": "lang/vietnamese/audios/x.mp3"
           },
           "foilstones": [
             {
@@ -479,7 +479,7 @@
           ],
           "prompt": {
             "PromptText": "d",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/d.mp3"
+            "PromptAudio": "lang/vietnamese/audios/d.mp3"
           },
           "foilstones": [
             {
@@ -514,7 +514,7 @@
           ],
           "prompt": {
             "PromptText": "a",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/a.mp3"
+            "PromptAudio": "lang/vietnamese/audios/a.mp3"
           },
           "foilstones": [
             {
@@ -537,7 +537,7 @@
           ],
           "prompt": {
             "PromptText": "b",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/b.mp3"
+            "PromptAudio": "lang/vietnamese/audios/b.mp3"
           },
           "foilstones": [
             {
@@ -560,7 +560,7 @@
           ],
           "prompt": {
             "PromptText": "d",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/d.mp3"
+            "PromptAudio": "lang/vietnamese/audios/d.mp3"
           },
           "foilstones": [
             {
@@ -583,7 +583,7 @@
           ],
           "prompt": {
             "PromptText": "x",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/x.mp3"
+            "PromptAudio": "lang/vietnamese/audios/x.mp3"
           },
           "foilstones": [
             {
@@ -606,7 +606,7 @@
           ],
           "prompt": {
             "PromptText": "nh",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/nh.mp3"
+            "PromptAudio": "lang/vietnamese/audios/nh.mp3"
           },
           "foilstones": [
             {
@@ -644,7 +644,7 @@
           ],
           "prompt": {
             "PromptText": "ph",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/ph.mp3"
+            "PromptAudio": "lang/vietnamese/audios/ph.mp3"
           },
           "foilstones": [
             {
@@ -667,7 +667,7 @@
           ],
           "prompt": {
             "PromptText": "a",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/a.mp3"
+            "PromptAudio": "lang/vietnamese/audios/a.mp3"
           },
           "foilstones": [
             {
@@ -690,7 +690,7 @@
           ],
           "prompt": {
             "PromptText": "d",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/d.mp3"
+            "PromptAudio": "lang/vietnamese/audios/d.mp3"
           },
           "foilstones": [
             {
@@ -713,7 +713,7 @@
           ],
           "prompt": {
             "PromptText": "nh",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/nh.mp3"
+            "PromptAudio": "lang/vietnamese/audios/nh.mp3"
           },
           "foilstones": [
             {
@@ -736,7 +736,7 @@
           ],
           "prompt": {
             "PromptText": "x",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/x.mp3"
+            "PromptAudio": "lang/vietnamese/audios/x.mp3"
           },
           "foilstones": [
             {
@@ -774,7 +774,7 @@
           ],
           "prompt": {
             "PromptText": "danh",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/d.mp3"
+            "PromptAudio": "lang/vietnamese/audios/d.mp3"
           },
           "foilstones": [
             {
@@ -797,7 +797,7 @@
           ],
           "prompt": {
             "PromptText": "xanh",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/x.mp3"
+            "PromptAudio": "lang/vietnamese/audios/x.mp3"
           },
           "foilstones": [
             {
@@ -820,7 +820,7 @@
           ],
           "prompt": {
             "PromptText": "phanh",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/ph.mp3"
+            "PromptAudio": "lang/vietnamese/audios/ph.mp3"
           },
           "foilstones": [
             {
@@ -843,7 +843,7 @@
           ],
           "prompt": {
             "PromptText": "xanh",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/x.mp3"
+            "PromptAudio": "lang/vietnamese/audios/x.mp3"
           },
           "foilstones": [
             {
@@ -866,7 +866,7 @@
           ],
           "prompt": {
             "PromptText": "nhanh",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/nh.mp3"
+            "PromptAudio": "lang/vietnamese/audios/nh.mp3"
           },
           "foilstones": [
             {
@@ -904,7 +904,7 @@
           ],
           "prompt": {
             "PromptText": "dành",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/d.mp3"
+            "PromptAudio": "lang/vietnamese/audios/d.mp3"
           },
           "foilstones": [
             {
@@ -927,7 +927,7 @@
           ],
           "prompt": {
             "PromptText": "nhành",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/nh.mp3"
+            "PromptAudio": "lang/vietnamese/audios/nh.mp3"
           },
           "foilstones": [
             {
@@ -950,7 +950,7 @@
           ],
           "prompt": {
             "PromptText": "xanh",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/x.mp3"
+            "PromptAudio": "lang/vietnamese/audios/x.mp3"
           },
           "foilstones": [
             {
@@ -973,7 +973,7 @@
           ],
           "prompt": {
             "PromptText": "bành",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/b.mp3"
+            "PromptAudio": "lang/vietnamese/audios/b.mp3"
           },
           "foilstones": [
             {
@@ -996,7 +996,7 @@
           ],
           "prompt": {
             "PromptText": "phanh",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/ph.mp3"
+            "PromptAudio": "lang/vietnamese/audios/ph.mp3"
           },
           "foilstones": [
             {
@@ -1034,7 +1034,7 @@
           ],
           "prompt": {
             "PromptText": "danh",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/d.mp3"
+            "PromptAudio": "lang/vietnamese/audios/d.mp3"
           },
           "foilstones": [
             {
@@ -1057,7 +1057,7 @@
           ],
           "prompt": {
             "PromptText": "xanh",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/x.mp3"
+            "PromptAudio": "lang/vietnamese/audios/x.mp3"
           },
           "foilstones": [
             {
@@ -1080,7 +1080,7 @@
           ],
           "prompt": {
             "PromptText": "nhanh",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/nh.mp3"
+            "PromptAudio": "lang/vietnamese/audios/nh.mp3"
           },
           "foilstones": [
             {
@@ -1103,7 +1103,7 @@
           ],
           "prompt": {
             "PromptText": "phanh",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/ph.mp3"
+            "PromptAudio": "lang/vietnamese/audios/ph.mp3"
           },
           "foilstones": [
             {
@@ -1126,7 +1126,7 @@
           ],
           "prompt": {
             "PromptText": "bành",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/b.mp3"
+            "PromptAudio": "lang/vietnamese/audios/b.mp3"
           },
           "foilstones": [
             {
@@ -1170,7 +1170,7 @@
           ],
           "prompt": {
             "PromptText": "xanh",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/xanh.mp3"
+            "PromptAudio": "lang/vietnamese/audios/xanh.mp3"
           },
           "foilstones": [
             {
@@ -1202,7 +1202,7 @@
           ],
           "prompt": {
             "PromptText": "phanh",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/phanh.mp3"
+            "PromptAudio": "lang/vietnamese/audios/phanh.mp3"
           },
           "foilstones": [
             {
@@ -1234,7 +1234,7 @@
           ],
           "prompt": {
             "PromptText": "nhanh",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/nhanh.mp3"
+            "PromptAudio": "lang/vietnamese/audios/nhanh.mp3"
           },
           "foilstones": [
             {
@@ -1263,7 +1263,7 @@
           ],
           "prompt": {
             "PromptText": "danh",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/danh.mp3"
+            "PromptAudio": "lang/vietnamese/audios/danh.mp3"
           },
           "foilstones": [
             {
@@ -1292,7 +1292,7 @@
           ],
           "prompt": {
             "PromptText": "bành",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/bành.mp3"
+            "PromptAudio": "lang/vietnamese/audios/bành.mp3"
           },
           "foilstones": [
             {
@@ -1333,7 +1333,7 @@
           ],
           "prompt": {
             "PromptText": "danh",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/danh.mp3"
+            "PromptAudio": "lang/vietnamese/audios/danh.mp3"
           },
           "foilstones": [
             {
@@ -1362,7 +1362,7 @@
           ],
           "prompt": {
             "PromptText": "xanh",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/xanh.mp3"
+            "PromptAudio": "lang/vietnamese/audios/xanh.mp3"
           },
           "foilstones": [
             {
@@ -1391,7 +1391,7 @@
           ],
           "prompt": {
             "PromptText": "phanh",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/phanh.mp3"
+            "PromptAudio": "lang/vietnamese/audios/phanh.mp3"
           },
           "foilstones": [
             {
@@ -1420,7 +1420,7 @@
           ],
           "prompt": {
             "PromptText": "xanh",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/xanh.mp3"
+            "PromptAudio": "lang/vietnamese/audios/xanh.mp3"
           },
           "foilstones": [
             {
@@ -1452,7 +1452,7 @@
           ],
           "prompt": {
             "PromptText": "nhanh",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/nhanh.mp3"
+            "PromptAudio": "lang/vietnamese/audios/nhanh.mp3"
           },
           "foilstones": [
             {
@@ -1493,7 +1493,7 @@
           ],
           "prompt": {
             "PromptText": "xanh",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/xanh.mp3"
+            "PromptAudio": "lang/vietnamese/audios/xanh.mp3"
           },
           "foilstones": [
             {
@@ -1522,7 +1522,7 @@
           ],
           "prompt": {
             "PromptText": "phanh",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/phanh.mp3"
+            "PromptAudio": "lang/vietnamese/audios/phanh.mp3"
           },
           "foilstones": [
             {
@@ -1551,7 +1551,7 @@
           ],
           "prompt": {
             "PromptText": "nhanh",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/nhanh.mp3"
+            "PromptAudio": "lang/vietnamese/audios/nhanh.mp3"
           },
           "foilstones": [
             {
@@ -1580,7 +1580,7 @@
           ],
           "prompt": {
             "PromptText": "danh",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/danh.mp3"
+            "PromptAudio": "lang/vietnamese/audios/danh.mp3"
           },
           "foilstones": [
             {
@@ -1609,7 +1609,7 @@
           ],
           "prompt": {
             "PromptText": "bành",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/bành.mp3"
+            "PromptAudio": "lang/vietnamese/audios/bành.mp3"
           },
           "foilstones": [
             {
@@ -1647,7 +1647,7 @@
           ],
           "prompt": {
             "PromptText": "t",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/t.mp3"
+            "PromptAudio": "lang/vietnamese/audios/t.mp3"
           },
           "foilstones": [
             {
@@ -1670,7 +1670,7 @@
           ],
           "prompt": {
             "PromptText": "tr",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/tr.mp3"
+            "PromptAudio": "lang/vietnamese/audios/tr.mp3"
           },
           "foilstones": [
             {
@@ -1693,7 +1693,7 @@
           ],
           "prompt": {
             "PromptText": "s",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/s.mp3"
+            "PromptAudio": "lang/vietnamese/audios/s.mp3"
           },
           "foilstones": [
             {
@@ -1716,7 +1716,7 @@
           ],
           "prompt": {
             "PromptText": "v",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/v.mp3"
+            "PromptAudio": "lang/vietnamese/audios/v.mp3"
           },
           "foilstones": [
             {
@@ -1739,7 +1739,7 @@
           ],
           "prompt": {
             "PromptText": "t",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/t.mp3"
+            "PromptAudio": "lang/vietnamese/audios/t.mp3"
           },
           "foilstones": [
             {
@@ -1777,7 +1777,7 @@
           ],
           "prompt": {
             "PromptText": "t",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/t.mp3"
+            "PromptAudio": "lang/vietnamese/audios/t.mp3"
           },
           "foilstones": [
             {
@@ -1800,7 +1800,7 @@
           ],
           "prompt": {
             "PromptText": "s",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/s.mp3"
+            "PromptAudio": "lang/vietnamese/audios/s.mp3"
           },
           "foilstones": [
             {
@@ -1823,7 +1823,7 @@
           ],
           "prompt": {
             "PromptText": "tr",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/tr.mp3"
+            "PromptAudio": "lang/vietnamese/audios/tr.mp3"
           },
           "foilstones": [
             {
@@ -1846,7 +1846,7 @@
           ],
           "prompt": {
             "PromptText": "m",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/m.mp3"
+            "PromptAudio": "lang/vietnamese/audios/m.mp3"
           },
           "foilstones": [
             {
@@ -1869,7 +1869,7 @@
           ],
           "prompt": {
             "PromptText": "e",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/e.mp3"
+            "PromptAudio": "lang/vietnamese/audios/e.mp3"
           },
           "foilstones": [
             {
@@ -1907,7 +1907,7 @@
           ],
           "prompt": {
             "PromptText": "t",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/t.mp3"
+            "PromptAudio": "lang/vietnamese/audios/t.mp3"
           },
           "foilstones": [
             {
@@ -1927,7 +1927,7 @@
           ],
           "prompt": {
             "PromptText": "m",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/m.mp3"
+            "PromptAudio": "lang/vietnamese/audios/m.mp3"
           },
           "foilstones": [
             {
@@ -1947,7 +1947,7 @@
           ],
           "prompt": {
             "PromptText": "s",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/s.mp3"
+            "PromptAudio": "lang/vietnamese/audios/s.mp3"
           },
           "foilstones": [
             {
@@ -1967,7 +1967,7 @@
           ],
           "prompt": {
             "PromptText": "e",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/e.mp3"
+            "PromptAudio": "lang/vietnamese/audios/e.mp3"
           },
           "foilstones": [
             {
@@ -1987,7 +1987,7 @@
           ],
           "prompt": {
             "PromptText": "v",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/v.mp3"
+            "PromptAudio": "lang/vietnamese/audios/v.mp3"
           },
           "foilstones": [
             {
@@ -2022,7 +2022,7 @@
           ],
           "prompt": {
             "PromptText": "e",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/e.mp3"
+            "PromptAudio": "lang/vietnamese/audios/e.mp3"
           },
           "foilstones": [
             {
@@ -2045,7 +2045,7 @@
           ],
           "prompt": {
             "PromptText": "t",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/t.mp3"
+            "PromptAudio": "lang/vietnamese/audios/t.mp3"
           },
           "foilstones": [
             {
@@ -2068,7 +2068,7 @@
           ],
           "prompt": {
             "PromptText": "m",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/m.mp3"
+            "PromptAudio": "lang/vietnamese/audios/m.mp3"
           },
           "foilstones": [
             {
@@ -2091,7 +2091,7 @@
           ],
           "prompt": {
             "PromptText": "tr",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/tr.mp3"
+            "PromptAudio": "lang/vietnamese/audios/tr.mp3"
           },
           "foilstones": [
             {
@@ -2114,7 +2114,7 @@
           ],
           "prompt": {
             "PromptText": "s",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/s.mp3"
+            "PromptAudio": "lang/vietnamese/audios/s.mp3"
           },
           "foilstones": [
             {
@@ -2152,7 +2152,7 @@
           ],
           "prompt": {
             "PromptText": "m",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/m.mp3"
+            "PromptAudio": "lang/vietnamese/audios/m.mp3"
           },
           "foilstones": [
             {
@@ -2181,7 +2181,7 @@
           ],
           "prompt": {
             "PromptText": "t",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/t.mp3"
+            "PromptAudio": "lang/vietnamese/audios/t.mp3"
           },
           "foilstones": [
             {
@@ -2207,7 +2207,7 @@
           ],
           "prompt": {
             "PromptText": "s",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/s.mp3"
+            "PromptAudio": "lang/vietnamese/audios/s.mp3"
           },
           "foilstones": [
             {
@@ -2230,7 +2230,7 @@
           ],
           "prompt": {
             "PromptText": "ê",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/ê.mp3"
+            "PromptAudio": "lang/vietnamese/audios/ê.mp3"
           },
           "foilstones": [
             {
@@ -2256,7 +2256,7 @@
           ],
           "prompt": {
             "PromptText": "v",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/v.mp3"
+            "PromptAudio": "lang/vietnamese/audios/v.mp3"
           },
           "foilstones": [
             {
@@ -2294,7 +2294,7 @@
           ],
           "prompt": {
             "PromptText": "ê",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/ê.mp3"
+            "PromptAudio": "lang/vietnamese/audios/ê.mp3"
           },
           "foilstones": [
             {
@@ -2320,7 +2320,7 @@
           ],
           "prompt": {
             "PromptText": "s",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/s.mp3"
+            "PromptAudio": "lang/vietnamese/audios/s.mp3"
           },
           "foilstones": [
             {
@@ -2346,7 +2346,7 @@
           ],
           "prompt": {
             "PromptText": "v",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/v.mp3"
+            "PromptAudio": "lang/vietnamese/audios/v.mp3"
           },
           "foilstones": [
             {
@@ -2372,7 +2372,7 @@
           ],
           "prompt": {
             "PromptText": "m",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/m.mp3"
+            "PromptAudio": "lang/vietnamese/audios/m.mp3"
           },
           "foilstones": [
             {
@@ -2398,7 +2398,7 @@
           ],
           "prompt": {
             "PromptText": "tr",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/tr.mp3"
+            "PromptAudio": "lang/vietnamese/audios/tr.mp3"
           },
           "foilstones": [
             {
@@ -2442,7 +2442,7 @@
           ],
           "prompt": {
             "PromptText": "sét",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/s.mp3"
+            "PromptAudio": "lang/vietnamese/audios/s.mp3"
           },
           "foilstones": [
             {
@@ -2468,7 +2468,7 @@
           ],
           "prompt": {
             "PromptText": "mẹt",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/m.mp3"
+            "PromptAudio": "lang/vietnamese/audios/m.mp3"
           },
           "foilstones": [
             {
@@ -2494,7 +2494,7 @@
           ],
           "prompt": {
             "PromptText": "mép",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/m.mp3"
+            "PromptAudio": "lang/vietnamese/audios/m.mp3"
           },
           "foilstones": [
             {
@@ -2520,7 +2520,7 @@
           ],
           "prompt": {
             "PromptText": "vé",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/v.mp3"
+            "PromptAudio": "lang/vietnamese/audios/v.mp3"
           },
           "foilstones": [
             {
@@ -2546,7 +2546,7 @@
           ],
           "prompt": {
             "PromptText": "sém",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/s.mp3"
+            "PromptAudio": "lang/vietnamese/audios/s.mp3"
           },
           "foilstones": [
             {
@@ -2590,7 +2590,7 @@
           ],
           "prompt": {
             "PromptText": "sét",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/s.mp3"
+            "PromptAudio": "lang/vietnamese/audios/s.mp3"
           },
           "foilstones": [
             {
@@ -2616,7 +2616,7 @@
           ],
           "prompt": {
             "PromptText": "mép",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/m.mp3"
+            "PromptAudio": "lang/vietnamese/audios/m.mp3"
           },
           "foilstones": [
             {
@@ -2642,7 +2642,7 @@
           ],
           "prompt": {
             "PromptText": "vé",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/v.mp3"
+            "PromptAudio": "lang/vietnamese/audios/v.mp3"
           },
           "foilstones": [
             {
@@ -2668,7 +2668,7 @@
           ],
           "prompt": {
             "PromptText": "sém",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/s.mp3"
+            "PromptAudio": "lang/vietnamese/audios/s.mp3"
           },
           "foilstones": [
             {
@@ -2694,7 +2694,7 @@
           ],
           "prompt": {
             "PromptText": "mẹt",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/m.mp3"
+            "PromptAudio": "lang/vietnamese/audios/m.mp3"
           },
           "foilstones": [
             {
@@ -2738,7 +2738,7 @@
           ],
           "prompt": {
             "PromptText": "mẹt",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/m.mp3"
+            "PromptAudio": "lang/vietnamese/audios/m.mp3"
           },
           "foilstones": [
             {
@@ -2764,7 +2764,7 @@
           ],
           "prompt": {
             "PromptText": "vẹ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/v.mp3"
+            "PromptAudio": "lang/vietnamese/audios/v.mp3"
           },
           "foilstones": [
             {
@@ -2790,7 +2790,7 @@
           ],
           "prompt": {
             "PromptText": "vé",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/v.mp3"
+            "PromptAudio": "lang/vietnamese/audios/v.mp3"
           },
           "foilstones": [
             {
@@ -2816,7 +2816,7 @@
           ],
           "prompt": {
             "PromptText": "sét",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/s.mp3"
+            "PromptAudio": "lang/vietnamese/audios/s.mp3"
           },
           "foilstones": [
             {
@@ -2842,7 +2842,7 @@
           ],
           "prompt": {
             "PromptText": "sém",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/s.mp3"
+            "PromptAudio": "lang/vietnamese/audios/s.mp3"
           },
           "foilstones": [
             {
@@ -2886,7 +2886,7 @@
           ],
           "prompt": {
             "PromptText": "mẹt",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/m.mp3"
+            "PromptAudio": "lang/vietnamese/audios/m.mp3"
           },
           "foilstones": [
             {
@@ -2909,7 +2909,7 @@
           ],
           "prompt": {
             "PromptText": "sém",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/s.mp3"
+            "PromptAudio": "lang/vietnamese/audios/s.mp3"
           },
           "foilstones": [
             {
@@ -2932,7 +2932,7 @@
           ],
           "prompt": {
             "PromptText": "tem",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/t.mp3"
+            "PromptAudio": "lang/vietnamese/audios/t.mp3"
           },
           "foilstones": [
             {
@@ -2955,7 +2955,7 @@
           ],
           "prompt": {
             "PromptText": "vé",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/v.mp3"
+            "PromptAudio": "lang/vietnamese/audios/v.mp3"
           },
           "foilstones": [
             {
@@ -2978,7 +2978,7 @@
           ],
           "prompt": {
             "PromptText": "mép",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/m.mp3"
+            "PromptAudio": "lang/vietnamese/audios/m.mp3"
           },
           "foilstones": [
             {
@@ -3022,7 +3022,7 @@
           ],
           "prompt": {
             "PromptText": "mẹt",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/mẹt.mp3"
+            "PromptAudio": "lang/vietnamese/audios/mẹt.mp3"
           },
           "foilstones": [
             {
@@ -3051,7 +3051,7 @@
           ],
           "prompt": {
             "PromptText": "sét",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/sét.mp3"
+            "PromptAudio": "lang/vietnamese/audios/sét.mp3"
           },
           "foilstones": [
             {
@@ -3080,7 +3080,7 @@
           ],
           "prompt": {
             "PromptText": "sém",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/sém.mp3"
+            "PromptAudio": "lang/vietnamese/audios/sém.mp3"
           },
           "foilstones": [
             {
@@ -3106,7 +3106,7 @@
           ],
           "prompt": {
             "PromptText": "vé",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/vé.mp3"
+            "PromptAudio": "lang/vietnamese/audios/vé.mp3"
           },
           "foilstones": [
             {
@@ -3135,7 +3135,7 @@
           ],
           "prompt": {
             "PromptText": "mép",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/mép.mp3"
+            "PromptAudio": "lang/vietnamese/audios/mép.mp3"
           },
           "foilstones": [
             {
@@ -3173,7 +3173,7 @@
           ],
           "prompt": {
             "PromptText": "tre",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/tre.mp3"
+            "PromptAudio": "lang/vietnamese/audios/tre.mp3"
           },
           "foilstones": [
             {
@@ -3202,7 +3202,7 @@
           ],
           "prompt": {
             "PromptText": "mép",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/mép.mp3"
+            "PromptAudio": "lang/vietnamese/audios/mép.mp3"
           },
           "foilstones": [
             {
@@ -3231,7 +3231,7 @@
           ],
           "prompt": {
             "PromptText": "mẹt",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/mẹt.mp3"
+            "PromptAudio": "lang/vietnamese/audios/mẹt.mp3"
           },
           "foilstones": [
             {
@@ -3263,7 +3263,7 @@
           ],
           "prompt": {
             "PromptText": "sét",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/sét.mp3"
+            "PromptAudio": "lang/vietnamese/audios/sét.mp3"
           },
           "foilstones": [
             {
@@ -3292,7 +3292,7 @@
           ],
           "prompt": {
             "PromptText": "sém",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/sém.mp3"
+            "PromptAudio": "lang/vietnamese/audios/sém.mp3"
           },
           "foilstones": [
             {
@@ -3333,7 +3333,7 @@
           ],
           "prompt": {
             "PromptText": "mẹt",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/mẹt.mp3"
+            "PromptAudio": "lang/vietnamese/audios/mẹt.mp3"
           },
           "foilstones": [
             {
@@ -3362,7 +3362,7 @@
           ],
           "prompt": {
             "PromptText": "sét",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/sét.mp3"
+            "PromptAudio": "lang/vietnamese/audios/sét.mp3"
           },
           "foilstones": [
             {
@@ -3391,7 +3391,7 @@
           ],
           "prompt": {
             "PromptText": "sém",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/sém.mp3"
+            "PromptAudio": "lang/vietnamese/audios/sém.mp3"
           },
           "foilstones": [
             {
@@ -3420,7 +3420,7 @@
           ],
           "prompt": {
             "PromptText": "mép",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/mép.mp3"
+            "PromptAudio": "lang/vietnamese/audios/mép.mp3"
           },
           "foilstones": [
             {
@@ -3446,7 +3446,7 @@
           ],
           "prompt": {
             "PromptText": "tre",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/tre.mp3"
+            "PromptAudio": "lang/vietnamese/audios/tre.mp3"
           },
           "foilstones": [
             {
@@ -3484,7 +3484,7 @@
           ],
           "prompt": {
             "PromptText": "i",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/i.mp3"
+            "PromptAudio": "lang/vietnamese/audios/i.mp3"
           },
           "foilstones": [
             {
@@ -3507,7 +3507,7 @@
           ],
           "prompt": {
             "PromptText": "p",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/p.mp3"
+            "PromptAudio": "lang/vietnamese/audios/p.mp3"
           },
           "foilstones": [
             {
@@ -3530,7 +3530,7 @@
           ],
           "prompt": {
             "PromptText": "ngh",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/ngh.mp3"
+            "PromptAudio": "lang/vietnamese/audios/ngh.mp3"
           },
           "foilstones": [
             {
@@ -3556,7 +3556,7 @@
           ],
           "prompt": {
             "PromptText": "k",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/k.mp3"
+            "PromptAudio": "lang/vietnamese/audios/k.mp3"
           },
           "foilstones": [
             {
@@ -3579,7 +3579,7 @@
           ],
           "prompt": {
             "PromptText": "ch",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/ch.mp3"
+            "PromptAudio": "lang/vietnamese/audios/ch.mp3"
           },
           "foilstones": [
             {
@@ -3614,7 +3614,7 @@
           ],
           "prompt": {
             "PromptText": "ch",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/ch.mp3"
+            "PromptAudio": "lang/vietnamese/audios/ch.mp3"
           },
           "foilstones": [
             {
@@ -3637,7 +3637,7 @@
           ],
           "prompt": {
             "PromptText": "ngh",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/ngh.mp3"
+            "PromptAudio": "lang/vietnamese/audios/ngh.mp3"
           },
           "foilstones": [
             {
@@ -3660,7 +3660,7 @@
           ],
           "prompt": {
             "PromptText": "gh",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/gh.mp3"
+            "PromptAudio": "lang/vietnamese/audios/gh.mp3"
           },
           "foilstones": [
             {
@@ -3686,7 +3686,7 @@
           ],
           "prompt": {
             "PromptText": "i",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/i.mp3"
+            "PromptAudio": "lang/vietnamese/audios/i.mp3"
           },
           "foilstones": [
             {
@@ -3709,7 +3709,7 @@
           ],
           "prompt": {
             "PromptText": "p",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/p.mp3"
+            "PromptAudio": "lang/vietnamese/audios/p.mp3"
           },
           "foilstones": [
             {
@@ -3744,7 +3744,7 @@
           ],
           "prompt": {
             "PromptText": "ngh",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/ngh.mp3"
+            "PromptAudio": "lang/vietnamese/audios/ngh.mp3"
           },
           "foilstones": [
             {
@@ -3767,7 +3767,7 @@
           ],
           "prompt": {
             "PromptText": "k",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/k.mp3"
+            "PromptAudio": "lang/vietnamese/audios/k.mp3"
           },
           "foilstones": [
             {
@@ -3790,7 +3790,7 @@
           ],
           "prompt": {
             "PromptText": "p",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/p.mp3"
+            "PromptAudio": "lang/vietnamese/audios/p.mp3"
           },
           "foilstones": [
             {
@@ -3816,7 +3816,7 @@
           ],
           "prompt": {
             "PromptText": "ch",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/ch.mp3"
+            "PromptAudio": "lang/vietnamese/audios/ch.mp3"
           },
           "foilstones": [
             {
@@ -3839,7 +3839,7 @@
           ],
           "prompt": {
             "PromptText": "i",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/i.mp3"
+            "PromptAudio": "lang/vietnamese/audios/i.mp3"
           },
           "foilstones": [
             {
@@ -3874,7 +3874,7 @@
           ],
           "prompt": {
             "PromptText": "i",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/i.mp3"
+            "PromptAudio": "lang/vietnamese/audios/i.mp3"
           },
           "foilstones": [
             {
@@ -3906,7 +3906,7 @@
           ],
           "prompt": {
             "PromptText": "k",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/k.mp3"
+            "PromptAudio": "lang/vietnamese/audios/k.mp3"
           },
           "foilstones": [
             {
@@ -3935,7 +3935,7 @@
           ],
           "prompt": {
             "PromptText": "p",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/p.mp3"
+            "PromptAudio": "lang/vietnamese/audios/p.mp3"
           },
           "foilstones": [
             {
@@ -3967,7 +3967,7 @@
           ],
           "prompt": {
             "PromptText": "ngh",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/ngh.mp3"
+            "PromptAudio": "lang/vietnamese/audios/ngh.mp3"
           },
           "foilstones": [
             {
@@ -3996,7 +3996,7 @@
           ],
           "prompt": {
             "PromptText": "gh",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/gh.mp3"
+            "PromptAudio": "lang/vietnamese/audios/gh.mp3"
           },
           "foilstones": [
             {
@@ -4040,7 +4040,7 @@
           ],
           "prompt": {
             "PromptText": "ngh",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/ngh.mp3"
+            "PromptAudio": "lang/vietnamese/audios/ngh.mp3"
           },
           "foilstones": [
             {
@@ -4072,7 +4072,7 @@
           ],
           "prompt": {
             "PromptText": "gh",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/gh.mp3"
+            "PromptAudio": "lang/vietnamese/audios/gh.mp3"
           },
           "foilstones": [
             {
@@ -4104,7 +4104,7 @@
           ],
           "prompt": {
             "PromptText": "i",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/i.mp3"
+            "PromptAudio": "lang/vietnamese/audios/i.mp3"
           },
           "foilstones": [
             {
@@ -4133,7 +4133,7 @@
           ],
           "prompt": {
             "PromptText": "ch",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/ch.mp3"
+            "PromptAudio": "lang/vietnamese/audios/ch.mp3"
           },
           "foilstones": [
             {
@@ -4162,7 +4162,7 @@
           ],
           "prompt": {
             "PromptText": "k",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/k.mp3"
+            "PromptAudio": "lang/vietnamese/audios/k.mp3"
           },
           "foilstones": [
             {
@@ -4206,7 +4206,7 @@
           ],
           "prompt": {
             "PromptText": "ch",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/ch.mp3"
+            "PromptAudio": "lang/vietnamese/audios/ch.mp3"
           },
           "foilstones": [
             {
@@ -4238,7 +4238,7 @@
           ],
           "prompt": {
             "PromptText": "ngh",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/ngh.mp3"
+            "PromptAudio": "lang/vietnamese/audios/ngh.mp3"
           },
           "foilstones": [
             {
@@ -4270,7 +4270,7 @@
           ],
           "prompt": {
             "PromptText": "gh",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/gh.mp3"
+            "PromptAudio": "lang/vietnamese/audios/gh.mp3"
           },
           "foilstones": [
             {
@@ -4299,7 +4299,7 @@
           ],
           "prompt": {
             "PromptText": "i",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/i.mp3"
+            "PromptAudio": "lang/vietnamese/audios/i.mp3"
           },
           "foilstones": [
             {
@@ -4328,7 +4328,7 @@
           ],
           "prompt": {
             "PromptText": "p",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/p.mp3"
+            "PromptAudio": "lang/vietnamese/audios/p.mp3"
           },
           "foilstones": [
             {
@@ -4372,7 +4372,7 @@
           ],
           "prompt": {
             "PromptText": "kịp",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/k.mp3"
+            "PromptAudio": "lang/vietnamese/audios/k.mp3"
           },
           "foilstones": [
             {
@@ -4401,7 +4401,7 @@
           ],
           "prompt": {
             "PromptText": "pích",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/p.mp3"
+            "PromptAudio": "lang/vietnamese/audios/p.mp3"
           },
           "foilstones": [
             {
@@ -4433,7 +4433,7 @@
           ],
           "prompt": {
             "PromptText": "kịch",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/k.mp3"
+            "PromptAudio": "lang/vietnamese/audios/k.mp3"
           },
           "foilstones": [
             {
@@ -4465,7 +4465,7 @@
           ],
           "prompt": {
             "PromptText": "nghịch",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/ngh.mp3"
+            "PromptAudio": "lang/vietnamese/audios/ngh.mp3"
           },
           "foilstones": [
             {
@@ -4494,7 +4494,7 @@
           ],
           "prompt": {
             "PromptText": "chíp",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/ch.mp3"
+            "PromptAudio": "lang/vietnamese/audios/ch.mp3"
           },
           "foilstones": [
             {
@@ -4538,7 +4538,7 @@
           ],
           "prompt": {
             "PromptText": "chíp",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/ch.mp3"
+            "PromptAudio": "lang/vietnamese/audios/ch.mp3"
           },
           "foilstones": [
             {
@@ -4570,7 +4570,7 @@
           ],
           "prompt": {
             "PromptText": "nghịch",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/ngh.mp3"
+            "PromptAudio": "lang/vietnamese/audios/ngh.mp3"
           },
           "foilstones": [
             {
@@ -4602,7 +4602,7 @@
           ],
           "prompt": {
             "PromptText": "pích",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/p.mp3"
+            "PromptAudio": "lang/vietnamese/audios/p.mp3"
           },
           "foilstones": [
             {
@@ -4631,7 +4631,7 @@
           ],
           "prompt": {
             "PromptText": "kịp",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/k.mp3"
+            "PromptAudio": "lang/vietnamese/audios/k.mp3"
           },
           "foilstones": [
             {
@@ -4663,7 +4663,7 @@
           ],
           "prompt": {
             "PromptText": "kịch",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/k.mp3"
+            "PromptAudio": "lang/vietnamese/audios/k.mp3"
           },
           "foilstones": [
             {
@@ -4704,7 +4704,7 @@
           ],
           "prompt": {
             "PromptText": "nghịch",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/ngh.mp3"
+            "PromptAudio": "lang/vietnamese/audios/ngh.mp3"
           },
           "foilstones": [
             {
@@ -4736,7 +4736,7 @@
           ],
           "prompt": {
             "PromptText": "pích",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/p.mp3"
+            "PromptAudio": "lang/vietnamese/audios/p.mp3"
           },
           "foilstones": [
             {
@@ -4768,7 +4768,7 @@
           ],
           "prompt": {
             "PromptText": "kịch",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/k.mp3"
+            "PromptAudio": "lang/vietnamese/audios/k.mp3"
           },
           "foilstones": [
             {
@@ -4797,7 +4797,7 @@
           ],
           "prompt": {
             "PromptText": "kịp",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/k.mp3"
+            "PromptAudio": "lang/vietnamese/audios/k.mp3"
           },
           "foilstones": [
             {
@@ -4829,7 +4829,7 @@
           ],
           "prompt": {
             "PromptText": "chíp",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/ch.mp3"
+            "PromptAudio": "lang/vietnamese/audios/ch.mp3"
           },
           "foilstones": [
             {
@@ -4870,7 +4870,7 @@
           ],
           "prompt": {
             "PromptText": "chíp",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/ch.mp3"
+            "PromptAudio": "lang/vietnamese/audios/ch.mp3"
           },
           "foilstones": [
             {
@@ -4902,7 +4902,7 @@
           ],
           "prompt": {
             "PromptText": "nghịch",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/ngh.mp3"
+            "PromptAudio": "lang/vietnamese/audios/ngh.mp3"
           },
           "foilstones": [
             {
@@ -4934,7 +4934,7 @@
           ],
           "prompt": {
             "PromptText": "kịch",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/k.mp3"
+            "PromptAudio": "lang/vietnamese/audios/k.mp3"
           },
           "foilstones": [
             {
@@ -4963,7 +4963,7 @@
           ],
           "prompt": {
             "PromptText": "kịp",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/k.mp3"
+            "PromptAudio": "lang/vietnamese/audios/k.mp3"
           },
           "foilstones": [
             {
@@ -4995,7 +4995,7 @@
           ],
           "prompt": {
             "PromptText": "pích",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/p.mp3"
+            "PromptAudio": "lang/vietnamese/audios/p.mp3"
           },
           "foilstones": [
             {
@@ -5045,7 +5045,7 @@
           ],
           "prompt": {
             "PromptText": "chíp",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/chíp.mp3"
+            "PromptAudio": "lang/vietnamese/audios/chíp.mp3"
           },
           "foilstones": [
             {
@@ -5089,7 +5089,7 @@
           ],
           "prompt": {
             "PromptText": "kịp",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/kịp.mp3"
+            "PromptAudio": "lang/vietnamese/audios/kịp.mp3"
           },
           "foilstones": [
             {
@@ -5133,7 +5133,7 @@
           ],
           "prompt": {
             "PromptText": "kích",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/kích.mp3"
+            "PromptAudio": "lang/vietnamese/audios/kích.mp3"
           },
           "foilstones": [
             {
@@ -5180,7 +5180,7 @@
           ],
           "prompt": {
             "PromptText": "kịch",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/kịch.mp3"
+            "PromptAudio": "lang/vietnamese/audios/kịch.mp3"
           },
           "foilstones": [
             {
@@ -5221,7 +5221,7 @@
           ],
           "prompt": {
             "PromptText": "pích",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/pích.mp3"
+            "PromptAudio": "lang/vietnamese/audios/pích.mp3"
           },
           "foilstones": [
             {
@@ -5280,7 +5280,7 @@
           ],
           "prompt": {
             "PromptText": "kịp",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/kịp.mp3"
+            "PromptAudio": "lang/vietnamese/audios/kịp.mp3"
           },
           "foilstones": [
             {
@@ -5324,7 +5324,7 @@
           ],
           "prompt": {
             "PromptText": "kích",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/kích.mp3"
+            "PromptAudio": "lang/vietnamese/audios/kích.mp3"
           },
           "foilstones": [
             {
@@ -5371,7 +5371,7 @@
           ],
           "prompt": {
             "PromptText": "kịch",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/kịch.mp3"
+            "PromptAudio": "lang/vietnamese/audios/kịch.mp3"
           },
           "foilstones": [
             {
@@ -5418,7 +5418,7 @@
           ],
           "prompt": {
             "PromptText": "pích",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/pích.mp3"
+            "PromptAudio": "lang/vietnamese/audios/pích.mp3"
           },
           "foilstones": [
             {
@@ -5468,7 +5468,7 @@
           ],
           "prompt": {
             "PromptText": "nghịch",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/nghịch.mp3"
+            "PromptAudio": "lang/vietnamese/audios/nghịch.mp3"
           },
           "foilstones": [
             {
@@ -5521,7 +5521,7 @@
           ],
           "prompt": {
             "PromptText": "chíp",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/chíp.mp3"
+            "PromptAudio": "lang/vietnamese/audios/chíp.mp3"
           },
           "foilstones": [
             {
@@ -5565,7 +5565,7 @@
           ],
           "prompt": {
             "PromptText": "kịp",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/kịp.mp3"
+            "PromptAudio": "lang/vietnamese/audios/kịp.mp3"
           },
           "foilstones": [
             {
@@ -5615,7 +5615,7 @@
           ],
           "prompt": {
             "PromptText": "kích",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/kích.mp3"
+            "PromptAudio": "lang/vietnamese/audios/kích.mp3"
           },
           "foilstones": [
             {
@@ -5662,7 +5662,7 @@
           ],
           "prompt": {
             "PromptText": "pích",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/pích.mp3"
+            "PromptAudio": "lang/vietnamese/audios/pích.mp3"
           },
           "foilstones": [
             {
@@ -5706,7 +5706,7 @@
           ],
           "prompt": {
             "PromptText": "nghịch",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/nghịch.mp3"
+            "PromptAudio": "lang/vietnamese/audios/nghịch.mp3"
           },
           "foilstones": [
             {
@@ -5756,7 +5756,7 @@
           ],
           "prompt": {
             "PromptText": "l",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/l.mp3"
+            "PromptAudio": "lang/vietnamese/audios/l.mp3"
           },
           "foilstones": [
             {
@@ -5794,7 +5794,7 @@
           ],
           "prompt": {
             "PromptText": "đ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/đ.mp3"
+            "PromptAudio": "lang/vietnamese/audios/đ.mp3"
           },
           "foilstones": [
             {
@@ -5832,7 +5832,7 @@
           ],
           "prompt": {
             "PromptText": "ng",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/ng.mp3"
+            "PromptAudio": "lang/vietnamese/audios/ng.mp3"
           },
           "foilstones": [
             {
@@ -5870,7 +5870,7 @@
           ],
           "prompt": {
             "PromptText": "h",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/h.mp3"
+            "PromptAudio": "lang/vietnamese/audios/h.mp3"
           },
           "foilstones": [
             {
@@ -5905,7 +5905,7 @@
           ],
           "prompt": {
             "PromptText": "o",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/o.mp3"
+            "PromptAudio": "lang/vietnamese/audios/o.mp3"
           },
           "foilstones": [
             {
@@ -5958,7 +5958,7 @@
           ],
           "prompt": {
             "PromptText": "o",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/o.mp3"
+            "PromptAudio": "lang/vietnamese/audios/o.mp3"
           },
           "foilstones": [
             {
@@ -5996,7 +5996,7 @@
           ],
           "prompt": {
             "PromptText": "đ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/đ.mp3"
+            "PromptAudio": "lang/vietnamese/audios/đ.mp3"
           },
           "foilstones": [
             {
@@ -6034,7 +6034,7 @@
           ],
           "prompt": {
             "PromptText": "h",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/h.mp3"
+            "PromptAudio": "lang/vietnamese/audios/h.mp3"
           },
           "foilstones": [
             {
@@ -6072,7 +6072,7 @@
           ],
           "prompt": {
             "PromptText": "gi",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/gi.mp3"
+            "PromptAudio": "lang/vietnamese/audios/gi.mp3"
           },
           "foilstones": [
             {
@@ -6113,7 +6113,7 @@
           ],
           "prompt": {
             "PromptText": "h",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/h.mp3"
+            "PromptAudio": "lang/vietnamese/audios/h.mp3"
           },
           "foilstones": [
             {
@@ -6160,7 +6160,7 @@
           ],
           "prompt": {
             "PromptText": "o",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/o.mp3"
+            "PromptAudio": "lang/vietnamese/audios/o.mp3"
           },
           "foilstones": [
             {
@@ -6198,7 +6198,7 @@
           ],
           "prompt": {
             "PromptText": "h",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/h.mp3"
+            "PromptAudio": "lang/vietnamese/audios/h.mp3"
           },
           "foilstones": [
             {
@@ -6236,7 +6236,7 @@
           ],
           "prompt": {
             "PromptText": "ng",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/ng.mp3"
+            "PromptAudio": "lang/vietnamese/audios/ng.mp3"
           },
           "foilstones": [
             {
@@ -6274,7 +6274,7 @@
           ],
           "prompt": {
             "PromptText": "l",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/l.mp3"
+            "PromptAudio": "lang/vietnamese/audios/l.mp3"
           },
           "foilstones": [
             {
@@ -6315,7 +6315,7 @@
           ],
           "prompt": {
             "PromptText": "gi",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/gi.mp3"
+            "PromptAudio": "lang/vietnamese/audios/gi.mp3"
           },
           "foilstones": [
             {
@@ -6362,7 +6362,7 @@
           ],
           "prompt": {
             "PromptText": "l",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/l.mp3"
+            "PromptAudio": "lang/vietnamese/audios/l.mp3"
           },
           "foilstones": [
             {
@@ -6400,7 +6400,7 @@
           ],
           "prompt": {
             "PromptText": "i",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/i.mp3"
+            "PromptAudio": "lang/vietnamese/audios/i.mp3"
           },
           "foilstones": [
             {
@@ -6438,7 +6438,7 @@
           ],
           "prompt": {
             "PromptText": "h",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/h.mp3"
+            "PromptAudio": "lang/vietnamese/audios/h.mp3"
           },
           "foilstones": [
             {
@@ -6476,7 +6476,7 @@
           ],
           "prompt": {
             "PromptText": "đ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/đ.mp3"
+            "PromptAudio": "lang/vietnamese/audios/đ.mp3"
           },
           "foilstones": [
             {
@@ -6517,7 +6517,7 @@
           ],
           "prompt": {
             "PromptText": "ng",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/ng.mp3"
+            "PromptAudio": "lang/vietnamese/audios/ng.mp3"
           },
           "foilstones": [
             {
@@ -6564,7 +6564,7 @@
           ],
           "prompt": {
             "PromptText": "gi",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/gi.mp3"
+            "PromptAudio": "lang/vietnamese/audios/gi.mp3"
           },
           "foilstones": [
             {
@@ -6602,7 +6602,7 @@
           ],
           "prompt": {
             "PromptText": "đ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/đ.mp3"
+            "PromptAudio": "lang/vietnamese/audios/đ.mp3"
           },
           "foilstones": [
             {
@@ -6640,7 +6640,7 @@
           ],
           "prompt": {
             "PromptText": "o",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/o.mp3"
+            "PromptAudio": "lang/vietnamese/audios/o.mp3"
           },
           "foilstones": [
             {
@@ -6678,7 +6678,7 @@
           ],
           "prompt": {
             "PromptText": "l",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/l.mp3"
+            "PromptAudio": "lang/vietnamese/audios/l.mp3"
           },
           "foilstones": [
             {
@@ -6713,7 +6713,7 @@
           ],
           "prompt": {
             "PromptText": "ng",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/ng.mp3"
+            "PromptAudio": "lang/vietnamese/audios/ng.mp3"
           },
           "foilstones": [
             {
@@ -6766,7 +6766,7 @@
           ],
           "prompt": {
             "PromptText": "l",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/l.mp3"
+            "PromptAudio": "lang/vietnamese/audios/l.mp3"
           },
           "foilstones": [
             {
@@ -6804,7 +6804,7 @@
           ],
           "prompt": {
             "PromptText": "ng",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/ng.mp3"
+            "PromptAudio": "lang/vietnamese/audios/ng.mp3"
           },
           "foilstones": [
             {
@@ -6842,7 +6842,7 @@
           ],
           "prompt": {
             "PromptText": "đ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/đ.mp3"
+            "PromptAudio": "lang/vietnamese/audios/đ.mp3"
           },
           "foilstones": [
             {
@@ -6880,7 +6880,7 @@
           ],
           "prompt": {
             "PromptText": "o",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/o.mp3"
+            "PromptAudio": "lang/vietnamese/audios/o.mp3"
           },
           "foilstones": [
             {
@@ -6915,7 +6915,7 @@
           ],
           "prompt": {
             "PromptText": "h",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/h.mp3"
+            "PromptAudio": "lang/vietnamese/audios/h.mp3"
           },
           "foilstones": [
             {
@@ -6968,7 +6968,7 @@
           ],
           "prompt": {
             "PromptText": "loa",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/l.mp3"
+            "PromptAudio": "lang/vietnamese/audios/l.mp3"
           },
           "foilstones": [
             {
@@ -7006,7 +7006,7 @@
           ],
           "prompt": {
             "PromptText": "đoạt",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/đ.mp3"
+            "PromptAudio": "lang/vietnamese/audios/đ.mp3"
           },
           "foilstones": [
             {
@@ -7044,7 +7044,7 @@
           ],
           "prompt": {
             "PromptText": "hoa",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/h.mp3"
+            "PromptAudio": "lang/vietnamese/audios/h.mp3"
           },
           "foilstones": [
             {
@@ -7079,7 +7079,7 @@
           ],
           "prompt": {
             "PromptText": "gióng",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/gi.mp3"
+            "PromptAudio": "lang/vietnamese/audios/gi.mp3"
           },
           "foilstones": [
             {
@@ -7120,7 +7120,7 @@
           ],
           "prompt": {
             "PromptText": "ngon",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/ng.mp3"
+            "PromptAudio": "lang/vietnamese/audios/ng.mp3"
           },
           "foilstones": [
             {
@@ -7170,7 +7170,7 @@
           ],
           "prompt": {
             "PromptText": "hong",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/h.mp3"
+            "PromptAudio": "lang/vietnamese/audios/h.mp3"
           },
           "foilstones": [
             {
@@ -7208,7 +7208,7 @@
           ],
           "prompt": {
             "PromptText": "loa",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/l.mp3"
+            "PromptAudio": "lang/vietnamese/audios/l.mp3"
           },
           "foilstones": [
             {
@@ -7246,7 +7246,7 @@
           ],
           "prompt": {
             "PromptText": "ngóng",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/ng.mp3"
+            "PromptAudio": "lang/vietnamese/audios/ng.mp3"
           },
           "foilstones": [
             {
@@ -7284,7 +7284,7 @@
           ],
           "prompt": {
             "PromptText": "long",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/l.mp3"
+            "PromptAudio": "lang/vietnamese/audios/l.mp3"
           },
           "foilstones": [
             {
@@ -7319,7 +7319,7 @@
           ],
           "prompt": {
             "PromptText": "ngon",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/ng.mp3"
+            "PromptAudio": "lang/vietnamese/audios/ng.mp3"
           },
           "foilstones": [
             {
@@ -7372,7 +7372,7 @@
           ],
           "prompt": {
             "PromptText": "đóng",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/đ.mp3"
+            "PromptAudio": "lang/vietnamese/audios/đ.mp3"
           },
           "foilstones": [
             {
@@ -7410,7 +7410,7 @@
           ],
           "prompt": {
             "PromptText": "đoạt",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/đ.mp3"
+            "PromptAudio": "lang/vietnamese/audios/đ.mp3"
           },
           "foilstones": [
             {
@@ -7448,7 +7448,7 @@
           ],
           "prompt": {
             "PromptText": "gióng",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/gi.mp3"
+            "PromptAudio": "lang/vietnamese/audios/gi.mp3"
           },
           "foilstones": [
             {
@@ -7486,7 +7486,7 @@
           ],
           "prompt": {
             "PromptText": "đóng",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/đ.mp3"
+            "PromptAudio": "lang/vietnamese/audios/đ.mp3"
           },
           "foilstones": [
             {
@@ -7521,7 +7521,7 @@
           ],
           "prompt": {
             "PromptText": "ngon",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/ng.mp3"
+            "PromptAudio": "lang/vietnamese/audios/ng.mp3"
           },
           "foilstones": [
             {
@@ -7574,7 +7574,7 @@
           ],
           "prompt": {
             "PromptText": "hỏng",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/h.mp3"
+            "PromptAudio": "lang/vietnamese/audios/h.mp3"
           },
           "foilstones": [
             {
@@ -7597,7 +7597,7 @@
           ],
           "prompt": {
             "PromptText": "gióng",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/gi.mp3"
+            "PromptAudio": "lang/vietnamese/audios/gi.mp3"
           },
           "foilstones": [
             {
@@ -7620,7 +7620,7 @@
           ],
           "prompt": {
             "PromptText": "loa",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/l.mp3"
+            "PromptAudio": "lang/vietnamese/audios/l.mp3"
           },
           "foilstones": [
             {
@@ -7643,7 +7643,7 @@
           ],
           "prompt": {
             "PromptText": "hong",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/h.mp3"
+            "PromptAudio": "lang/vietnamese/audios/h.mp3"
           },
           "foilstones": [
             {
@@ -7669,7 +7669,7 @@
           ],
           "prompt": {
             "PromptText": "đóng",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/đ.mp3"
+            "PromptAudio": "lang/vietnamese/audios/đ.mp3"
           },
           "foilstones": [
             {
@@ -7707,7 +7707,7 @@
           ],
           "prompt": {
             "PromptText": "đo",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/đo.mp3"
+            "PromptAudio": "lang/vietnamese/audios/đo.mp3"
           },
           "foilstones": [
             {
@@ -7739,7 +7739,7 @@
           ],
           "prompt": {
             "PromptText": "đoạt",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/đoạt.mp3"
+            "PromptAudio": "lang/vietnamese/audios/đoạt.mp3"
           },
           "foilstones": [
             {
@@ -7768,7 +7768,7 @@
           ],
           "prompt": {
             "PromptText": "ngon",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/ngon.mp3"
+            "PromptAudio": "lang/vietnamese/audios/ngon.mp3"
           },
           "foilstones": [
             {
@@ -7797,7 +7797,7 @@
           ],
           "prompt": {
             "PromptText": "hoa",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/hoa.mp3"
+            "PromptAudio": "lang/vietnamese/audios/hoa.mp3"
           },
           "foilstones": [
             {
@@ -7829,7 +7829,7 @@
           ],
           "prompt": {
             "PromptText": "loa",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/loa.mp3"
+            "PromptAudio": "lang/vietnamese/audios/loa.mp3"
           },
           "foilstones": [
             {
@@ -7873,7 +7873,7 @@
           ],
           "prompt": {
             "PromptText": "đóng",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/đóng.mp3"
+            "PromptAudio": "lang/vietnamese/audios/đóng.mp3"
           },
           "foilstones": [
             {
@@ -7920,7 +7920,7 @@
           ],
           "prompt": {
             "PromptText": "ngóng",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/ngóng.mp3"
+            "PromptAudio": "lang/vietnamese/audios/ngóng.mp3"
           },
           "foilstones": [
             {
@@ -7967,7 +7967,7 @@
           ],
           "prompt": {
             "PromptText": "gióng",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/gióng.mp3"
+            "PromptAudio": "lang/vietnamese/audios/gióng.mp3"
           },
           "foilstones": [
             {
@@ -8005,7 +8005,7 @@
           ],
           "prompt": {
             "PromptText": "đo",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/đo.mp3"
+            "PromptAudio": "lang/vietnamese/audios/đo.mp3"
           },
           "foilstones": [
             {
@@ -8055,7 +8055,7 @@
           ],
           "prompt": {
             "PromptText": "đoạt",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/đoạt.mp3"
+            "PromptAudio": "lang/vietnamese/audios/đoạt.mp3"
           },
           "foilstones": [
             {
@@ -8108,7 +8108,7 @@
           ],
           "prompt": {
             "PromptText": "đo",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/đo.mp3"
+            "PromptAudio": "lang/vietnamese/audios/đo.mp3"
           },
           "foilstones": [
             {
@@ -8155,7 +8155,7 @@
           ],
           "prompt": {
             "PromptText": "đoạt",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/đoạt.mp3"
+            "PromptAudio": "lang/vietnamese/audios/đoạt.mp3"
           },
           "foilstones": [
             {
@@ -8199,7 +8199,7 @@
           ],
           "prompt": {
             "PromptText": "ngon",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/ngon.mp3"
+            "PromptAudio": "lang/vietnamese/audios/ngon.mp3"
           },
           "foilstones": [
             {
@@ -8243,7 +8243,7 @@
           ],
           "prompt": {
             "PromptText": "hoa",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/hoa.mp3"
+            "PromptAudio": "lang/vietnamese/audios/hoa.mp3"
           },
           "foilstones": [
             {
@@ -8284,7 +8284,7 @@
           ],
           "prompt": {
             "PromptText": "loa",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/loa.mp3"
+            "PromptAudio": "lang/vietnamese/audios/loa.mp3"
           },
           "foilstones": [
             {
@@ -8337,7 +8337,7 @@
           ],
           "prompt": {
             "PromptText": "th",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/th.mp3"
+            "PromptAudio": "lang/vietnamese/audios/th.mp3"
           },
           "foilstones": [
             {
@@ -8375,7 +8375,7 @@
           ],
           "prompt": {
             "PromptText": "r",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/r.mp3"
+            "PromptAudio": "lang/vietnamese/audios/r.mp3"
           },
           "foilstones": [
             {
@@ -8413,7 +8413,7 @@
           ],
           "prompt": {
             "PromptText": "g",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/g.mp3"
+            "PromptAudio": "lang/vietnamese/audios/g.mp3"
           },
           "foilstones": [
             {
@@ -8448,7 +8448,7 @@
           ],
           "prompt": {
             "PromptText": "n",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/n.mp3"
+            "PromptAudio": "lang/vietnamese/audios/n.mp3"
           },
           "foilstones": [
             {
@@ -8489,7 +8489,7 @@
           ],
           "prompt": {
             "PromptText": "c",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/c.mp3"
+            "PromptAudio": "lang/vietnamese/audios/c.mp3"
           },
           "foilstones": [
             {
@@ -8539,7 +8539,7 @@
           ],
           "prompt": {
             "PromptText": "g",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/g.mp3"
+            "PromptAudio": "lang/vietnamese/audios/g.mp3"
           },
           "foilstones": [
             {
@@ -8577,7 +8577,7 @@
           ],
           "prompt": {
             "PromptText": "u",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/u.mp3"
+            "PromptAudio": "lang/vietnamese/audios/u.mp3"
           },
           "foilstones": [
             {
@@ -8618,7 +8618,7 @@
           ],
           "prompt": {
             "PromptText": "kh",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/kh.mp3"
+            "PromptAudio": "lang/vietnamese/audios/kh.mp3"
           },
           "foilstones": [
             {
@@ -8656,7 +8656,7 @@
           ],
           "prompt": {
             "PromptText": "th",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/th.mp3"
+            "PromptAudio": "lang/vietnamese/audios/th.mp3"
           },
           "foilstones": [
             {
@@ -8691,7 +8691,7 @@
           ],
           "prompt": {
             "PromptText": "r",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/r.mp3"
+            "PromptAudio": "lang/vietnamese/audios/r.mp3"
           },
           "foilstones": [
             {
@@ -8741,7 +8741,7 @@
           ],
           "prompt": {
             "PromptText": "kh",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/kh.mp3"
+            "PromptAudio": "lang/vietnamese/audios/kh.mp3"
           },
           "foilstones": [
             {
@@ -8779,7 +8779,7 @@
           ],
           "prompt": {
             "PromptText": "c",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/c.mp3"
+            "PromptAudio": "lang/vietnamese/audios/c.mp3"
           },
           "foilstones": [
             {
@@ -8817,7 +8817,7 @@
           ],
           "prompt": {
             "PromptText": "th",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/th.mp3"
+            "PromptAudio": "lang/vietnamese/audios/th.mp3"
           },
           "foilstones": [
             {
@@ -8855,7 +8855,7 @@
           ],
           "prompt": {
             "PromptText": "u",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/u.mp3"
+            "PromptAudio": "lang/vietnamese/audios/u.mp3"
           },
           "foilstones": [
             {
@@ -8890,7 +8890,7 @@
           ],
           "prompt": {
             "PromptText": "r",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/r.mp3"
+            "PromptAudio": "lang/vietnamese/audios/r.mp3"
           },
           "foilstones": [
             {
@@ -8943,7 +8943,7 @@
           ],
           "prompt": {
             "PromptText": "u",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/u.mp3"
+            "PromptAudio": "lang/vietnamese/audios/u.mp3"
           },
           "foilstones": [
             {
@@ -8981,7 +8981,7 @@
           ],
           "prompt": {
             "PromptText": "th",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/th.mp3"
+            "PromptAudio": "lang/vietnamese/audios/th.mp3"
           },
           "foilstones": [
             {
@@ -9019,7 +9019,7 @@
           ],
           "prompt": {
             "PromptText": "r",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/r.mp3"
+            "PromptAudio": "lang/vietnamese/audios/r.mp3"
           },
           "foilstones": [
             {
@@ -9057,7 +9057,7 @@
           ],
           "prompt": {
             "PromptText": "kh",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/kh.mp3"
+            "PromptAudio": "lang/vietnamese/audios/kh.mp3"
           },
           "foilstones": [
             {
@@ -9092,7 +9092,7 @@
           ],
           "prompt": {
             "PromptText": "g",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/g.mp3"
+            "PromptAudio": "lang/vietnamese/audios/g.mp3"
           },
           "foilstones": [
             {
@@ -9145,7 +9145,7 @@
           ],
           "prompt": {
             "PromptText": "u",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/u.mp3"
+            "PromptAudio": "lang/vietnamese/audios/u.mp3"
           },
           "foilstones": [
             {
@@ -9183,7 +9183,7 @@
           ],
           "prompt": {
             "PromptText": "kh",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/kh.mp3"
+            "PromptAudio": "lang/vietnamese/audios/kh.mp3"
           },
           "foilstones": [
             {
@@ -9224,7 +9224,7 @@
           ],
           "prompt": {
             "PromptText": "c",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/c.mp3"
+            "PromptAudio": "lang/vietnamese/audios/c.mp3"
           },
           "foilstones": [
             {
@@ -9262,7 +9262,7 @@
           ],
           "prompt": {
             "PromptText": "g",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/g.mp3"
+            "PromptAudio": "lang/vietnamese/audios/g.mp3"
           },
           "foilstones": [
             {
@@ -9297,7 +9297,7 @@
           ],
           "prompt": {
             "PromptText": "th",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/th.mp3"
+            "PromptAudio": "lang/vietnamese/audios/th.mp3"
           },
           "foilstones": [
             {
@@ -9347,7 +9347,7 @@
           ],
           "prompt": {
             "PromptText": "g",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/g.mp3"
+            "PromptAudio": "lang/vietnamese/audios/g.mp3"
           },
           "foilstones": [
             {
@@ -9385,7 +9385,7 @@
           ],
           "prompt": {
             "PromptText": "u",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/u.mp3"
+            "PromptAudio": "lang/vietnamese/audios/u.mp3"
           },
           "foilstones": [
             {
@@ -9423,7 +9423,7 @@
           ],
           "prompt": {
             "PromptText": "r",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/r.mp3"
+            "PromptAudio": "lang/vietnamese/audios/r.mp3"
           },
           "foilstones": [
             {
@@ -9461,7 +9461,7 @@
           ],
           "prompt": {
             "PromptText": "kh",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/kh.mp3"
+            "PromptAudio": "lang/vietnamese/audios/kh.mp3"
           },
           "foilstones": [
             {
@@ -9496,7 +9496,7 @@
           ],
           "prompt": {
             "PromptText": "n",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/n.mp3"
+            "PromptAudio": "lang/vietnamese/audios/n.mp3"
           },
           "foilstones": [
             {
@@ -9549,7 +9549,7 @@
           ],
           "prompt": {
             "PromptText": "run",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/r.mp3"
+            "PromptAudio": "lang/vietnamese/audios/r.mp3"
           },
           "foilstones": [
             {
@@ -9587,7 +9587,7 @@
           ],
           "prompt": {
             "PromptText": "cụt",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/c.mp3"
+            "PromptAudio": "lang/vietnamese/audios/c.mp3"
           },
           "foilstones": [
             {
@@ -9625,7 +9625,7 @@
           ],
           "prompt": {
             "PromptText": "khúc",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/kh.mp3"
+            "PromptAudio": "lang/vietnamese/audios/kh.mp3"
           },
           "foilstones": [
             {
@@ -9663,7 +9663,7 @@
           ],
           "prompt": {
             "PromptText": "thun",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/th.mp3"
+            "PromptAudio": "lang/vietnamese/audios/th.mp3"
           },
           "foilstones": [
             {
@@ -9698,7 +9698,7 @@
           ],
           "prompt": {
             "PromptText": "núp",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/n.mp3"
+            "PromptAudio": "lang/vietnamese/audios/n.mp3"
           },
           "foilstones": [
             {
@@ -9751,7 +9751,7 @@
           ],
           "prompt": {
             "PromptText": "thu",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/th.mp3"
+            "PromptAudio": "lang/vietnamese/audios/th.mp3"
           },
           "foilstones": [
             {
@@ -9789,7 +9789,7 @@
           ],
           "prompt": {
             "PromptText": "núm",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/n.mp3"
+            "PromptAudio": "lang/vietnamese/audios/n.mp3"
           },
           "foilstones": [
             {
@@ -9827,7 +9827,7 @@
           ],
           "prompt": {
             "PromptText": "gục",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/g.mp3"
+            "PromptAudio": "lang/vietnamese/audios/g.mp3"
           },
           "foilstones": [
             {
@@ -9862,7 +9862,7 @@
           ],
           "prompt": {
             "PromptText": "cúm",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/c.mp3"
+            "PromptAudio": "lang/vietnamese/audios/c.mp3"
           },
           "foilstones": [
             {
@@ -9900,7 +9900,7 @@
           ],
           "prompt": {
             "PromptText": "cúng",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/c.mp3"
+            "PromptAudio": "lang/vietnamese/audios/c.mp3"
           },
           "foilstones": [
             {
@@ -9953,7 +9953,7 @@
           ],
           "prompt": {
             "PromptText": "cún",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/c.mp3"
+            "PromptAudio": "lang/vietnamese/audios/c.mp3"
           },
           "foilstones": [
             {
@@ -9991,7 +9991,7 @@
           ],
           "prompt": {
             "PromptText": "cung",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/c.mp3"
+            "PromptAudio": "lang/vietnamese/audios/c.mp3"
           },
           "foilstones": [
             {
@@ -10029,7 +10029,7 @@
           ],
           "prompt": {
             "PromptText": "khủng",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/kh.mp3"
+            "PromptAudio": "lang/vietnamese/audios/kh.mp3"
           },
           "foilstones": [
             {
@@ -10064,7 +10064,7 @@
           ],
           "prompt": {
             "PromptText": "thúng",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/th.mp3"
+            "PromptAudio": "lang/vietnamese/audios/th.mp3"
           },
           "foilstones": [
             {
@@ -10102,7 +10102,7 @@
           ],
           "prompt": {
             "PromptText": "núp",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/n.mp3"
+            "PromptAudio": "lang/vietnamese/audios/n.mp3"
           },
           "foilstones": [
             {
@@ -10155,7 +10155,7 @@
           ],
           "prompt": {
             "PromptText": "núp",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/n.mp3"
+            "PromptAudio": "lang/vietnamese/audios/n.mp3"
           },
           "foilstones": [
             {
@@ -10193,7 +10193,7 @@
           ],
           "prompt": {
             "PromptText": "nung",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/n.mp3"
+            "PromptAudio": "lang/vietnamese/audios/n.mp3"
           },
           "foilstones": [
             {
@@ -10231,7 +10231,7 @@
           ],
           "prompt": {
             "PromptText": "rùa",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/r.mp3"
+            "PromptAudio": "lang/vietnamese/audios/r.mp3"
           },
           "foilstones": [
             {
@@ -10266,7 +10266,7 @@
           ],
           "prompt": {
             "PromptText": "gục",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/g.mp3"
+            "PromptAudio": "lang/vietnamese/audios/g.mp3"
           },
           "foilstones": [
             {
@@ -10304,7 +10304,7 @@
           ],
           "prompt": {
             "PromptText": "cụm",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/c.mp3"
+            "PromptAudio": "lang/vietnamese/audios/c.mp3"
           },
           "foilstones": [
             {
@@ -10363,7 +10363,7 @@
           ],
           "prompt": {
             "PromptText": "run",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/run.mp3"
+            "PromptAudio": "lang/vietnamese/audios/run.mp3"
           },
           "foilstones": [
             {
@@ -10407,7 +10407,7 @@
           ],
           "prompt": {
             "PromptText": "thun",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/thun.mp3"
+            "PromptAudio": "lang/vietnamese/audios/thun.mp3"
           },
           "foilstones": [
             {
@@ -10451,7 +10451,7 @@
           ],
           "prompt": {
             "PromptText": "gục",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/gục.mp3"
+            "PromptAudio": "lang/vietnamese/audios/gục.mp3"
           },
           "foilstones": [
             {
@@ -10492,7 +10492,7 @@
           ],
           "prompt": {
             "PromptText": "rùa",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/rùa.mp3"
+            "PromptAudio": "lang/vietnamese/audios/rùa.mp3"
           },
           "foilstones": [
             {
@@ -10536,7 +10536,7 @@
           ],
           "prompt": {
             "PromptText": "khúc",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/khúc.mp3"
+            "PromptAudio": "lang/vietnamese/audios/khúc.mp3"
           },
           "foilstones": [
             {
@@ -10595,7 +10595,7 @@
           ],
           "prompt": {
             "PromptText": "nục",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/nục.mp3"
+            "PromptAudio": "lang/vietnamese/audios/nục.mp3"
           },
           "foilstones": [
             {
@@ -10639,7 +10639,7 @@
           ],
           "prompt": {
             "PromptText": "thúc",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/thúc.mp3"
+            "PromptAudio": "lang/vietnamese/audios/thúc.mp3"
           },
           "foilstones": [
             {
@@ -10683,7 +10683,7 @@
           ],
           "prompt": {
             "PromptText": "cún",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/cún.mp3"
+            "PromptAudio": "lang/vietnamese/audios/cún.mp3"
           },
           "foilstones": [
             {
@@ -10724,7 +10724,7 @@
           ],
           "prompt": {
             "PromptText": "run",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/run.mp3"
+            "PromptAudio": "lang/vietnamese/audios/run.mp3"
           },
           "foilstones": [
             {
@@ -10768,7 +10768,7 @@
           ],
           "prompt": {
             "PromptText": "thun",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/thun.mp3"
+            "PromptAudio": "lang/vietnamese/audios/thun.mp3"
           },
           "foilstones": [
             {
@@ -10827,7 +10827,7 @@
           ],
           "prompt": {
             "PromptText": "rút",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/rút.mp3"
+            "PromptAudio": "lang/vietnamese/audios/rút.mp3"
           },
           "foilstones": [
             {
@@ -10871,7 +10871,7 @@
           ],
           "prompt": {
             "PromptText": "nút",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/nút.mp3"
+            "PromptAudio": "lang/vietnamese/audios/nút.mp3"
           },
           "foilstones": [
             {
@@ -10912,7 +10912,7 @@
           ],
           "prompt": {
             "PromptText": "thu",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/thu.mp3"
+            "PromptAudio": "lang/vietnamese/audios/thu.mp3"
           },
           "foilstones": [
             {
@@ -10953,7 +10953,7 @@
           ],
           "prompt": {
             "PromptText": "gục",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/gục.mp3"
+            "PromptAudio": "lang/vietnamese/audios/gục.mp3"
           },
           "foilstones": [
             {
@@ -10997,7 +10997,7 @@
           ],
           "prompt": {
             "PromptText": "run",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/run.mp3"
+            "PromptAudio": "lang/vietnamese/audios/run.mp3"
           },
           "foilstones": [
             {
@@ -11050,7 +11050,7 @@
           ],
           "prompt": {
             "PromptText": "ă",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/ă.mp3"
+            "PromptAudio": "lang/vietnamese/audios/ă.mp3"
           },
           "foilstones": [
             {
@@ -11088,7 +11088,7 @@
           ],
           "prompt": {
             "PromptText": "â",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/â.mp3"
+            "PromptAudio": "lang/vietnamese/audios/â.mp3"
           },
           "foilstones": [
             {
@@ -11126,7 +11126,7 @@
           ],
           "prompt": {
             "PromptText": "ư",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/ư.mp3"
+            "PromptAudio": "lang/vietnamese/audios/ư.mp3"
           },
           "foilstones": [
             {
@@ -11158,7 +11158,7 @@
           ],
           "prompt": {
             "PromptText": "ô",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/ô.mp3"
+            "PromptAudio": "lang/vietnamese/audios/ô.mp3"
           },
           "foilstones": [
             {
@@ -11193,7 +11193,7 @@
           ],
           "prompt": {
             "PromptText": "ơ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/ơ.mp3"
+            "PromptAudio": "lang/vietnamese/audios/ơ.mp3"
           },
           "foilstones": [
             {
@@ -11246,7 +11246,7 @@
           ],
           "prompt": {
             "PromptText": "ă",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/ă.mp3"
+            "PromptAudio": "lang/vietnamese/audios/ă.mp3"
           },
           "foilstones": [
             {
@@ -11284,7 +11284,7 @@
           ],
           "prompt": {
             "PromptText": "â",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/â.mp3"
+            "PromptAudio": "lang/vietnamese/audios/â.mp3"
           },
           "foilstones": [
             {
@@ -11322,7 +11322,7 @@
           ],
           "prompt": {
             "PromptText": "ư",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/ư.mp3"
+            "PromptAudio": "lang/vietnamese/audios/ư.mp3"
           },
           "foilstones": [
             {
@@ -11360,7 +11360,7 @@
           ],
           "prompt": {
             "PromptText": "ô",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/ô.mp3"
+            "PromptAudio": "lang/vietnamese/audios/ô.mp3"
           },
           "foilstones": [
             {
@@ -11395,7 +11395,7 @@
           ],
           "prompt": {
             "PromptText": "ơ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/ơ.mp3"
+            "PromptAudio": "lang/vietnamese/audios/ơ.mp3"
           },
           "foilstones": [
             {
@@ -11448,7 +11448,7 @@
           ],
           "prompt": {
             "PromptText": "qu",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/qu.mp3"
+            "PromptAudio": "lang/vietnamese/audios/qu.mp3"
           },
           "foilstones": [
             {
@@ -11486,7 +11486,7 @@
           ],
           "prompt": {
             "PromptText": "s",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/s.mp3"
+            "PromptAudio": "lang/vietnamese/audios/s.mp3"
           },
           "foilstones": [
             {
@@ -11524,7 +11524,7 @@
           ],
           "prompt": {
             "PromptText": "đ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/đ.mp3"
+            "PromptAudio": "lang/vietnamese/audios/đ.mp3"
           },
           "foilstones": [
             {
@@ -11556,7 +11556,7 @@
           ],
           "prompt": {
             "PromptText": "x",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/x.mp3"
+            "PromptAudio": "lang/vietnamese/audios/x.mp3"
           },
           "foilstones": [
             {
@@ -11591,7 +11591,7 @@
           ],
           "prompt": {
             "PromptText": "t",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/t.mp3"
+            "PromptAudio": "lang/vietnamese/audios/t.mp3"
           },
           "foilstones": [
             {
@@ -11644,7 +11644,7 @@
           ],
           "prompt": {
             "PromptText": "th",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/th.mp3"
+            "PromptAudio": "lang/vietnamese/audios/th.mp3"
           },
           "foilstones": [
             {
@@ -11682,7 +11682,7 @@
           ],
           "prompt": {
             "PromptText": "y",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/y.mp3"
+            "PromptAudio": "lang/vietnamese/audios/y.mp3"
           },
           "foilstones": [
             {
@@ -11720,7 +11720,7 @@
           ],
           "prompt": {
             "PromptText": "g",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/g.mp3"
+            "PromptAudio": "lang/vietnamese/audios/g.mp3"
           },
           "foilstones": [
             {
@@ -11758,7 +11758,7 @@
           ],
           "prompt": {
             "PromptText": "qu",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/qu.mp3"
+            "PromptAudio": "lang/vietnamese/audios/qu.mp3"
           },
           "foilstones": [
             {
@@ -11793,7 +11793,7 @@
           ],
           "prompt": {
             "PromptText": "c",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/c.mp3"
+            "PromptAudio": "lang/vietnamese/audios/c.mp3"
           },
           "foilstones": [
             {
@@ -11846,7 +11846,7 @@
           ],
           "prompt": {
             "PromptText": "l",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/l.mp3"
+            "PromptAudio": "lang/vietnamese/audios/l.mp3"
           },
           "foilstones": [
             {
@@ -11884,7 +11884,7 @@
           ],
           "prompt": {
             "PromptText": "v",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/v.mp3"
+            "PromptAudio": "lang/vietnamese/audios/v.mp3"
           },
           "foilstones": [
             {
@@ -11922,7 +11922,7 @@
           ],
           "prompt": {
             "PromptText": "nh",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/nh.mp3"
+            "PromptAudio": "lang/vietnamese/audios/nh.mp3"
           },
           "foilstones": [
             {
@@ -11954,7 +11954,7 @@
           ],
           "prompt": {
             "PromptText": "x",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/x.mp3"
+            "PromptAudio": "lang/vietnamese/audios/x.mp3"
           },
           "foilstones": [
             {
@@ -11989,7 +11989,7 @@
           ],
           "prompt": {
             "PromptText": "y",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/y.mp3"
+            "PromptAudio": "lang/vietnamese/audios/y.mp3"
           },
           "foilstones": [
             {
@@ -12042,7 +12042,7 @@
           ],
           "prompt": {
             "PromptText": "ă",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/ă.mp3"
+            "PromptAudio": "lang/vietnamese/audios/ă.mp3"
           },
           "foilstones": [
             {
@@ -12080,7 +12080,7 @@
           ],
           "prompt": {
             "PromptText": "â",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/â.mp3"
+            "PromptAudio": "lang/vietnamese/audios/â.mp3"
           },
           "foilstones": [
             {
@@ -12118,7 +12118,7 @@
           ],
           "prompt": {
             "PromptText": "ư",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/ư.mp3"
+            "PromptAudio": "lang/vietnamese/audios/ư.mp3"
           },
           "foilstones": [
             {
@@ -12156,7 +12156,7 @@
           ],
           "prompt": {
             "PromptText": "ô",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/ô.mp3"
+            "PromptAudio": "lang/vietnamese/audios/ô.mp3"
           },
           "foilstones": [
             {
@@ -12197,7 +12197,7 @@
           ],
           "prompt": {
             "PromptText": "ơ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/ơ.mp3"
+            "PromptAudio": "lang/vietnamese/audios/ơ.mp3"
           },
           "foilstones": [
             {
@@ -12244,7 +12244,7 @@
           ],
           "prompt": {
             "PromptText": "năm",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/n.mp3"
+            "PromptAudio": "lang/vietnamese/audios/n.mp3"
           },
           "foilstones": [
             {
@@ -12282,7 +12282,7 @@
           ],
           "prompt": {
             "PromptText": "quả",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/qu.mp3"
+            "PromptAudio": "lang/vietnamese/audios/qu.mp3"
           },
           "foilstones": [
             {
@@ -12320,7 +12320,7 @@
           ],
           "prompt": {
             "PromptText": "săn",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/s.mp3"
+            "PromptAudio": "lang/vietnamese/audios/s.mp3"
           },
           "foilstones": [
             {
@@ -12352,7 +12352,7 @@
           ],
           "prompt": {
             "PromptText": "xăng",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/x.mp3"
+            "PromptAudio": "lang/vietnamese/audios/x.mp3"
           },
           "foilstones": [
             {
@@ -12387,7 +12387,7 @@
           ],
           "prompt": {
             "PromptText": "ru",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/r.mp3"
+            "PromptAudio": "lang/vietnamese/audios/r.mp3"
           },
           "foilstones": [
             {
@@ -12440,7 +12440,7 @@
           ],
           "prompt": {
             "PromptText": "đâu",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/đ.mp3"
+            "PromptAudio": "lang/vietnamese/audios/đ.mp3"
           },
           "foilstones": [
             {
@@ -12478,7 +12478,7 @@
           ],
           "prompt": {
             "PromptText": "tây",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/t.mp3"
+            "PromptAudio": "lang/vietnamese/audios/t.mp3"
           },
           "foilstones": [
             {
@@ -12516,7 +12516,7 @@
           ],
           "prompt": {
             "PromptText": "sâu",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/s.mp3"
+            "PromptAudio": "lang/vietnamese/audios/s.mp3"
           },
           "foilstones": [
             {
@@ -12554,7 +12554,7 @@
           ],
           "prompt": {
             "PromptText": "lâm",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/l.mp3"
+            "PromptAudio": "lang/vietnamese/audios/l.mp3"
           },
           "foilstones": [
             {
@@ -12589,7 +12589,7 @@
           ],
           "prompt": {
             "PromptText": "vân",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/v.mp3"
+            "PromptAudio": "lang/vietnamese/audios/v.mp3"
           },
           "foilstones": [
             {
@@ -12642,7 +12642,7 @@
           ],
           "prompt": {
             "PromptText": "được",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/đ.mp3"
+            "PromptAudio": "lang/vietnamese/audios/đ.mp3"
           },
           "foilstones": [
             {
@@ -12680,7 +12680,7 @@
           ],
           "prompt": {
             "PromptText": "như",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/nh.mp3"
+            "PromptAudio": "lang/vietnamese/audios/nh.mp3"
           },
           "foilstones": [
             {
@@ -12718,7 +12718,7 @@
           ],
           "prompt": {
             "PromptText": "thư",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/th.mp3"
+            "PromptAudio": "lang/vietnamese/audios/th.mp3"
           },
           "foilstones": [
             {
@@ -12756,7 +12756,7 @@
           ],
           "prompt": {
             "PromptText": "thưa",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/th.mp3"
+            "PromptAudio": "lang/vietnamese/audios/th.mp3"
           },
           "foilstones": [
             {
@@ -12791,7 +12791,7 @@
           ],
           "prompt": {
             "PromptText": "xưa",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/x.mp3"
+            "PromptAudio": "lang/vietnamese/audios/x.mp3"
           },
           "foilstones": [
             {
@@ -12844,7 +12844,7 @@
           ],
           "prompt": {
             "PromptText": "ông",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/ô.mp3"
+            "PromptAudio": "lang/vietnamese/audios/ô.mp3"
           },
           "foilstones": [
             {
@@ -12882,7 +12882,7 @@
           ],
           "prompt": {
             "PromptText": "ôm",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/ô.mp3"
+            "PromptAudio": "lang/vietnamese/audios/ô.mp3"
           },
           "foilstones": [
             {
@@ -12920,7 +12920,7 @@
           ],
           "prompt": {
             "PromptText": "ôi",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/ô.mp3"
+            "PromptAudio": "lang/vietnamese/audios/ô.mp3"
           },
           "foilstones": [
             {
@@ -12952,7 +12952,7 @@
           ],
           "prompt": {
             "PromptText": "ôn",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/ô.mp3"
+            "PromptAudio": "lang/vietnamese/audios/ô.mp3"
           },
           "foilstones": [
             {
@@ -12987,7 +12987,7 @@
           ],
           "prompt": {
             "PromptText": "ơn",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/ơ.mp3"
+            "PromptAudio": "lang/vietnamese/audios/ơ.mp3"
           },
           "foilstones": [
             {
@@ -13046,7 +13046,7 @@
           ],
           "prompt": {
             "PromptText": "năm",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/năm.mp3"
+            "PromptAudio": "lang/vietnamese/audios/năm.mp3"
           },
           "foilstones": [
             {
@@ -13087,7 +13087,7 @@
           ],
           "prompt": {
             "PromptText": "quả",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/quả.mp3"
+            "PromptAudio": "lang/vietnamese/audios/quả.mp3"
           },
           "foilstones": [
             {
@@ -13131,7 +13131,7 @@
           ],
           "prompt": {
             "PromptText": "săn",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/săn.mp3"
+            "PromptAudio": "lang/vietnamese/audios/săn.mp3"
           },
           "foilstones": [
             {
@@ -13178,7 +13178,7 @@
           ],
           "prompt": {
             "PromptText": "xăng",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/xăng.mp3"
+            "PromptAudio": "lang/vietnamese/audios/xăng.mp3"
           },
           "foilstones": [
             {
@@ -13216,7 +13216,7 @@
           ],
           "prompt": {
             "PromptText": "ru",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/ru.mp3"
+            "PromptAudio": "lang/vietnamese/audios/ru.mp3"
           },
           "foilstones": [
             {
@@ -13275,7 +13275,7 @@
           ],
           "prompt": {
             "PromptText": "đâu",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/đâu.mp3"
+            "PromptAudio": "lang/vietnamese/audios/đâu.mp3"
           },
           "foilstones": [
             {
@@ -13319,7 +13319,7 @@
           ],
           "prompt": {
             "PromptText": "tây",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/tây.mp3"
+            "PromptAudio": "lang/vietnamese/audios/tây.mp3"
           },
           "foilstones": [
             {
@@ -13363,7 +13363,7 @@
           ],
           "prompt": {
             "PromptText": "sâu",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/sâu.mp3"
+            "PromptAudio": "lang/vietnamese/audios/sâu.mp3"
           },
           "foilstones": [
             {
@@ -13407,7 +13407,7 @@
           ],
           "prompt": {
             "PromptText": "lâm",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/lâm.mp3"
+            "PromptAudio": "lang/vietnamese/audios/lâm.mp3"
           },
           "foilstones": [
             {
@@ -13454,7 +13454,7 @@
           ],
           "prompt": {
             "PromptText": "vân",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/vân.mp3"
+            "PromptAudio": "lang/vietnamese/audios/vân.mp3"
           },
           "foilstones": [
             {
@@ -13510,7 +13510,7 @@
           ],
           "prompt": {
             "PromptText": "được",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/được.mp3"
+            "PromptAudio": "lang/vietnamese/audios/được.mp3"
           },
           "foilstones": [
             {
@@ -13554,7 +13554,7 @@
           ],
           "prompt": {
             "PromptText": "như",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/như.mp3"
+            "PromptAudio": "lang/vietnamese/audios/như.mp3"
           },
           "foilstones": [
             {
@@ -13598,7 +13598,7 @@
           ],
           "prompt": {
             "PromptText": "thư",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/thư.mp3"
+            "PromptAudio": "lang/vietnamese/audios/thư.mp3"
           },
           "foilstones": [
             {
@@ -13639,7 +13639,7 @@
           ],
           "prompt": {
             "PromptText": "thưa",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/thưa.mp3"
+            "PromptAudio": "lang/vietnamese/audios/thưa.mp3"
           },
           "foilstones": [
             {
@@ -13680,7 +13680,7 @@
           ],
           "prompt": {
             "PromptText": "xưa",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/xưa.mp3"
+            "PromptAudio": "lang/vietnamese/audios/xưa.mp3"
           },
           "foilstones": [
             {

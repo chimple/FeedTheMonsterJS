@@ -10,9 +10,9 @@
   "minversion": 24,
   "langname": "TIGRAGNA",
   "FeedbackAudios": [
-    "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/fantastic.mp3",
-    "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/great.mp3",
-    "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/amazing.mp3"
+    "lang/tigragna/audios/fantastic.mp3",
+    "lang/tigragna/audios/great.mp3",
+    "lang/tigragna/audios/amazing.mp3"
   ],
   "OtherAudios": {
     "Select your player": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/Select-your-player.mp3",
@@ -39,7 +39,7 @@
           ],
           "prompt": {
             "PromptText": "ረ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ረ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ረ.mp3"
           },
           "foilstones": [
             {
@@ -59,7 +59,7 @@
           ],
           "prompt": {
             "PromptText": "ሐ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ሐ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ሐ.mp3"
           },
           "foilstones": [
             {
@@ -79,7 +79,7 @@
           ],
           "prompt": {
             "PromptText": "ሠ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ሠ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ሠ.mp3"
           },
           "foilstones": [
             {
@@ -99,7 +99,7 @@
           ],
           "prompt": {
             "PromptText": "ለ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ለ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ለ.mp3"
           },
           "foilstones": [
             {
@@ -119,7 +119,7 @@
           ],
           "prompt": {
             "PromptText": "በ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/በ.mp3"
+            "PromptAudio": "lang/tigragna/audios/በ.mp3"
           },
           "foilstones": [
             {
@@ -154,7 +154,7 @@
           ],
           "prompt": {
             "PromptText": "ሠ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ሠ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ሠ.mp3"
           },
           "foilstones": [
             {
@@ -177,7 +177,7 @@
           ],
           "prompt": {
             "PromptText": "ረ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ረ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ረ.mp3"
           },
           "foilstones": [
             {
@@ -200,7 +200,7 @@
           ],
           "prompt": {
             "PromptText": "ዐ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ዐ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ዐ.mp3"
           },
           "foilstones": [
             {
@@ -223,7 +223,7 @@
           ],
           "prompt": {
             "PromptText": "ለ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ለ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ለ.mp3"
           },
           "foilstones": [
             {
@@ -246,7 +246,7 @@
           ],
           "prompt": {
             "PromptText": "በ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/በ.mp3"
+            "PromptAudio": "lang/tigragna/audios/በ.mp3"
           },
           "foilstones": [
             {
@@ -284,7 +284,7 @@
           ],
           "prompt": {
             "PromptText": "በ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/በ.mp3"
+            "PromptAudio": "lang/tigragna/audios/በ.mp3"
           },
           "foilstones": [
             {
@@ -304,7 +304,7 @@
           ],
           "prompt": {
             "PromptText": "ጠ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ጠ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ጠ.mp3"
           },
           "foilstones": [
             {
@@ -324,7 +324,7 @@
           ],
           "prompt": {
             "PromptText": "ለ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ለ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ለ.mp3"
           },
           "foilstones": [
             {
@@ -344,7 +344,7 @@
           ],
           "prompt": {
             "PromptText": "ዐ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ዐ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ዐ.mp3"
           },
           "foilstones": [
             {
@@ -364,7 +364,7 @@
           ],
           "prompt": {
             "PromptText": "ዐ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ዐ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ዐ.mp3"
           },
           "foilstones": [
             {
@@ -399,7 +399,7 @@
           ],
           "prompt": {
             "PromptText": "በ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/በ.mp3"
+            "PromptAudio": "lang/tigragna/audios/በ.mp3"
           },
           "foilstones": [
             {
@@ -419,7 +419,7 @@
           ],
           "prompt": {
             "PromptText": "ሠ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ሠ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ሠ.mp3"
           },
           "foilstones": [
             {
@@ -439,7 +439,7 @@
           ],
           "prompt": {
             "PromptText": "ሐ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ሐ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ሐ.mp3"
           },
           "foilstones": [
             {
@@ -459,7 +459,7 @@
           ],
           "prompt": {
             "PromptText": "ረ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ረ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ረ.mp3"
           },
           "foilstones": [
             {
@@ -479,7 +479,7 @@
           ],
           "prompt": {
             "PromptText": "ረ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ረ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ረ.mp3"
           },
           "foilstones": [
             {
@@ -514,7 +514,7 @@
           ],
           "prompt": {
             "PromptText": "ረ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ረ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ረ.mp3"
           },
           "foilstones": [
             {
@@ -537,7 +537,7 @@
           ],
           "prompt": {
             "PromptText": "ሠ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ሠ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ሠ.mp3"
           },
           "foilstones": [
             {
@@ -560,7 +560,7 @@
           ],
           "prompt": {
             "PromptText": "ጠ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ጠ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ጠ.mp3"
           },
           "foilstones": [
             {
@@ -583,7 +583,7 @@
           ],
           "prompt": {
             "PromptText": "ረ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ረ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ረ.mp3"
           },
           "foilstones": [
             {
@@ -606,7 +606,7 @@
           ],
           "prompt": {
             "PromptText": "ፀ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ፀ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ፀ.mp3"
           },
           "foilstones": [
             {
@@ -644,7 +644,7 @@
           ],
           "prompt": {
             "PromptText": "ለ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ለ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ለ.mp3"
           },
           "foilstones": [
             {
@@ -667,7 +667,7 @@
           ],
           "prompt": {
             "PromptText": "ሐ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ሐ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ሐ.mp3"
           },
           "foilstones": [
             {
@@ -690,7 +690,7 @@
           ],
           "prompt": {
             "PromptText": "ሪ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ሪ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ሪ.mp3"
           },
           "foilstones": [
             {
@@ -713,7 +713,7 @@
           ],
           "prompt": {
             "PromptText": "ሐ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ሐ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ሐ.mp3"
           },
           "foilstones": [
             {
@@ -736,7 +736,7 @@
           ],
           "prompt": {
             "PromptText": "በ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/በ.mp3"
+            "PromptAudio": "lang/tigragna/audios/በ.mp3"
           },
           "foilstones": [
             {
@@ -774,7 +774,7 @@
           ],
           "prompt": {
             "PromptText": "ገዛ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ገ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ገ.mp3"
           },
           "foilstones": [
             {
@@ -797,7 +797,7 @@
           ],
           "prompt": {
             "PromptText": "ጡጥ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ጡ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ጡ.mp3"
           },
           "foilstones": [
             {
@@ -820,7 +820,7 @@
           ],
           "prompt": {
             "PromptText": "ኸደ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ኸ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ኸ.mp3"
           },
           "foilstones": [
             {
@@ -843,7 +843,7 @@
           ],
           "prompt": {
             "PromptText": "በሪ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/በ.mp3"
+            "PromptAudio": "lang/tigragna/audios/በ.mp3"
           },
           "foilstones": [
             {
@@ -866,7 +866,7 @@
           ],
           "prompt": {
             "PromptText": "ፀባ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ፀ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ፀ.mp3"
           },
           "foilstones": [
             {
@@ -904,7 +904,7 @@
           ],
           "prompt": {
             "PromptText": "ጠመየ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ጠ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ጠ.mp3"
           },
           "foilstones": [
             {
@@ -927,7 +927,7 @@
           ],
           "prompt": {
             "PromptText": "ዒላ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ዒ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ዒ.mp3"
           },
           "foilstones": [
             {
@@ -950,7 +950,7 @@
           ],
           "prompt": {
             "PromptText": "በሪ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/በ.mp3"
+            "PromptAudio": "lang/tigragna/audios/በ.mp3"
           },
           "foilstones": [
             {
@@ -973,7 +973,7 @@
           ],
           "prompt": {
             "PromptText": "ኸደ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ኸ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ኸ.mp3"
           },
           "foilstones": [
             {
@@ -996,7 +996,7 @@
           ],
           "prompt": {
             "PromptText": "ጡጥ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ጡ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ጡ.mp3"
           },
           "foilstones": [
             {
@@ -1034,7 +1034,7 @@
           ],
           "prompt": {
             "PromptText": "በሪ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/በ.mp3"
+            "PromptAudio": "lang/tigragna/audios/በ.mp3"
           },
           "foilstones": [
             {
@@ -1057,7 +1057,7 @@
           ],
           "prompt": {
             "PromptText": "ፀባ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ፀ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ፀ.mp3"
           },
           "foilstones": [
             {
@@ -1080,7 +1080,7 @@
           ],
           "prompt": {
             "PromptText": "ኸደ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ኸ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ኸ.mp3"
           },
           "foilstones": [
             {
@@ -1103,7 +1103,7 @@
           ],
           "prompt": {
             "PromptText": "ሃሪ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ሃ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ሃ.mp3"
           },
           "foilstones": [
             {
@@ -1126,7 +1126,7 @@
           ],
           "prompt": {
             "PromptText": "ፀባ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ፀ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ፀ.mp3"
           },
           "foilstones": [
             {
@@ -1167,7 +1167,7 @@
           ],
           "prompt": {
             "PromptText": "ጡጥ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ጡጥ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ጡጥ.mp3"
           },
           "foilstones": [
             {
@@ -1193,7 +1193,7 @@
           ],
           "prompt": {
             "PromptText": "በሪ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/በሪ.mp3"
+            "PromptAudio": "lang/tigragna/audios/በሪ.mp3"
           },
           "foilstones": [
             {
@@ -1222,7 +1222,7 @@
           ],
           "prompt": {
             "PromptText": "ፀባ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ፀባ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ፀባ.mp3"
           },
           "foilstones": [
             {
@@ -1248,7 +1248,7 @@
           ],
           "prompt": {
             "PromptText": "ዒላ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ዒላ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ዒላ.mp3"
           },
           "foilstones": [
             {
@@ -1274,7 +1274,7 @@
           ],
           "prompt": {
             "PromptText": "ሃሪ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ሃሪ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ሃሪ.mp3"
           },
           "foilstones": [
             {
@@ -1312,7 +1312,7 @@
           ],
           "prompt": {
             "PromptText": "በሪ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/በሪ.mp3"
+            "PromptAudio": "lang/tigragna/audios/በሪ.mp3"
           },
           "foilstones": [
             {
@@ -1338,7 +1338,7 @@
           ],
           "prompt": {
             "PromptText": "ፀባ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ፀባ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ፀባ.mp3"
           },
           "foilstones": [
             {
@@ -1364,7 +1364,7 @@
           ],
           "prompt": {
             "PromptText": "ዒላ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ዒላ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ዒላ.mp3"
           },
           "foilstones": [
             {
@@ -1390,7 +1390,7 @@
           ],
           "prompt": {
             "PromptText": "በሪ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/በሪ.mp3"
+            "PromptAudio": "lang/tigragna/audios/በሪ.mp3"
           },
           "foilstones": [
             {
@@ -1419,7 +1419,7 @@
           ],
           "prompt": {
             "PromptText": "ሃሪ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ሃሪ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ሃሪ.mp3"
           },
           "foilstones": [
             {
@@ -1457,7 +1457,7 @@
           ],
           "prompt": {
             "PromptText": "ሃሪ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ሃሪ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ሃሪ.mp3"
           },
           "foilstones": [
             {
@@ -1483,7 +1483,7 @@
           ],
           "prompt": {
             "PromptText": "ኸደ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ኸደ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ኸደ.mp3"
           },
           "foilstones": [
             {
@@ -1509,7 +1509,7 @@
           ],
           "prompt": {
             "PromptText": "ጡጥ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ጡጥ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ጡጥ.mp3"
           },
           "foilstones": [
             {
@@ -1535,7 +1535,7 @@
           ],
           "prompt": {
             "PromptText": "ዒላ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ዒላ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ዒላ.mp3"
           },
           "foilstones": [
             {
@@ -1561,7 +1561,7 @@
           ],
           "prompt": {
             "PromptText": "ፀባ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ፀባ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ፀባ.mp3"
           },
           "foilstones": [
             {
@@ -1599,7 +1599,7 @@
           ],
           "prompt": {
             "PromptText": "ጨ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ጨ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ጨ.mp3"
           },
           "foilstones": [
             {
@@ -1622,7 +1622,7 @@
           ],
           "prompt": {
             "PromptText": "የ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/የ.mp3"
+            "PromptAudio": "lang/tigragna/audios/የ.mp3"
           },
           "foilstones": [
             {
@@ -1645,7 +1645,7 @@
           ],
           "prompt": {
             "PromptText": "ሃ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ሃ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ሃ.mp3"
           },
           "foilstones": [
             {
@@ -1668,7 +1668,7 @@
           ],
           "prompt": {
             "PromptText": "ደ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ደ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ደ.mp3"
           },
           "foilstones": [
             {
@@ -1691,7 +1691,7 @@
           ],
           "prompt": {
             "PromptText": "ፀ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ፀ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ፀ.mp3"
           },
           "foilstones": [
             {
@@ -1729,7 +1729,7 @@
           ],
           "prompt": {
             "PromptText": "ደ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ደ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ደ.mp3"
           },
           "foilstones": [
             {
@@ -1752,7 +1752,7 @@
           ],
           "prompt": {
             "PromptText": "ፀ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ፀ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ፀ.mp3"
           },
           "foilstones": [
             {
@@ -1775,7 +1775,7 @@
           ],
           "prompt": {
             "PromptText": "የ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/የ.mp3"
+            "PromptAudio": "lang/tigragna/audios/የ.mp3"
           },
           "foilstones": [
             {
@@ -1798,7 +1798,7 @@
           ],
           "prompt": {
             "PromptText": "ሃ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ሃ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ሃ.mp3"
           },
           "foilstones": [
             {
@@ -1821,7 +1821,7 @@
           ],
           "prompt": {
             "PromptText": "ጨ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ጨ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ጨ.mp3"
           },
           "foilstones": [
             {
@@ -1859,7 +1859,7 @@
           ],
           "prompt": {
             "PromptText": "ፀ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ፀ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ፀ.mp3"
           },
           "foilstones": [
             {
@@ -1879,7 +1879,7 @@
           ],
           "prompt": {
             "PromptText": "ደ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ደ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ደ.mp3"
           },
           "foilstones": [
             {
@@ -1899,7 +1899,7 @@
           ],
           "prompt": {
             "PromptText": "ፀ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ፀ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ፀ.mp3"
           },
           "foilstones": [
             {
@@ -1919,7 +1919,7 @@
           ],
           "prompt": {
             "PromptText": "ሃ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ሃ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ሃ.mp3"
           },
           "foilstones": [
             {
@@ -1939,7 +1939,7 @@
           ],
           "prompt": {
             "PromptText": "የ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/የ.mp3"
+            "PromptAudio": "lang/tigragna/audios/የ.mp3"
           },
           "foilstones": [
             {
@@ -1974,7 +1974,7 @@
           ],
           "prompt": {
             "PromptText": "መ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/መ.mp3"
+            "PromptAudio": "lang/tigragna/audios/መ.mp3"
           },
           "foilstones": [
             {
@@ -1997,7 +1997,7 @@
           ],
           "prompt": {
             "PromptText": "ማ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ማ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ማ.mp3"
           },
           "foilstones": [
             {
@@ -2020,7 +2020,7 @@
           ],
           "prompt": {
             "PromptText": "ሃ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ሃ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ሃ.mp3"
           },
           "foilstones": [
             {
@@ -2043,7 +2043,7 @@
           ],
           "prompt": {
             "PromptText": "የ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/የ.mp3"
+            "PromptAudio": "lang/tigragna/audios/የ.mp3"
           },
           "foilstones": [
             {
@@ -2066,7 +2066,7 @@
           ],
           "prompt": {
             "PromptText": "ሰ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ሰ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ሰ.mp3"
           },
           "foilstones": [
             {
@@ -2104,7 +2104,7 @@
           ],
           "prompt": {
             "PromptText": "ጨ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ጨ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ጨ.mp3"
           },
           "foilstones": [
             {
@@ -2133,7 +2133,7 @@
           ],
           "prompt": {
             "PromptText": "ደ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ደ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ደ.mp3"
           },
           "foilstones": [
             {
@@ -2159,7 +2159,7 @@
           ],
           "prompt": {
             "PromptText": "ደ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ደ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ደ.mp3"
           },
           "foilstones": [
             {
@@ -2182,7 +2182,7 @@
           ],
           "prompt": {
             "PromptText": "መ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/መ.mp3"
+            "PromptAudio": "lang/tigragna/audios/መ.mp3"
           },
           "foilstones": [
             {
@@ -2208,7 +2208,7 @@
           ],
           "prompt": {
             "PromptText": "ሃ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ሃ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ሃ.mp3"
           },
           "foilstones": [
             {
@@ -2246,7 +2246,7 @@
           ],
           "prompt": {
             "PromptText": "ተ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ተ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ተ.mp3"
           },
           "foilstones": [
             {
@@ -2272,7 +2272,7 @@
           ],
           "prompt": {
             "PromptText": "ሰ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ሰ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ሰ.mp3"
           },
           "foilstones": [
             {
@@ -2298,7 +2298,7 @@
           ],
           "prompt": {
             "PromptText": "መ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/መ.mp3"
+            "PromptAudio": "lang/tigragna/audios/መ.mp3"
           },
           "foilstones": [
             {
@@ -2324,7 +2324,7 @@
           ],
           "prompt": {
             "PromptText": "ማ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ማ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ማ.mp3"
           },
           "foilstones": [
             {
@@ -2350,7 +2350,7 @@
           ],
           "prompt": {
             "PromptText": "ሃ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ሃ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ሃ.mp3"
           },
           "foilstones": [
             {
@@ -2394,7 +2394,7 @@
           ],
           "prompt": {
             "PromptText": "ፀሊም",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ፀ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ፀ.mp3"
           },
           "foilstones": [
             {
@@ -2420,7 +2420,7 @@
           ],
           "prompt": {
             "PromptText": "ሰቲ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ሰ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ሰ.mp3"
           },
           "foilstones": [
             {
@@ -2446,7 +2446,7 @@
           ],
           "prompt": {
             "PromptText": "ማይ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ማ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ማ.mp3"
           },
           "foilstones": [
             {
@@ -2472,7 +2472,7 @@
           ],
           "prompt": {
             "PromptText": "ፀሊም",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ፀ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ፀ.mp3"
           },
           "foilstones": [
             {
@@ -2498,7 +2498,7 @@
           ],
           "prompt": {
             "PromptText": "ኸደ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ኸ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ኸ.mp3"
           },
           "foilstones": [
             {
@@ -2542,7 +2542,7 @@
           ],
           "prompt": {
             "PromptText": "ዒላ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ዒ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ዒ.mp3"
           },
           "foilstones": [
             {
@@ -2568,7 +2568,7 @@
           ],
           "prompt": {
             "PromptText": "ማይ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ማ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ማ.mp3"
           },
           "foilstones": [
             {
@@ -2594,7 +2594,7 @@
           ],
           "prompt": {
             "PromptText": "ኸደ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ኸ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ኸ.mp3"
           },
           "foilstones": [
             {
@@ -2620,7 +2620,7 @@
           ],
           "prompt": {
             "PromptText": "ፍ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ፍ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ፍ.mp3"
           },
           "foilstones": [
             {
@@ -2646,7 +2646,7 @@
           ],
           "prompt": {
             "PromptText": "ፀባ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ፀ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ፀ.mp3"
           },
           "foilstones": [
             {
@@ -2690,7 +2690,7 @@
           ],
           "prompt": {
             "PromptText": "ማይ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ማ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ማ.mp3"
           },
           "foilstones": [
             {
@@ -2716,7 +2716,7 @@
           ],
           "prompt": {
             "PromptText": "ጭ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ጭ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ጭ.mp3"
           },
           "foilstones": [
             {
@@ -2742,7 +2742,7 @@
           ],
           "prompt": {
             "PromptText": "ጭሕሚ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ጭ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ጭ.mp3"
           },
           "foilstones": [
             {
@@ -2768,7 +2768,7 @@
           ],
           "prompt": {
             "PromptText": "ፀ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ፀ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ፀ.mp3"
           },
           "foilstones": [
             {
@@ -2794,7 +2794,7 @@
           ],
           "prompt": {
             "PromptText": "ፀሊም",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ፀ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ፀ.mp3"
           },
           "foilstones": [
             {
@@ -2838,7 +2838,7 @@
           ],
           "prompt": {
             "PromptText": "ፀባ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ፀ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ፀ.mp3"
           },
           "foilstones": [
             {
@@ -2861,7 +2861,7 @@
           ],
           "prompt": {
             "PromptText": "ፍ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ፍ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ፍ.mp3"
           },
           "foilstones": [
             {
@@ -2884,7 +2884,7 @@
           ],
           "prompt": {
             "PromptText": "ፀሊም",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ፀ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ፀ.mp3"
           },
           "foilstones": [
             {
@@ -2907,7 +2907,7 @@
           ],
           "prompt": {
             "PromptText": "ኸደ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ኸ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ኸ.mp3"
           },
           "foilstones": [
             {
@@ -2930,7 +2930,7 @@
           ],
           "prompt": {
             "PromptText": "ጭሕሚ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ጭ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ጭ.mp3"
           },
           "foilstones": [
             {
@@ -2974,7 +2974,7 @@
           ],
           "prompt": {
             "PromptText": "ፀሊም",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ፀሊም.mp3"
+            "PromptAudio": "lang/tigragna/audios/ፀሊም.mp3"
           },
           "foilstones": [
             {
@@ -3000,7 +3000,7 @@
           ],
           "prompt": {
             "PromptText": "ፀባ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ፀባ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ፀባ.mp3"
           },
           "foilstones": [
             {
@@ -3026,7 +3026,7 @@
           ],
           "prompt": {
             "PromptText": "ዒላ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ዒላ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ዒላ.mp3"
           },
           "foilstones": [
             {
@@ -3052,7 +3052,7 @@
           ],
           "prompt": {
             "PromptText": "ዒፍ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ዒፍ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ዒፍ.mp3"
           },
           "foilstones": [
             {
@@ -3078,7 +3078,7 @@
           ],
           "prompt": {
             "PromptText": "ፀባ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ፀባ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ፀባ.mp3"
           },
           "foilstones": [
             {
@@ -3116,7 +3116,7 @@
           ],
           "prompt": {
             "PromptText": "ኸደ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ኸደ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ኸደ.mp3"
           },
           "foilstones": [
             {
@@ -3142,7 +3142,7 @@
           ],
           "prompt": {
             "PromptText": "ፀባ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ፀባ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ፀባ.mp3"
           },
           "foilstones": [
             {
@@ -3168,7 +3168,7 @@
           ],
           "prompt": {
             "PromptText": "ዒላ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ዒላ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ዒላ.mp3"
           },
           "foilstones": [
             {
@@ -3197,7 +3197,7 @@
           ],
           "prompt": {
             "PromptText": "ማይ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ማይ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ማይ.mp3"
           },
           "foilstones": [
             {
@@ -3226,7 +3226,7 @@
           ],
           "prompt": {
             "PromptText": "ፀሊም",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ፀሊም.mp3"
+            "PromptAudio": "lang/tigragna/audios/ፀሊም.mp3"
           },
           "foilstones": [
             {
@@ -3264,7 +3264,7 @@
           ],
           "prompt": {
             "PromptText": "ማይ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ማይ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ማይ.mp3"
           },
           "foilstones": [
             {
@@ -3290,7 +3290,7 @@
           ],
           "prompt": {
             "PromptText": "ፀባ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ፀባ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ፀባ.mp3"
           },
           "foilstones": [
             {
@@ -3316,7 +3316,7 @@
           ],
           "prompt": {
             "PromptText": "ዒፍ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ዒፍ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ዒፍ.mp3"
           },
           "foilstones": [
             {
@@ -3342,7 +3342,7 @@
           ],
           "prompt": {
             "PromptText": "ዒላ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ዒላ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ዒላ.mp3"
           },
           "foilstones": [
             {
@@ -3371,7 +3371,7 @@
           ],
           "prompt": {
             "PromptText": "ጭሕሚ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ጭሕሚ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ጭሕሚ.mp3"
           },
           "foilstones": [
             {
@@ -3409,7 +3409,7 @@
           ],
           "prompt": {
             "PromptText": "ነ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ነ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ነ.mp3"
           },
           "foilstones": [
             {
@@ -3432,7 +3432,7 @@
           ],
           "prompt": {
             "PromptText": "ረ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ረ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ረ.mp3"
           },
           "foilstones": [
             {
@@ -3455,7 +3455,7 @@
           ],
           "prompt": {
             "PromptText": "ሳ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ሳ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ሳ.mp3"
           },
           "foilstones": [
             {
@@ -3481,7 +3481,7 @@
           ],
           "prompt": {
             "PromptText": "ነ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ነ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ነ.mp3"
           },
           "foilstones": [
             {
@@ -3504,7 +3504,7 @@
           ],
           "prompt": {
             "PromptText": "አ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/አ.mp3"
+            "PromptAudio": "lang/tigragna/audios/አ.mp3"
           },
           "foilstones": [
             {
@@ -3539,7 +3539,7 @@
           ],
           "prompt": {
             "PromptText": "አ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/አ.mp3"
+            "PromptAudio": "lang/tigragna/audios/አ.mp3"
           },
           "foilstones": [
             {
@@ -3562,7 +3562,7 @@
           ],
           "prompt": {
             "PromptText": "በ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/በ.mp3"
+            "PromptAudio": "lang/tigragna/audios/በ.mp3"
           },
           "foilstones": [
             {
@@ -3585,7 +3585,7 @@
           ],
           "prompt": {
             "PromptText": "ሳ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ሳ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ሳ.mp3"
           },
           "foilstones": [
             {
@@ -3611,7 +3611,7 @@
           ],
           "prompt": {
             "PromptText": "ረ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ረ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ረ.mp3"
           },
           "foilstones": [
             {
@@ -3634,7 +3634,7 @@
           ],
           "prompt": {
             "PromptText": "ረ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ረ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ረ.mp3"
           },
           "foilstones": [
             {
@@ -3669,7 +3669,7 @@
           ],
           "prompt": {
             "PromptText": "ፀ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ፀ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ፀ.mp3"
           },
           "foilstones": [
             {
@@ -3692,7 +3692,7 @@
           ],
           "prompt": {
             "PromptText": "ረ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ረ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ረ.mp3"
           },
           "foilstones": [
             {
@@ -3715,7 +3715,7 @@
           ],
           "prompt": {
             "PromptText": "ፀ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ፀ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ፀ.mp3"
           },
           "foilstones": [
             {
@@ -3741,7 +3741,7 @@
           ],
           "prompt": {
             "PromptText": "ዓ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ዓ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ዓ.mp3"
           },
           "foilstones": [
             {
@@ -3764,7 +3764,7 @@
           ],
           "prompt": {
             "PromptText": "በ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/በ.mp3"
+            "PromptAudio": "lang/tigragna/audios/በ.mp3"
           },
           "foilstones": [
             {
@@ -3799,7 +3799,7 @@
           ],
           "prompt": {
             "PromptText": "ረ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ረ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ረ.mp3"
           },
           "foilstones": [
             {
@@ -3831,7 +3831,7 @@
           ],
           "prompt": {
             "PromptText": "ረ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ረ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ረ.mp3"
           },
           "foilstones": [
             {
@@ -3860,7 +3860,7 @@
           ],
           "prompt": {
             "PromptText": "ሰ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ሰ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ሰ.mp3"
           },
           "foilstones": [
             {
@@ -3892,7 +3892,7 @@
           ],
           "prompt": {
             "PromptText": "ኸ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ኸ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ኸ.mp3"
           },
           "foilstones": [
             {
@@ -3921,7 +3921,7 @@
           ],
           "prompt": {
             "PromptText": "ሸ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ሸ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ሸ.mp3"
           },
           "foilstones": [
             {
@@ -3965,7 +3965,7 @@
           ],
           "prompt": {
             "PromptText": "ሰ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ሰ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ሰ.mp3"
           },
           "foilstones": [
             {
@@ -3997,7 +3997,7 @@
           ],
           "prompt": {
             "PromptText": "ረ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ረ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ረ.mp3"
           },
           "foilstones": [
             {
@@ -4029,7 +4029,7 @@
           ],
           "prompt": {
             "PromptText": "ነ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ነ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ነ.mp3"
           },
           "foilstones": [
             {
@@ -4058,7 +4058,7 @@
           ],
           "prompt": {
             "PromptText": "ዒ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ዒ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ዒ.mp3"
           },
           "foilstones": [
             {
@@ -4087,7 +4087,7 @@
           ],
           "prompt": {
             "PromptText": "ፀ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ፀ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ፀ.mp3"
           },
           "foilstones": [
             {
@@ -4131,7 +4131,7 @@
           ],
           "prompt": {
             "PromptText": "ረ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ረ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ረ.mp3"
           },
           "foilstones": [
             {
@@ -4163,7 +4163,7 @@
           ],
           "prompt": {
             "PromptText": "ረ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ረ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ረ.mp3"
           },
           "foilstones": [
             {
@@ -4195,7 +4195,7 @@
           ],
           "prompt": {
             "PromptText": "አ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/አ.mp3"
+            "PromptAudio": "lang/tigragna/audios/አ.mp3"
           },
           "foilstones": [
             {
@@ -4224,7 +4224,7 @@
           ],
           "prompt": {
             "PromptText": "ከ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ከ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ከ.mp3"
           },
           "foilstones": [
             {
@@ -4253,7 +4253,7 @@
           ],
           "prompt": {
             "PromptText": "ኸ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ኸ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ኸ.mp3"
           },
           "foilstones": [
             {
@@ -4297,7 +4297,7 @@
           ],
           "prompt": {
             "PromptText": "ሰተታ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ሰ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ሰ.mp3"
           },
           "foilstones": [
             {
@@ -4326,7 +4326,7 @@
           ],
           "prompt": {
             "PromptText": "እምኒ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/እ.mp3"
+            "PromptAudio": "lang/tigragna/audios/እ.mp3"
           },
           "foilstones": [
             {
@@ -4358,7 +4358,7 @@
           ],
           "prompt": {
             "PromptText": "ገዛ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ገ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ገ.mp3"
           },
           "foilstones": [
             {
@@ -4390,7 +4390,7 @@
           ],
           "prompt": {
             "PromptText": "ዓሳ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ዓ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ዓ.mp3"
           },
           "foilstones": [
             {
@@ -4419,7 +4419,7 @@
           ],
           "prompt": {
             "PromptText": "ሕርያ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ሕ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ሕ.mp3"
           },
           "foilstones": [
             {
@@ -4463,7 +4463,7 @@
           ],
           "prompt": {
             "PromptText": "እምኒ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/እ.mp3"
+            "PromptAudio": "lang/tigragna/audios/እ.mp3"
           },
           "foilstones": [
             {
@@ -4495,7 +4495,7 @@
           ],
           "prompt": {
             "PromptText": "ዓሳ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ዓ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ዓ.mp3"
           },
           "foilstones": [
             {
@@ -4527,7 +4527,7 @@
           ],
           "prompt": {
             "PromptText": "ሰተታ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ሰ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ሰ.mp3"
           },
           "foilstones": [
             {
@@ -4556,7 +4556,7 @@
           ],
           "prompt": {
             "PromptText": "ሕርያ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ሕ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ሕ.mp3"
           },
           "foilstones": [
             {
@@ -4588,7 +4588,7 @@
           ],
           "prompt": {
             "PromptText": "ዒፍ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ዒ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ዒ.mp3"
           },
           "foilstones": [
             {
@@ -4629,7 +4629,7 @@
           ],
           "prompt": {
             "PromptText": "ሰተታ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ሰ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ሰ.mp3"
           },
           "foilstones": [
             {
@@ -4661,7 +4661,7 @@
           ],
           "prompt": {
             "PromptText": "እምኒ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/እ.mp3"
+            "PromptAudio": "lang/tigragna/audios/እ.mp3"
           },
           "foilstones": [
             {
@@ -4693,7 +4693,7 @@
           ],
           "prompt": {
             "PromptText": "ፀባ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ፀ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ፀ.mp3"
           },
           "foilstones": [
             {
@@ -4722,7 +4722,7 @@
           ],
           "prompt": {
             "PromptText": "ዒፍ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ዒ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ዒ.mp3"
           },
           "foilstones": [
             {
@@ -4754,7 +4754,7 @@
           ],
           "prompt": {
             "PromptText": "እምኒ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/እ.mp3"
+            "PromptAudio": "lang/tigragna/audios/እ.mp3"
           },
           "foilstones": [
             {
@@ -4795,7 +4795,7 @@
           ],
           "prompt": {
             "PromptText": "ሰተታ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ሰ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ሰ.mp3"
           },
           "foilstones": [
             {
@@ -4827,7 +4827,7 @@
           ],
           "prompt": {
             "PromptText": "ዒፍ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ዒ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ዒ.mp3"
           },
           "foilstones": [
             {
@@ -4859,7 +4859,7 @@
           ],
           "prompt": {
             "PromptText": "ሰተታ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ሰ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ሰ.mp3"
           },
           "foilstones": [
             {
@@ -4888,7 +4888,7 @@
           ],
           "prompt": {
             "PromptText": "እምኒ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/እ.mp3"
+            "PromptAudio": "lang/tigragna/audios/እ.mp3"
           },
           "foilstones": [
             {
@@ -4920,7 +4920,7 @@
           ],
           "prompt": {
             "PromptText": "ገዛ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ገ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ገ.mp3"
           },
           "foilstones": [
             {
@@ -4967,7 +4967,7 @@
           ],
           "prompt": {
             "PromptText": "ሰተታ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ሰተታ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ሰተታ.mp3"
           },
           "foilstones": [
             {
@@ -5011,7 +5011,7 @@
           ],
           "prompt": {
             "PromptText": "ሕርያ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ሕርያ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ሕርያ.mp3"
           },
           "foilstones": [
             {
@@ -5049,7 +5049,7 @@
           ],
           "prompt": {
             "PromptText": "ዓሳ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ዓሳ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ዓሳ.mp3"
           },
           "foilstones": [
             {
@@ -5090,7 +5090,7 @@
           ],
           "prompt": {
             "PromptText": "ፀባ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ፀባ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ፀባ.mp3"
           },
           "foilstones": [
             {
@@ -5128,7 +5128,7 @@
           ],
           "prompt": {
             "PromptText": "እምኒ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/እምኒ.mp3"
+            "PromptAudio": "lang/tigragna/audios/እምኒ.mp3"
           },
           "foilstones": [
             {
@@ -5187,7 +5187,7 @@
           ],
           "prompt": {
             "PromptText": "እምኒ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/እምኒ.mp3"
+            "PromptAudio": "lang/tigragna/audios/እምኒ.mp3"
           },
           "foilstones": [
             {
@@ -5228,7 +5228,7 @@
           ],
           "prompt": {
             "PromptText": "ሕርያ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ሕርያ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ሕርያ.mp3"
           },
           "foilstones": [
             {
@@ -5272,7 +5272,7 @@
           ],
           "prompt": {
             "PromptText": "ሰተታ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ሰተታ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ሰተታ.mp3"
           },
           "foilstones": [
             {
@@ -5313,7 +5313,7 @@
           ],
           "prompt": {
             "PromptText": "ዒፍ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ዒፍ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ዒፍ.mp3"
           },
           "foilstones": [
             {
@@ -5357,7 +5357,7 @@
           ],
           "prompt": {
             "PromptText": "ገዛ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ገዛ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ገዛ.mp3"
           },
           "foilstones": [
             {
@@ -5404,7 +5404,7 @@
           ],
           "prompt": {
             "PromptText": "ዓሳ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ዓሳ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ዓሳ.mp3"
           },
           "foilstones": [
             {
@@ -5448,7 +5448,7 @@
           ],
           "prompt": {
             "PromptText": "ሰተታ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ሰተታ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ሰተታ.mp3"
           },
           "foilstones": [
             {
@@ -5495,7 +5495,7 @@
           ],
           "prompt": {
             "PromptText": "ሕርያ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ሕርያ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ሕርያ.mp3"
           },
           "foilstones": [
             {
@@ -5536,7 +5536,7 @@
           ],
           "prompt": {
             "PromptText": "ገዛ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ገዛ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ገዛ.mp3"
           },
           "foilstones": [
             {
@@ -5577,7 +5577,7 @@
           ],
           "prompt": {
             "PromptText": "እምኒ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/እምኒ.mp3"
+            "PromptAudio": "lang/tigragna/audios/እምኒ.mp3"
           },
           "foilstones": [
             {
@@ -5627,7 +5627,7 @@
           ],
           "prompt": {
             "PromptText": "ለ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ለ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ለ.mp3"
           },
           "foilstones": [
             {
@@ -5665,7 +5665,7 @@
           ],
           "prompt": {
             "PromptText": "ኣ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ኣ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ኣ.mp3"
           },
           "foilstones": [
             {
@@ -5703,7 +5703,7 @@
           ],
           "prompt": {
             "PromptText": "ለ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ለ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ለ.mp3"
           },
           "foilstones": [
             {
@@ -5741,7 +5741,7 @@
           ],
           "prompt": {
             "PromptText": "ጀ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ጀ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ጀ.mp3"
           },
           "foilstones": [
             {
@@ -5776,7 +5776,7 @@
           ],
           "prompt": {
             "PromptText": "ዠ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ዠ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ዠ.mp3"
           },
           "foilstones": [
             {
@@ -5829,7 +5829,7 @@
           ],
           "prompt": {
             "PromptText": "ኣ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ኣ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ኣ.mp3"
           },
           "foilstones": [
             {
@@ -5867,7 +5867,7 @@
           ],
           "prompt": {
             "PromptText": "ለ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ለ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ለ.mp3"
           },
           "foilstones": [
             {
@@ -5905,7 +5905,7 @@
           ],
           "prompt": {
             "PromptText": "ለ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ለ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ለ.mp3"
           },
           "foilstones": [
             {
@@ -5943,7 +5943,7 @@
           ],
           "prompt": {
             "PromptText": "ጀ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ጀ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ጀ.mp3"
           },
           "foilstones": [
             {
@@ -5984,7 +5984,7 @@
           ],
           "prompt": {
             "PromptText": "ለ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ለ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ለ.mp3"
           },
           "foilstones": [
             {
@@ -6031,7 +6031,7 @@
           ],
           "prompt": {
             "PromptText": "ዘ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ዘ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ዘ.mp3"
           },
           "foilstones": [
             {
@@ -6069,7 +6069,7 @@
           ],
           "prompt": {
             "PromptText": "ገ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ገ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ገ.mp3"
           },
           "foilstones": [
             {
@@ -6107,7 +6107,7 @@
           ],
           "prompt": {
             "PromptText": "ከ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ከ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ከ.mp3"
           },
           "foilstones": [
             {
@@ -6145,7 +6145,7 @@
           ],
           "prompt": {
             "PromptText": "ዘ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ዘ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ዘ.mp3"
           },
           "foilstones": [
             {
@@ -6186,7 +6186,7 @@
           ],
           "prompt": {
             "PromptText": "ከ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ከ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ከ.mp3"
           },
           "foilstones": [
             {
@@ -6233,7 +6233,7 @@
           ],
           "prompt": {
             "PromptText": "ከ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ከ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ከ.mp3"
           },
           "foilstones": [
             {
@@ -6271,7 +6271,7 @@
           ],
           "prompt": {
             "PromptText": "ገ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ገ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ገ.mp3"
           },
           "foilstones": [
             {
@@ -6309,7 +6309,7 @@
           ],
           "prompt": {
             "PromptText": "ለ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ለ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ለ.mp3"
           },
           "foilstones": [
             {
@@ -6347,7 +6347,7 @@
           ],
           "prompt": {
             "PromptText": "ዠ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ዠ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ዠ.mp3"
           },
           "foilstones": [
             {
@@ -6388,7 +6388,7 @@
           ],
           "prompt": {
             "PromptText": "ከ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ከ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ከ.mp3"
           },
           "foilstones": [
             {
@@ -6435,7 +6435,7 @@
           ],
           "prompt": {
             "PromptText": "ገ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ገ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ገ.mp3"
           },
           "foilstones": [
             {
@@ -6473,7 +6473,7 @@
           ],
           "prompt": {
             "PromptText": "ገ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ገ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ገ.mp3"
           },
           "foilstones": [
             {
@@ -6511,7 +6511,7 @@
           ],
           "prompt": {
             "PromptText": "ዠ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ዠ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ዠ.mp3"
           },
           "foilstones": [
             {
@@ -6549,7 +6549,7 @@
           ],
           "prompt": {
             "PromptText": "ዠ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ዠ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ዠ.mp3"
           },
           "foilstones": [
             {
@@ -6584,7 +6584,7 @@
           ],
           "prompt": {
             "PromptText": "ገ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ገ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ገ.mp3"
           },
           "foilstones": [
             {
@@ -6637,7 +6637,7 @@
           ],
           "prompt": {
             "PromptText": "ዠ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ዠ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ዠ.mp3"
           },
           "foilstones": [
             {
@@ -6675,7 +6675,7 @@
           ],
           "prompt": {
             "PromptText": "ኣ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ኣ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ኣ.mp3"
           },
           "foilstones": [
             {
@@ -6713,7 +6713,7 @@
           ],
           "prompt": {
             "PromptText": "ክ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ክ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ክ.mp3"
           },
           "foilstones": [
             {
@@ -6751,7 +6751,7 @@
           ],
           "prompt": {
             "PromptText": "ዘ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ዘ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ዘ.mp3"
           },
           "foilstones": [
             {
@@ -6786,7 +6786,7 @@
           ],
           "prompt": {
             "PromptText": "ጀ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ጀ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ጀ.mp3"
           },
           "foilstones": [
             {
@@ -6839,7 +6839,7 @@
           ],
           "prompt": {
             "PromptText": "ዠ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ዠ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ዠ.mp3"
           },
           "foilstones": [
             {
@@ -6877,7 +6877,7 @@
           ],
           "prompt": {
             "PromptText": "ገዓት",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ገ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ገ.mp3"
           },
           "foilstones": [
             {
@@ -6915,7 +6915,7 @@
           ],
           "prompt": {
             "PromptText": "ከ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ከ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ከ.mp3"
           },
           "foilstones": [
             {
@@ -6950,7 +6950,7 @@
           ],
           "prompt": {
             "PromptText": "ገዓት",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ገ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ገ.mp3"
           },
           "foilstones": [
             {
@@ -6991,7 +6991,7 @@
           ],
           "prompt": {
             "PromptText": "ኣኮ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ኣ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ኣ.mp3"
           },
           "foilstones": [
             {
@@ -7041,7 +7041,7 @@
           ],
           "prompt": {
             "PromptText": "ኸደ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ኸ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ኸ.mp3"
           },
           "foilstones": [
             {
@@ -7079,7 +7079,7 @@
           ],
           "prompt": {
             "PromptText": "ሰቲ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ሰ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ሰ.mp3"
           },
           "foilstones": [
             {
@@ -7117,7 +7117,7 @@
           ],
           "prompt": {
             "PromptText": "ክዳን",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ክ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ክ.mp3"
           },
           "foilstones": [
             {
@@ -7155,7 +7155,7 @@
           ],
           "prompt": {
             "PromptText": "ሰ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ሰ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ሰ.mp3"
           },
           "foilstones": [
             {
@@ -7190,7 +7190,7 @@
           ],
           "prompt": {
             "PromptText": "ሰተታ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ሰ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ሰ.mp3"
           },
           "foilstones": [
             {
@@ -7243,7 +7243,7 @@
           ],
           "prompt": {
             "PromptText": "ክዳን",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ክ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ክ.mp3"
           },
           "foilstones": [
             {
@@ -7281,7 +7281,7 @@
           ],
           "prompt": {
             "PromptText": "ገዓት",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ገ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ገ.mp3"
           },
           "foilstones": [
             {
@@ -7319,7 +7319,7 @@
           ],
           "prompt": {
             "PromptText": "ገዓት",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ገ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ገ.mp3"
           },
           "foilstones": [
             {
@@ -7357,7 +7357,7 @@
           ],
           "prompt": {
             "PromptText": "ኣኮ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ኣ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ኣ.mp3"
           },
           "foilstones": [
             {
@@ -7392,7 +7392,7 @@
           ],
           "prompt": {
             "PromptText": "ገዓት",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ገ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ገ.mp3"
           },
           "foilstones": [
             {
@@ -7445,7 +7445,7 @@
           ],
           "prompt": {
             "PromptText": "ጀ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ጀ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ጀ.mp3"
           },
           "foilstones": [
             {
@@ -7468,7 +7468,7 @@
           ],
           "prompt": {
             "PromptText": "ከ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ከ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ከ.mp3"
           },
           "foilstones": [
             {
@@ -7491,7 +7491,7 @@
           ],
           "prompt": {
             "PromptText": "ፈ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ፈ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ፈ.mp3"
           },
           "foilstones": [
             {
@@ -7514,7 +7514,7 @@
           ],
           "prompt": {
             "PromptText": "ዘ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ዘ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ዘ.mp3"
           },
           "foilstones": [
             {
@@ -7540,7 +7540,7 @@
           ],
           "prompt": {
             "PromptText": "ከ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ከ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ከ.mp3"
           },
           "foilstones": [
             {
@@ -7578,7 +7578,7 @@
           ],
           "prompt": {
             "PromptText": "ዓሳ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ዓሳ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ዓሳ.mp3"
           },
           "foilstones": [
             {
@@ -7607,7 +7607,7 @@
           ],
           "prompt": {
             "PromptText": "ሰተታ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ሰተታ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ሰተታ.mp3"
           },
           "foilstones": [
             {
@@ -7636,7 +7636,7 @@
           ],
           "prompt": {
             "PromptText": "ገዓት",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ገዓት.mp3"
+            "PromptAudio": "lang/tigragna/audios/ገዓት.mp3"
           },
           "foilstones": [
             {
@@ -7662,7 +7662,7 @@
           ],
           "prompt": {
             "PromptText": "ኣኮ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ኣኮ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ኣኮ.mp3"
           },
           "foilstones": [
             {
@@ -7694,7 +7694,7 @@
           ],
           "prompt": {
             "PromptText": "ክዳን",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ክዳን.mp3"
+            "PromptAudio": "lang/tigragna/audios/ክዳን.mp3"
           },
           "foilstones": [
             {
@@ -7732,7 +7732,7 @@
           ],
           "prompt": {
             "PromptText": "ዒላ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ዒላ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ዒላ.mp3"
           },
           "foilstones": [
             {
@@ -7776,7 +7776,7 @@
           ],
           "prompt": {
             "PromptText": "ሰተታ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ሰተታ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ሰተታ.mp3"
           },
           "foilstones": [
             {
@@ -7820,7 +7820,7 @@
           ],
           "prompt": {
             "PromptText": "ገዓት",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ገዓት.mp3"
+            "PromptAudio": "lang/tigragna/audios/ገዓት.mp3"
           },
           "foilstones": [
             {
@@ -7858,7 +7858,7 @@
           ],
           "prompt": {
             "PromptText": "ኣኮ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ኣኮ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ኣኮ.mp3"
           },
           "foilstones": [
             {
@@ -7905,7 +7905,7 @@
           ],
           "prompt": {
             "PromptText": "ክዳን",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ክዳን.mp3"
+            "PromptAudio": "lang/tigragna/audios/ክዳን.mp3"
           },
           "foilstones": [
             {
@@ -7958,7 +7958,7 @@
           ],
           "prompt": {
             "PromptText": "ኣኮ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ኣኮ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ኣኮ.mp3"
           },
           "foilstones": [
             {
@@ -7999,7 +7999,7 @@
           ],
           "prompt": {
             "PromptText": "ዓሳ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ዓሳ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ዓሳ.mp3"
           },
           "foilstones": [
             {
@@ -8040,7 +8040,7 @@
           ],
           "prompt": {
             "PromptText": "ገዛ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ገዛ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ገዛ.mp3"
           },
           "foilstones": [
             {
@@ -8084,7 +8084,7 @@
           ],
           "prompt": {
             "PromptText": "ገዓት",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ገዓት.mp3"
+            "PromptAudio": "lang/tigragna/audios/ገዓት.mp3"
           },
           "foilstones": [
             {
@@ -8125,7 +8125,7 @@
           ],
           "prompt": {
             "PromptText": "ሰተታ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ሰተታ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ሰተታ.mp3"
           },
           "foilstones": [
             {
@@ -8178,7 +8178,7 @@
           ],
           "prompt": {
             "PromptText": "ሸ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ሸ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ሸ.mp3"
           },
           "foilstones": [
             {
@@ -8216,7 +8216,7 @@
           ],
           "prompt": {
             "PromptText": "ወ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ወ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ወ.mp3"
           },
           "foilstones": [
             {
@@ -8254,7 +8254,7 @@
           ],
           "prompt": {
             "PromptText": "ሸ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ሸ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ሸ.mp3"
           },
           "foilstones": [
             {
@@ -8289,7 +8289,7 @@
           ],
           "prompt": {
             "PromptText": "ወ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ወ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ወ.mp3"
           },
           "foilstones": [
             {
@@ -8330,7 +8330,7 @@
           ],
           "prompt": {
             "PromptText": "ሸ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ሸ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ሸ.mp3"
           },
           "foilstones": [
             {
@@ -8380,7 +8380,7 @@
           ],
           "prompt": {
             "PromptText": "ወ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ወ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ወ.mp3"
           },
           "foilstones": [
             {
@@ -8418,7 +8418,7 @@
           ],
           "prompt": {
             "PromptText": "ወ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ወ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ወ.mp3"
           },
           "foilstones": [
             {
@@ -8459,7 +8459,7 @@
           ],
           "prompt": {
             "PromptText": "ጭ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ጭ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ጭ.mp3"
           },
           "foilstones": [
             {
@@ -8497,7 +8497,7 @@
           ],
           "prompt": {
             "PromptText": "ፈ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ፈ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ፈ.mp3"
           },
           "foilstones": [
             {
@@ -8532,7 +8532,7 @@
           ],
           "prompt": {
             "PromptText": "ፈ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ፈ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ፈ.mp3"
           },
           "foilstones": [
             {
@@ -8582,7 +8582,7 @@
           ],
           "prompt": {
             "PromptText": "ሸ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ሸ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ሸ.mp3"
           },
           "foilstones": [
             {
@@ -8620,7 +8620,7 @@
           ],
           "prompt": {
             "PromptText": "ሕ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ሕ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ሕ.mp3"
           },
           "foilstones": [
             {
@@ -8658,7 +8658,7 @@
           ],
           "prompt": {
             "PromptText": "ወ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ወ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ወ.mp3"
           },
           "foilstones": [
             {
@@ -8696,7 +8696,7 @@
           ],
           "prompt": {
             "PromptText": "ቸ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ቸ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ቸ.mp3"
           },
           "foilstones": [
             {
@@ -8731,7 +8731,7 @@
           ],
           "prompt": {
             "PromptText": "ጭ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ጭ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ጭ.mp3"
           },
           "foilstones": [
             {
@@ -8784,7 +8784,7 @@
           ],
           "prompt": {
             "PromptText": "ሕ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ሕ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ሕ.mp3"
           },
           "foilstones": [
             {
@@ -8822,7 +8822,7 @@
           ],
           "prompt": {
             "PromptText": "ሸ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ሸ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ሸ.mp3"
           },
           "foilstones": [
             {
@@ -8860,7 +8860,7 @@
           ],
           "prompt": {
             "PromptText": "ጨ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ጨ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ጨ.mp3"
           },
           "foilstones": [
             {
@@ -8898,7 +8898,7 @@
           ],
           "prompt": {
             "PromptText": "ጭ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ጭ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ጭ.mp3"
           },
           "foilstones": [
             {
@@ -8933,7 +8933,7 @@
           ],
           "prompt": {
             "PromptText": "ሕ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ሕ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ሕ.mp3"
           },
           "foilstones": [
             {
@@ -8986,7 +8986,7 @@
           ],
           "prompt": {
             "PromptText": "ቸ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ቸ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ቸ.mp3"
           },
           "foilstones": [
             {
@@ -9024,7 +9024,7 @@
           ],
           "prompt": {
             "PromptText": "ወ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ወ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ወ.mp3"
           },
           "foilstones": [
             {
@@ -9065,7 +9065,7 @@
           ],
           "prompt": {
             "PromptText": "ጨ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ጨ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ጨ.mp3"
           },
           "foilstones": [
             {
@@ -9103,7 +9103,7 @@
           ],
           "prompt": {
             "PromptText": "ወ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ወ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ወ.mp3"
           },
           "foilstones": [
             {
@@ -9138,7 +9138,7 @@
           ],
           "prompt": {
             "PromptText": "ወ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ወ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ወ.mp3"
           },
           "foilstones": [
             {
@@ -9188,7 +9188,7 @@
           ],
           "prompt": {
             "PromptText": "ፈ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ፈ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ፈ.mp3"
           },
           "foilstones": [
             {
@@ -9226,7 +9226,7 @@
           ],
           "prompt": {
             "PromptText": "ወ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ወ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ወ.mp3"
           },
           "foilstones": [
             {
@@ -9264,7 +9264,7 @@
           ],
           "prompt": {
             "PromptText": "ፈ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ፈ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ፈ.mp3"
           },
           "foilstones": [
             {
@@ -9302,7 +9302,7 @@
           ],
           "prompt": {
             "PromptText": "ጨ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ጨ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ጨ.mp3"
           },
           "foilstones": [
             {
@@ -9337,7 +9337,7 @@
           ],
           "prompt": {
             "PromptText": "ጨ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ጨ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ጨ.mp3"
           },
           "foilstones": [
             {
@@ -9390,7 +9390,7 @@
           ],
           "prompt": {
             "PromptText": "ጨው",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ጨ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ጨ.mp3"
           },
           "foilstones": [
             {
@@ -9428,7 +9428,7 @@
           ],
           "prompt": {
             "PromptText": "ዒፍ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ዒ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ዒ.mp3"
           },
           "foilstones": [
             {
@@ -9466,7 +9466,7 @@
           ],
           "prompt": {
             "PromptText": "ፀሊም",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ፀ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ፀ.mp3"
           },
           "foilstones": [
             {
@@ -9504,7 +9504,7 @@
           ],
           "prompt": {
             "PromptText": "ሰቲ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ሰ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ሰ.mp3"
           },
           "foilstones": [
             {
@@ -9539,7 +9539,7 @@
           ],
           "prompt": {
             "PromptText": "ማንዛ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ማ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ማ.mp3"
           },
           "foilstones": [
             {
@@ -9592,7 +9592,7 @@
           ],
           "prompt": {
             "PromptText": "ፈ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ፈ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ፈ.mp3"
           },
           "foilstones": [
             {
@@ -9630,7 +9630,7 @@
           ],
           "prompt": {
             "PromptText": "ሽ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ሽ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ሽ.mp3"
           },
           "foilstones": [
             {
@@ -9668,7 +9668,7 @@
           ],
           "prompt": {
             "PromptText": "ቸ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ቸ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ቸ.mp3"
           },
           "foilstones": [
             {
@@ -9703,7 +9703,7 @@
           ],
           "prompt": {
             "PromptText": "ሸ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ሸ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ሸ.mp3"
           },
           "foilstones": [
             {
@@ -9741,7 +9741,7 @@
           ],
           "prompt": {
             "PromptText": "ሰቲ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ሰ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ሰ.mp3"
           },
           "foilstones": [
             {
@@ -9794,7 +9794,7 @@
           ],
           "prompt": {
             "PromptText": "ጭሕሚ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ጭ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ጭ.mp3"
           },
           "foilstones": [
             {
@@ -9832,7 +9832,7 @@
           ],
           "prompt": {
             "PromptText": "ጨው",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ጨ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ጨ.mp3"
           },
           "foilstones": [
             {
@@ -9870,7 +9870,7 @@
           ],
           "prompt": {
             "PromptText": "ዒፍ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ዒ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ዒ.mp3"
           },
           "foilstones": [
             {
@@ -9905,7 +9905,7 @@
           ],
           "prompt": {
             "PromptText": "ዒፍ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ዒ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ዒ.mp3"
           },
           "foilstones": [
             {
@@ -9943,7 +9943,7 @@
           ],
           "prompt": {
             "PromptText": "ሕርያ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ሕ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ሕ.mp3"
           },
           "foilstones": [
             {
@@ -9996,7 +9996,7 @@
           ],
           "prompt": {
             "PromptText": "ማንዛ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ማ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ማ.mp3"
           },
           "foilstones": [
             {
@@ -10034,7 +10034,7 @@
           ],
           "prompt": {
             "PromptText": "ጭሕሚ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ጭ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ጭ.mp3"
           },
           "foilstones": [
             {
@@ -10072,7 +10072,7 @@
           ],
           "prompt": {
             "PromptText": "ሰቲ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ሰ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ሰ.mp3"
           },
           "foilstones": [
             {
@@ -10107,7 +10107,7 @@
           ],
           "prompt": {
             "PromptText": "ጨው",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ጨ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ጨ.mp3"
           },
           "foilstones": [
             {
@@ -10145,7 +10145,7 @@
           ],
           "prompt": {
             "PromptText": "ሰቲ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ሰ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ሰ.mp3"
           },
           "foilstones": [
             {
@@ -10201,7 +10201,7 @@
           ],
           "prompt": {
             "PromptText": "ማይ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ማይ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ማይ.mp3"
           },
           "foilstones": [
             {
@@ -10242,7 +10242,7 @@
           ],
           "prompt": {
             "PromptText": "ጨው",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ጨው.mp3"
+            "PromptAudio": "lang/tigragna/audios/ጨው.mp3"
           },
           "foilstones": [
             {
@@ -10286,7 +10286,7 @@
           ],
           "prompt": {
             "PromptText": "ፀሊም",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ፀሊም.mp3"
+            "PromptAudio": "lang/tigragna/audios/ፀሊም.mp3"
           },
           "foilstones": [
             {
@@ -10327,7 +10327,7 @@
           ],
           "prompt": {
             "PromptText": "ማንዛ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ማንዛ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ማንዛ.mp3"
           },
           "foilstones": [
             {
@@ -10368,7 +10368,7 @@
           ],
           "prompt": {
             "PromptText": "ሰቲ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ሰቲ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ሰቲ.mp3"
           },
           "foilstones": [
             {
@@ -10427,7 +10427,7 @@
           ],
           "prompt": {
             "PromptText": "ጭሕሚ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ጭሕሚ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ጭሕሚ.mp3"
           },
           "foilstones": [
             {
@@ -10471,7 +10471,7 @@
           ],
           "prompt": {
             "PromptText": "ማንዛ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ማንዛ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ማንዛ.mp3"
           },
           "foilstones": [
             {
@@ -10512,7 +10512,7 @@
           ],
           "prompt": {
             "PromptText": "ሰቲ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ሰቲ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ሰቲ.mp3"
           },
           "foilstones": [
             {
@@ -10550,7 +10550,7 @@
           ],
           "prompt": {
             "PromptText": "ጨው",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ጨው.mp3"
+            "PromptAudio": "lang/tigragna/audios/ጨው.mp3"
           },
           "foilstones": [
             {
@@ -10591,7 +10591,7 @@
           ],
           "prompt": {
             "PromptText": "ማይ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ማይ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ማይ.mp3"
           },
           "foilstones": [
             {
@@ -10647,7 +10647,7 @@
           ],
           "prompt": {
             "PromptText": "ጨው",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ጨው.mp3"
+            "PromptAudio": "lang/tigragna/audios/ጨው.mp3"
           },
           "foilstones": [
             {
@@ -10688,7 +10688,7 @@
           ],
           "prompt": {
             "PromptText": "ማይ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ማይ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ማይ.mp3"
           },
           "foilstones": [
             {
@@ -10729,7 +10729,7 @@
           ],
           "prompt": {
             "PromptText": "ዒፍ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ዒፍ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ዒፍ.mp3"
           },
           "foilstones": [
             {
@@ -10767,7 +10767,7 @@
           ],
           "prompt": {
             "PromptText": "ፀባ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ፀባ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ፀባ.mp3"
           },
           "foilstones": [
             {
@@ -10808,7 +10808,7 @@
           ],
           "prompt": {
             "PromptText": "ሰቲ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ሰቲ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ሰቲ.mp3"
           },
           "foilstones": [
             {
@@ -10861,7 +10861,7 @@
           ],
           "prompt": {
             "PromptText": "ሸ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ሸ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ሸ.mp3"
           },
           "foilstones": [
             {
@@ -10899,7 +10899,7 @@
           ],
           "prompt": {
             "PromptText": "ጨ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ጨ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ጨ.mp3"
           },
           "foilstones": [
             {
@@ -10937,7 +10937,7 @@
           ],
           "prompt": {
             "PromptText": "ፈ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ፈ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ፈ.mp3"
           },
           "foilstones": [
             {
@@ -10969,7 +10969,7 @@
           ],
           "prompt": {
             "PromptText": "ጨ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ጨ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ጨ.mp3"
           },
           "foilstones": [
             {
@@ -11004,7 +11004,7 @@
           ],
           "prompt": {
             "PromptText": "ፅ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ፅ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ፅ.mp3"
           },
           "foilstones": [
             {
@@ -11057,7 +11057,7 @@
           ],
           "prompt": {
             "PromptText": "ገ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ገ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ገ.mp3"
           },
           "foilstones": [
             {
@@ -11095,7 +11095,7 @@
           ],
           "prompt": {
             "PromptText": "ፈ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ፈ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ፈ.mp3"
           },
           "foilstones": [
             {
@@ -11133,7 +11133,7 @@
           ],
           "prompt": {
             "PromptText": "ብ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ብ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ብ.mp3"
           },
           "foilstones": [
             {
@@ -11171,7 +11171,7 @@
           ],
           "prompt": {
             "PromptText": "ሽ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ሽ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ሽ.mp3"
           },
           "foilstones": [
             {
@@ -11206,7 +11206,7 @@
           ],
           "prompt": {
             "PromptText": "ወ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ወ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ወ.mp3"
           },
           "foilstones": [
             {
@@ -11259,7 +11259,7 @@
           ],
           "prompt": {
             "PromptText": "ጨ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ጨ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ጨ.mp3"
           },
           "foilstones": [
             {
@@ -11297,7 +11297,7 @@
           ],
           "prompt": {
             "PromptText": "ጨ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ጨ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ጨ.mp3"
           },
           "foilstones": [
             {
@@ -11335,7 +11335,7 @@
           ],
           "prompt": {
             "PromptText": "ሸ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ሸ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ሸ.mp3"
           },
           "foilstones": [
             {
@@ -11367,7 +11367,7 @@
           ],
           "prompt": {
             "PromptText": "ቸ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ቸ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ቸ.mp3"
           },
           "foilstones": [
             {
@@ -11402,7 +11402,7 @@
           ],
           "prompt": {
             "PromptText": "ጨ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ጨ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ጨ.mp3"
           },
           "foilstones": [
             {
@@ -11455,7 +11455,7 @@
           ],
           "prompt": {
             "PromptText": "ቕ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ቕ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ቕ.mp3"
           },
           "foilstones": [
             {
@@ -11493,7 +11493,7 @@
           ],
           "prompt": {
             "PromptText": "ወ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ወ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ወ.mp3"
           },
           "foilstones": [
             {
@@ -11531,7 +11531,7 @@
           ],
           "prompt": {
             "PromptText": "ወ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ወ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ወ.mp3"
           },
           "foilstones": [
             {
@@ -11569,7 +11569,7 @@
           ],
           "prompt": {
             "PromptText": "ቕ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ቕ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ቕ.mp3"
           },
           "foilstones": [
             {
@@ -11604,7 +11604,7 @@
           ],
           "prompt": {
             "PromptText": "ፅ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ፅ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ፅ.mp3"
           },
           "foilstones": [
             {
@@ -11657,7 +11657,7 @@
           ],
           "prompt": {
             "PromptText": "ፅ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ፅ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ፅ.mp3"
           },
           "foilstones": [
             {
@@ -11695,7 +11695,7 @@
           ],
           "prompt": {
             "PromptText": "ፈ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ፈ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ፈ.mp3"
           },
           "foilstones": [
             {
@@ -11733,7 +11733,7 @@
           ],
           "prompt": {
             "PromptText": "ፈ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ፈ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ፈ.mp3"
           },
           "foilstones": [
             {
@@ -11765,7 +11765,7 @@
           ],
           "prompt": {
             "PromptText": "ቕ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ቕ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ቕ.mp3"
           },
           "foilstones": [
             {
@@ -11800,7 +11800,7 @@
           ],
           "prompt": {
             "PromptText": "ቸ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ቸ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ቸ.mp3"
           },
           "foilstones": [
             {
@@ -11853,7 +11853,7 @@
           ],
           "prompt": {
             "PromptText": "ፈ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ፈ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ፈ.mp3"
           },
           "foilstones": [
             {
@@ -11891,7 +11891,7 @@
           ],
           "prompt": {
             "PromptText": "ቸ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ቸ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ቸ.mp3"
           },
           "foilstones": [
             {
@@ -11929,7 +11929,7 @@
           ],
           "prompt": {
             "PromptText": "ወ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ወ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ወ.mp3"
           },
           "foilstones": [
             {
@@ -11967,7 +11967,7 @@
           ],
           "prompt": {
             "PromptText": "ቸ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ቸ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ቸ.mp3"
           },
           "foilstones": [
             {
@@ -12008,7 +12008,7 @@
           ],
           "prompt": {
             "PromptText": "ፅ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ፅ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ፅ.mp3"
           },
           "foilstones": [
             {
@@ -12055,7 +12055,7 @@
           ],
           "prompt": {
             "PromptText": "ወዓግ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ወ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ወ.mp3"
           },
           "foilstones": [
             {
@@ -12093,7 +12093,7 @@
           ],
           "prompt": {
             "PromptText": "ብጫ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ብ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ብ.mp3"
           },
           "foilstones": [
             {
@@ -12131,7 +12131,7 @@
           ],
           "prompt": {
             "PromptText": "ወዓግ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ወ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ወ.mp3"
           },
           "foilstones": [
             {
@@ -12163,7 +12163,7 @@
           ],
           "prompt": {
             "PromptText": "ፈረስ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ፈ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ፈ.mp3"
           },
           "foilstones": [
             {
@@ -12198,7 +12198,7 @@
           ],
           "prompt": {
             "PromptText": "ሽምዓ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ሽ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ሽ.mp3"
           },
           "foilstones": [
             {
@@ -12251,7 +12251,7 @@
           ],
           "prompt": {
             "PromptText": "ሽምዓ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ሽ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ሽ.mp3"
           },
           "foilstones": [
             {
@@ -12289,7 +12289,7 @@
           ],
           "prompt": {
             "PromptText": "ወዓግ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ወ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ወ.mp3"
           },
           "foilstones": [
             {
@@ -12327,7 +12327,7 @@
           ],
           "prompt": {
             "PromptText": "ማይ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ማ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ማ.mp3"
           },
           "foilstones": [
             {
@@ -12365,7 +12365,7 @@
           ],
           "prompt": {
             "PromptText": "ሽምዓ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ሽ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ሽ.mp3"
           },
           "foilstones": [
             {
@@ -12400,7 +12400,7 @@
           ],
           "prompt": {
             "PromptText": "ፅላል",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ፅ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ፅ.mp3"
           },
           "foilstones": [
             {
@@ -12453,7 +12453,7 @@
           ],
           "prompt": {
             "PromptText": "ሽምዓ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ሽ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ሽ.mp3"
           },
           "foilstones": [
             {
@@ -12491,7 +12491,7 @@
           ],
           "prompt": {
             "PromptText": "ሰቲ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ሰ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ሰ.mp3"
           },
           "foilstones": [
             {
@@ -12529,7 +12529,7 @@
           ],
           "prompt": {
             "PromptText": "ወዓግ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ወ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ወ.mp3"
           },
           "foilstones": [
             {
@@ -12567,7 +12567,7 @@
           ],
           "prompt": {
             "PromptText": "ዒፍ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ዒ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ዒ.mp3"
           },
           "foilstones": [
             {
@@ -12602,7 +12602,7 @@
           ],
           "prompt": {
             "PromptText": "ብጫ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ብ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ብ.mp3"
           },
           "foilstones": [
             {
@@ -12655,7 +12655,7 @@
           ],
           "prompt": {
             "PromptText": "ዒፍ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ዒ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ዒ.mp3"
           },
           "foilstones": [
             {
@@ -12693,7 +12693,7 @@
           ],
           "prompt": {
             "PromptText": "ዒ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ዒ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ዒ.mp3"
           },
           "foilstones": [
             {
@@ -12731,7 +12731,7 @@
           ],
           "prompt": {
             "PromptText": "ጨው",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ጨ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ጨ.mp3"
           },
           "foilstones": [
             {
@@ -12763,7 +12763,7 @@
           ],
           "prompt": {
             "PromptText": "ብጫ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ብ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ብ.mp3"
           },
           "foilstones": [
             {
@@ -12798,7 +12798,7 @@
           ],
           "prompt": {
             "PromptText": "ፅላል",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ፅ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ፅ.mp3"
           },
           "foilstones": [
             {
@@ -12854,7 +12854,7 @@
           ],
           "prompt": {
             "PromptText": "ሰቲ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ሰቲ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ሰቲ.mp3"
           },
           "foilstones": [
             {
@@ -12898,7 +12898,7 @@
           ],
           "prompt": {
             "PromptText": "ፈረስ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ፈረስ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ፈረስ.mp3"
           },
           "foilstones": [
             {
@@ -12942,7 +12942,7 @@
           ],
           "prompt": {
             "PromptText": "ወዓግ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ወዓግ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ወዓግ.mp3"
           },
           "foilstones": [
             {
@@ -12983,7 +12983,7 @@
           ],
           "prompt": {
             "PromptText": "ብጫ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ብጫ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ብጫ.mp3"
           },
           "foilstones": [
             {
@@ -13024,7 +13024,7 @@
           ],
           "prompt": {
             "PromptText": "ጭሕሚ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ጭሕሚ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ጭሕሚ.mp3"
           },
           "foilstones": [
             {
@@ -13080,7 +13080,7 @@
           ],
           "prompt": {
             "PromptText": "ብጫ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ብጫ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ብጫ.mp3"
           },
           "foilstones": [
             {
@@ -13124,7 +13124,7 @@
           ],
           "prompt": {
             "PromptText": "ፈረስ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ፈረስ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ፈረስ.mp3"
           },
           "foilstones": [
             {
@@ -13168,7 +13168,7 @@
           ],
           "prompt": {
             "PromptText": "ወዓግ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ወዓግ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ወዓግ.mp3"
           },
           "foilstones": [
             {
@@ -13209,7 +13209,7 @@
           ],
           "prompt": {
             "PromptText": "ጨው",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ጨው.mp3"
+            "PromptAudio": "lang/tigragna/audios/ጨው.mp3"
           },
           "foilstones": [
             {
@@ -13253,7 +13253,7 @@
           ],
           "prompt": {
             "PromptText": "ማይ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ማይ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ማይ.mp3"
           },
           "foilstones": [
             {
@@ -13306,7 +13306,7 @@
           ],
           "prompt": {
             "PromptText": "ገዓት",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ገዓት.mp3"
+            "PromptAudio": "lang/tigragna/audios/ገዓት.mp3"
           },
           "foilstones": [
             {
@@ -13350,7 +13350,7 @@
           ],
           "prompt": {
             "PromptText": "ወዓግ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ወዓግ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ወዓግ.mp3"
           },
           "foilstones": [
             {
@@ -13391,7 +13391,7 @@
           ],
           "prompt": {
             "PromptText": "ብጫ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ብጫ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ብጫ.mp3"
           },
           "foilstones": [
             {
@@ -13429,7 +13429,7 @@
           ],
           "prompt": {
             "PromptText": "ሽምዓ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ሽምዓ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ሽምዓ.mp3"
           },
           "foilstones": [
             {
@@ -13467,7 +13467,7 @@
           ],
           "prompt": {
             "PromptText": "ሰቲ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/tigragna/audios/ሰቲ.mp3"
+            "PromptAudio": "lang/tigragna/audios/ሰቲ.mp3"
           },
           "foilstones": [
             {

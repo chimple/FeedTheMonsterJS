@@ -10,9 +10,9 @@
   "minversion": 15,
   "langname": "LUGANDAN",
   "FeedbackAudios": [
-    "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/fantastic.mp3",
-    "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/great.mp3",
-    "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/amazing.mp3"
+    "lang/lugandan/audios/fantastic.mp3",
+    "lang/lugandan/audios/great.mp3",
+    "lang/lugandan/audios/amazing.mp3"
   ],
   "OtherAudios": {
     "Select your player": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/Select-your-player.mp3",
@@ -39,7 +39,7 @@
           ],
           "prompt": {
             "PromptText": "a",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/a.mp3"
+            "PromptAudio": "lang/lugandan/audios/a.mp3"
           },
           "foilstones": [
             {
@@ -59,7 +59,7 @@
           ],
           "prompt": {
             "PromptText": "m",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/m.mp3"
+            "PromptAudio": "lang/lugandan/audios/m.mp3"
           },
           "foilstones": [
             {
@@ -79,7 +79,7 @@
           ],
           "prompt": {
             "PromptText": "p",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/p.mp3"
+            "PromptAudio": "lang/lugandan/audios/p.mp3"
           },
           "foilstones": [
             {
@@ -99,7 +99,7 @@
           ],
           "prompt": {
             "PromptText": "w",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/w.mp3"
+            "PromptAudio": "lang/lugandan/audios/w.mp3"
           },
           "foilstones": [
             {
@@ -119,7 +119,7 @@
           ],
           "prompt": {
             "PromptText": "k",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/k.mp3"
+            "PromptAudio": "lang/lugandan/audios/k.mp3"
           },
           "foilstones": [
             {
@@ -154,7 +154,7 @@
           ],
           "prompt": {
             "PromptText": "n",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/n.mp3"
+            "PromptAudio": "lang/lugandan/audios/n.mp3"
           },
           "foilstones": [
             {
@@ -177,7 +177,7 @@
           ],
           "prompt": {
             "PromptText": "s",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/s.mp3"
+            "PromptAudio": "lang/lugandan/audios/s.mp3"
           },
           "foilstones": [
             {
@@ -200,7 +200,7 @@
           ],
           "prompt": {
             "PromptText": "t",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/t.mp3"
+            "PromptAudio": "lang/lugandan/audios/t.mp3"
           },
           "foilstones": [
             {
@@ -223,7 +223,7 @@
           ],
           "prompt": {
             "PromptText": "y",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/y.mp3"
+            "PromptAudio": "lang/lugandan/audios/y.mp3"
           },
           "foilstones": [
             {
@@ -246,7 +246,7 @@
           ],
           "prompt": {
             "PromptText": "a",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/a.mp3"
+            "PromptAudio": "lang/lugandan/audios/a.mp3"
           },
           "foilstones": [
             {
@@ -284,7 +284,7 @@
           ],
           "prompt": {
             "PromptText": "a",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/a.mp3"
+            "PromptAudio": "lang/lugandan/audios/a.mp3"
           },
           "foilstones": [
             {
@@ -304,7 +304,7 @@
           ],
           "prompt": {
             "PromptText": "m",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/m.mp3"
+            "PromptAudio": "lang/lugandan/audios/m.mp3"
           },
           "foilstones": [
             {
@@ -324,7 +324,7 @@
           ],
           "prompt": {
             "PromptText": "p",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/p.mp3"
+            "PromptAudio": "lang/lugandan/audios/p.mp3"
           },
           "foilstones": [
             {
@@ -344,7 +344,7 @@
           ],
           "prompt": {
             "PromptText": "w",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/w.mp3"
+            "PromptAudio": "lang/lugandan/audios/w.mp3"
           },
           "foilstones": [
             {
@@ -364,7 +364,7 @@
           ],
           "prompt": {
             "PromptText": "k",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/k.mp3"
+            "PromptAudio": "lang/lugandan/audios/k.mp3"
           },
           "foilstones": [
             {
@@ -399,7 +399,7 @@
           ],
           "prompt": {
             "PromptText": "ny",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/ny.mp3"
+            "PromptAudio": "lang/lugandan/audios/ny.mp3"
           },
           "foilstones": [
             {
@@ -419,7 +419,7 @@
           ],
           "prompt": {
             "PromptText": "s",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/s.mp3"
+            "PromptAudio": "lang/lugandan/audios/s.mp3"
           },
           "foilstones": [
             {
@@ -439,7 +439,7 @@
           ],
           "prompt": {
             "PromptText": "t",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/t.mp3"
+            "PromptAudio": "lang/lugandan/audios/t.mp3"
           },
           "foilstones": [
             {
@@ -459,7 +459,7 @@
           ],
           "prompt": {
             "PromptText": "m",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/m.mp3"
+            "PromptAudio": "lang/lugandan/audios/m.mp3"
           },
           "foilstones": [
             {
@@ -479,7 +479,7 @@
           ],
           "prompt": {
             "PromptText": "a",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/a.mp3"
+            "PromptAudio": "lang/lugandan/audios/a.mp3"
           },
           "foilstones": [
             {
@@ -514,7 +514,7 @@
           ],
           "prompt": {
             "PromptText": "w",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/w.mp3"
+            "PromptAudio": "lang/lugandan/audios/w.mp3"
           },
           "foilstones": [
             {
@@ -537,7 +537,7 @@
           ],
           "prompt": {
             "PromptText": "k",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/k.mp3"
+            "PromptAudio": "lang/lugandan/audios/k.mp3"
           },
           "foilstones": [
             {
@@ -560,7 +560,7 @@
           ],
           "prompt": {
             "PromptText": "m",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/m.mp3"
+            "PromptAudio": "lang/lugandan/audios/m.mp3"
           },
           "foilstones": [
             {
@@ -583,7 +583,7 @@
           ],
           "prompt": {
             "PromptText": "ny",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/ny.mp3"
+            "PromptAudio": "lang/lugandan/audios/ny.mp3"
           },
           "foilstones": [
             {
@@ -606,7 +606,7 @@
           ],
           "prompt": {
             "PromptText": "a",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/a.mp3"
+            "PromptAudio": "lang/lugandan/audios/a.mp3"
           },
           "foilstones": [
             {
@@ -644,7 +644,7 @@
           ],
           "prompt": {
             "PromptText": "ny",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/ny.mp3"
+            "PromptAudio": "lang/lugandan/audios/ny.mp3"
           },
           "foilstones": [
             {
@@ -667,7 +667,7 @@
           ],
           "prompt": {
             "PromptText": "s",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/s.mp3"
+            "PromptAudio": "lang/lugandan/audios/s.mp3"
           },
           "foilstones": [
             {
@@ -690,7 +690,7 @@
           ],
           "prompt": {
             "PromptText": "t",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/t.mp3"
+            "PromptAudio": "lang/lugandan/audios/t.mp3"
           },
           "foilstones": [
             {
@@ -713,7 +713,7 @@
           ],
           "prompt": {
             "PromptText": "m",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/m.mp3"
+            "PromptAudio": "lang/lugandan/audios/m.mp3"
           },
           "foilstones": [
             {
@@ -736,7 +736,7 @@
           ],
           "prompt": {
             "PromptText": "a",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/a.mp3"
+            "PromptAudio": "lang/lugandan/audios/a.mp3"
           },
           "foilstones": [
             {
@@ -774,7 +774,7 @@
           ],
           "prompt": {
             "PromptText": "ampa",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/a.mp3"
+            "PromptAudio": "lang/lugandan/audios/a.mp3"
           },
           "foilstones": [
             {
@@ -797,7 +797,7 @@
           ],
           "prompt": {
             "PromptText": "atya",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/a.mp3"
+            "PromptAudio": "lang/lugandan/audios/a.mp3"
           },
           "foilstones": [
             {
@@ -820,7 +820,7 @@
           ],
           "prompt": {
             "PromptText": "awa",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/a.mp3"
+            "PromptAudio": "lang/lugandan/audios/a.mp3"
           },
           "foilstones": [
             {
@@ -843,7 +843,7 @@
           ],
           "prompt": {
             "PromptText": "maka",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/m.mp3"
+            "PromptAudio": "lang/lugandan/audios/m.mp3"
           },
           "foilstones": [
             {
@@ -866,7 +866,7 @@
           ],
           "prompt": {
             "PromptText": "anywa",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/a.mp3"
+            "PromptAudio": "lang/lugandan/audios/a.mp3"
           },
           "foilstones": [
             {
@@ -904,7 +904,7 @@
           ],
           "prompt": {
             "PromptText": "nkaka",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/n.mp3"
+            "PromptAudio": "lang/lugandan/audios/n.mp3"
           },
           "foilstones": [
             {
@@ -927,7 +927,7 @@
           ],
           "prompt": {
             "PromptText": "nsaka",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/n.mp3"
+            "PromptAudio": "lang/lugandan/audios/n.mp3"
           },
           "foilstones": [
             {
@@ -950,7 +950,7 @@
           ],
           "prompt": {
             "PromptText": "ampa",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/a.mp3"
+            "PromptAudio": "lang/lugandan/audios/a.mp3"
           },
           "foilstones": [
             {
@@ -973,7 +973,7 @@
           ],
           "prompt": {
             "PromptText": "awa",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/a.mp3"
+            "PromptAudio": "lang/lugandan/audios/a.mp3"
           },
           "foilstones": [
             {
@@ -996,7 +996,7 @@
           ],
           "prompt": {
             "PromptText": "maka",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/m.mp3"
+            "PromptAudio": "lang/lugandan/audios/m.mp3"
           },
           "foilstones": [
             {
@@ -1034,7 +1034,7 @@
           ],
           "prompt": {
             "PromptText": "nkaka",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/n.mp3"
+            "PromptAudio": "lang/lugandan/audios/n.mp3"
           },
           "foilstones": [
             {
@@ -1057,7 +1057,7 @@
           ],
           "prompt": {
             "PromptText": "nsaka",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/n.mp3"
+            "PromptAudio": "lang/lugandan/audios/n.mp3"
           },
           "foilstones": [
             {
@@ -1080,7 +1080,7 @@
           ],
           "prompt": {
             "PromptText": "anywa",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/a.mp3"
+            "PromptAudio": "lang/lugandan/audios/a.mp3"
           },
           "foilstones": [
             {
@@ -1103,7 +1103,7 @@
           ],
           "prompt": {
             "PromptText": "maka",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/m.mp3"
+            "PromptAudio": "lang/lugandan/audios/m.mp3"
           },
           "foilstones": [
             {
@@ -1126,7 +1126,7 @@
           ],
           "prompt": {
             "PromptText": "awa",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/a.mp3"
+            "PromptAudio": "lang/lugandan/audios/a.mp3"
           },
           "foilstones": [
             {
@@ -1173,7 +1173,7 @@
           ],
           "prompt": {
             "PromptText": "ampa",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/ampa.mp3"
+            "PromptAudio": "lang/lugandan/audios/ampa.mp3"
           },
           "foilstones": [
             {
@@ -1205,7 +1205,7 @@
           ],
           "prompt": {
             "PromptText": "atya",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/atya.mp3"
+            "PromptAudio": "lang/lugandan/audios/atya.mp3"
           },
           "foilstones": [
             {
@@ -1237,7 +1237,7 @@
           ],
           "prompt": {
             "PromptText": "awa",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/awa.mp3"
+            "PromptAudio": "lang/lugandan/audios/awa.mp3"
           },
           "foilstones": [
             {
@@ -1269,7 +1269,7 @@
           ],
           "prompt": {
             "PromptText": "maka",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/maka.mp3"
+            "PromptAudio": "lang/lugandan/audios/maka.mp3"
           },
           "foilstones": [
             {
@@ -1304,7 +1304,7 @@
           ],
           "prompt": {
             "PromptText": "anywa",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/anywa.mp3"
+            "PromptAudio": "lang/lugandan/audios/anywa.mp3"
           },
           "foilstones": [
             {
@@ -1351,7 +1351,7 @@
           ],
           "prompt": {
             "PromptText": "nkaka",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/nkaka.mp3"
+            "PromptAudio": "lang/lugandan/audios/nkaka.mp3"
           },
           "foilstones": [
             {
@@ -1386,7 +1386,7 @@
           ],
           "prompt": {
             "PromptText": "nsaka",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/nsaka.mp3"
+            "PromptAudio": "lang/lugandan/audios/nsaka.mp3"
           },
           "foilstones": [
             {
@@ -1418,7 +1418,7 @@
           ],
           "prompt": {
             "PromptText": "ampa",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/ampa.mp3"
+            "PromptAudio": "lang/lugandan/audios/ampa.mp3"
           },
           "foilstones": [
             {
@@ -1447,7 +1447,7 @@
           ],
           "prompt": {
             "PromptText": "awa",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/awa.mp3"
+            "PromptAudio": "lang/lugandan/audios/awa.mp3"
           },
           "foilstones": [
             {
@@ -1482,7 +1482,7 @@
           ],
           "prompt": {
             "PromptText": "maka",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/maka.mp3"
+            "PromptAudio": "lang/lugandan/audios/maka.mp3"
           },
           "foilstones": [
             {
@@ -1526,7 +1526,7 @@
           ],
           "prompt": {
             "PromptText": "ampa",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/ampa.mp3"
+            "PromptAudio": "lang/lugandan/audios/ampa.mp3"
           },
           "foilstones": [
             {
@@ -1558,7 +1558,7 @@
           ],
           "prompt": {
             "PromptText": "atya",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/atya.mp3"
+            "PromptAudio": "lang/lugandan/audios/atya.mp3"
           },
           "foilstones": [
             {
@@ -1587,7 +1587,7 @@
           ],
           "prompt": {
             "PromptText": "awa",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/awa.mp3"
+            "PromptAudio": "lang/lugandan/audios/awa.mp3"
           },
           "foilstones": [
             {
@@ -1619,7 +1619,7 @@
           ],
           "prompt": {
             "PromptText": "maka",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/maka.mp3"
+            "PromptAudio": "lang/lugandan/audios/maka.mp3"
           },
           "foilstones": [
             {
@@ -1654,7 +1654,7 @@
           ],
           "prompt": {
             "PromptText": "anywa",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/anywa.mp3"
+            "PromptAudio": "lang/lugandan/audios/anywa.mp3"
           },
           "foilstones": [
             {
@@ -1692,7 +1692,7 @@
           ],
           "prompt": {
             "PromptText": "b",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/b.mp3"
+            "PromptAudio": "lang/lugandan/audios/b.mp3"
           },
           "foilstones": [
             {
@@ -1715,7 +1715,7 @@
           ],
           "prompt": {
             "PromptText": "m",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/m.mp3"
+            "PromptAudio": "lang/lugandan/audios/m.mp3"
           },
           "foilstones": [
             {
@@ -1738,7 +1738,7 @@
           ],
           "prompt": {
             "PromptText": "p",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/p.mp3"
+            "PromptAudio": "lang/lugandan/audios/p.mp3"
           },
           "foilstones": [
             {
@@ -1761,7 +1761,7 @@
           ],
           "prompt": {
             "PromptText": "j",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/j.mp3"
+            "PromptAudio": "lang/lugandan/audios/j.mp3"
           },
           "foilstones": [
             {
@@ -1784,7 +1784,7 @@
           ],
           "prompt": {
             "PromptText": "e",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/e.mp3"
+            "PromptAudio": "lang/lugandan/audios/e.mp3"
           },
           "foilstones": [
             {
@@ -1822,7 +1822,7 @@
           ],
           "prompt": {
             "PromptText": "e",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/e.mp3"
+            "PromptAudio": "lang/lugandan/audios/e.mp3"
           },
           "foilstones": [
             {
@@ -1845,7 +1845,7 @@
           ],
           "prompt": {
             "PromptText": "n",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/n.mp3"
+            "PromptAudio": "lang/lugandan/audios/n.mp3"
           },
           "foilstones": [
             {
@@ -1868,7 +1868,7 @@
           ],
           "prompt": {
             "PromptText": "s",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/s.mp3"
+            "PromptAudio": "lang/lugandan/audios/s.mp3"
           },
           "foilstones": [
             {
@@ -1891,7 +1891,7 @@
           ],
           "prompt": {
             "PromptText": "k",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/k.mp3"
+            "PromptAudio": "lang/lugandan/audios/k.mp3"
           },
           "foilstones": [
             {
@@ -1914,7 +1914,7 @@
           ],
           "prompt": {
             "PromptText": "j",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/j.mp3"
+            "PromptAudio": "lang/lugandan/audios/j.mp3"
           },
           "foilstones": [
             {
@@ -1952,7 +1952,7 @@
           ],
           "prompt": {
             "PromptText": "j",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/j.mp3"
+            "PromptAudio": "lang/lugandan/audios/j.mp3"
           },
           "foilstones": [
             {
@@ -1972,7 +1972,7 @@
           ],
           "prompt": {
             "PromptText": "e",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/e.mp3"
+            "PromptAudio": "lang/lugandan/audios/e.mp3"
           },
           "foilstones": [
             {
@@ -1992,7 +1992,7 @@
           ],
           "prompt": {
             "PromptText": "p",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/p.mp3"
+            "PromptAudio": "lang/lugandan/audios/p.mp3"
           },
           "foilstones": [
             {
@@ -2012,7 +2012,7 @@
           ],
           "prompt": {
             "PromptText": "b",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/b.mp3"
+            "PromptAudio": "lang/lugandan/audios/b.mp3"
           },
           "foilstones": [
             {
@@ -2032,7 +2032,7 @@
           ],
           "prompt": {
             "PromptText": "k",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/k.mp3"
+            "PromptAudio": "lang/lugandan/audios/k.mp3"
           },
           "foilstones": [
             {
@@ -2067,7 +2067,7 @@
           ],
           "prompt": {
             "PromptText": "k",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/k.mp3"
+            "PromptAudio": "lang/lugandan/audios/k.mp3"
           },
           "foilstones": [
             {
@@ -2090,7 +2090,7 @@
           ],
           "prompt": {
             "PromptText": "s",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/s.mp3"
+            "PromptAudio": "lang/lugandan/audios/s.mp3"
           },
           "foilstones": [
             {
@@ -2113,7 +2113,7 @@
           ],
           "prompt": {
             "PromptText": "n",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/n.mp3"
+            "PromptAudio": "lang/lugandan/audios/n.mp3"
           },
           "foilstones": [
             {
@@ -2136,7 +2136,7 @@
           ],
           "prompt": {
             "PromptText": "p",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/p.mp3"
+            "PromptAudio": "lang/lugandan/audios/p.mp3"
           },
           "foilstones": [
             {
@@ -2159,7 +2159,7 @@
           ],
           "prompt": {
             "PromptText": "e",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/e.mp3"
+            "PromptAudio": "lang/lugandan/audios/e.mp3"
           },
           "foilstones": [
             {
@@ -2197,7 +2197,7 @@
           ],
           "prompt": {
             "PromptText": "n",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/n.mp3"
+            "PromptAudio": "lang/lugandan/audios/n.mp3"
           },
           "foilstones": [
             {
@@ -2226,7 +2226,7 @@
           ],
           "prompt": {
             "PromptText": "j",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/j.mp3"
+            "PromptAudio": "lang/lugandan/audios/j.mp3"
           },
           "foilstones": [
             {
@@ -2252,7 +2252,7 @@
           ],
           "prompt": {
             "PromptText": "p",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/p.mp3"
+            "PromptAudio": "lang/lugandan/audios/p.mp3"
           },
           "foilstones": [
             {
@@ -2275,7 +2275,7 @@
           ],
           "prompt": {
             "PromptText": "m",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/m.mp3"
+            "PromptAudio": "lang/lugandan/audios/m.mp3"
           },
           "foilstones": [
             {
@@ -2301,7 +2301,7 @@
           ],
           "prompt": {
             "PromptText": "e",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/e.mp3"
+            "PromptAudio": "lang/lugandan/audios/e.mp3"
           },
           "foilstones": [
             {
@@ -2339,7 +2339,7 @@
           ],
           "prompt": {
             "PromptText": "b",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/b.mp3"
+            "PromptAudio": "lang/lugandan/audios/b.mp3"
           },
           "foilstones": [
             {
@@ -2365,7 +2365,7 @@
           ],
           "prompt": {
             "PromptText": "m",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/m.mp3"
+            "PromptAudio": "lang/lugandan/audios/m.mp3"
           },
           "foilstones": [
             {
@@ -2391,7 +2391,7 @@
           ],
           "prompt": {
             "PromptText": "p",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/p.mp3"
+            "PromptAudio": "lang/lugandan/audios/p.mp3"
           },
           "foilstones": [
             {
@@ -2417,7 +2417,7 @@
           ],
           "prompt": {
             "PromptText": "j",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/j.mp3"
+            "PromptAudio": "lang/lugandan/audios/j.mp3"
           },
           "foilstones": [
             {
@@ -2443,7 +2443,7 @@
           ],
           "prompt": {
             "PromptText": "e",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/e.mp3"
+            "PromptAudio": "lang/lugandan/audios/e.mp3"
           },
           "foilstones": [
             {
@@ -2487,7 +2487,7 @@
           ],
           "prompt": {
             "PromptText": "ebe",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/e.mp3"
+            "PromptAudio": "lang/lugandan/audios/e.mp3"
           },
           "foilstones": [
             {
@@ -2513,7 +2513,7 @@
           ],
           "prompt": {
             "PromptText": "babe",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/b.mp3"
+            "PromptAudio": "lang/lugandan/audios/b.mp3"
           },
           "foilstones": [
             {
@@ -2539,7 +2539,7 @@
           ],
           "prompt": {
             "PromptText": "empe",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/e.mp3"
+            "PromptAudio": "lang/lugandan/audios/e.mp3"
           },
           "foilstones": [
             {
@@ -2565,7 +2565,7 @@
           ],
           "prompt": {
             "PromptText": "maje",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/m.mp3"
+            "PromptAudio": "lang/lugandan/audios/m.mp3"
           },
           "foilstones": [
             {
@@ -2591,7 +2591,7 @@
           ],
           "prompt": {
             "PromptText": "nseke",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/n.mp3"
+            "PromptAudio": "lang/lugandan/audios/n.mp3"
           },
           "foilstones": [
             {
@@ -2635,7 +2635,7 @@
           ],
           "prompt": {
             "PromptText": "awe",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/a.mp3"
+            "PromptAudio": "lang/lugandan/audios/a.mp3"
           },
           "foilstones": [
             {
@@ -2661,7 +2661,7 @@
           ],
           "prompt": {
             "PromptText": "bempa",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/b.mp3"
+            "PromptAudio": "lang/lugandan/audios/b.mp3"
           },
           "foilstones": [
             {
@@ -2687,7 +2687,7 @@
           ],
           "prompt": {
             "PromptText": "babe",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/b.mp3"
+            "PromptAudio": "lang/lugandan/audios/b.mp3"
           },
           "foilstones": [
             {
@@ -2713,7 +2713,7 @@
           ],
           "prompt": {
             "PromptText": "ebe",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/e.mp3"
+            "PromptAudio": "lang/lugandan/audios/e.mp3"
           },
           "foilstones": [
             {
@@ -2739,7 +2739,7 @@
           ],
           "prompt": {
             "PromptText": "maje",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/m.mp3"
+            "PromptAudio": "lang/lugandan/audios/m.mp3"
           },
           "foilstones": [
             {
@@ -2783,7 +2783,7 @@
           ],
           "prompt": {
             "PromptText": "ebe",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/e.mp3"
+            "PromptAudio": "lang/lugandan/audios/e.mp3"
           },
           "foilstones": [
             {
@@ -2809,7 +2809,7 @@
           ],
           "prompt": {
             "PromptText": "babe",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/b.mp3"
+            "PromptAudio": "lang/lugandan/audios/b.mp3"
           },
           "foilstones": [
             {
@@ -2835,7 +2835,7 @@
           ],
           "prompt": {
             "PromptText": "empe",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/e.mp3"
+            "PromptAudio": "lang/lugandan/audios/e.mp3"
           },
           "foilstones": [
             {
@@ -2861,7 +2861,7 @@
           ],
           "prompt": {
             "PromptText": "maje",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/m.mp3"
+            "PromptAudio": "lang/lugandan/audios/m.mp3"
           },
           "foilstones": [
             {
@@ -2887,7 +2887,7 @@
           ],
           "prompt": {
             "PromptText": "nseke",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/n.mp3"
+            "PromptAudio": "lang/lugandan/audios/n.mp3"
           },
           "foilstones": [
             {
@@ -2931,7 +2931,7 @@
           ],
           "prompt": {
             "PromptText": "ebe",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/e.mp3"
+            "PromptAudio": "lang/lugandan/audios/e.mp3"
           },
           "foilstones": [
             {
@@ -2954,7 +2954,7 @@
           ],
           "prompt": {
             "PromptText": "babe",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/b.mp3"
+            "PromptAudio": "lang/lugandan/audios/b.mp3"
           },
           "foilstones": [
             {
@@ -2977,7 +2977,7 @@
           ],
           "prompt": {
             "PromptText": "empe",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/e.mp3"
+            "PromptAudio": "lang/lugandan/audios/e.mp3"
           },
           "foilstones": [
             {
@@ -3000,7 +3000,7 @@
           ],
           "prompt": {
             "PromptText": "maje",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/m.mp3"
+            "PromptAudio": "lang/lugandan/audios/m.mp3"
           },
           "foilstones": [
             {
@@ -3023,7 +3023,7 @@
           ],
           "prompt": {
             "PromptText": "nseke",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/n.mp3"
+            "PromptAudio": "lang/lugandan/audios/n.mp3"
           },
           "foilstones": [
             {
@@ -3067,7 +3067,7 @@
           ],
           "prompt": {
             "PromptText": "ebe",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/ebe.mp3"
+            "PromptAudio": "lang/lugandan/audios/ebe.mp3"
           },
           "foilstones": [
             {
@@ -3099,7 +3099,7 @@
           ],
           "prompt": {
             "PromptText": "babe",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/babe.mp3"
+            "PromptAudio": "lang/lugandan/audios/babe.mp3"
           },
           "foilstones": [
             {
@@ -3131,7 +3131,7 @@
           ],
           "prompt": {
             "PromptText": "empe",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/empe.mp3"
+            "PromptAudio": "lang/lugandan/audios/empe.mp3"
           },
           "foilstones": [
             {
@@ -3163,7 +3163,7 @@
           ],
           "prompt": {
             "PromptText": "maje",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/maje.mp3"
+            "PromptAudio": "lang/lugandan/audios/maje.mp3"
           },
           "foilstones": [
             {
@@ -3198,7 +3198,7 @@
           ],
           "prompt": {
             "PromptText": "nseke",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/nseke.mp3"
+            "PromptAudio": "lang/lugandan/audios/nseke.mp3"
           },
           "foilstones": [
             {
@@ -3239,7 +3239,7 @@
           ],
           "prompt": {
             "PromptText": "awe",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/awe.mp3"
+            "PromptAudio": "lang/lugandan/audios/awe.mp3"
           },
           "foilstones": [
             {
@@ -3274,7 +3274,7 @@
           ],
           "prompt": {
             "PromptText": "bempa",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/bempa.mp3"
+            "PromptAudio": "lang/lugandan/audios/bempa.mp3"
           },
           "foilstones": [
             {
@@ -3306,7 +3306,7 @@
           ],
           "prompt": {
             "PromptText": "babe",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/babe.mp3"
+            "PromptAudio": "lang/lugandan/audios/babe.mp3"
           },
           "foilstones": [
             {
@@ -3338,7 +3338,7 @@
           ],
           "prompt": {
             "PromptText": "ebe",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/ebe.mp3"
+            "PromptAudio": "lang/lugandan/audios/ebe.mp3"
           },
           "foilstones": [
             {
@@ -3370,7 +3370,7 @@
           ],
           "prompt": {
             "PromptText": "maje",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/maje.mp3"
+            "PromptAudio": "lang/lugandan/audios/maje.mp3"
           },
           "foilstones": [
             {
@@ -3411,7 +3411,7 @@
           ],
           "prompt": {
             "PromptText": "ebe",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/ebe.mp3"
+            "PromptAudio": "lang/lugandan/audios/ebe.mp3"
           },
           "foilstones": [
             {
@@ -3443,7 +3443,7 @@
           ],
           "prompt": {
             "PromptText": "babe",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/babe.mp3"
+            "PromptAudio": "lang/lugandan/audios/babe.mp3"
           },
           "foilstones": [
             {
@@ -3475,7 +3475,7 @@
           ],
           "prompt": {
             "PromptText": "empe",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/empe.mp3"
+            "PromptAudio": "lang/lugandan/audios/empe.mp3"
           },
           "foilstones": [
             {
@@ -3507,7 +3507,7 @@
           ],
           "prompt": {
             "PromptText": "maje",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/maje.mp3"
+            "PromptAudio": "lang/lugandan/audios/maje.mp3"
           },
           "foilstones": [
             {
@@ -3542,7 +3542,7 @@
           ],
           "prompt": {
             "PromptText": "nseke",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/nseke.mp3"
+            "PromptAudio": "lang/lugandan/audios/nseke.mp3"
           },
           "foilstones": [
             {
@@ -3580,7 +3580,7 @@
           ],
           "prompt": {
             "PromptText": "m",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/m.mp3"
+            "PromptAudio": "lang/lugandan/audios/m.mp3"
           },
           "foilstones": [
             {
@@ -3603,7 +3603,7 @@
           ],
           "prompt": {
             "PromptText": "t",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/t.mp3"
+            "PromptAudio": "lang/lugandan/audios/t.mp3"
           },
           "foilstones": [
             {
@@ -3626,7 +3626,7 @@
           ],
           "prompt": {
             "PromptText": "s",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/s.mp3"
+            "PromptAudio": "lang/lugandan/audios/s.mp3"
           },
           "foilstones": [
             {
@@ -3652,7 +3652,7 @@
           ],
           "prompt": {
             "PromptText": "n",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/n.mp3"
+            "PromptAudio": "lang/lugandan/audios/n.mp3"
           },
           "foilstones": [
             {
@@ -3675,7 +3675,7 @@
           ],
           "prompt": {
             "PromptText": "i",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/i.mp3"
+            "PromptAudio": "lang/lugandan/audios/i.mp3"
           },
           "foilstones": [
             {
@@ -3710,7 +3710,7 @@
           ],
           "prompt": {
             "PromptText": "i",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/i.mp3"
+            "PromptAudio": "lang/lugandan/audios/i.mp3"
           },
           "foilstones": [
             {
@@ -3733,7 +3733,7 @@
           ],
           "prompt": {
             "PromptText": "r",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/r.mp3"
+            "PromptAudio": "lang/lugandan/audios/r.mp3"
           },
           "foilstones": [
             {
@@ -3756,7 +3756,7 @@
           ],
           "prompt": {
             "PromptText": "z",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/z.mp3"
+            "PromptAudio": "lang/lugandan/audios/z.mp3"
           },
           "foilstones": [
             {
@@ -3782,7 +3782,7 @@
           ],
           "prompt": {
             "PromptText": "k",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/k.mp3"
+            "PromptAudio": "lang/lugandan/audios/k.mp3"
           },
           "foilstones": [
             {
@@ -3805,7 +3805,7 @@
           ],
           "prompt": {
             "PromptText": "n",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/n.mp3"
+            "PromptAudio": "lang/lugandan/audios/n.mp3"
           },
           "foilstones": [
             {
@@ -3840,7 +3840,7 @@
           ],
           "prompt": {
             "PromptText": "m",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/m.mp3"
+            "PromptAudio": "lang/lugandan/audios/m.mp3"
           },
           "foilstones": [
             {
@@ -3863,7 +3863,7 @@
           ],
           "prompt": {
             "PromptText": "t",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/t.mp3"
+            "PromptAudio": "lang/lugandan/audios/t.mp3"
           },
           "foilstones": [
             {
@@ -3886,7 +3886,7 @@
           ],
           "prompt": {
             "PromptText": "s",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/s.mp3"
+            "PromptAudio": "lang/lugandan/audios/s.mp3"
           },
           "foilstones": [
             {
@@ -3912,7 +3912,7 @@
           ],
           "prompt": {
             "PromptText": "n",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/n.mp3"
+            "PromptAudio": "lang/lugandan/audios/n.mp3"
           },
           "foilstones": [
             {
@@ -3935,7 +3935,7 @@
           ],
           "prompt": {
             "PromptText": "i",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/i.mp3"
+            "PromptAudio": "lang/lugandan/audios/i.mp3"
           },
           "foilstones": [
             {
@@ -3970,7 +3970,7 @@
           ],
           "prompt": {
             "PromptText": "s",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/s.mp3"
+            "PromptAudio": "lang/lugandan/audios/s.mp3"
           },
           "foilstones": [
             {
@@ -4002,7 +4002,7 @@
           ],
           "prompt": {
             "PromptText": "n",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/n.mp3"
+            "PromptAudio": "lang/lugandan/audios/n.mp3"
           },
           "foilstones": [
             {
@@ -4031,7 +4031,7 @@
           ],
           "prompt": {
             "PromptText": "k",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/k.mp3"
+            "PromptAudio": "lang/lugandan/audios/k.mp3"
           },
           "foilstones": [
             {
@@ -4063,7 +4063,7 @@
           ],
           "prompt": {
             "PromptText": "i",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/i.mp3"
+            "PromptAudio": "lang/lugandan/audios/i.mp3"
           },
           "foilstones": [
             {
@@ -4092,7 +4092,7 @@
           ],
           "prompt": {
             "PromptText": "z",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/z.mp3"
+            "PromptAudio": "lang/lugandan/audios/z.mp3"
           },
           "foilstones": [
             {
@@ -4136,7 +4136,7 @@
           ],
           "prompt": {
             "PromptText": "s",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/s.mp3"
+            "PromptAudio": "lang/lugandan/audios/s.mp3"
           },
           "foilstones": [
             {
@@ -4168,7 +4168,7 @@
           ],
           "prompt": {
             "PromptText": "m",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/m.mp3"
+            "PromptAudio": "lang/lugandan/audios/m.mp3"
           },
           "foilstones": [
             {
@@ -4200,7 +4200,7 @@
           ],
           "prompt": {
             "PromptText": "t",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/t.mp3"
+            "PromptAudio": "lang/lugandan/audios/t.mp3"
           },
           "foilstones": [
             {
@@ -4229,7 +4229,7 @@
           ],
           "prompt": {
             "PromptText": "z",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/z.mp3"
+            "PromptAudio": "lang/lugandan/audios/z.mp3"
           },
           "foilstones": [
             {
@@ -4258,7 +4258,7 @@
           ],
           "prompt": {
             "PromptText": "i",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/i.mp3"
+            "PromptAudio": "lang/lugandan/audios/i.mp3"
           },
           "foilstones": [
             {
@@ -4302,7 +4302,7 @@
           ],
           "prompt": {
             "PromptText": "s",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/s.mp3"
+            "PromptAudio": "lang/lugandan/audios/s.mp3"
           },
           "foilstones": [
             {
@@ -4334,7 +4334,7 @@
           ],
           "prompt": {
             "PromptText": "n",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/n.mp3"
+            "PromptAudio": "lang/lugandan/audios/n.mp3"
           },
           "foilstones": [
             {
@@ -4366,7 +4366,7 @@
           ],
           "prompt": {
             "PromptText": "k",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/k.mp3"
+            "PromptAudio": "lang/lugandan/audios/k.mp3"
           },
           "foilstones": [
             {
@@ -4395,7 +4395,7 @@
           ],
           "prompt": {
             "PromptText": "i",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/i.mp3"
+            "PromptAudio": "lang/lugandan/audios/i.mp3"
           },
           "foilstones": [
             {
@@ -4424,7 +4424,7 @@
           ],
           "prompt": {
             "PromptText": "z",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/z.mp3"
+            "PromptAudio": "lang/lugandan/audios/z.mp3"
           },
           "foilstones": [
             {
@@ -4468,7 +4468,7 @@
           ],
           "prompt": {
             "PromptText": "miti",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/m.mp3"
+            "PromptAudio": "lang/lugandan/audios/m.mp3"
           },
           "foilstones": [
             {
@@ -4497,7 +4497,7 @@
           ],
           "prompt": {
             "PromptText": "nsika",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/n.mp3"
+            "PromptAudio": "lang/lugandan/audios/n.mp3"
           },
           "foilstones": [
             {
@@ -4529,7 +4529,7 @@
           ],
           "prompt": {
             "PromptText": "nsiri",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/n.mp3"
+            "PromptAudio": "lang/lugandan/audios/n.mp3"
           },
           "foilstones": [
             {
@@ -4561,7 +4561,7 @@
           ],
           "prompt": {
             "PromptText": "kibe",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/k.mp3"
+            "PromptAudio": "lang/lugandan/audios/k.mp3"
           },
           "foilstones": [
             {
@@ -4590,7 +4590,7 @@
           ],
           "prompt": {
             "PromptText": "nzira",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/n.mp3"
+            "PromptAudio": "lang/lugandan/audios/n.mp3"
           },
           "foilstones": [
             {
@@ -4634,7 +4634,7 @@
           ],
           "prompt": {
             "PromptText": "dimu",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/d.mp3"
+            "PromptAudio": "lang/lugandan/audios/d.mp3"
           },
           "foilstones": [
             {
@@ -4666,7 +4666,7 @@
           ],
           "prompt": {
             "PromptText": "kibe",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/k.mp3"
+            "PromptAudio": "lang/lugandan/audios/k.mp3"
           },
           "foilstones": [
             {
@@ -4698,7 +4698,7 @@
           ],
           "prompt": {
             "PromptText": "miti",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/m.mp3"
+            "PromptAudio": "lang/lugandan/audios/m.mp3"
           },
           "foilstones": [
             {
@@ -4727,7 +4727,7 @@
           ],
           "prompt": {
             "PromptText": "nzira",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/n.mp3"
+            "PromptAudio": "lang/lugandan/audios/n.mp3"
           },
           "foilstones": [
             {
@@ -4759,7 +4759,7 @@
           ],
           "prompt": {
             "PromptText": "nsika",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/n.mp3"
+            "PromptAudio": "lang/lugandan/audios/n.mp3"
           },
           "foilstones": [
             {
@@ -4800,7 +4800,7 @@
           ],
           "prompt": {
             "PromptText": "miti",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/m.mp3"
+            "PromptAudio": "lang/lugandan/audios/m.mp3"
           },
           "foilstones": [
             {
@@ -4832,7 +4832,7 @@
           ],
           "prompt": {
             "PromptText": "nsika",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/n.mp3"
+            "PromptAudio": "lang/lugandan/audios/n.mp3"
           },
           "foilstones": [
             {
@@ -4864,7 +4864,7 @@
           ],
           "prompt": {
             "PromptText": "nsiri",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/n.mp3"
+            "PromptAudio": "lang/lugandan/audios/n.mp3"
           },
           "foilstones": [
             {
@@ -4893,7 +4893,7 @@
           ],
           "prompt": {
             "PromptText": "kibe",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/k.mp3"
+            "PromptAudio": "lang/lugandan/audios/k.mp3"
           },
           "foilstones": [
             {
@@ -4925,7 +4925,7 @@
           ],
           "prompt": {
             "PromptText": "nzira",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/n.mp3"
+            "PromptAudio": "lang/lugandan/audios/n.mp3"
           },
           "foilstones": [
             {
@@ -4966,7 +4966,7 @@
           ],
           "prompt": {
             "PromptText": "nzira",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/n.mp3"
+            "PromptAudio": "lang/lugandan/audios/n.mp3"
           },
           "foilstones": [
             {
@@ -4998,7 +4998,7 @@
           ],
           "prompt": {
             "PromptText": "dimu",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/d.mp3"
+            "PromptAudio": "lang/lugandan/audios/d.mp3"
           },
           "foilstones": [
             {
@@ -5030,7 +5030,7 @@
           ],
           "prompt": {
             "PromptText": "miti",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/m.mp3"
+            "PromptAudio": "lang/lugandan/audios/m.mp3"
           },
           "foilstones": [
             {
@@ -5059,7 +5059,7 @@
           ],
           "prompt": {
             "PromptText": "nsika",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/n.mp3"
+            "PromptAudio": "lang/lugandan/audios/n.mp3"
           },
           "foilstones": [
             {
@@ -5091,7 +5091,7 @@
           ],
           "prompt": {
             "PromptText": "kibe",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/k.mp3"
+            "PromptAudio": "lang/lugandan/audios/k.mp3"
           },
           "foilstones": [
             {
@@ -5141,7 +5141,7 @@
           ],
           "prompt": {
             "PromptText": "miti",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/miti.mp3"
+            "PromptAudio": "lang/lugandan/audios/miti.mp3"
           },
           "foilstones": [
             {
@@ -5191,7 +5191,7 @@
           ],
           "prompt": {
             "PromptText": "nsika",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/nsika.mp3"
+            "PromptAudio": "lang/lugandan/audios/nsika.mp3"
           },
           "foilstones": [
             {
@@ -5238,7 +5238,7 @@
           ],
           "prompt": {
             "PromptText": "nsiri",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/nsiri.mp3"
+            "PromptAudio": "lang/lugandan/audios/nsiri.mp3"
           },
           "foilstones": [
             {
@@ -5285,7 +5285,7 @@
           ],
           "prompt": {
             "PromptText": "kibe",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/kibe.mp3"
+            "PromptAudio": "lang/lugandan/audios/kibe.mp3"
           },
           "foilstones": [
             {
@@ -5329,7 +5329,7 @@
           ],
           "prompt": {
             "PromptText": "nzira",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/nzira.mp3"
+            "PromptAudio": "lang/lugandan/audios/nzira.mp3"
           },
           "foilstones": [
             {
@@ -5394,7 +5394,7 @@
           ],
           "prompt": {
             "PromptText": "ddimu",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/ddimu.mp3"
+            "PromptAudio": "lang/lugandan/audios/ddimu.mp3"
           },
           "foilstones": [
             {
@@ -5438,7 +5438,7 @@
           ],
           "prompt": {
             "PromptText": "kibe",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/kibe.mp3"
+            "PromptAudio": "lang/lugandan/audios/kibe.mp3"
           },
           "foilstones": [
             {
@@ -5485,7 +5485,7 @@
           ],
           "prompt": {
             "PromptText": "miti",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/miti.mp3"
+            "PromptAudio": "lang/lugandan/audios/miti.mp3"
           },
           "foilstones": [
             {
@@ -5535,7 +5535,7 @@
           ],
           "prompt": {
             "PromptText": "nzira",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/nzira.mp3"
+            "PromptAudio": "lang/lugandan/audios/nzira.mp3"
           },
           "foilstones": [
             {
@@ -5588,7 +5588,7 @@
           ],
           "prompt": {
             "PromptText": "nsika",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/nsika.mp3"
+            "PromptAudio": "lang/lugandan/audios/nsika.mp3"
           },
           "foilstones": [
             {
@@ -5641,7 +5641,7 @@
           ],
           "prompt": {
             "PromptText": "miti",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/miti.mp3"
+            "PromptAudio": "lang/lugandan/audios/miti.mp3"
           },
           "foilstones": [
             {
@@ -5691,7 +5691,7 @@
           ],
           "prompt": {
             "PromptText": "nsika",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/nsika.mp3"
+            "PromptAudio": "lang/lugandan/audios/nsika.mp3"
           },
           "foilstones": [
             {
@@ -5744,7 +5744,7 @@
           ],
           "prompt": {
             "PromptText": "nsiri",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/nsiri.mp3"
+            "PromptAudio": "lang/lugandan/audios/nsiri.mp3"
           },
           "foilstones": [
             {
@@ -5791,7 +5791,7 @@
           ],
           "prompt": {
             "PromptText": "kibe",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/kibe.mp3"
+            "PromptAudio": "lang/lugandan/audios/kibe.mp3"
           },
           "foilstones": [
             {
@@ -5838,7 +5838,7 @@
           ],
           "prompt": {
             "PromptText": "nzira",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/nzira.mp3"
+            "PromptAudio": "lang/lugandan/audios/nzira.mp3"
           },
           "foilstones": [
             {
@@ -5888,7 +5888,7 @@
           ],
           "prompt": {
             "PromptText": "n",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/n.mp3"
+            "PromptAudio": "lang/lugandan/audios/n.mp3"
           },
           "foilstones": [
             {
@@ -5926,7 +5926,7 @@
           ],
           "prompt": {
             "PromptText": "d",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/d.mp3"
+            "PromptAudio": "lang/lugandan/audios/d.mp3"
           },
           "foilstones": [
             {
@@ -5964,7 +5964,7 @@
           ],
           "prompt": {
             "PromptText": "t",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/t.mp3"
+            "PromptAudio": "lang/lugandan/audios/t.mp3"
           },
           "foilstones": [
             {
@@ -6002,7 +6002,7 @@
           ],
           "prompt": {
             "PromptText": "k",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/k.mp3"
+            "PromptAudio": "lang/lugandan/audios/k.mp3"
           },
           "foilstones": [
             {
@@ -6037,7 +6037,7 @@
           ],
           "prompt": {
             "PromptText": "o",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/o.mp3"
+            "PromptAudio": "lang/lugandan/audios/o.mp3"
           },
           "foilstones": [
             {
@@ -6090,7 +6090,7 @@
           ],
           "prompt": {
             "PromptText": "m",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/m.mp3"
+            "PromptAudio": "lang/lugandan/audios/m.mp3"
           },
           "foilstones": [
             {
@@ -6128,7 +6128,7 @@
           ],
           "prompt": {
             "PromptText": "p",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/p.mp3"
+            "PromptAudio": "lang/lugandan/audios/p.mp3"
           },
           "foilstones": [
             {
@@ -6166,7 +6166,7 @@
           ],
           "prompt": {
             "PromptText": "k",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/k.mp3"
+            "PromptAudio": "lang/lugandan/audios/k.mp3"
           },
           "foilstones": [
             {
@@ -6204,7 +6204,7 @@
           ],
           "prompt": {
             "PromptText": "t",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/t.mp3"
+            "PromptAudio": "lang/lugandan/audios/t.mp3"
           },
           "foilstones": [
             {
@@ -6245,7 +6245,7 @@
           ],
           "prompt": {
             "PromptText": "o",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/o.mp3"
+            "PromptAudio": "lang/lugandan/audios/o.mp3"
           },
           "foilstones": [
             {
@@ -6292,7 +6292,7 @@
           ],
           "prompt": {
             "PromptText": "n",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/n.mp3"
+            "PromptAudio": "lang/lugandan/audios/n.mp3"
           },
           "foilstones": [
             {
@@ -6330,7 +6330,7 @@
           ],
           "prompt": {
             "PromptText": "d",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/d.mp3"
+            "PromptAudio": "lang/lugandan/audios/d.mp3"
           },
           "foilstones": [
             {
@@ -6368,7 +6368,7 @@
           ],
           "prompt": {
             "PromptText": "t",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/t.mp3"
+            "PromptAudio": "lang/lugandan/audios/t.mp3"
           },
           "foilstones": [
             {
@@ -6406,7 +6406,7 @@
           ],
           "prompt": {
             "PromptText": "k",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/k.mp3"
+            "PromptAudio": "lang/lugandan/audios/k.mp3"
           },
           "foilstones": [
             {
@@ -6447,7 +6447,7 @@
           ],
           "prompt": {
             "PromptText": "o",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/o.mp3"
+            "PromptAudio": "lang/lugandan/audios/o.mp3"
           },
           "foilstones": [
             {
@@ -6494,7 +6494,7 @@
           ],
           "prompt": {
             "PromptText": "k",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/k.mp3"
+            "PromptAudio": "lang/lugandan/audios/k.mp3"
           },
           "foilstones": [
             {
@@ -6532,7 +6532,7 @@
           ],
           "prompt": {
             "PromptText": "p",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/p.mp3"
+            "PromptAudio": "lang/lugandan/audios/p.mp3"
           },
           "foilstones": [
             {
@@ -6570,7 +6570,7 @@
           ],
           "prompt": {
             "PromptText": "n",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/n.mp3"
+            "PromptAudio": "lang/lugandan/audios/n.mp3"
           },
           "foilstones": [
             {
@@ -6608,7 +6608,7 @@
           ],
           "prompt": {
             "PromptText": "d",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/d.mp3"
+            "PromptAudio": "lang/lugandan/audios/d.mp3"
           },
           "foilstones": [
             {
@@ -6649,7 +6649,7 @@
           ],
           "prompt": {
             "PromptText": "o",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/o.mp3"
+            "PromptAudio": "lang/lugandan/audios/o.mp3"
           },
           "foilstones": [
             {
@@ -6696,7 +6696,7 @@
           ],
           "prompt": {
             "PromptText": "t",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/t.mp3"
+            "PromptAudio": "lang/lugandan/audios/t.mp3"
           },
           "foilstones": [
             {
@@ -6734,7 +6734,7 @@
           ],
           "prompt": {
             "PromptText": "n",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/n.mp3"
+            "PromptAudio": "lang/lugandan/audios/n.mp3"
           },
           "foilstones": [
             {
@@ -6772,7 +6772,7 @@
           ],
           "prompt": {
             "PromptText": "d",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/d.mp3"
+            "PromptAudio": "lang/lugandan/audios/d.mp3"
           },
           "foilstones": [
             {
@@ -6810,7 +6810,7 @@
           ],
           "prompt": {
             "PromptText": "k",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/k.mp3"
+            "PromptAudio": "lang/lugandan/audios/k.mp3"
           },
           "foilstones": [
             {
@@ -6845,7 +6845,7 @@
           ],
           "prompt": {
             "PromptText": "o",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/o.mp3"
+            "PromptAudio": "lang/lugandan/audios/o.mp3"
           },
           "foilstones": [
             {
@@ -6898,7 +6898,7 @@
           ],
           "prompt": {
             "PromptText": "k",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/k.mp3"
+            "PromptAudio": "lang/lugandan/audios/k.mp3"
           },
           "foilstones": [
             {
@@ -6936,7 +6936,7 @@
           ],
           "prompt": {
             "PromptText": "p",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/p.mp3"
+            "PromptAudio": "lang/lugandan/audios/p.mp3"
           },
           "foilstones": [
             {
@@ -6974,7 +6974,7 @@
           ],
           "prompt": {
             "PromptText": "n",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/n.mp3"
+            "PromptAudio": "lang/lugandan/audios/n.mp3"
           },
           "foilstones": [
             {
@@ -7012,7 +7012,7 @@
           ],
           "prompt": {
             "PromptText": "d",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/d.mp3"
+            "PromptAudio": "lang/lugandan/audios/d.mp3"
           },
           "foilstones": [
             {
@@ -7047,7 +7047,7 @@
           ],
           "prompt": {
             "PromptText": "o",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/o.mp3"
+            "PromptAudio": "lang/lugandan/audios/o.mp3"
           },
           "foilstones": [
             {
@@ -7100,7 +7100,7 @@
           ],
           "prompt": {
             "PromptText": "eno",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/e.mp3"
+            "PromptAudio": "lang/lugandan/audios/e.mp3"
           },
           "foilstones": [
             {
@@ -7138,7 +7138,7 @@
           ],
           "prompt": {
             "PromptText": "doti",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/d.mp3"
+            "PromptAudio": "lang/lugandan/audios/d.mp3"
           },
           "foilstones": [
             {
@@ -7176,7 +7176,7 @@
           ],
           "prompt": {
             "PromptText": "nkoko",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/n.mp3"
+            "PromptAudio": "lang/lugandan/audios/n.mp3"
           },
           "foilstones": [
             {
@@ -7211,7 +7211,7 @@
           ],
           "prompt": {
             "PromptText": "kikopo",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/k.mp3"
+            "PromptAudio": "lang/lugandan/audios/k.mp3"
           },
           "foilstones": [
             {
@@ -7252,7 +7252,7 @@
           ],
           "prompt": {
             "PromptText": "motoka",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/m.mp3"
+            "PromptAudio": "lang/lugandan/audios/m.mp3"
           },
           "foilstones": [
             {
@@ -7302,7 +7302,7 @@
           ],
           "prompt": {
             "PromptText": "eno",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/e.mp3"
+            "PromptAudio": "lang/lugandan/audios/e.mp3"
           },
           "foilstones": [
             {
@@ -7340,7 +7340,7 @@
           ],
           "prompt": {
             "PromptText": "doti",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/d.mp3"
+            "PromptAudio": "lang/lugandan/audios/d.mp3"
           },
           "foilstones": [
             {
@@ -7378,7 +7378,7 @@
           ],
           "prompt": {
             "PromptText": "nkoko",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/n.mp3"
+            "PromptAudio": "lang/lugandan/audios/n.mp3"
           },
           "foilstones": [
             {
@@ -7416,7 +7416,7 @@
           ],
           "prompt": {
             "PromptText": "kikopo",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/k.mp3"
+            "PromptAudio": "lang/lugandan/audios/k.mp3"
           },
           "foilstones": [
             {
@@ -7451,7 +7451,7 @@
           ],
           "prompt": {
             "PromptText": "motoka",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/m.mp3"
+            "PromptAudio": "lang/lugandan/audios/m.mp3"
           },
           "foilstones": [
             {
@@ -7504,7 +7504,7 @@
           ],
           "prompt": {
             "PromptText": "eno",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/e.mp3"
+            "PromptAudio": "lang/lugandan/audios/e.mp3"
           },
           "foilstones": [
             {
@@ -7542,7 +7542,7 @@
           ],
           "prompt": {
             "PromptText": "doti",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/d.mp3"
+            "PromptAudio": "lang/lugandan/audios/d.mp3"
           },
           "foilstones": [
             {
@@ -7580,7 +7580,7 @@
           ],
           "prompt": {
             "PromptText": "nkoko",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/n.mp3"
+            "PromptAudio": "lang/lugandan/audios/n.mp3"
           },
           "foilstones": [
             {
@@ -7618,7 +7618,7 @@
           ],
           "prompt": {
             "PromptText": "kikopo",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/k.mp3"
+            "PromptAudio": "lang/lugandan/audios/k.mp3"
           },
           "foilstones": [
             {
@@ -7653,7 +7653,7 @@
           ],
           "prompt": {
             "PromptText": "motoka",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/m.mp3"
+            "PromptAudio": "lang/lugandan/audios/m.mp3"
           },
           "foilstones": [
             {
@@ -7706,7 +7706,7 @@
           ],
           "prompt": {
             "PromptText": "eno",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/e.mp3"
+            "PromptAudio": "lang/lugandan/audios/e.mp3"
           },
           "foilstones": [
             {
@@ -7729,7 +7729,7 @@
           ],
           "prompt": {
             "PromptText": "doti",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/d.mp3"
+            "PromptAudio": "lang/lugandan/audios/d.mp3"
           },
           "foilstones": [
             {
@@ -7752,7 +7752,7 @@
           ],
           "prompt": {
             "PromptText": "nkoko",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/n.mp3"
+            "PromptAudio": "lang/lugandan/audios/n.mp3"
           },
           "foilstones": [
             {
@@ -7775,7 +7775,7 @@
           ],
           "prompt": {
             "PromptText": "kikopo",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/k.mp3"
+            "PromptAudio": "lang/lugandan/audios/k.mp3"
           },
           "foilstones": [
             {
@@ -7801,7 +7801,7 @@
           ],
           "prompt": {
             "PromptText": "motoka",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/m.mp3"
+            "PromptAudio": "lang/lugandan/audios/m.mp3"
           },
           "foilstones": [
             {
@@ -7842,7 +7842,7 @@
           ],
           "prompt": {
             "PromptText": "eno",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/eno.mp3"
+            "PromptAudio": "lang/lugandan/audios/eno.mp3"
           },
           "foilstones": [
             {
@@ -7874,7 +7874,7 @@
           ],
           "prompt": {
             "PromptText": "doti",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/doti.mp3"
+            "PromptAudio": "lang/lugandan/audios/doti.mp3"
           },
           "foilstones": [
             {
@@ -7909,7 +7909,7 @@
           ],
           "prompt": {
             "PromptText": "nkoko",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/nkoko.mp3"
+            "PromptAudio": "lang/lugandan/audios/nkoko.mp3"
           },
           "foilstones": [
             {
@@ -7947,7 +7947,7 @@
           ],
           "prompt": {
             "PromptText": "kikopo",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/kikopo.mp3"
+            "PromptAudio": "lang/lugandan/audios/kikopo.mp3"
           },
           "foilstones": [
             {
@@ -7988,7 +7988,7 @@
           ],
           "prompt": {
             "PromptText": "motoka",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/motoka.mp3"
+            "PromptAudio": "lang/lugandan/audios/motoka.mp3"
           },
           "foilstones": [
             {
@@ -8029,7 +8029,7 @@
           ],
           "prompt": {
             "PromptText": "eno",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/eno.mp3"
+            "PromptAudio": "lang/lugandan/audios/eno.mp3"
           },
           "foilstones": [
             {
@@ -8076,7 +8076,7 @@
           ],
           "prompt": {
             "PromptText": "doti",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/doti.mp3"
+            "PromptAudio": "lang/lugandan/audios/doti.mp3"
           },
           "foilstones": [
             {
@@ -8126,7 +8126,7 @@
           ],
           "prompt": {
             "PromptText": "nkoko",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/nkoko.mp3"
+            "PromptAudio": "lang/lugandan/audios/nkoko.mp3"
           },
           "foilstones": [
             {
@@ -8176,7 +8176,7 @@
           ],
           "prompt": {
             "PromptText": "kikopo",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/kikopo.mp3"
+            "PromptAudio": "lang/lugandan/audios/kikopo.mp3"
           },
           "foilstones": [
             {
@@ -8232,7 +8232,7 @@
           ],
           "prompt": {
             "PromptText": "motoka",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/motoka.mp3"
+            "PromptAudio": "lang/lugandan/audios/motoka.mp3"
           },
           "foilstones": [
             {
@@ -8288,7 +8288,7 @@
           ],
           "prompt": {
             "PromptText": "eno",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/eno.mp3"
+            "PromptAudio": "lang/lugandan/audios/eno.mp3"
           },
           "foilstones": [
             {
@@ -8335,7 +8335,7 @@
           ],
           "prompt": {
             "PromptText": "doti",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/doti.mp3"
+            "PromptAudio": "lang/lugandan/audios/doti.mp3"
           },
           "foilstones": [
             {
@@ -8385,7 +8385,7 @@
           ],
           "prompt": {
             "PromptText": "nkoko",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/nkoko.mp3"
+            "PromptAudio": "lang/lugandan/audios/nkoko.mp3"
           },
           "foilstones": [
             {
@@ -8438,7 +8438,7 @@
           ],
           "prompt": {
             "PromptText": "kikopo",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/kikopo.mp3"
+            "PromptAudio": "lang/lugandan/audios/kikopo.mp3"
           },
           "foilstones": [
             {
@@ -8488,7 +8488,7 @@
           ],
           "prompt": {
             "PromptText": "motoka",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/motoka.mp3"
+            "PromptAudio": "lang/lugandan/audios/motoka.mp3"
           },
           "foilstones": [
             {
@@ -8541,7 +8541,7 @@
           ],
           "prompt": {
             "PromptText": "f",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/f.mp3"
+            "PromptAudio": "lang/lugandan/audios/f.mp3"
           },
           "foilstones": [
             {
@@ -8579,7 +8579,7 @@
           ],
           "prompt": {
             "PromptText": "m",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/m.mp3"
+            "PromptAudio": "lang/lugandan/audios/m.mp3"
           },
           "foilstones": [
             {
@@ -8617,7 +8617,7 @@
           ],
           "prompt": {
             "PromptText": "g",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/g.mp3"
+            "PromptAudio": "lang/lugandan/audios/g.mp3"
           },
           "foilstones": [
             {
@@ -8652,7 +8652,7 @@
           ],
           "prompt": {
             "PromptText": "k",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/k.mp3"
+            "PromptAudio": "lang/lugandan/audios/k.mp3"
           },
           "foilstones": [
             {
@@ -8693,7 +8693,7 @@
           ],
           "prompt": {
             "PromptText": "u",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/u.mp3"
+            "PromptAudio": "lang/lugandan/audios/u.mp3"
           },
           "foilstones": [
             {
@@ -8743,7 +8743,7 @@
           ],
           "prompt": {
             "PromptText": "ŋ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/ŋ.mp3"
+            "PromptAudio": "lang/lugandan/audios/ŋ.mp3"
           },
           "foilstones": [
             {
@@ -8781,7 +8781,7 @@
           ],
           "prompt": {
             "PromptText": "w",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/w.mp3"
+            "PromptAudio": "lang/lugandan/audios/w.mp3"
           },
           "foilstones": [
             {
@@ -8822,7 +8822,7 @@
           ],
           "prompt": {
             "PromptText": "n",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/n.mp3"
+            "PromptAudio": "lang/lugandan/audios/n.mp3"
           },
           "foilstones": [
             {
@@ -8860,7 +8860,7 @@
           ],
           "prompt": {
             "PromptText": "s",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/s.mp3"
+            "PromptAudio": "lang/lugandan/audios/s.mp3"
           },
           "foilstones": [
             {
@@ -8895,7 +8895,7 @@
           ],
           "prompt": {
             "PromptText": "u",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/u.mp3"
+            "PromptAudio": "lang/lugandan/audios/u.mp3"
           },
           "foilstones": [
             {
@@ -8945,7 +8945,7 @@
           ],
           "prompt": {
             "PromptText": "g",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/g.mp3"
+            "PromptAudio": "lang/lugandan/audios/g.mp3"
           },
           "foilstones": [
             {
@@ -8983,7 +8983,7 @@
           ],
           "prompt": {
             "PromptText": "k",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/k.mp3"
+            "PromptAudio": "lang/lugandan/audios/k.mp3"
           },
           "foilstones": [
             {
@@ -9021,7 +9021,7 @@
           ],
           "prompt": {
             "PromptText": "f",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/f.mp3"
+            "PromptAudio": "lang/lugandan/audios/f.mp3"
           },
           "foilstones": [
             {
@@ -9059,7 +9059,7 @@
           ],
           "prompt": {
             "PromptText": "ŋ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/ŋ.mp3"
+            "PromptAudio": "lang/lugandan/audios/ŋ.mp3"
           },
           "foilstones": [
             {
@@ -9094,7 +9094,7 @@
           ],
           "prompt": {
             "PromptText": "u",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/u.mp3"
+            "PromptAudio": "lang/lugandan/audios/u.mp3"
           },
           "foilstones": [
             {
@@ -9147,7 +9147,7 @@
           ],
           "prompt": {
             "PromptText": "l",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/l.mp3"
+            "PromptAudio": "lang/lugandan/audios/l.mp3"
           },
           "foilstones": [
             {
@@ -9185,7 +9185,7 @@
           ],
           "prompt": {
             "PromptText": "s",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/s.mp3"
+            "PromptAudio": "lang/lugandan/audios/s.mp3"
           },
           "foilstones": [
             {
@@ -9223,7 +9223,7 @@
           ],
           "prompt": {
             "PromptText": "n",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/n.mp3"
+            "PromptAudio": "lang/lugandan/audios/n.mp3"
           },
           "foilstones": [
             {
@@ -9261,7 +9261,7 @@
           ],
           "prompt": {
             "PromptText": "ŋ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/ŋ.mp3"
+            "PromptAudio": "lang/lugandan/audios/ŋ.mp3"
           },
           "foilstones": [
             {
@@ -9296,7 +9296,7 @@
           ],
           "prompt": {
             "PromptText": "u",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/u.mp3"
+            "PromptAudio": "lang/lugandan/audios/u.mp3"
           },
           "foilstones": [
             {
@@ -9349,7 +9349,7 @@
           ],
           "prompt": {
             "PromptText": "w",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/w.mp3"
+            "PromptAudio": "lang/lugandan/audios/w.mp3"
           },
           "foilstones": [
             {
@@ -9387,7 +9387,7 @@
           ],
           "prompt": {
             "PromptText": "g",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/g.mp3"
+            "PromptAudio": "lang/lugandan/audios/g.mp3"
           },
           "foilstones": [
             {
@@ -9428,7 +9428,7 @@
           ],
           "prompt": {
             "PromptText": "f",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/f.mp3"
+            "PromptAudio": "lang/lugandan/audios/f.mp3"
           },
           "foilstones": [
             {
@@ -9466,7 +9466,7 @@
           ],
           "prompt": {
             "PromptText": "m",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/m.mp3"
+            "PromptAudio": "lang/lugandan/audios/m.mp3"
           },
           "foilstones": [
             {
@@ -9501,7 +9501,7 @@
           ],
           "prompt": {
             "PromptText": "u",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/u.mp3"
+            "PromptAudio": "lang/lugandan/audios/u.mp3"
           },
           "foilstones": [
             {
@@ -9551,7 +9551,7 @@
           ],
           "prompt": {
             "PromptText": "m",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/m.mp3"
+            "PromptAudio": "lang/lugandan/audios/m.mp3"
           },
           "foilstones": [
             {
@@ -9589,7 +9589,7 @@
           ],
           "prompt": {
             "PromptText": "f",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/f.mp3"
+            "PromptAudio": "lang/lugandan/audios/f.mp3"
           },
           "foilstones": [
             {
@@ -9627,7 +9627,7 @@
           ],
           "prompt": {
             "PromptText": "k",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/k.mp3"
+            "PromptAudio": "lang/lugandan/audios/k.mp3"
           },
           "foilstones": [
             {
@@ -9665,7 +9665,7 @@
           ],
           "prompt": {
             "PromptText": "ŋ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/ŋ.mp3"
+            "PromptAudio": "lang/lugandan/audios/ŋ.mp3"
           },
           "foilstones": [
             {
@@ -9700,7 +9700,7 @@
           ],
           "prompt": {
             "PromptText": "u",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/u.mp3"
+            "PromptAudio": "lang/lugandan/audios/u.mp3"
           },
           "foilstones": [
             {
@@ -9753,7 +9753,7 @@
           ],
           "prompt": {
             "PromptText": "ffumu",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/f.mp3"
+            "PromptAudio": "lang/lugandan/audios/f.mp3"
           },
           "foilstones": [
             {
@@ -9791,7 +9791,7 @@
           ],
           "prompt": {
             "PromptText": "mufu",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/m.mp3"
+            "PromptAudio": "lang/lugandan/audios/m.mp3"
           },
           "foilstones": [
             {
@@ -9829,7 +9829,7 @@
           ],
           "prompt": {
             "PromptText": "nguju",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/n.mp3"
+            "PromptAudio": "lang/lugandan/audios/n.mp3"
           },
           "foilstones": [
             {
@@ -9867,7 +9867,7 @@
           ],
           "prompt": {
             "PromptText": "simuula",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/s.mp3"
+            "PromptAudio": "lang/lugandan/audios/s.mp3"
           },
           "foilstones": [
             {
@@ -9902,7 +9902,7 @@
           ],
           "prompt": {
             "PromptText": "nsuwa",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/n.mp3"
+            "PromptAudio": "lang/lugandan/audios/n.mp3"
           },
           "foilstones": [
             {
@@ -9955,7 +9955,7 @@
           ],
           "prompt": {
             "PromptText": "ffumu",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/f.mp3"
+            "PromptAudio": "lang/lugandan/audios/f.mp3"
           },
           "foilstones": [
             {
@@ -9993,7 +9993,7 @@
           ],
           "prompt": {
             "PromptText": "mufu",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/m.mp3"
+            "PromptAudio": "lang/lugandan/audios/m.mp3"
           },
           "foilstones": [
             {
@@ -10031,7 +10031,7 @@
           ],
           "prompt": {
             "PromptText": "nguju",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/n.mp3"
+            "PromptAudio": "lang/lugandan/audios/n.mp3"
           },
           "foilstones": [
             {
@@ -10066,7 +10066,7 @@
           ],
           "prompt": {
             "PromptText": "simuula",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/s.mp3"
+            "PromptAudio": "lang/lugandan/audios/s.mp3"
           },
           "foilstones": [
             {
@@ -10104,7 +10104,7 @@
           ],
           "prompt": {
             "PromptText": "nsuwa",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/n.mp3"
+            "PromptAudio": "lang/lugandan/audios/n.mp3"
           },
           "foilstones": [
             {
@@ -10157,7 +10157,7 @@
           ],
           "prompt": {
             "PromptText": "ffumu",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/f.mp3"
+            "PromptAudio": "lang/lugandan/audios/f.mp3"
           },
           "foilstones": [
             {
@@ -10195,7 +10195,7 @@
           ],
           "prompt": {
             "PromptText": "mufu",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/m.mp3"
+            "PromptAudio": "lang/lugandan/audios/m.mp3"
           },
           "foilstones": [
             {
@@ -10233,7 +10233,7 @@
           ],
           "prompt": {
             "PromptText": "nguju",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/n.mp3"
+            "PromptAudio": "lang/lugandan/audios/n.mp3"
           },
           "foilstones": [
             {
@@ -10268,7 +10268,7 @@
           ],
           "prompt": {
             "PromptText": "simuula",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/s.mp3"
+            "PromptAudio": "lang/lugandan/audios/s.mp3"
           },
           "foilstones": [
             {
@@ -10306,7 +10306,7 @@
           ],
           "prompt": {
             "PromptText": "nsuwa",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/n.mp3"
+            "PromptAudio": "lang/lugandan/audios/n.mp3"
           },
           "foilstones": [
             {
@@ -10359,7 +10359,7 @@
           ],
           "prompt": {
             "PromptText": "ffumu",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/f.mp3"
+            "PromptAudio": "lang/lugandan/audios/f.mp3"
           },
           "foilstones": [
             {
@@ -10397,7 +10397,7 @@
           ],
           "prompt": {
             "PromptText": "mufu",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/m.mp3"
+            "PromptAudio": "lang/lugandan/audios/m.mp3"
           },
           "foilstones": [
             {
@@ -10435,7 +10435,7 @@
           ],
           "prompt": {
             "PromptText": "nguju",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/n.mp3"
+            "PromptAudio": "lang/lugandan/audios/n.mp3"
           },
           "foilstones": [
             {
@@ -10470,7 +10470,7 @@
           ],
           "prompt": {
             "PromptText": "simuula",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/s.mp3"
+            "PromptAudio": "lang/lugandan/audios/s.mp3"
           },
           "foilstones": [
             {
@@ -10508,7 +10508,7 @@
           ],
           "prompt": {
             "PromptText": "nsuwa",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/n.mp3"
+            "PromptAudio": "lang/lugandan/audios/n.mp3"
           },
           "foilstones": [
             {
@@ -10573,7 +10573,7 @@
           ],
           "prompt": {
             "PromptText": "ffumu",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/ffumu.mp3"
+            "PromptAudio": "lang/lugandan/audios/ffumu.mp3"
           },
           "foilstones": [
             {
@@ -10620,7 +10620,7 @@
           ],
           "prompt": {
             "PromptText": "mufu",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/mufu.mp3"
+            "PromptAudio": "lang/lugandan/audios/mufu.mp3"
           },
           "foilstones": [
             {
@@ -10670,7 +10670,7 @@
           ],
           "prompt": {
             "PromptText": "nguju",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/nguju.mp3"
+            "PromptAudio": "lang/lugandan/audios/nguju.mp3"
           },
           "foilstones": [
             {
@@ -10723,7 +10723,7 @@
           ],
           "prompt": {
             "PromptText": "simuula",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/simuula.mp3"
+            "PromptAudio": "lang/lugandan/audios/simuula.mp3"
           },
           "foilstones": [
             {
@@ -10773,7 +10773,7 @@
           ],
           "prompt": {
             "PromptText": "nsuwa",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/nsuwa.mp3"
+            "PromptAudio": "lang/lugandan/audios/nsuwa.mp3"
           },
           "foilstones": [
             {
@@ -10838,7 +10838,7 @@
           ],
           "prompt": {
             "PromptText": "ffumu",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/ffumu.mp3"
+            "PromptAudio": "lang/lugandan/audios/ffumu.mp3"
           },
           "foilstones": [
             {
@@ -10885,7 +10885,7 @@
           ],
           "prompt": {
             "PromptText": "mufu",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/mufu.mp3"
+            "PromptAudio": "lang/lugandan/audios/mufu.mp3"
           },
           "foilstones": [
             {
@@ -10935,7 +10935,7 @@
           ],
           "prompt": {
             "PromptText": "nguju",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/nguju.mp3"
+            "PromptAudio": "lang/lugandan/audios/nguju.mp3"
           },
           "foilstones": [
             {
@@ -10988,7 +10988,7 @@
           ],
           "prompt": {
             "PromptText": "simuula",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/simuula.mp3"
+            "PromptAudio": "lang/lugandan/audios/simuula.mp3"
           },
           "foilstones": [
             {
@@ -11038,7 +11038,7 @@
           ],
           "prompt": {
             "PromptText": "nsuwa",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/nsuwa.mp3"
+            "PromptAudio": "lang/lugandan/audios/nsuwa.mp3"
           },
           "foilstones": [
             {
@@ -11103,7 +11103,7 @@
           ],
           "prompt": {
             "PromptText": "ffumu",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/ffumu.mp3"
+            "PromptAudio": "lang/lugandan/audios/ffumu.mp3"
           },
           "foilstones": [
             {
@@ -11150,7 +11150,7 @@
           ],
           "prompt": {
             "PromptText": "mufu",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/mufu.mp3"
+            "PromptAudio": "lang/lugandan/audios/mufu.mp3"
           },
           "foilstones": [
             {
@@ -11200,7 +11200,7 @@
           ],
           "prompt": {
             "PromptText": "nguju",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/nguju.mp3"
+            "PromptAudio": "lang/lugandan/audios/nguju.mp3"
           },
           "foilstones": [
             {
@@ -11253,7 +11253,7 @@
           ],
           "prompt": {
             "PromptText": "simuula",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/simuula.mp3"
+            "PromptAudio": "lang/lugandan/audios/simuula.mp3"
           },
           "foilstones": [
             {
@@ -11303,7 +11303,7 @@
           ],
           "prompt": {
             "PromptText": "nsuwa",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/nsuwa.mp3"
+            "PromptAudio": "lang/lugandan/audios/nsuwa.mp3"
           },
           "foilstones": [
             {
@@ -11356,7 +11356,7 @@
           ],
           "prompt": {
             "PromptText": "a",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/a.mp3"
+            "PromptAudio": "lang/lugandan/audios/a.mp3"
           },
           "foilstones": [
             {
@@ -11394,7 +11394,7 @@
           ],
           "prompt": {
             "PromptText": "e",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/e.mp3"
+            "PromptAudio": "lang/lugandan/audios/e.mp3"
           },
           "foilstones": [
             {
@@ -11432,7 +11432,7 @@
           ],
           "prompt": {
             "PromptText": "i",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/i.mp3"
+            "PromptAudio": "lang/lugandan/audios/i.mp3"
           },
           "foilstones": [
             {
@@ -11464,7 +11464,7 @@
           ],
           "prompt": {
             "PromptText": "o",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/o.mp3"
+            "PromptAudio": "lang/lugandan/audios/o.mp3"
           },
           "foilstones": [
             {
@@ -11499,7 +11499,7 @@
           ],
           "prompt": {
             "PromptText": "u",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/u.mp3"
+            "PromptAudio": "lang/lugandan/audios/u.mp3"
           },
           "foilstones": [
             {
@@ -11552,7 +11552,7 @@
           ],
           "prompt": {
             "PromptText": "m",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/m.mp3"
+            "PromptAudio": "lang/lugandan/audios/m.mp3"
           },
           "foilstones": [
             {
@@ -11590,7 +11590,7 @@
           ],
           "prompt": {
             "PromptText": "p",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/p.mp3"
+            "PromptAudio": "lang/lugandan/audios/p.mp3"
           },
           "foilstones": [
             {
@@ -11628,7 +11628,7 @@
           ],
           "prompt": {
             "PromptText": "w",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/w.mp3"
+            "PromptAudio": "lang/lugandan/audios/w.mp3"
           },
           "foilstones": [
             {
@@ -11666,7 +11666,7 @@
           ],
           "prompt": {
             "PromptText": "k",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/k.mp3"
+            "PromptAudio": "lang/lugandan/audios/k.mp3"
           },
           "foilstones": [
             {
@@ -11701,7 +11701,7 @@
           ],
           "prompt": {
             "PromptText": "ŋ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/ŋ.mp3"
+            "PromptAudio": "lang/lugandan/audios/ŋ.mp3"
           },
           "foilstones": [
             {
@@ -11754,7 +11754,7 @@
           ],
           "prompt": {
             "PromptText": "n",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/n.mp3"
+            "PromptAudio": "lang/lugandan/audios/n.mp3"
           },
           "foilstones": [
             {
@@ -11792,7 +11792,7 @@
           ],
           "prompt": {
             "PromptText": "s",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/s.mp3"
+            "PromptAudio": "lang/lugandan/audios/s.mp3"
           },
           "foilstones": [
             {
@@ -11830,7 +11830,7 @@
           ],
           "prompt": {
             "PromptText": "t",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/t.mp3"
+            "PromptAudio": "lang/lugandan/audios/t.mp3"
           },
           "foilstones": [
             {
@@ -11862,7 +11862,7 @@
           ],
           "prompt": {
             "PromptText": "y",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/y.mp3"
+            "PromptAudio": "lang/lugandan/audios/y.mp3"
           },
           "foilstones": [
             {
@@ -11897,7 +11897,7 @@
           ],
           "prompt": {
             "PromptText": "ny",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/ny.mp3"
+            "PromptAudio": "lang/lugandan/audios/ny.mp3"
           },
           "foilstones": [
             {
@@ -11950,7 +11950,7 @@
           ],
           "prompt": {
             "PromptText": "b",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/b.mp3"
+            "PromptAudio": "lang/lugandan/audios/b.mp3"
           },
           "foilstones": [
             {
@@ -11988,7 +11988,7 @@
           ],
           "prompt": {
             "PromptText": "j",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/j.mp3"
+            "PromptAudio": "lang/lugandan/audios/j.mp3"
           },
           "foilstones": [
             {
@@ -12026,7 +12026,7 @@
           ],
           "prompt": {
             "PromptText": "v",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/v.mp3"
+            "PromptAudio": "lang/lugandan/audios/v.mp3"
           },
           "foilstones": [
             {
@@ -12064,7 +12064,7 @@
           ],
           "prompt": {
             "PromptText": "c",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/c.mp3"
+            "PromptAudio": "lang/lugandan/audios/c.mp3"
           },
           "foilstones": [
             {
@@ -12099,7 +12099,7 @@
           ],
           "prompt": {
             "PromptText": "g",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/g.mp3"
+            "PromptAudio": "lang/lugandan/audios/g.mp3"
           },
           "foilstones": [
             {
@@ -12152,7 +12152,7 @@
           ],
           "prompt": {
             "PromptText": "f",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/f.mp3"
+            "PromptAudio": "lang/lugandan/audios/f.mp3"
           },
           "foilstones": [
             {
@@ -12190,7 +12190,7 @@
           ],
           "prompt": {
             "PromptText": "z",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/z.mp3"
+            "PromptAudio": "lang/lugandan/audios/z.mp3"
           },
           "foilstones": [
             {
@@ -12228,7 +12228,7 @@
           ],
           "prompt": {
             "PromptText": "d",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/d.mp3"
+            "PromptAudio": "lang/lugandan/audios/d.mp3"
           },
           "foilstones": [
             {
@@ -12260,7 +12260,7 @@
           ],
           "prompt": {
             "PromptText": "l",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/l.mp3"
+            "PromptAudio": "lang/lugandan/audios/l.mp3"
           },
           "foilstones": [
             {
@@ -12295,7 +12295,7 @@
           ],
           "prompt": {
             "PromptText": "r",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/r.mp3"
+            "PromptAudio": "lang/lugandan/audios/r.mp3"
           },
           "foilstones": [
             {
@@ -12348,7 +12348,7 @@
           ],
           "prompt": {
             "PromptText": "k",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/k.mp3"
+            "PromptAudio": "lang/lugandan/audios/k.mp3"
           },
           "foilstones": [
             {
@@ -12386,7 +12386,7 @@
           ],
           "prompt": {
             "PromptText": "c",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/c.mp3"
+            "PromptAudio": "lang/lugandan/audios/c.mp3"
           },
           "foilstones": [
             {
@@ -12424,7 +12424,7 @@
           ],
           "prompt": {
             "PromptText": "ŋ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/ŋ.mp3"
+            "PromptAudio": "lang/lugandan/audios/ŋ.mp3"
           },
           "foilstones": [
             {
@@ -12462,7 +12462,7 @@
           ],
           "prompt": {
             "PromptText": "v",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/v.mp3"
+            "PromptAudio": "lang/lugandan/audios/v.mp3"
           },
           "foilstones": [
             {
@@ -12503,7 +12503,7 @@
           ],
           "prompt": {
             "PromptText": "r",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/r.mp3"
+            "PromptAudio": "lang/lugandan/audios/r.mp3"
           },
           "foilstones": [
             {
@@ -12550,7 +12550,7 @@
           ],
           "prompt": {
             "PromptText": "awa",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/a.mp3"
+            "PromptAudio": "lang/lugandan/audios/a.mp3"
           },
           "foilstones": [
             {
@@ -12588,7 +12588,7 @@
           ],
           "prompt": {
             "PromptText": "ebe",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/e.mp3"
+            "PromptAudio": "lang/lugandan/audios/e.mp3"
           },
           "foilstones": [
             {
@@ -12626,7 +12626,7 @@
           ],
           "prompt": {
             "PromptText": "miti",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/m.mp3"
+            "PromptAudio": "lang/lugandan/audios/m.mp3"
           },
           "foilstones": [
             {
@@ -12658,7 +12658,7 @@
           ],
           "prompt": {
             "PromptText": "ono",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/o.mp3"
+            "PromptAudio": "lang/lugandan/audios/o.mp3"
           },
           "foilstones": [
             {
@@ -12693,7 +12693,7 @@
           ],
           "prompt": {
             "PromptText": "nguju",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/n.mp3"
+            "PromptAudio": "lang/lugandan/audios/n.mp3"
           },
           "foilstones": [
             {
@@ -12746,7 +12746,7 @@
           ],
           "prompt": {
             "PromptText": "babe",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/b.mp3"
+            "PromptAudio": "lang/lugandan/audios/b.mp3"
           },
           "foilstones": [
             {
@@ -12784,7 +12784,7 @@
           ],
           "prompt": {
             "PromptText": "maka",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/m.mp3"
+            "PromptAudio": "lang/lugandan/audios/m.mp3"
           },
           "foilstones": [
             {
@@ -12822,7 +12822,7 @@
           ],
           "prompt": {
             "PromptText": "nsika",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/n.mp3"
+            "PromptAudio": "lang/lugandan/audios/n.mp3"
           },
           "foilstones": [
             {
@@ -12860,7 +12860,7 @@
           ],
           "prompt": {
             "PromptText": "doti",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/d.mp3"
+            "PromptAudio": "lang/lugandan/audios/d.mp3"
           },
           "foilstones": [
             {
@@ -12895,7 +12895,7 @@
           ],
           "prompt": {
             "PromptText": "mufu",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/m.mp3"
+            "PromptAudio": "lang/lugandan/audios/m.mp3"
           },
           "foilstones": [
             {
@@ -12948,7 +12948,7 @@
           ],
           "prompt": {
             "PromptText": "atya",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/a.mp3"
+            "PromptAudio": "lang/lugandan/audios/a.mp3"
           },
           "foilstones": [
             {
@@ -12986,7 +12986,7 @@
           ],
           "prompt": {
             "PromptText": "nzira",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/n.mp3"
+            "PromptAudio": "lang/lugandan/audios/n.mp3"
           },
           "foilstones": [
             {
@@ -13024,7 +13024,7 @@
           ],
           "prompt": {
             "PromptText": "maje",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/m.mp3"
+            "PromptAudio": "lang/lugandan/audios/m.mp3"
           },
           "foilstones": [
             {
@@ -13062,7 +13062,7 @@
           ],
           "prompt": {
             "PromptText": "motoka",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/m.mp3"
+            "PromptAudio": "lang/lugandan/audios/m.mp3"
           },
           "foilstones": [
             {
@@ -13097,7 +13097,7 @@
           ],
           "prompt": {
             "PromptText": "njuba",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/n.mp3"
+            "PromptAudio": "lang/lugandan/audios/n.mp3"
           },
           "foilstones": [
             {
@@ -13150,7 +13150,7 @@
           ],
           "prompt": {
             "PromptText": "maka",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/m.mp3"
+            "PromptAudio": "lang/lugandan/audios/m.mp3"
           },
           "foilstones": [
             {
@@ -13188,7 +13188,7 @@
           ],
           "prompt": {
             "PromptText": "ffumu",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/f.mp3"
+            "PromptAudio": "lang/lugandan/audios/f.mp3"
           },
           "foilstones": [
             {
@@ -13226,7 +13226,7 @@
           ],
           "prompt": {
             "PromptText": "kikopo",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/k.mp3"
+            "PromptAudio": "lang/lugandan/audios/k.mp3"
           },
           "foilstones": [
             {
@@ -13258,7 +13258,7 @@
           ],
           "prompt": {
             "PromptText": "empe",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/e.mp3"
+            "PromptAudio": "lang/lugandan/audios/e.mp3"
           },
           "foilstones": [
             {
@@ -13293,7 +13293,7 @@
           ],
           "prompt": {
             "PromptText": "babe",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/b.mp3"
+            "PromptAudio": "lang/lugandan/audios/b.mp3"
           },
           "foilstones": [
             {
@@ -13352,7 +13352,7 @@
           ],
           "prompt": {
             "PromptText": "awa",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/awa.mp3"
+            "PromptAudio": "lang/lugandan/audios/awa.mp3"
           },
           "foilstones": [
             {
@@ -13396,7 +13396,7 @@
           ],
           "prompt": {
             "PromptText": "ebe",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/ebe.mp3"
+            "PromptAudio": "lang/lugandan/audios/ebe.mp3"
           },
           "foilstones": [
             {
@@ -13443,7 +13443,7 @@
           ],
           "prompt": {
             "PromptText": "miti",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/miti.mp3"
+            "PromptAudio": "lang/lugandan/audios/miti.mp3"
           },
           "foilstones": [
             {
@@ -13487,7 +13487,7 @@
           ],
           "prompt": {
             "PromptText": "eno",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/eno.mp3"
+            "PromptAudio": "lang/lugandan/audios/eno.mp3"
           },
           "foilstones": [
             {
@@ -13534,7 +13534,7 @@
           ],
           "prompt": {
             "PromptText": "nguju",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/nguju.mp3"
+            "PromptAudio": "lang/lugandan/audios/nguju.mp3"
           },
           "foilstones": [
             {
@@ -13596,7 +13596,7 @@
           ],
           "prompt": {
             "PromptText": "babe",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/babe.mp3"
+            "PromptAudio": "lang/lugandan/audios/babe.mp3"
           },
           "foilstones": [
             {
@@ -13643,7 +13643,7 @@
           ],
           "prompt": {
             "PromptText": "maka",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/maka.mp3"
+            "PromptAudio": "lang/lugandan/audios/maka.mp3"
           },
           "foilstones": [
             {
@@ -13693,7 +13693,7 @@
           ],
           "prompt": {
             "PromptText": "nsika",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/nsika.mp3"
+            "PromptAudio": "lang/lugandan/audios/nsika.mp3"
           },
           "foilstones": [
             {
@@ -13740,7 +13740,7 @@
           ],
           "prompt": {
             "PromptText": "doti",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/doti.mp3"
+            "PromptAudio": "lang/lugandan/audios/doti.mp3"
           },
           "foilstones": [
             {
@@ -13790,7 +13790,7 @@
           ],
           "prompt": {
             "PromptText": "mufu",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/mufu.mp3"
+            "PromptAudio": "lang/lugandan/audios/mufu.mp3"
           },
           "foilstones": [
             {
@@ -13846,7 +13846,7 @@
           ],
           "prompt": {
             "PromptText": "atya",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/atya.mp3"
+            "PromptAudio": "lang/lugandan/audios/atya.mp3"
           },
           "foilstones": [
             {
@@ -13896,7 +13896,7 @@
           ],
           "prompt": {
             "PromptText": "nzira",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/nzira.mp3"
+            "PromptAudio": "lang/lugandan/audios/nzira.mp3"
           },
           "foilstones": [
             {
@@ -13943,7 +13943,7 @@
           ],
           "prompt": {
             "PromptText": "maje",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/maje.mp3"
+            "PromptAudio": "lang/lugandan/audios/maje.mp3"
           },
           "foilstones": [
             {
@@ -13990,7 +13990,7 @@
           ],
           "prompt": {
             "PromptText": "motoka",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/motoka.mp3"
+            "PromptAudio": "lang/lugandan/audios/motoka.mp3"
           },
           "foilstones": [
             {
@@ -14037,7 +14037,7 @@
           ],
           "prompt": {
             "PromptText": "njuba",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/njuba.mp3"
+            "PromptAudio": "lang/lugandan/audios/njuba.mp3"
           },
           "foilstones": [
             {

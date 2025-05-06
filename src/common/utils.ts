@@ -1,7 +1,6 @@
 import { Debugger } from "@common";
 import { TestServer } from "@constants";
 import { languageFontMapping } from "@data/i18-font-mapping";
-import * as JSZip from "jszip";
 export class Utils {
   public static UrlSubstring: string = "/feedthemonster";
   public static subdomain: string = "https://feedthemonster.curiouscontent.org";
@@ -215,10 +214,6 @@ const _callbacks: CallbackMap = {};
 export const AndroidBridge = {
   sendDataToContainer(key: string, data: any) {
     try {
-      console.log(
-        `Attempting to send ${key} to container:`,
-        JSON.stringify(data)
-      );
       if (window.Android?.sendDataToContainer) {
         // Stringify the data before sending to avoid [object Object] issues
         const jsonData = typeof data === "object" ? JSON.stringify(data) : data;
@@ -282,42 +277,3 @@ export const AndroidBridge = {
     }
   },
 };
-
-// Function to decode base64 to ArrayBuffer
-function base64ToArrayBuffer(base64) {
-  const binaryString = atob(base64);
-  const len = binaryString.length;
-  const bytes = new Uint8Array(len);
-  for (let i = 0; i < len; i++) {
-    bytes[i] = binaryString.charCodeAt(i);
-  }
-  return bytes.buffer;
-}
-
-// Function to extract ZIP and use the contents
-export async function handleReceivedZipData(base64Zip) {
-  const zipArrayBuffer = base64ToArrayBuffer(base64Zip);
-  const zip = await JSZip.loadAsync(zipArrayBuffer);
-
-  Object.keys(zip.files).forEach(async (filename) => {
-    const file = zip.files[filename];
-
-    if (!file.dir) {
-      const content = await file.async("blob");
-
-      if (filename.endsWith(".json")) {
-        const jsonData = await content.text();
-        console.log("Extracted JSON:", JSON.parse(jsonData));
-      } else if (filename.endsWith(".mp3")) {
-        const audioURL = URL.createObjectURL(content);
-        const audio = new Audio(audioURL);
-        audio.play();
-      } else if (filename.endsWith(".jpg") || filename.endsWith(".png")) {
-        const imgURL = URL.createObjectURL(content);
-        const imgElement = document.createElement("img");
-        imgElement.src = imgURL;
-        document.body.appendChild(imgElement);
-      }
-    }
-  });
-}

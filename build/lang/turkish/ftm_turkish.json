@@ -10,9 +10,9 @@
   "minversion": 18,
   "langname": "TURKISH",
   "FeedbackAudios": [
-    "https://feedthemonster.curiouscontent.org/lang/turkish/audios/fantastic.mp3",
-    "https://feedthemonster.curiouscontent.org/lang/turkish/audios/great.mp3",
-    "https://feedthemonster.curiouscontent.org/lang/turkish/audios/amazing.mp3"
+    "lang/turkish/audios/fantastic.mp3",
+    "lang/turkish/audios/great.mp3",
+    "lang/turkish/audios/amazing.mp3"
   ],
   "OtherAudios": {
     "Select your player": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/Select-your-player.mp3",
@@ -39,7 +39,7 @@
           ],
           "prompt": {
             "PromptText": "m",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/m.mp3"
+            "PromptAudio": "lang/turkish/audios/m.mp3"
           },
           "foilstones": [
             {
@@ -59,7 +59,7 @@
           ],
           "prompt": {
             "PromptText": "m",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/m.mp3"
+            "PromptAudio": "lang/turkish/audios/m.mp3"
           },
           "foilstones": [
             {
@@ -79,7 +79,7 @@
           ],
           "prompt": {
             "PromptText": "h",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/h.mp3"
+            "PromptAudio": "lang/turkish/audios/h.mp3"
           },
           "foilstones": [
             {
@@ -99,7 +99,7 @@
           ],
           "prompt": {
             "PromptText": "p",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/p.mp3"
+            "PromptAudio": "lang/turkish/audios/p.mp3"
           },
           "foilstones": [
             {
@@ -119,7 +119,7 @@
           ],
           "prompt": {
             "PromptText": "p",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/p.mp3"
+            "PromptAudio": "lang/turkish/audios/p.mp3"
           },
           "foilstones": [
             {
@@ -154,7 +154,7 @@
           ],
           "prompt": {
             "PromptText": "m",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/m.mp3"
+            "PromptAudio": "lang/turkish/audios/m.mp3"
           },
           "foilstones": [
             {
@@ -177,7 +177,7 @@
           ],
           "prompt": {
             "PromptText": "m",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/m.mp3"
+            "PromptAudio": "lang/turkish/audios/m.mp3"
           },
           "foilstones": [
             {
@@ -200,7 +200,7 @@
           ],
           "prompt": {
             "PromptText": "p",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/p.mp3"
+            "PromptAudio": "lang/turkish/audios/p.mp3"
           },
           "foilstones": [
             {
@@ -223,7 +223,7 @@
           ],
           "prompt": {
             "PromptText": "h",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/h.mp3"
+            "PromptAudio": "lang/turkish/audios/h.mp3"
           },
           "foilstones": [
             {
@@ -246,7 +246,7 @@
           ],
           "prompt": {
             "PromptText": "m",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/m.mp3"
+            "PromptAudio": "lang/turkish/audios/m.mp3"
           },
           "foilstones": [
             {
@@ -284,7 +284,7 @@
           ],
           "prompt": {
             "PromptText": "p",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/p.mp3"
+            "PromptAudio": "lang/turkish/audios/p.mp3"
           },
           "foilstones": [
             {
@@ -304,7 +304,7 @@
           ],
           "prompt": {
             "PromptText": "m",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/m.mp3"
+            "PromptAudio": "lang/turkish/audios/m.mp3"
           },
           "foilstones": [
             {
@@ -324,7 +324,7 @@
           ],
           "prompt": {
             "PromptText": "m",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/m.mp3"
+            "PromptAudio": "lang/turkish/audios/m.mp3"
           },
           "foilstones": [
             {
@@ -344,7 +344,7 @@
           ],
           "prompt": {
             "PromptText": "m",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/m.mp3"
+            "PromptAudio": "lang/turkish/audios/m.mp3"
           },
           "foilstones": [
             {
@@ -364,7 +364,7 @@
           ],
           "prompt": {
             "PromptText": "b",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/b.mp3"
+            "PromptAudio": "lang/turkish/audios/b.mp3"
           },
           "foilstones": [
             {
@@ -399,7 +399,7 @@
           ],
           "prompt": {
             "PromptText": "a",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/a.mp3"
+            "PromptAudio": "lang/turkish/audios/a.mp3"
           },
           "foilstones": [
             {
@@ -419,7 +419,7 @@
           ],
           "prompt": {
             "PromptText": "a",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/a.mp3"
+            "PromptAudio": "lang/turkish/audios/a.mp3"
           },
           "foilstones": [
             {
@@ -439,7 +439,7 @@
           ],
           "prompt": {
             "PromptText": "p",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/p.mp3"
+            "PromptAudio": "lang/turkish/audios/p.mp3"
           },
           "foilstones": [
             {
@@ -459,7 +459,7 @@
           ],
           "prompt": {
             "PromptText": "b",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/b.mp3"
+            "PromptAudio": "lang/turkish/audios/b.mp3"
           },
           "foilstones": [
             {
@@ -479,7 +479,7 @@
           ],
           "prompt": {
             "PromptText": "a",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/a.mp3"
+            "PromptAudio": "lang/turkish/audios/a.mp3"
           },
           "foilstones": [
             {
@@ -514,7 +514,7 @@
           ],
           "prompt": {
             "PromptText": "p",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/p.mp3"
+            "PromptAudio": "lang/turkish/audios/p.mp3"
           },
           "foilstones": [
             {
@@ -537,7 +537,7 @@
           ],
           "prompt": {
             "PromptText": "b",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/b.mp3"
+            "PromptAudio": "lang/turkish/audios/b.mp3"
           },
           "foilstones": [
             {
@@ -560,7 +560,7 @@
           ],
           "prompt": {
             "PromptText": "h",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/h.mp3"
+            "PromptAudio": "lang/turkish/audios/h.mp3"
           },
           "foilstones": [
             {
@@ -583,7 +583,7 @@
           ],
           "prompt": {
             "PromptText": "h",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/h.mp3"
+            "PromptAudio": "lang/turkish/audios/h.mp3"
           },
           "foilstones": [
             {
@@ -606,7 +606,7 @@
           ],
           "prompt": {
             "PromptText": "p",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/p.mp3"
+            "PromptAudio": "lang/turkish/audios/p.mp3"
           },
           "foilstones": [
             {
@@ -644,7 +644,7 @@
           ],
           "prompt": {
             "PromptText": "h",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/h.mp3"
+            "PromptAudio": "lang/turkish/audios/h.mp3"
           },
           "foilstones": [
             {
@@ -667,7 +667,7 @@
           ],
           "prompt": {
             "PromptText": "h",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/h.mp3"
+            "PromptAudio": "lang/turkish/audios/h.mp3"
           },
           "foilstones": [
             {
@@ -690,7 +690,7 @@
           ],
           "prompt": {
             "PromptText": "a",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/a.mp3"
+            "PromptAudio": "lang/turkish/audios/a.mp3"
           },
           "foilstones": [
             {
@@ -713,7 +713,7 @@
           ],
           "prompt": {
             "PromptText": "h",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/h.mp3"
+            "PromptAudio": "lang/turkish/audios/h.mp3"
           },
           "foilstones": [
             {
@@ -736,7 +736,7 @@
           ],
           "prompt": {
             "PromptText": "b",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/b.mp3"
+            "PromptAudio": "lang/turkish/audios/b.mp3"
           },
           "foilstones": [
             {
@@ -774,7 +774,7 @@
           ],
           "prompt": {
             "PromptText": "mama",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/m.mp3"
+            "PromptAudio": "lang/turkish/audios/m.mp3"
           },
           "foilstones": [
             {
@@ -797,7 +797,7 @@
           ],
           "prompt": {
             "PromptText": "baba",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/b.mp3"
+            "PromptAudio": "lang/turkish/audios/b.mp3"
           },
           "foilstones": [
             {
@@ -820,7 +820,7 @@
           ],
           "prompt": {
             "PromptText": "mama",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/m.mp3"
+            "PromptAudio": "lang/turkish/audios/m.mp3"
           },
           "foilstones": [
             {
@@ -843,7 +843,7 @@
           ],
           "prompt": {
             "PromptText": "para",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/p.mp3"
+            "PromptAudio": "lang/turkish/audios/p.mp3"
           },
           "foilstones": [
             {
@@ -866,7 +866,7 @@
           ],
           "prompt": {
             "PromptText": "halı",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/h.mp3"
+            "PromptAudio": "lang/turkish/audios/h.mp3"
           },
           "foilstones": [
             {
@@ -904,7 +904,7 @@
           ],
           "prompt": {
             "PromptText": "ahmak",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/a.mp3"
+            "PromptAudio": "lang/turkish/audios/a.mp3"
           },
           "foilstones": [
             {
@@ -927,7 +927,7 @@
           ],
           "prompt": {
             "PromptText": "halı",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/h.mp3"
+            "PromptAudio": "lang/turkish/audios/h.mp3"
           },
           "foilstones": [
             {
@@ -950,7 +950,7 @@
           ],
           "prompt": {
             "PromptText": "halı",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/h.mp3"
+            "PromptAudio": "lang/turkish/audios/h.mp3"
           },
           "foilstones": [
             {
@@ -973,7 +973,7 @@
           ],
           "prompt": {
             "PromptText": "halı",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/h.mp3"
+            "PromptAudio": "lang/turkish/audios/h.mp3"
           },
           "foilstones": [
             {
@@ -996,7 +996,7 @@
           ],
           "prompt": {
             "PromptText": "mama",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/m.mp3"
+            "PromptAudio": "lang/turkish/audios/m.mp3"
           },
           "foilstones": [
             {
@@ -1034,7 +1034,7 @@
           ],
           "prompt": {
             "PromptText": "halı",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/h.mp3"
+            "PromptAudio": "lang/turkish/audios/h.mp3"
           },
           "foilstones": [
             {
@@ -1057,7 +1057,7 @@
           ],
           "prompt": {
             "PromptText": "halı",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/h.mp3"
+            "PromptAudio": "lang/turkish/audios/h.mp3"
           },
           "foilstones": [
             {
@@ -1080,7 +1080,7 @@
           ],
           "prompt": {
             "PromptText": "mama",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/m.mp3"
+            "PromptAudio": "lang/turkish/audios/m.mp3"
           },
           "foilstones": [
             {
@@ -1103,7 +1103,7 @@
           ],
           "prompt": {
             "PromptText": "halı",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/h.mp3"
+            "PromptAudio": "lang/turkish/audios/h.mp3"
           },
           "foilstones": [
             {
@@ -1126,7 +1126,7 @@
           ],
           "prompt": {
             "PromptText": "halı",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/h.mp3"
+            "PromptAudio": "lang/turkish/audios/h.mp3"
           },
           "foilstones": [
             {
@@ -1170,7 +1170,7 @@
           ],
           "prompt": {
             "PromptText": "koç",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/koç.mp3"
+            "PromptAudio": "lang/turkish/audios/koç.mp3"
           },
           "foilstones": [
             {
@@ -1199,7 +1199,7 @@
           ],
           "prompt": {
             "PromptText": "koş",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/koş.mp3"
+            "PromptAudio": "lang/turkish/audios/koş.mp3"
           },
           "foilstones": [
             {
@@ -1231,7 +1231,7 @@
           ],
           "prompt": {
             "PromptText": "koş",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/koş.mp3"
+            "PromptAudio": "lang/turkish/audios/koş.mp3"
           },
           "foilstones": [
             {
@@ -1266,7 +1266,7 @@
           ],
           "prompt": {
             "PromptText": "otçul",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/otçul.mp3"
+            "PromptAudio": "lang/turkish/audios/otçul.mp3"
           },
           "foilstones": [
             {
@@ -1295,7 +1295,7 @@
           ],
           "prompt": {
             "PromptText": "oje",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/oje.mp3"
+            "PromptAudio": "lang/turkish/audios/oje.mp3"
           },
           "foilstones": [
             {
@@ -1336,7 +1336,7 @@
           ],
           "prompt": {
             "PromptText": "oje",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/oje.mp3"
+            "PromptAudio": "lang/turkish/audios/oje.mp3"
           },
           "foilstones": [
             {
@@ -1365,7 +1365,7 @@
           ],
           "prompt": {
             "PromptText": "koş",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/koş.mp3"
+            "PromptAudio": "lang/turkish/audios/koş.mp3"
           },
           "foilstones": [
             {
@@ -1400,7 +1400,7 @@
           ],
           "prompt": {
             "PromptText": "joker",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/joker.mp3"
+            "PromptAudio": "lang/turkish/audios/joker.mp3"
           },
           "foilstones": [
             {
@@ -1435,7 +1435,7 @@
           ],
           "prompt": {
             "PromptText": "otçul",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/otçul.mp3"
+            "PromptAudio": "lang/turkish/audios/otçul.mp3"
           },
           "foilstones": [
             {
@@ -1473,7 +1473,7 @@
           ],
           "prompt": {
             "PromptText": "tokat",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/tokat.mp3"
+            "PromptAudio": "lang/turkish/audios/tokat.mp3"
           },
           "foilstones": [
             {
@@ -1514,7 +1514,7 @@
           ],
           "prompt": {
             "PromptText": "koş",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/koş.mp3"
+            "PromptAudio": "lang/turkish/audios/koş.mp3"
           },
           "foilstones": [
             {
@@ -1549,7 +1549,7 @@
           ],
           "prompt": {
             "PromptText": "çocuk",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/çocuk.mp3"
+            "PromptAudio": "lang/turkish/audios/çocuk.mp3"
           },
           "foilstones": [
             {
@@ -1581,7 +1581,7 @@
           ],
           "prompt": {
             "PromptText": "şoke",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/şoke.mp3"
+            "PromptAudio": "lang/turkish/audios/şoke.mp3"
           },
           "foilstones": [
             {
@@ -1613,7 +1613,7 @@
           ],
           "prompt": {
             "PromptText": "şoke",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/şoke.mp3"
+            "PromptAudio": "lang/turkish/audios/şoke.mp3"
           },
           "foilstones": [
             {
@@ -1645,7 +1645,7 @@
           ],
           "prompt": {
             "PromptText": "şoke",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/şoke.mp3"
+            "PromptAudio": "lang/turkish/audios/şoke.mp3"
           },
           "foilstones": [
             {
@@ -1683,7 +1683,7 @@
           ],
           "prompt": {
             "PromptText": "v",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/v.mp3"
+            "PromptAudio": "lang/turkish/audios/v.mp3"
           },
           "foilstones": [
             {
@@ -1706,7 +1706,7 @@
           ],
           "prompt": {
             "PromptText": "g",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/g.mp3"
+            "PromptAudio": "lang/turkish/audios/g.mp3"
           },
           "foilstones": [
             {
@@ -1729,7 +1729,7 @@
           ],
           "prompt": {
             "PromptText": "e",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/e.mp3"
+            "PromptAudio": "lang/turkish/audios/e.mp3"
           },
           "foilstones": [
             {
@@ -1752,7 +1752,7 @@
           ],
           "prompt": {
             "PromptText": "v",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/v.mp3"
+            "PromptAudio": "lang/turkish/audios/v.mp3"
           },
           "foilstones": [
             {
@@ -1775,7 +1775,7 @@
           ],
           "prompt": {
             "PromptText": "v",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/v.mp3"
+            "PromptAudio": "lang/turkish/audios/v.mp3"
           },
           "foilstones": [
             {
@@ -1813,7 +1813,7 @@
           ],
           "prompt": {
             "PromptText": "e",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/e.mp3"
+            "PromptAudio": "lang/turkish/audios/e.mp3"
           },
           "foilstones": [
             {
@@ -1836,7 +1836,7 @@
           ],
           "prompt": {
             "PromptText": "y",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/y.mp3"
+            "PromptAudio": "lang/turkish/audios/y.mp3"
           },
           "foilstones": [
             {
@@ -1859,7 +1859,7 @@
           ],
           "prompt": {
             "PromptText": "e",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/e.mp3"
+            "PromptAudio": "lang/turkish/audios/e.mp3"
           },
           "foilstones": [
             {
@@ -1882,7 +1882,7 @@
           ],
           "prompt": {
             "PromptText": "e",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/e.mp3"
+            "PromptAudio": "lang/turkish/audios/e.mp3"
           },
           "foilstones": [
             {
@@ -1905,7 +1905,7 @@
           ],
           "prompt": {
             "PromptText": "e",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/e.mp3"
+            "PromptAudio": "lang/turkish/audios/e.mp3"
           },
           "foilstones": [
             {
@@ -1943,7 +1943,7 @@
           ],
           "prompt": {
             "PromptText": "v",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/v.mp3"
+            "PromptAudio": "lang/turkish/audios/v.mp3"
           },
           "foilstones": [
             {
@@ -1963,7 +1963,7 @@
           ],
           "prompt": {
             "PromptText": "e",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/e.mp3"
+            "PromptAudio": "lang/turkish/audios/e.mp3"
           },
           "foilstones": [
             {
@@ -1983,7 +1983,7 @@
           ],
           "prompt": {
             "PromptText": "g",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/g.mp3"
+            "PromptAudio": "lang/turkish/audios/g.mp3"
           },
           "foilstones": [
             {
@@ -2003,7 +2003,7 @@
           ],
           "prompt": {
             "PromptText": "v",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/v.mp3"
+            "PromptAudio": "lang/turkish/audios/v.mp3"
           },
           "foilstones": [
             {
@@ -2023,7 +2023,7 @@
           ],
           "prompt": {
             "PromptText": "g",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/g.mp3"
+            "PromptAudio": "lang/turkish/audios/g.mp3"
           },
           "foilstones": [
             {
@@ -2058,7 +2058,7 @@
           ],
           "prompt": {
             "PromptText": "g",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/g.mp3"
+            "PromptAudio": "lang/turkish/audios/g.mp3"
           },
           "foilstones": [
             {
@@ -2081,7 +2081,7 @@
           ],
           "prompt": {
             "PromptText": "f",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/f.mp3"
+            "PromptAudio": "lang/turkish/audios/f.mp3"
           },
           "foilstones": [
             {
@@ -2104,7 +2104,7 @@
           ],
           "prompt": {
             "PromptText": "g",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/g.mp3"
+            "PromptAudio": "lang/turkish/audios/g.mp3"
           },
           "foilstones": [
             {
@@ -2127,7 +2127,7 @@
           ],
           "prompt": {
             "PromptText": "f",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/f.mp3"
+            "PromptAudio": "lang/turkish/audios/f.mp3"
           },
           "foilstones": [
             {
@@ -2150,7 +2150,7 @@
           ],
           "prompt": {
             "PromptText": "g",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/g.mp3"
+            "PromptAudio": "lang/turkish/audios/g.mp3"
           },
           "foilstones": [
             {
@@ -2188,7 +2188,7 @@
           ],
           "prompt": {
             "PromptText": "e",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/e.mp3"
+            "PromptAudio": "lang/turkish/audios/e.mp3"
           },
           "foilstones": [
             {
@@ -2217,7 +2217,7 @@
           ],
           "prompt": {
             "PromptText": "f",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/f.mp3"
+            "PromptAudio": "lang/turkish/audios/f.mp3"
           },
           "foilstones": [
             {
@@ -2243,7 +2243,7 @@
           ],
           "prompt": {
             "PromptText": "y",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/y.mp3"
+            "PromptAudio": "lang/turkish/audios/y.mp3"
           },
           "foilstones": [
             {
@@ -2266,7 +2266,7 @@
           ],
           "prompt": {
             "PromptText": "e",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/e.mp3"
+            "PromptAudio": "lang/turkish/audios/e.mp3"
           },
           "foilstones": [
             {
@@ -2292,7 +2292,7 @@
           ],
           "prompt": {
             "PromptText": "g",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/g.mp3"
+            "PromptAudio": "lang/turkish/audios/g.mp3"
           },
           "foilstones": [
             {
@@ -2330,7 +2330,7 @@
           ],
           "prompt": {
             "PromptText": "y",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/y.mp3"
+            "PromptAudio": "lang/turkish/audios/y.mp3"
           },
           "foilstones": [
             {
@@ -2356,7 +2356,7 @@
           ],
           "prompt": {
             "PromptText": "e",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/e.mp3"
+            "PromptAudio": "lang/turkish/audios/e.mp3"
           },
           "foilstones": [
             {
@@ -2382,7 +2382,7 @@
           ],
           "prompt": {
             "PromptText": "v",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/v.mp3"
+            "PromptAudio": "lang/turkish/audios/v.mp3"
           },
           "foilstones": [
             {
@@ -2408,7 +2408,7 @@
           ],
           "prompt": {
             "PromptText": "v",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/v.mp3"
+            "PromptAudio": "lang/turkish/audios/v.mp3"
           },
           "foilstones": [
             {
@@ -2434,7 +2434,7 @@
           ],
           "prompt": {
             "PromptText": "e",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/e.mp3"
+            "PromptAudio": "lang/turkish/audios/e.mp3"
           },
           "foilstones": [
             {
@@ -2478,7 +2478,7 @@
           ],
           "prompt": {
             "PromptText": "egzersiz",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/e.mp3"
+            "PromptAudio": "lang/turkish/audios/e.mp3"
           },
           "foilstones": [
             {
@@ -2504,7 +2504,7 @@
           ],
           "prompt": {
             "PromptText": "feda",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/f.mp3"
+            "PromptAudio": "lang/turkish/audios/f.mp3"
           },
           "foilstones": [
             {
@@ -2530,7 +2530,7 @@
           ],
           "prompt": {
             "PromptText": "egzersiz",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/e.mp3"
+            "PromptAudio": "lang/turkish/audios/e.mp3"
           },
           "foilstones": [
             {
@@ -2556,7 +2556,7 @@
           ],
           "prompt": {
             "PromptText": "yemek",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/y.mp3"
+            "PromptAudio": "lang/turkish/audios/y.mp3"
           },
           "foilstones": [
             {
@@ -2582,7 +2582,7 @@
           ],
           "prompt": {
             "PromptText": "feda",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/f.mp3"
+            "PromptAudio": "lang/turkish/audios/f.mp3"
           },
           "foilstones": [
             {
@@ -2626,7 +2626,7 @@
           ],
           "prompt": {
             "PromptText": "geveze",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/g.mp3"
+            "PromptAudio": "lang/turkish/audios/g.mp3"
           },
           "foilstones": [
             {
@@ -2652,7 +2652,7 @@
           ],
           "prompt": {
             "PromptText": "veteriner",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/v.mp3"
+            "PromptAudio": "lang/turkish/audios/v.mp3"
           },
           "foilstones": [
             {
@@ -2678,7 +2678,7 @@
           ],
           "prompt": {
             "PromptText": "geveze",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/g.mp3"
+            "PromptAudio": "lang/turkish/audios/g.mp3"
           },
           "foilstones": [
             {
@@ -2704,7 +2704,7 @@
           ],
           "prompt": {
             "PromptText": "egzersiz",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/e.mp3"
+            "PromptAudio": "lang/turkish/audios/e.mp3"
           },
           "foilstones": [
             {
@@ -2730,7 +2730,7 @@
           ],
           "prompt": {
             "PromptText": "feda",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/f.mp3"
+            "PromptAudio": "lang/turkish/audios/f.mp3"
           },
           "foilstones": [
             {
@@ -2774,7 +2774,7 @@
           ],
           "prompt": {
             "PromptText": "veteriner",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/v.mp3"
+            "PromptAudio": "lang/turkish/audios/v.mp3"
           },
           "foilstones": [
             {
@@ -2800,7 +2800,7 @@
           ],
           "prompt": {
             "PromptText": "veteriner",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/v.mp3"
+            "PromptAudio": "lang/turkish/audios/v.mp3"
           },
           "foilstones": [
             {
@@ -2826,7 +2826,7 @@
           ],
           "prompt": {
             "PromptText": "geveze",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/g.mp3"
+            "PromptAudio": "lang/turkish/audios/g.mp3"
           },
           "foilstones": [
             {
@@ -2852,7 +2852,7 @@
           ],
           "prompt": {
             "PromptText": "egzersiz",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/e.mp3"
+            "PromptAudio": "lang/turkish/audios/e.mp3"
           },
           "foilstones": [
             {
@@ -2878,7 +2878,7 @@
           ],
           "prompt": {
             "PromptText": "feda",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/f.mp3"
+            "PromptAudio": "lang/turkish/audios/f.mp3"
           },
           "foilstones": [
             {
@@ -2922,7 +2922,7 @@
           ],
           "prompt": {
             "PromptText": "evli",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/e.mp3"
+            "PromptAudio": "lang/turkish/audios/e.mp3"
           },
           "foilstones": [
             {
@@ -2945,7 +2945,7 @@
           ],
           "prompt": {
             "PromptText": "yemek",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/y.mp3"
+            "PromptAudio": "lang/turkish/audios/y.mp3"
           },
           "foilstones": [
             {
@@ -2968,7 +2968,7 @@
           ],
           "prompt": {
             "PromptText": "yemek",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/y.mp3"
+            "PromptAudio": "lang/turkish/audios/y.mp3"
           },
           "foilstones": [
             {
@@ -2991,7 +2991,7 @@
           ],
           "prompt": {
             "PromptText": "geveze",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/g.mp3"
+            "PromptAudio": "lang/turkish/audios/g.mp3"
           },
           "foilstones": [
             {
@@ -3014,7 +3014,7 @@
           ],
           "prompt": {
             "PromptText": "feda",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/f.mp3"
+            "PromptAudio": "lang/turkish/audios/f.mp3"
           },
           "foilstones": [
             {
@@ -3064,7 +3064,7 @@
           ],
           "prompt": {
             "PromptText": "joker",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/joker.mp3"
+            "PromptAudio": "lang/turkish/audios/joker.mp3"
           },
           "foilstones": [
             {
@@ -3093,7 +3093,7 @@
           ],
           "prompt": {
             "PromptText": "oje",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/oje.mp3"
+            "PromptAudio": "lang/turkish/audios/oje.mp3"
           },
           "foilstones": [
             {
@@ -3122,7 +3122,7 @@
           ],
           "prompt": {
             "PromptText": "oje",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/oje.mp3"
+            "PromptAudio": "lang/turkish/audios/oje.mp3"
           },
           "foilstones": [
             {
@@ -3157,7 +3157,7 @@
           ],
           "prompt": {
             "PromptText": "çocuk",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/çocuk.mp3"
+            "PromptAudio": "lang/turkish/audios/çocuk.mp3"
           },
           "foilstones": [
             {
@@ -3192,7 +3192,7 @@
           ],
           "prompt": {
             "PromptText": "tokat",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/tokat.mp3"
+            "PromptAudio": "lang/turkish/audios/tokat.mp3"
           },
           "foilstones": [
             {
@@ -3239,7 +3239,7 @@
           ],
           "prompt": {
             "PromptText": "joker",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/joker.mp3"
+            "PromptAudio": "lang/turkish/audios/joker.mp3"
           },
           "foilstones": [
             {
@@ -3268,7 +3268,7 @@
           ],
           "prompt": {
             "PromptText": "oje",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/oje.mp3"
+            "PromptAudio": "lang/turkish/audios/oje.mp3"
           },
           "foilstones": [
             {
@@ -3303,7 +3303,7 @@
           ],
           "prompt": {
             "PromptText": "tokat",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/tokat.mp3"
+            "PromptAudio": "lang/turkish/audios/tokat.mp3"
           },
           "foilstones": [
             {
@@ -3341,7 +3341,7 @@
           ],
           "prompt": {
             "PromptText": "tokat",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/tokat.mp3"
+            "PromptAudio": "lang/turkish/audios/tokat.mp3"
           },
           "foilstones": [
             {
@@ -3373,7 +3373,7 @@
           ],
           "prompt": {
             "PromptText": "şoke",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/şoke.mp3"
+            "PromptAudio": "lang/turkish/audios/şoke.mp3"
           },
           "foilstones": [
             {
@@ -3420,7 +3420,7 @@
           ],
           "prompt": {
             "PromptText": "otçul",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/otçul.mp3"
+            "PromptAudio": "lang/turkish/audios/otçul.mp3"
           },
           "foilstones": [
             {
@@ -3449,7 +3449,7 @@
           ],
           "prompt": {
             "PromptText": "oje",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/oje.mp3"
+            "PromptAudio": "lang/turkish/audios/oje.mp3"
           },
           "foilstones": [
             {
@@ -3478,7 +3478,7 @@
           ],
           "prompt": {
             "PromptText": "koç",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/koç.mp3"
+            "PromptAudio": "lang/turkish/audios/koç.mp3"
           },
           "foilstones": [
             {
@@ -3513,7 +3513,7 @@
           ],
           "prompt": {
             "PromptText": "çocuk",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/çocuk.mp3"
+            "PromptAudio": "lang/turkish/audios/çocuk.mp3"
           },
           "foilstones": [
             {
@@ -3548,7 +3548,7 @@
           ],
           "prompt": {
             "PromptText": "çocuk",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/çocuk.mp3"
+            "PromptAudio": "lang/turkish/audios/çocuk.mp3"
           },
           "foilstones": [
             {
@@ -3586,7 +3586,7 @@
           ],
           "prompt": {
             "PromptText": "k",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/k.mp3"
+            "PromptAudio": "lang/turkish/audios/k.mp3"
           },
           "foilstones": [
             {
@@ -3609,7 +3609,7 @@
           ],
           "prompt": {
             "PromptText": "c",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/c.mp3"
+            "PromptAudio": "lang/turkish/audios/c.mp3"
           },
           "foilstones": [
             {
@@ -3632,7 +3632,7 @@
           ],
           "prompt": {
             "PromptText": "s",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/s.mp3"
+            "PromptAudio": "lang/turkish/audios/s.mp3"
           },
           "foilstones": [
             {
@@ -3658,7 +3658,7 @@
           ],
           "prompt": {
             "PromptText": "d",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/d.mp3"
+            "PromptAudio": "lang/turkish/audios/d.mp3"
           },
           "foilstones": [
             {
@@ -3681,7 +3681,7 @@
           ],
           "prompt": {
             "PromptText": "c",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/c.mp3"
+            "PromptAudio": "lang/turkish/audios/c.mp3"
           },
           "foilstones": [
             {
@@ -3716,7 +3716,7 @@
           ],
           "prompt": {
             "PromptText": "s",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/s.mp3"
+            "PromptAudio": "lang/turkish/audios/s.mp3"
           },
           "foilstones": [
             {
@@ -3739,7 +3739,7 @@
           ],
           "prompt": {
             "PromptText": "c",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/c.mp3"
+            "PromptAudio": "lang/turkish/audios/c.mp3"
           },
           "foilstones": [
             {
@@ -3762,7 +3762,7 @@
           ],
           "prompt": {
             "PromptText": "d",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/d.mp3"
+            "PromptAudio": "lang/turkish/audios/d.mp3"
           },
           "foilstones": [
             {
@@ -3788,7 +3788,7 @@
           ],
           "prompt": {
             "PromptText": "k",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/k.mp3"
+            "PromptAudio": "lang/turkish/audios/k.mp3"
           },
           "foilstones": [
             {
@@ -3811,7 +3811,7 @@
           ],
           "prompt": {
             "PromptText": "s",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/s.mp3"
+            "PromptAudio": "lang/turkish/audios/s.mp3"
           },
           "foilstones": [
             {
@@ -3846,7 +3846,7 @@
           ],
           "prompt": {
             "PromptText": "s",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/s.mp3"
+            "PromptAudio": "lang/turkish/audios/s.mp3"
           },
           "foilstones": [
             {
@@ -3869,7 +3869,7 @@
           ],
           "prompt": {
             "PromptText": "k",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/k.mp3"
+            "PromptAudio": "lang/turkish/audios/k.mp3"
           },
           "foilstones": [
             {
@@ -3892,7 +3892,7 @@
           ],
           "prompt": {
             "PromptText": "c",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/c.mp3"
+            "PromptAudio": "lang/turkish/audios/c.mp3"
           },
           "foilstones": [
             {
@@ -3918,7 +3918,7 @@
           ],
           "prompt": {
             "PromptText": "k",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/k.mp3"
+            "PromptAudio": "lang/turkish/audios/k.mp3"
           },
           "foilstones": [
             {
@@ -3941,7 +3941,7 @@
           ],
           "prompt": {
             "PromptText": "d",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/d.mp3"
+            "PromptAudio": "lang/turkish/audios/d.mp3"
           },
           "foilstones": [
             {
@@ -3976,7 +3976,7 @@
           ],
           "prompt": {
             "PromptText": "k",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/k.mp3"
+            "PromptAudio": "lang/turkish/audios/k.mp3"
           },
           "foilstones": [
             {
@@ -4008,7 +4008,7 @@
           ],
           "prompt": {
             "PromptText": "d",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/d.mp3"
+            "PromptAudio": "lang/turkish/audios/d.mp3"
           },
           "foilstones": [
             {
@@ -4037,7 +4037,7 @@
           ],
           "prompt": {
             "PromptText": "i",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/i.mp3"
+            "PromptAudio": "lang/turkish/audios/i.mp3"
           },
           "foilstones": [
             {
@@ -4069,7 +4069,7 @@
           ],
           "prompt": {
             "PromptText": "d",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/d.mp3"
+            "PromptAudio": "lang/turkish/audios/d.mp3"
           },
           "foilstones": [
             {
@@ -4098,7 +4098,7 @@
           ],
           "prompt": {
             "PromptText": "c",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/c.mp3"
+            "PromptAudio": "lang/turkish/audios/c.mp3"
           },
           "foilstones": [
             {
@@ -4142,7 +4142,7 @@
           ],
           "prompt": {
             "PromptText": "d",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/d.mp3"
+            "PromptAudio": "lang/turkish/audios/d.mp3"
           },
           "foilstones": [
             {
@@ -4174,7 +4174,7 @@
           ],
           "prompt": {
             "PromptText": "d",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/d.mp3"
+            "PromptAudio": "lang/turkish/audios/d.mp3"
           },
           "foilstones": [
             {
@@ -4206,7 +4206,7 @@
           ],
           "prompt": {
             "PromptText": "k",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/k.mp3"
+            "PromptAudio": "lang/turkish/audios/k.mp3"
           },
           "foilstones": [
             {
@@ -4235,7 +4235,7 @@
           ],
           "prompt": {
             "PromptText": "s",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/s.mp3"
+            "PromptAudio": "lang/turkish/audios/s.mp3"
           },
           "foilstones": [
             {
@@ -4264,7 +4264,7 @@
           ],
           "prompt": {
             "PromptText": "k",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/k.mp3"
+            "PromptAudio": "lang/turkish/audios/k.mp3"
           },
           "foilstones": [
             {
@@ -4308,7 +4308,7 @@
           ],
           "prompt": {
             "PromptText": "i",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/i.mp3"
+            "PromptAudio": "lang/turkish/audios/i.mp3"
           },
           "foilstones": [
             {
@@ -4340,7 +4340,7 @@
           ],
           "prompt": {
             "PromptText": "c",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/c.mp3"
+            "PromptAudio": "lang/turkish/audios/c.mp3"
           },
           "foilstones": [
             {
@@ -4372,7 +4372,7 @@
           ],
           "prompt": {
             "PromptText": "s",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/s.mp3"
+            "PromptAudio": "lang/turkish/audios/s.mp3"
           },
           "foilstones": [
             {
@@ -4401,7 +4401,7 @@
           ],
           "prompt": {
             "PromptText": "d",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/d.mp3"
+            "PromptAudio": "lang/turkish/audios/d.mp3"
           },
           "foilstones": [
             {
@@ -4430,7 +4430,7 @@
           ],
           "prompt": {
             "PromptText": "s",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/s.mp3"
+            "PromptAudio": "lang/turkish/audios/s.mp3"
           },
           "foilstones": [
             {
@@ -4474,7 +4474,7 @@
           ],
           "prompt": {
             "PromptText": "kibar",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/k.mp3"
+            "PromptAudio": "lang/turkish/audios/k.mp3"
           },
           "foilstones": [
             {
@@ -4503,7 +4503,7 @@
           ],
           "prompt": {
             "PromptText": "sinema",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/s.mp3"
+            "PromptAudio": "lang/turkish/audios/s.mp3"
           },
           "foilstones": [
             {
@@ -4535,7 +4535,7 @@
           ],
           "prompt": {
             "PromptText": "cimnastik",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/c.mp3"
+            "PromptAudio": "lang/turkish/audios/c.mp3"
           },
           "foilstones": [
             {
@@ -4567,7 +4567,7 @@
           ],
           "prompt": {
             "PromptText": "sinema",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/s.mp3"
+            "PromptAudio": "lang/turkish/audios/s.mp3"
           },
           "foilstones": [
             {
@@ -4596,7 +4596,7 @@
           ],
           "prompt": {
             "PromptText": "ikram",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/i.mp3"
+            "PromptAudio": "lang/turkish/audios/i.mp3"
           },
           "foilstones": [
             {
@@ -4640,7 +4640,7 @@
           ],
           "prompt": {
             "PromptText": "kibar",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/k.mp3"
+            "PromptAudio": "lang/turkish/audios/k.mp3"
           },
           "foilstones": [
             {
@@ -4672,7 +4672,7 @@
           ],
           "prompt": {
             "PromptText": "cimnastik",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/c.mp3"
+            "PromptAudio": "lang/turkish/audios/c.mp3"
           },
           "foilstones": [
             {
@@ -4704,7 +4704,7 @@
           ],
           "prompt": {
             "PromptText": "cimnastik",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/c.mp3"
+            "PromptAudio": "lang/turkish/audios/c.mp3"
           },
           "foilstones": [
             {
@@ -4733,7 +4733,7 @@
           ],
           "prompt": {
             "PromptText": "diken",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/d.mp3"
+            "PromptAudio": "lang/turkish/audios/d.mp3"
           },
           "foilstones": [
             {
@@ -4765,7 +4765,7 @@
           ],
           "prompt": {
             "PromptText": "diken",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/d.mp3"
+            "PromptAudio": "lang/turkish/audios/d.mp3"
           },
           "foilstones": [
             {
@@ -4806,7 +4806,7 @@
           ],
           "prompt": {
             "PromptText": "cimnastik",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/c.mp3"
+            "PromptAudio": "lang/turkish/audios/c.mp3"
           },
           "foilstones": [
             {
@@ -4838,7 +4838,7 @@
           ],
           "prompt": {
             "PromptText": "kibar",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/k.mp3"
+            "PromptAudio": "lang/turkish/audios/k.mp3"
           },
           "foilstones": [
             {
@@ -4870,7 +4870,7 @@
           ],
           "prompt": {
             "PromptText": "diken",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/d.mp3"
+            "PromptAudio": "lang/turkish/audios/d.mp3"
           },
           "foilstones": [
             {
@@ -4899,7 +4899,7 @@
           ],
           "prompt": {
             "PromptText": "cimnastik",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/c.mp3"
+            "PromptAudio": "lang/turkish/audios/c.mp3"
           },
           "foilstones": [
             {
@@ -4931,7 +4931,7 @@
           ],
           "prompt": {
             "PromptText": "sinema",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/s.mp3"
+            "PromptAudio": "lang/turkish/audios/s.mp3"
           },
           "foilstones": [
             {
@@ -4972,7 +4972,7 @@
           ],
           "prompt": {
             "PromptText": "icra",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/i.mp3"
+            "PromptAudio": "lang/turkish/audios/i.mp3"
           },
           "foilstones": [
             {
@@ -5004,7 +5004,7 @@
           ],
           "prompt": {
             "PromptText": "sinema",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/s.mp3"
+            "PromptAudio": "lang/turkish/audios/s.mp3"
           },
           "foilstones": [
             {
@@ -5036,7 +5036,7 @@
           ],
           "prompt": {
             "PromptText": "ikram",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/i.mp3"
+            "PromptAudio": "lang/turkish/audios/i.mp3"
           },
           "foilstones": [
             {
@@ -5065,7 +5065,7 @@
           ],
           "prompt": {
             "PromptText": "cimnastik",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/c.mp3"
+            "PromptAudio": "lang/turkish/audios/c.mp3"
           },
           "foilstones": [
             {
@@ -5097,7 +5097,7 @@
           ],
           "prompt": {
             "PromptText": "diken",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/d.mp3"
+            "PromptAudio": "lang/turkish/audios/d.mp3"
           },
           "foilstones": [
             {
@@ -5144,7 +5144,7 @@
           ],
           "prompt": {
             "PromptText": "oje",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/oje.mp3"
+            "PromptAudio": "lang/turkish/audios/oje.mp3"
           },
           "foilstones": [
             {
@@ -5191,7 +5191,7 @@
           ],
           "prompt": {
             "PromptText": "şoke",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/şoke.mp3"
+            "PromptAudio": "lang/turkish/audios/şoke.mp3"
           },
           "foilstones": [
             {
@@ -5232,7 +5232,7 @@
           ],
           "prompt": {
             "PromptText": "oje",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/oje.mp3"
+            "PromptAudio": "lang/turkish/audios/oje.mp3"
           },
           "foilstones": [
             {
@@ -5276,7 +5276,7 @@
           ],
           "prompt": {
             "PromptText": "koç",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/koç.mp3"
+            "PromptAudio": "lang/turkish/audios/koç.mp3"
           },
           "foilstones": [
             {
@@ -5314,7 +5314,7 @@
           ],
           "prompt": {
             "PromptText": "koş",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/koş.mp3"
+            "PromptAudio": "lang/turkish/audios/koş.mp3"
           },
           "foilstones": [
             {
@@ -5373,7 +5373,7 @@
           ],
           "prompt": {
             "PromptText": "koç",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/koç.mp3"
+            "PromptAudio": "lang/turkish/audios/koç.mp3"
           },
           "foilstones": [
             {
@@ -5414,7 +5414,7 @@
           ],
           "prompt": {
             "PromptText": "koş",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/koş.mp3"
+            "PromptAudio": "lang/turkish/audios/koş.mp3"
           },
           "foilstones": [
             {
@@ -5461,7 +5461,7 @@
           ],
           "prompt": {
             "PromptText": "şoke",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/şoke.mp3"
+            "PromptAudio": "lang/turkish/audios/şoke.mp3"
           },
           "foilstones": [
             {
@@ -5505,7 +5505,7 @@
           ],
           "prompt": {
             "PromptText": "oje",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/oje.mp3"
+            "PromptAudio": "lang/turkish/audios/oje.mp3"
           },
           "foilstones": [
             {
@@ -5552,7 +5552,7 @@
           ],
           "prompt": {
             "PromptText": "koç",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/koç.mp3"
+            "PromptAudio": "lang/turkish/audios/koç.mp3"
           },
           "foilstones": [
             {
@@ -5608,7 +5608,7 @@
           ],
           "prompt": {
             "PromptText": "tokat",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/tokat.mp3"
+            "PromptAudio": "lang/turkish/audios/tokat.mp3"
           },
           "foilstones": [
             {
@@ -5652,7 +5652,7 @@
           ],
           "prompt": {
             "PromptText": "oje",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/oje.mp3"
+            "PromptAudio": "lang/turkish/audios/oje.mp3"
           },
           "foilstones": [
             {
@@ -5705,7 +5705,7 @@
           ],
           "prompt": {
             "PromptText": "otçul",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/otçul.mp3"
+            "PromptAudio": "lang/turkish/audios/otçul.mp3"
           },
           "foilstones": [
             {
@@ -5749,7 +5749,7 @@
           ],
           "prompt": {
             "PromptText": "oje",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/oje.mp3"
+            "PromptAudio": "lang/turkish/audios/oje.mp3"
           },
           "foilstones": [
             {
@@ -5790,7 +5790,7 @@
           ],
           "prompt": {
             "PromptText": "oje",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/oje.mp3"
+            "PromptAudio": "lang/turkish/audios/oje.mp3"
           },
           "foilstones": [
             {
@@ -5840,7 +5840,7 @@
           ],
           "prompt": {
             "PromptText": "u",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/u.mp3"
+            "PromptAudio": "lang/turkish/audios/u.mp3"
           },
           "foilstones": [
             {
@@ -5878,7 +5878,7 @@
           ],
           "prompt": {
             "PromptText": "l",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/l.mp3"
+            "PromptAudio": "lang/turkish/audios/l.mp3"
           },
           "foilstones": [
             {
@@ -5916,7 +5916,7 @@
           ],
           "prompt": {
             "PromptText": "r",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/r.mp3"
+            "PromptAudio": "lang/turkish/audios/r.mp3"
           },
           "foilstones": [
             {
@@ -5954,7 +5954,7 @@
           ],
           "prompt": {
             "PromptText": "z",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/z.mp3"
+            "PromptAudio": "lang/turkish/audios/z.mp3"
           },
           "foilstones": [
             {
@@ -5989,7 +5989,7 @@
           ],
           "prompt": {
             "PromptText": "r",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/r.mp3"
+            "PromptAudio": "lang/turkish/audios/r.mp3"
           },
           "foilstones": [
             {
@@ -6042,7 +6042,7 @@
           ],
           "prompt": {
             "PromptText": "z",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/z.mp3"
+            "PromptAudio": "lang/turkish/audios/z.mp3"
           },
           "foilstones": [
             {
@@ -6080,7 +6080,7 @@
           ],
           "prompt": {
             "PromptText": "n",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/n.mp3"
+            "PromptAudio": "lang/turkish/audios/n.mp3"
           },
           "foilstones": [
             {
@@ -6118,7 +6118,7 @@
           ],
           "prompt": {
             "PromptText": "l",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/l.mp3"
+            "PromptAudio": "lang/turkish/audios/l.mp3"
           },
           "foilstones": [
             {
@@ -6156,7 +6156,7 @@
           ],
           "prompt": {
             "PromptText": "n",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/n.mp3"
+            "PromptAudio": "lang/turkish/audios/n.mp3"
           },
           "foilstones": [
             {
@@ -6197,7 +6197,7 @@
           ],
           "prompt": {
             "PromptText": "z",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/z.mp3"
+            "PromptAudio": "lang/turkish/audios/z.mp3"
           },
           "foilstones": [
             {
@@ -6244,7 +6244,7 @@
           ],
           "prompt": {
             "PromptText": "r",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/r.mp3"
+            "PromptAudio": "lang/turkish/audios/r.mp3"
           },
           "foilstones": [
             {
@@ -6282,7 +6282,7 @@
           ],
           "prompt": {
             "PromptText": "z",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/z.mp3"
+            "PromptAudio": "lang/turkish/audios/z.mp3"
           },
           "foilstones": [
             {
@@ -6320,7 +6320,7 @@
           ],
           "prompt": {
             "PromptText": "u",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/u.mp3"
+            "PromptAudio": "lang/turkish/audios/u.mp3"
           },
           "foilstones": [
             {
@@ -6358,7 +6358,7 @@
           ],
           "prompt": {
             "PromptText": "n",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/n.mp3"
+            "PromptAudio": "lang/turkish/audios/n.mp3"
           },
           "foilstones": [
             {
@@ -6399,7 +6399,7 @@
           ],
           "prompt": {
             "PromptText": "z",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/z.mp3"
+            "PromptAudio": "lang/turkish/audios/z.mp3"
           },
           "foilstones": [
             {
@@ -6446,7 +6446,7 @@
           ],
           "prompt": {
             "PromptText": "u",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/u.mp3"
+            "PromptAudio": "lang/turkish/audios/u.mp3"
           },
           "foilstones": [
             {
@@ -6484,7 +6484,7 @@
           ],
           "prompt": {
             "PromptText": "u",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/u.mp3"
+            "PromptAudio": "lang/turkish/audios/u.mp3"
           },
           "foilstones": [
             {
@@ -6522,7 +6522,7 @@
           ],
           "prompt": {
             "PromptText": "z",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/z.mp3"
+            "PromptAudio": "lang/turkish/audios/z.mp3"
           },
           "foilstones": [
             {
@@ -6560,7 +6560,7 @@
           ],
           "prompt": {
             "PromptText": "n",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/n.mp3"
+            "PromptAudio": "lang/turkish/audios/n.mp3"
           },
           "foilstones": [
             {
@@ -6601,7 +6601,7 @@
           ],
           "prompt": {
             "PromptText": "l",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/l.mp3"
+            "PromptAudio": "lang/turkish/audios/l.mp3"
           },
           "foilstones": [
             {
@@ -6648,7 +6648,7 @@
           ],
           "prompt": {
             "PromptText": "n",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/n.mp3"
+            "PromptAudio": "lang/turkish/audios/n.mp3"
           },
           "foilstones": [
             {
@@ -6686,7 +6686,7 @@
           ],
           "prompt": {
             "PromptText": "n",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/n.mp3"
+            "PromptAudio": "lang/turkish/audios/n.mp3"
           },
           "foilstones": [
             {
@@ -6724,7 +6724,7 @@
           ],
           "prompt": {
             "PromptText": "r",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/r.mp3"
+            "PromptAudio": "lang/turkish/audios/r.mp3"
           },
           "foilstones": [
             {
@@ -6762,7 +6762,7 @@
           ],
           "prompt": {
             "PromptText": "l",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/l.mp3"
+            "PromptAudio": "lang/turkish/audios/l.mp3"
           },
           "foilstones": [
             {
@@ -6797,7 +6797,7 @@
           ],
           "prompt": {
             "PromptText": "r",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/r.mp3"
+            "PromptAudio": "lang/turkish/audios/r.mp3"
           },
           "foilstones": [
             {
@@ -6850,7 +6850,7 @@
           ],
           "prompt": {
             "PromptText": "z",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/z.mp3"
+            "PromptAudio": "lang/turkish/audios/z.mp3"
           },
           "foilstones": [
             {
@@ -6888,7 +6888,7 @@
           ],
           "prompt": {
             "PromptText": "z",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/z.mp3"
+            "PromptAudio": "lang/turkish/audios/z.mp3"
           },
           "foilstones": [
             {
@@ -6926,7 +6926,7 @@
           ],
           "prompt": {
             "PromptText": "r",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/r.mp3"
+            "PromptAudio": "lang/turkish/audios/r.mp3"
           },
           "foilstones": [
             {
@@ -6964,7 +6964,7 @@
           ],
           "prompt": {
             "PromptText": "l",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/l.mp3"
+            "PromptAudio": "lang/turkish/audios/l.mp3"
           },
           "foilstones": [
             {
@@ -6999,7 +6999,7 @@
           ],
           "prompt": {
             "PromptText": "r",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/r.mp3"
+            "PromptAudio": "lang/turkish/audios/r.mp3"
           },
           "foilstones": [
             {
@@ -7052,7 +7052,7 @@
           ],
           "prompt": {
             "PromptText": "lurna",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/l.mp3"
+            "PromptAudio": "lang/turkish/audios/l.mp3"
           },
           "foilstones": [
             {
@@ -7090,7 +7090,7 @@
           ],
           "prompt": {
             "PromptText": "nutuk",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/n.mp3"
+            "PromptAudio": "lang/turkish/audios/n.mp3"
           },
           "foilstones": [
             {
@@ -7128,7 +7128,7 @@
           ],
           "prompt": {
             "PromptText": "nutuk",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/n.mp3"
+            "PromptAudio": "lang/turkish/audios/n.mp3"
           },
           "foilstones": [
             {
@@ -7163,7 +7163,7 @@
           ],
           "prompt": {
             "PromptText": "zurna",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/z.mp3"
+            "PromptAudio": "lang/turkish/audios/z.mp3"
           },
           "foilstones": [
             {
@@ -7204,7 +7204,7 @@
           ],
           "prompt": {
             "PromptText": "zurna",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/z.mp3"
+            "PromptAudio": "lang/turkish/audios/z.mp3"
           },
           "foilstones": [
             {
@@ -7254,7 +7254,7 @@
           ],
           "prompt": {
             "PromptText": "lurna",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/l.mp3"
+            "PromptAudio": "lang/turkish/audios/l.mp3"
           },
           "foilstones": [
             {
@@ -7292,7 +7292,7 @@
           ],
           "prompt": {
             "PromptText": "nutuk",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/n.mp3"
+            "PromptAudio": "lang/turkish/audios/n.mp3"
           },
           "foilstones": [
             {
@@ -7330,7 +7330,7 @@
           ],
           "prompt": {
             "PromptText": "lurna",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/l.mp3"
+            "PromptAudio": "lang/turkish/audios/l.mp3"
           },
           "foilstones": [
             {
@@ -7368,7 +7368,7 @@
           ],
           "prompt": {
             "PromptText": "nutuk",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/n.mp3"
+            "PromptAudio": "lang/turkish/audios/n.mp3"
           },
           "foilstones": [
             {
@@ -7403,7 +7403,7 @@
           ],
           "prompt": {
             "PromptText": "zurna",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/z.mp3"
+            "PromptAudio": "lang/turkish/audios/z.mp3"
           },
           "foilstones": [
             {
@@ -7456,7 +7456,7 @@
           ],
           "prompt": {
             "PromptText": "ulusal",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/u.mp3"
+            "PromptAudio": "lang/turkish/audios/u.mp3"
           },
           "foilstones": [
             {
@@ -7494,7 +7494,7 @@
           ],
           "prompt": {
             "PromptText": "rulo",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/r.mp3"
+            "PromptAudio": "lang/turkish/audios/r.mp3"
           },
           "foilstones": [
             {
@@ -7532,7 +7532,7 @@
           ],
           "prompt": {
             "PromptText": "zurna",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/z.mp3"
+            "PromptAudio": "lang/turkish/audios/z.mp3"
           },
           "foilstones": [
             {
@@ -7570,7 +7570,7 @@
           ],
           "prompt": {
             "PromptText": "nutuk",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/n.mp3"
+            "PromptAudio": "lang/turkish/audios/n.mp3"
           },
           "foilstones": [
             {
@@ -7605,7 +7605,7 @@
           ],
           "prompt": {
             "PromptText": "rulo",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/r.mp3"
+            "PromptAudio": "lang/turkish/audios/r.mp3"
           },
           "foilstones": [
             {
@@ -7658,7 +7658,7 @@
           ],
           "prompt": {
             "PromptText": "rulo",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/r.mp3"
+            "PromptAudio": "lang/turkish/audios/r.mp3"
           },
           "foilstones": [
             {
@@ -7681,7 +7681,7 @@
           ],
           "prompt": {
             "PromptText": "nutuk",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/n.mp3"
+            "PromptAudio": "lang/turkish/audios/n.mp3"
           },
           "foilstones": [
             {
@@ -7704,7 +7704,7 @@
           ],
           "prompt": {
             "PromptText": "lurna",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/l.mp3"
+            "PromptAudio": "lang/turkish/audios/l.mp3"
           },
           "foilstones": [
             {
@@ -7727,7 +7727,7 @@
           ],
           "prompt": {
             "PromptText": "rulo",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/r.mp3"
+            "PromptAudio": "lang/turkish/audios/r.mp3"
           },
           "foilstones": [
             {
@@ -7753,7 +7753,7 @@
           ],
           "prompt": {
             "PromptText": "uzman",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/u.mp3"
+            "PromptAudio": "lang/turkish/audios/u.mp3"
           },
           "foilstones": [
             {
@@ -7800,7 +7800,7 @@
           ],
           "prompt": {
             "PromptText": "tokat",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/tokat.mp3"
+            "PromptAudio": "lang/turkish/audios/tokat.mp3"
           },
           "foilstones": [
             {
@@ -7829,7 +7829,7 @@
           ],
           "prompt": {
             "PromptText": "oje",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/oje.mp3"
+            "PromptAudio": "lang/turkish/audios/oje.mp3"
           },
           "foilstones": [
             {
@@ -7864,7 +7864,7 @@
           ],
           "prompt": {
             "PromptText": "çocuk",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/çocuk.mp3"
+            "PromptAudio": "lang/turkish/audios/çocuk.mp3"
           },
           "foilstones": [
             {
@@ -7893,7 +7893,7 @@
           ],
           "prompt": {
             "PromptText": "oje",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/oje.mp3"
+            "PromptAudio": "lang/turkish/audios/oje.mp3"
           },
           "foilstones": [
             {
@@ -7928,7 +7928,7 @@
           ],
           "prompt": {
             "PromptText": "şoke",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/şoke.mp3"
+            "PromptAudio": "lang/turkish/audios/şoke.mp3"
           },
           "foilstones": [
             {
@@ -7975,7 +7975,7 @@
           ],
           "prompt": {
             "PromptText": "joker",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/joker.mp3"
+            "PromptAudio": "lang/turkish/audios/joker.mp3"
           },
           "foilstones": [
             {
@@ -8019,7 +8019,7 @@
           ],
           "prompt": {
             "PromptText": "koç",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/koç.mp3"
+            "PromptAudio": "lang/turkish/audios/koç.mp3"
           },
           "foilstones": [
             {
@@ -8069,7 +8069,7 @@
           ],
           "prompt": {
             "PromptText": "joker",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/joker.mp3"
+            "PromptAudio": "lang/turkish/audios/joker.mp3"
           },
           "foilstones": [
             {
@@ -8113,7 +8113,7 @@
           ],
           "prompt": {
             "PromptText": "şoke",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/şoke.mp3"
+            "PromptAudio": "lang/turkish/audios/şoke.mp3"
           },
           "foilstones": [
             {
@@ -8166,7 +8166,7 @@
           ],
           "prompt": {
             "PromptText": "joker",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/joker.mp3"
+            "PromptAudio": "lang/turkish/audios/joker.mp3"
           },
           "foilstones": [
             {
@@ -8228,7 +8228,7 @@
           ],
           "prompt": {
             "PromptText": "joker",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/joker.mp3"
+            "PromptAudio": "lang/turkish/audios/joker.mp3"
           },
           "foilstones": [
             {
@@ -8272,7 +8272,7 @@
           ],
           "prompt": {
             "PromptText": "koş",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/koş.mp3"
+            "PromptAudio": "lang/turkish/audios/koş.mp3"
           },
           "foilstones": [
             {
@@ -8322,7 +8322,7 @@
           ],
           "prompt": {
             "PromptText": "joker",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/joker.mp3"
+            "PromptAudio": "lang/turkish/audios/joker.mp3"
           },
           "foilstones": [
             {
@@ -8366,7 +8366,7 @@
           ],
           "prompt": {
             "PromptText": "oje",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/oje.mp3"
+            "PromptAudio": "lang/turkish/audios/oje.mp3"
           },
           "foilstones": [
             {
@@ -8413,7 +8413,7 @@
           ],
           "prompt": {
             "PromptText": "tokat",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/tokat.mp3"
+            "PromptAudio": "lang/turkish/audios/tokat.mp3"
           },
           "foilstones": [
             {
@@ -8466,7 +8466,7 @@
           ],
           "prompt": {
             "PromptText": "ş",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/ş.mp3"
+            "PromptAudio": "lang/turkish/audios/ş.mp3"
           },
           "foilstones": [
             {
@@ -8504,7 +8504,7 @@
           ],
           "prompt": {
             "PromptText": "t",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/t.mp3"
+            "PromptAudio": "lang/turkish/audios/t.mp3"
           },
           "foilstones": [
             {
@@ -8542,7 +8542,7 @@
           ],
           "prompt": {
             "PromptText": "ş",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/ş.mp3"
+            "PromptAudio": "lang/turkish/audios/ş.mp3"
           },
           "foilstones": [
             {
@@ -8577,7 +8577,7 @@
           ],
           "prompt": {
             "PromptText": "o",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/o.mp3"
+            "PromptAudio": "lang/turkish/audios/o.mp3"
           },
           "foilstones": [
             {
@@ -8618,7 +8618,7 @@
           ],
           "prompt": {
             "PromptText": "j",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/j.mp3"
+            "PromptAudio": "lang/turkish/audios/j.mp3"
           },
           "foilstones": [
             {
@@ -8668,7 +8668,7 @@
           ],
           "prompt": {
             "PromptText": "j",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/j.mp3"
+            "PromptAudio": "lang/turkish/audios/j.mp3"
           },
           "foilstones": [
             {
@@ -8706,7 +8706,7 @@
           ],
           "prompt": {
             "PromptText": "ş",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/ş.mp3"
+            "PromptAudio": "lang/turkish/audios/ş.mp3"
           },
           "foilstones": [
             {
@@ -8747,7 +8747,7 @@
           ],
           "prompt": {
             "PromptText": "ç",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/ç.mp3"
+            "PromptAudio": "lang/turkish/audios/ç.mp3"
           },
           "foilstones": [
             {
@@ -8785,7 +8785,7 @@
           ],
           "prompt": {
             "PromptText": "ç",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/ç.mp3"
+            "PromptAudio": "lang/turkish/audios/ç.mp3"
           },
           "foilstones": [
             {
@@ -8820,7 +8820,7 @@
           ],
           "prompt": {
             "PromptText": "ş",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/ş.mp3"
+            "PromptAudio": "lang/turkish/audios/ş.mp3"
           },
           "foilstones": [
             {
@@ -8870,7 +8870,7 @@
           ],
           "prompt": {
             "PromptText": "t",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/t.mp3"
+            "PromptAudio": "lang/turkish/audios/t.mp3"
           },
           "foilstones": [
             {
@@ -8908,7 +8908,7 @@
           ],
           "prompt": {
             "PromptText": "o",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/o.mp3"
+            "PromptAudio": "lang/turkish/audios/o.mp3"
           },
           "foilstones": [
             {
@@ -8946,7 +8946,7 @@
           ],
           "prompt": {
             "PromptText": "ç",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/ç.mp3"
+            "PromptAudio": "lang/turkish/audios/ç.mp3"
           },
           "foilstones": [
             {
@@ -8984,7 +8984,7 @@
           ],
           "prompt": {
             "PromptText": "j",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/j.mp3"
+            "PromptAudio": "lang/turkish/audios/j.mp3"
           },
           "foilstones": [
             {
@@ -9019,7 +9019,7 @@
           ],
           "prompt": {
             "PromptText": "o",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/o.mp3"
+            "PromptAudio": "lang/turkish/audios/o.mp3"
           },
           "foilstones": [
             {
@@ -9072,7 +9072,7 @@
           ],
           "prompt": {
             "PromptText": "o",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/o.mp3"
+            "PromptAudio": "lang/turkish/audios/o.mp3"
           },
           "foilstones": [
             {
@@ -9110,7 +9110,7 @@
           ],
           "prompt": {
             "PromptText": "o",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/o.mp3"
+            "PromptAudio": "lang/turkish/audios/o.mp3"
           },
           "foilstones": [
             {
@@ -9148,7 +9148,7 @@
           ],
           "prompt": {
             "PromptText": "ş",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/ş.mp3"
+            "PromptAudio": "lang/turkish/audios/ş.mp3"
           },
           "foilstones": [
             {
@@ -9186,7 +9186,7 @@
           ],
           "prompt": {
             "PromptText": "t",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/t.mp3"
+            "PromptAudio": "lang/turkish/audios/t.mp3"
           },
           "foilstones": [
             {
@@ -9221,7 +9221,7 @@
           ],
           "prompt": {
             "PromptText": "j",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/j.mp3"
+            "PromptAudio": "lang/turkish/audios/j.mp3"
           },
           "foilstones": [
             {
@@ -9274,7 +9274,7 @@
           ],
           "prompt": {
             "PromptText": "ç",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/ç.mp3"
+            "PromptAudio": "lang/turkish/audios/ç.mp3"
           },
           "foilstones": [
             {
@@ -9312,7 +9312,7 @@
           ],
           "prompt": {
             "PromptText": "o",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/o.mp3"
+            "PromptAudio": "lang/turkish/audios/o.mp3"
           },
           "foilstones": [
             {
@@ -9353,7 +9353,7 @@
           ],
           "prompt": {
             "PromptText": "ş",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/ş.mp3"
+            "PromptAudio": "lang/turkish/audios/ş.mp3"
           },
           "foilstones": [
             {
@@ -9391,7 +9391,7 @@
           ],
           "prompt": {
             "PromptText": "o",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/o.mp3"
+            "PromptAudio": "lang/turkish/audios/o.mp3"
           },
           "foilstones": [
             {
@@ -9426,7 +9426,7 @@
           ],
           "prompt": {
             "PromptText": "ş",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/ş.mp3"
+            "PromptAudio": "lang/turkish/audios/ş.mp3"
           },
           "foilstones": [
             {
@@ -9476,7 +9476,7 @@
           ],
           "prompt": {
             "PromptText": "t",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/t.mp3"
+            "PromptAudio": "lang/turkish/audios/t.mp3"
           },
           "foilstones": [
             {
@@ -9514,7 +9514,7 @@
           ],
           "prompt": {
             "PromptText": "o",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/o.mp3"
+            "PromptAudio": "lang/turkish/audios/o.mp3"
           },
           "foilstones": [
             {
@@ -9552,7 +9552,7 @@
           ],
           "prompt": {
             "PromptText": "ç",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/ç.mp3"
+            "PromptAudio": "lang/turkish/audios/ç.mp3"
           },
           "foilstones": [
             {
@@ -9590,7 +9590,7 @@
           ],
           "prompt": {
             "PromptText": "ş",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/ş.mp3"
+            "PromptAudio": "lang/turkish/audios/ş.mp3"
           },
           "foilstones": [
             {
@@ -9625,7 +9625,7 @@
           ],
           "prompt": {
             "PromptText": "ş",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/ş.mp3"
+            "PromptAudio": "lang/turkish/audios/ş.mp3"
           },
           "foilstones": [
             {
@@ -9678,7 +9678,7 @@
           ],
           "prompt": {
             "PromptText": "oje",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/o.mp3"
+            "PromptAudio": "lang/turkish/audios/o.mp3"
           },
           "foilstones": [
             {
@@ -9716,7 +9716,7 @@
           ],
           "prompt": {
             "PromptText": "oje",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/o.mp3"
+            "PromptAudio": "lang/turkish/audios/o.mp3"
           },
           "foilstones": [
             {
@@ -9754,7 +9754,7 @@
           ],
           "prompt": {
             "PromptText": "otçul",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/o.mp3"
+            "PromptAudio": "lang/turkish/audios/o.mp3"
           },
           "foilstones": [
             {
@@ -9792,7 +9792,7 @@
           ],
           "prompt": {
             "PromptText": "tokat",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/t.mp3"
+            "PromptAudio": "lang/turkish/audios/t.mp3"
           },
           "foilstones": [
             {
@@ -9827,7 +9827,7 @@
           ],
           "prompt": {
             "PromptText": "oje",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/o.mp3"
+            "PromptAudio": "lang/turkish/audios/o.mp3"
           },
           "foilstones": [
             {
@@ -9880,7 +9880,7 @@
           ],
           "prompt": {
             "PromptText": "şoke",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/ş.mp3"
+            "PromptAudio": "lang/turkish/audios/ş.mp3"
           },
           "foilstones": [
             {
@@ -9918,7 +9918,7 @@
           ],
           "prompt": {
             "PromptText": "otçul",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/o.mp3"
+            "PromptAudio": "lang/turkish/audios/o.mp3"
           },
           "foilstones": [
             {
@@ -9956,7 +9956,7 @@
           ],
           "prompt": {
             "PromptText": "çocuk",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/ç.mp3"
+            "PromptAudio": "lang/turkish/audios/ç.mp3"
           },
           "foilstones": [
             {
@@ -9991,7 +9991,7 @@
           ],
           "prompt": {
             "PromptText": "tokat",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/t.mp3"
+            "PromptAudio": "lang/turkish/audios/t.mp3"
           },
           "foilstones": [
             {
@@ -10029,7 +10029,7 @@
           ],
           "prompt": {
             "PromptText": "oje",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/o.mp3"
+            "PromptAudio": "lang/turkish/audios/o.mp3"
           },
           "foilstones": [
             {
@@ -10082,7 +10082,7 @@
           ],
           "prompt": {
             "PromptText": "çocuk",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/ç.mp3"
+            "PromptAudio": "lang/turkish/audios/ç.mp3"
           },
           "foilstones": [
             {
@@ -10120,7 +10120,7 @@
           ],
           "prompt": {
             "PromptText": "çocuk",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/ç.mp3"
+            "PromptAudio": "lang/turkish/audios/ç.mp3"
           },
           "foilstones": [
             {
@@ -10158,7 +10158,7 @@
           ],
           "prompt": {
             "PromptText": "çocuk",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/ç.mp3"
+            "PromptAudio": "lang/turkish/audios/ç.mp3"
           },
           "foilstones": [
             {
@@ -10193,7 +10193,7 @@
           ],
           "prompt": {
             "PromptText": "tokat",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/t.mp3"
+            "PromptAudio": "lang/turkish/audios/t.mp3"
           },
           "foilstones": [
             {
@@ -10231,7 +10231,7 @@
           ],
           "prompt": {
             "PromptText": "oje",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/o.mp3"
+            "PromptAudio": "lang/turkish/audios/o.mp3"
           },
           "foilstones": [
             {
@@ -10284,7 +10284,7 @@
           ],
           "prompt": {
             "PromptText": "otçul",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/o.mp3"
+            "PromptAudio": "lang/turkish/audios/o.mp3"
           },
           "foilstones": [
             {
@@ -10322,7 +10322,7 @@
           ],
           "prompt": {
             "PromptText": "oje",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/o.mp3"
+            "PromptAudio": "lang/turkish/audios/o.mp3"
           },
           "foilstones": [
             {
@@ -10360,7 +10360,7 @@
           ],
           "prompt": {
             "PromptText": "çocuk",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/ç.mp3"
+            "PromptAudio": "lang/turkish/audios/ç.mp3"
           },
           "foilstones": [
             {
@@ -10395,7 +10395,7 @@
           ],
           "prompt": {
             "PromptText": "joker",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/j.mp3"
+            "PromptAudio": "lang/turkish/audios/j.mp3"
           },
           "foilstones": [
             {
@@ -10433,7 +10433,7 @@
           ],
           "prompt": {
             "PromptText": "çocuk",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/ç.mp3"
+            "PromptAudio": "lang/turkish/audios/ç.mp3"
           },
           "foilstones": [
             {
@@ -10492,7 +10492,7 @@
           ],
           "prompt": {
             "PromptText": "koç",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/koç.mp3"
+            "PromptAudio": "lang/turkish/audios/koç.mp3"
           },
           "foilstones": [
             {
@@ -10536,7 +10536,7 @@
           ],
           "prompt": {
             "PromptText": "koş",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/koş.mp3"
+            "PromptAudio": "lang/turkish/audios/koş.mp3"
           },
           "foilstones": [
             {
@@ -10586,7 +10586,7 @@
           ],
           "prompt": {
             "PromptText": "çocuk",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/çocuk.mp3"
+            "PromptAudio": "lang/turkish/audios/çocuk.mp3"
           },
           "foilstones": [
             {
@@ -10627,7 +10627,7 @@
           ],
           "prompt": {
             "PromptText": "koş",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/koş.mp3"
+            "PromptAudio": "lang/turkish/audios/koş.mp3"
           },
           "foilstones": [
             {
@@ -10677,7 +10677,7 @@
           ],
           "prompt": {
             "PromptText": "otçul",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/otçul.mp3"
+            "PromptAudio": "lang/turkish/audios/otçul.mp3"
           },
           "foilstones": [
             {
@@ -10739,7 +10739,7 @@
           ],
           "prompt": {
             "PromptText": "şoke",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/şoke.mp3"
+            "PromptAudio": "lang/turkish/audios/şoke.mp3"
           },
           "foilstones": [
             {
@@ -10786,7 +10786,7 @@
           ],
           "prompt": {
             "PromptText": "şoke",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/şoke.mp3"
+            "PromptAudio": "lang/turkish/audios/şoke.mp3"
           },
           "foilstones": [
             {
@@ -10836,7 +10836,7 @@
           ],
           "prompt": {
             "PromptText": "çocuk",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/çocuk.mp3"
+            "PromptAudio": "lang/turkish/audios/çocuk.mp3"
           },
           "foilstones": [
             {
@@ -10883,7 +10883,7 @@
           ],
           "prompt": {
             "PromptText": "çocuk",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/çocuk.mp3"
+            "PromptAudio": "lang/turkish/audios/çocuk.mp3"
           },
           "foilstones": [
             {
@@ -10933,7 +10933,7 @@
           ],
           "prompt": {
             "PromptText": "joker",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/joker.mp3"
+            "PromptAudio": "lang/turkish/audios/joker.mp3"
           },
           "foilstones": [
             {
@@ -10992,7 +10992,7 @@
           ],
           "prompt": {
             "PromptText": "koç",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/koç.mp3"
+            "PromptAudio": "lang/turkish/audios/koç.mp3"
           },
           "foilstones": [
             {
@@ -11039,7 +11039,7 @@
           ],
           "prompt": {
             "PromptText": "şoke",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/şoke.mp3"
+            "PromptAudio": "lang/turkish/audios/şoke.mp3"
           },
           "foilstones": [
             {
@@ -11083,7 +11083,7 @@
           ],
           "prompt": {
             "PromptText": "koç",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/koç.mp3"
+            "PromptAudio": "lang/turkish/audios/koç.mp3"
           },
           "foilstones": [
             {
@@ -11130,7 +11130,7 @@
           ],
           "prompt": {
             "PromptText": "çocuk",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/çocuk.mp3"
+            "PromptAudio": "lang/turkish/audios/çocuk.mp3"
           },
           "foilstones": [
             {
@@ -11180,7 +11180,7 @@
           ],
           "prompt": {
             "PromptText": "joker",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/joker.mp3"
+            "PromptAudio": "lang/turkish/audios/joker.mp3"
           },
           "foilstones": [
             {
@@ -11233,7 +11233,7 @@
           ],
           "prompt": {
             "PromptText": "ç",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/ç.mp3"
+            "PromptAudio": "lang/turkish/audios/ç.mp3"
           },
           "foilstones": [
             {
@@ -11271,7 +11271,7 @@
           ],
           "prompt": {
             "PromptText": "o",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/o.mp3"
+            "PromptAudio": "lang/turkish/audios/o.mp3"
           },
           "foilstones": [
             {
@@ -11309,7 +11309,7 @@
           ],
           "prompt": {
             "PromptText": "j",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/j.mp3"
+            "PromptAudio": "lang/turkish/audios/j.mp3"
           },
           "foilstones": [
             {
@@ -11341,7 +11341,7 @@
           ],
           "prompt": {
             "PromptText": "ç",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/ç.mp3"
+            "PromptAudio": "lang/turkish/audios/ç.mp3"
           },
           "foilstones": [
             {
@@ -11376,7 +11376,7 @@
           ],
           "prompt": {
             "PromptText": "ş",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/ş.mp3"
+            "PromptAudio": "lang/turkish/audios/ş.mp3"
           },
           "foilstones": [
             {
@@ -11429,7 +11429,7 @@
           ],
           "prompt": {
             "PromptText": "ç",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/ç.mp3"
+            "PromptAudio": "lang/turkish/audios/ç.mp3"
           },
           "foilstones": [
             {
@@ -11467,7 +11467,7 @@
           ],
           "prompt": {
             "PromptText": "ş",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/ş.mp3"
+            "PromptAudio": "lang/turkish/audios/ş.mp3"
           },
           "foilstones": [
             {
@@ -11505,7 +11505,7 @@
           ],
           "prompt": {
             "PromptText": "o",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/o.mp3"
+            "PromptAudio": "lang/turkish/audios/o.mp3"
           },
           "foilstones": [
             {
@@ -11543,7 +11543,7 @@
           ],
           "prompt": {
             "PromptText": "ş",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/ş.mp3"
+            "PromptAudio": "lang/turkish/audios/ş.mp3"
           },
           "foilstones": [
             {
@@ -11578,7 +11578,7 @@
           ],
           "prompt": {
             "PromptText": "ç",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/ç.mp3"
+            "PromptAudio": "lang/turkish/audios/ç.mp3"
           },
           "foilstones": [
             {
@@ -11631,7 +11631,7 @@
           ],
           "prompt": {
             "PromptText": "o",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/o.mp3"
+            "PromptAudio": "lang/turkish/audios/o.mp3"
           },
           "foilstones": [
             {
@@ -11669,7 +11669,7 @@
           ],
           "prompt": {
             "PromptText": "ş",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/ş.mp3"
+            "PromptAudio": "lang/turkish/audios/ş.mp3"
           },
           "foilstones": [
             {
@@ -11707,7 +11707,7 @@
           ],
           "prompt": {
             "PromptText": "ş",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/ş.mp3"
+            "PromptAudio": "lang/turkish/audios/ş.mp3"
           },
           "foilstones": [
             {
@@ -11739,7 +11739,7 @@
           ],
           "prompt": {
             "PromptText": "t",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/t.mp3"
+            "PromptAudio": "lang/turkish/audios/t.mp3"
           },
           "foilstones": [
             {
@@ -11774,7 +11774,7 @@
           ],
           "prompt": {
             "PromptText": "j",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/j.mp3"
+            "PromptAudio": "lang/turkish/audios/j.mp3"
           },
           "foilstones": [
             {
@@ -11827,7 +11827,7 @@
           ],
           "prompt": {
             "PromptText": "ç",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/ç.mp3"
+            "PromptAudio": "lang/turkish/audios/ç.mp3"
           },
           "foilstones": [
             {
@@ -11865,7 +11865,7 @@
           ],
           "prompt": {
             "PromptText": "o",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/o.mp3"
+            "PromptAudio": "lang/turkish/audios/o.mp3"
           },
           "foilstones": [
             {
@@ -11903,7 +11903,7 @@
           ],
           "prompt": {
             "PromptText": "ş",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/ş.mp3"
+            "PromptAudio": "lang/turkish/audios/ş.mp3"
           },
           "foilstones": [
             {
@@ -11941,7 +11941,7 @@
           ],
           "prompt": {
             "PromptText": "j",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/j.mp3"
+            "PromptAudio": "lang/turkish/audios/j.mp3"
           },
           "foilstones": [
             {
@@ -11976,7 +11976,7 @@
           ],
           "prompt": {
             "PromptText": "ç",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/ç.mp3"
+            "PromptAudio": "lang/turkish/audios/ç.mp3"
           },
           "foilstones": [
             {
@@ -12029,7 +12029,7 @@
           ],
           "prompt": {
             "PromptText": "t",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/t.mp3"
+            "PromptAudio": "lang/turkish/audios/t.mp3"
           },
           "foilstones": [
             {
@@ -12067,7 +12067,7 @@
           ],
           "prompt": {
             "PromptText": "ş",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/ş.mp3"
+            "PromptAudio": "lang/turkish/audios/ş.mp3"
           },
           "foilstones": [
             {
@@ -12105,7 +12105,7 @@
           ],
           "prompt": {
             "PromptText": "ş",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/ş.mp3"
+            "PromptAudio": "lang/turkish/audios/ş.mp3"
           },
           "foilstones": [
             {
@@ -12137,7 +12137,7 @@
           ],
           "prompt": {
             "PromptText": "t",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/t.mp3"
+            "PromptAudio": "lang/turkish/audios/t.mp3"
           },
           "foilstones": [
             {
@@ -12172,7 +12172,7 @@
           ],
           "prompt": {
             "PromptText": "ş",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/ş.mp3"
+            "PromptAudio": "lang/turkish/audios/ş.mp3"
           },
           "foilstones": [
             {
@@ -12225,7 +12225,7 @@
           ],
           "prompt": {
             "PromptText": "ç",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/ç.mp3"
+            "PromptAudio": "lang/turkish/audios/ç.mp3"
           },
           "foilstones": [
             {
@@ -12263,7 +12263,7 @@
           ],
           "prompt": {
             "PromptText": "ç",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/ç.mp3"
+            "PromptAudio": "lang/turkish/audios/ç.mp3"
           },
           "foilstones": [
             {
@@ -12301,7 +12301,7 @@
           ],
           "prompt": {
             "PromptText": "j",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/j.mp3"
+            "PromptAudio": "lang/turkish/audios/j.mp3"
           },
           "foilstones": [
             {
@@ -12339,7 +12339,7 @@
           ],
           "prompt": {
             "PromptText": "t",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/t.mp3"
+            "PromptAudio": "lang/turkish/audios/t.mp3"
           },
           "foilstones": [
             {
@@ -12380,7 +12380,7 @@
           ],
           "prompt": {
             "PromptText": "ş",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/ş.mp3"
+            "PromptAudio": "lang/turkish/audios/ş.mp3"
           },
           "foilstones": [
             {
@@ -12427,7 +12427,7 @@
           ],
           "prompt": {
             "PromptText": "joker",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/j.mp3"
+            "PromptAudio": "lang/turkish/audios/j.mp3"
           },
           "foilstones": [
             {
@@ -12465,7 +12465,7 @@
           ],
           "prompt": {
             "PromptText": "tokat",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/t.mp3"
+            "PromptAudio": "lang/turkish/audios/t.mp3"
           },
           "foilstones": [
             {
@@ -12503,7 +12503,7 @@
           ],
           "prompt": {
             "PromptText": "tokat",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/t.mp3"
+            "PromptAudio": "lang/turkish/audios/t.mp3"
           },
           "foilstones": [
             {
@@ -12535,7 +12535,7 @@
           ],
           "prompt": {
             "PromptText": "tokat",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/t.mp3"
+            "PromptAudio": "lang/turkish/audios/t.mp3"
           },
           "foilstones": [
             {
@@ -12570,7 +12570,7 @@
           ],
           "prompt": {
             "PromptText": "joker",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/j.mp3"
+            "PromptAudio": "lang/turkish/audios/j.mp3"
           },
           "foilstones": [
             {
@@ -12623,7 +12623,7 @@
           ],
           "prompt": {
             "PromptText": "otçul",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/o.mp3"
+            "PromptAudio": "lang/turkish/audios/o.mp3"
           },
           "foilstones": [
             {
@@ -12661,7 +12661,7 @@
           ],
           "prompt": {
             "PromptText": "çocuk",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/ç.mp3"
+            "PromptAudio": "lang/turkish/audios/ç.mp3"
           },
           "foilstones": [
             {
@@ -12699,7 +12699,7 @@
           ],
           "prompt": {
             "PromptText": "şoke",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/ş.mp3"
+            "PromptAudio": "lang/turkish/audios/ş.mp3"
           },
           "foilstones": [
             {
@@ -12737,7 +12737,7 @@
           ],
           "prompt": {
             "PromptText": "şoke",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/ş.mp3"
+            "PromptAudio": "lang/turkish/audios/ş.mp3"
           },
           "foilstones": [
             {
@@ -12772,7 +12772,7 @@
           ],
           "prompt": {
             "PromptText": "çocuk",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/ç.mp3"
+            "PromptAudio": "lang/turkish/audios/ç.mp3"
           },
           "foilstones": [
             {
@@ -12825,7 +12825,7 @@
           ],
           "prompt": {
             "PromptText": "tokat",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/t.mp3"
+            "PromptAudio": "lang/turkish/audios/t.mp3"
           },
           "foilstones": [
             {
@@ -12863,7 +12863,7 @@
           ],
           "prompt": {
             "PromptText": "joker",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/j.mp3"
+            "PromptAudio": "lang/turkish/audios/j.mp3"
           },
           "foilstones": [
             {
@@ -12901,7 +12901,7 @@
           ],
           "prompt": {
             "PromptText": "şoke",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/ş.mp3"
+            "PromptAudio": "lang/turkish/audios/ş.mp3"
           },
           "foilstones": [
             {
@@ -12939,7 +12939,7 @@
           ],
           "prompt": {
             "PromptText": "joker",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/j.mp3"
+            "PromptAudio": "lang/turkish/audios/j.mp3"
           },
           "foilstones": [
             {
@@ -12974,7 +12974,7 @@
           ],
           "prompt": {
             "PromptText": "tokat",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/t.mp3"
+            "PromptAudio": "lang/turkish/audios/t.mp3"
           },
           "foilstones": [
             {
@@ -13027,7 +13027,7 @@
           ],
           "prompt": {
             "PromptText": "çocuk",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/ç.mp3"
+            "PromptAudio": "lang/turkish/audios/ç.mp3"
           },
           "foilstones": [
             {
@@ -13065,7 +13065,7 @@
           ],
           "prompt": {
             "PromptText": "çocuk",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/ç.mp3"
+            "PromptAudio": "lang/turkish/audios/ç.mp3"
           },
           "foilstones": [
             {
@@ -13103,7 +13103,7 @@
           ],
           "prompt": {
             "PromptText": "otçul",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/o.mp3"
+            "PromptAudio": "lang/turkish/audios/o.mp3"
           },
           "foilstones": [
             {
@@ -13135,7 +13135,7 @@
           ],
           "prompt": {
             "PromptText": "tokat",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/t.mp3"
+            "PromptAudio": "lang/turkish/audios/t.mp3"
           },
           "foilstones": [
             {
@@ -13170,7 +13170,7 @@
           ],
           "prompt": {
             "PromptText": "joker",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/j.mp3"
+            "PromptAudio": "lang/turkish/audios/j.mp3"
           },
           "foilstones": [
             {
@@ -13235,7 +13235,7 @@
           ],
           "prompt": {
             "PromptText": "joker",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/joker.mp3"
+            "PromptAudio": "lang/turkish/audios/joker.mp3"
           },
           "foilstones": [
             {
@@ -13279,7 +13279,7 @@
           ],
           "prompt": {
             "PromptText": "koş",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/koş.mp3"
+            "PromptAudio": "lang/turkish/audios/koş.mp3"
           },
           "foilstones": [
             {
@@ -13329,7 +13329,7 @@
           ],
           "prompt": {
             "PromptText": "joker",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/joker.mp3"
+            "PromptAudio": "lang/turkish/audios/joker.mp3"
           },
           "foilstones": [
             {
@@ -13379,7 +13379,7 @@
           ],
           "prompt": {
             "PromptText": "tokat",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/tokat.mp3"
+            "PromptAudio": "lang/turkish/audios/tokat.mp3"
           },
           "foilstones": [
             {
@@ -13420,7 +13420,7 @@
           ],
           "prompt": {
             "PromptText": "koç",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/koç.mp3"
+            "PromptAudio": "lang/turkish/audios/koç.mp3"
           },
           "foilstones": [
             {
@@ -13482,7 +13482,7 @@
           ],
           "prompt": {
             "PromptText": "şoke",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/şoke.mp3"
+            "PromptAudio": "lang/turkish/audios/şoke.mp3"
           },
           "foilstones": [
             {
@@ -13526,7 +13526,7 @@
           ],
           "prompt": {
             "PromptText": "koç",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/koç.mp3"
+            "PromptAudio": "lang/turkish/audios/koç.mp3"
           },
           "foilstones": [
             {
@@ -13576,7 +13576,7 @@
           ],
           "prompt": {
             "PromptText": "çocuk",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/çocuk.mp3"
+            "PromptAudio": "lang/turkish/audios/çocuk.mp3"
           },
           "foilstones": [
             {
@@ -13626,7 +13626,7 @@
           ],
           "prompt": {
             "PromptText": "joker",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/joker.mp3"
+            "PromptAudio": "lang/turkish/audios/joker.mp3"
           },
           "foilstones": [
             {
@@ -13679,7 +13679,7 @@
           ],
           "prompt": {
             "PromptText": "tokat",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/tokat.mp3"
+            "PromptAudio": "lang/turkish/audios/tokat.mp3"
           },
           "foilstones": [
             {
@@ -13735,7 +13735,7 @@
           ],
           "prompt": {
             "PromptText": "şoke",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/şoke.mp3"
+            "PromptAudio": "lang/turkish/audios/şoke.mp3"
           },
           "foilstones": [
             {
@@ -13779,7 +13779,7 @@
           ],
           "prompt": {
             "PromptText": "koş",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/koş.mp3"
+            "PromptAudio": "lang/turkish/audios/koş.mp3"
           },
           "foilstones": [
             {
@@ -13829,7 +13829,7 @@
           ],
           "prompt": {
             "PromptText": "çocuk",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/çocuk.mp3"
+            "PromptAudio": "lang/turkish/audios/çocuk.mp3"
           },
           "foilstones": [
             {
@@ -13873,7 +13873,7 @@
           ],
           "prompt": {
             "PromptText": "otçul",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/otçul.mp3"
+            "PromptAudio": "lang/turkish/audios/otçul.mp3"
           },
           "foilstones": [
             {
@@ -13914,7 +13914,7 @@
           ],
           "prompt": {
             "PromptText": "koş",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/turkish/audios/koş.mp3"
+            "PromptAudio": "lang/turkish/audios/koş.mp3"
           },
           "foilstones": [
             {

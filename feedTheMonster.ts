@@ -95,18 +95,9 @@ class App {
       }
     }, 3000);
     // Make sure to listen for the response globally
-    console.log(
-      "Android available: requestDataFromContainer",
-      !!window.Android?.requestDataFromContainer
-    );
     window.onDataFromAndroid = function (responseJson: string) {
       AndroidBridge._handleDataFromAndroid(responseJson);
     };
-    console.log("hello world from FTM");
-    console.log("hello ftm");
-    AndroidBridge.requestDataFromContainer("score").then((data) => {
-      console.log("Received score data from Container:", JSON.stringify(data));
-    });
     const font = await Utils.getLanguageSpecificFont(this.lang);
     await this.loadAndCacheFont(font, `./assets/fonts/${font}.ttf`);
     await this.loadTitleFeedbackCustomFont();
@@ -402,9 +393,7 @@ class App {
   }
 
   public passingDataToContainer = (): void => {
-    console.log("Hello FTM");
     if (window.Android) {
-      console.log("Hello FTM Android");
       window.Android.cachedStatus(this.is_cached.get(this.lang) == true);
     }
   };
