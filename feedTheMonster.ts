@@ -105,13 +105,24 @@ class App {
     console.log("hello world from FTM");
     console.log("hello ftm");
 
-    AndroidBridge.requestDataFromContainer("score").then((data) => {
-      console.log("Received score data from Container:", JSON.stringify(data));
-    });
+    AndroidBridge.requestDataFromContainer("score")
+      .then((data) => {
+        console.log(
+          "Received score data from Container:",
+          JSON.stringify(data)
+        );
+      })
+      .catch((err) => {
+        console.error("Error in requestDataFromContainer promise:", err);
+      });
 
-    AndroidBridge.requestInstalledAppInfo().then((data) => {
-      console.log("isAppInstalled:", data.isAppInstalled);
-    });
+    AndroidBridge.requestInstalledAppInfo()
+      .then((data) => {
+        console.log("isAppInstalled:", data.isAppInstalled);
+      })
+      .catch((err) => {
+        console.error("Error in installedAppInfo promise:", err);
+      });
 
     const font = await Utils.getLanguageSpecificFont(this.lang);
     await this.loadAndCacheFont(font, `./assets/fonts/${font}.ttf`);
