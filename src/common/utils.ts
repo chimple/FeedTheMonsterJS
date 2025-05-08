@@ -196,6 +196,7 @@ export const hideElement = (isHide: boolean = false, element: HTMLElement) => {
 interface AndroidBridge {
   sendDataToContainer: (key: string, data: any) => void; // this is the method name from android
   requestDataFromContainer: (data: any) => any;
+  sendInstalledAppInfoToJS: () => void; //New Method to request InstalledApppInfo
   sendGameLevelInfoToJS: () => void; // New method to request game level data from Android
   // add another method here if needed for the javascript interface from android
 }
@@ -224,7 +225,7 @@ export const AndroidBridge = {
         const jsonData = typeof data === "object" ? JSON.stringify(data) : data;
         window.Android.sendDataToContainer(key, jsonData);
       } else {
-        console.warn("Android bridge not available: sendDataToContainer");
+        console.warn("Android bridge not available:  In sendDataToContainer");
       }
     } catch (error) {
       console.error("Error sending data to container:", error);
@@ -233,11 +234,28 @@ export const AndroidBridge = {
 
   requestDataFromContainer(type: string): Promise<any> {
     return new Promise((resolve, reject) => {
-      if (window.Android?.requestDataFromContainer) {
+      if (window.Android !== undefined) {
         _callbacks[type] = resolve; // store callback by type
         window.Android.requestDataFromContainer(type);
       } else {
-        reject("Android bridge not available");
+        reject("Android bridge not available: In requestDataFromContainer");
+      }
+    });
+  },
+
+  requestInstalledAppInfo(): Promise<any> {
+    return new Promise((resolve, reject) => {
+      try {
+        console.log("Requesting InstalledAppInfo");
+        if (window.Android !== undefined) {
+          _callbacks["installedAppInfo"] = resolve;
+
+          window.Android.sendInstalledAppInfoToJS();
+        } else {
+          reject("Android bridge not available: In requestInstalledAppInfo");
+        }
+      } catch (error) {
+        reject(error);
       }
     });
   },
@@ -245,14 +263,14 @@ export const AndroidBridge = {
   requestGameLevelInfo(): Promise<any> {
     return new Promise((resolve, reject) => {
       try {
-        if (window.Android?.sendGameLevelInfoToJS) {
+        if (window.Android !== undefined) {
           // Store the callback in the _callbacks map with a specific type
           _callbacks["gameLevelInfo"] = resolve;
 
           // Request the game level info from Android
           window.Android.sendGameLevelInfoToJS();
         } else {
-          reject("Android bridge not available: sendGameLevelInfoToJS");
+          reject("Android bridge not available: In requestGameLevelInfoToJS");
         }
       } catch (error) {
         reject(error);
