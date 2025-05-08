@@ -104,9 +104,15 @@ class App {
     };
     console.log("hello world from FTM");
     console.log("hello ftm");
+
     AndroidBridge.requestDataFromContainer("score").then((data) => {
       console.log("Received score data from Container:", JSON.stringify(data));
     });
+
+    AndroidBridge.requestInstalledAppInfo().then((data) => {
+      console.log("isAppInstalled:", data.isAppInstalled);
+    });
+
     const font = await Utils.getLanguageSpecificFont(this.lang);
     await this.loadAndCacheFont(font, `./assets/fonts/${font}.ttf`);
     await this.loadTitleFeedbackCustomFont();
