@@ -6,6 +6,8 @@ export class Utils {
   public static UrlSubstring: string = "/feedthemonster";
   public static subdomain: string = "https://feedthemonster.curiouscontent.org";
   public static isDeepLink: boolean;
+  public static levelNum: number;
+  public static isRespect: boolean = false;
 
   /*
    * TODO: - update level gen script so that it uses relative urls

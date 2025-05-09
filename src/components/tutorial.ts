@@ -1,4 +1,4 @@
-import { createRippleEffect } from "@common";
+import { createRippleEffect, Utils } from "@common";
 import { TUTORIAL_HAND } from "@constants";
 import { GameScore } from "@data";
 
@@ -149,14 +149,12 @@ sinusoidalInterpolation(time, minScale, maxScale, duration) {
 
 
   shouldPlayTutorial(): boolean {
-    let playDragAnimationForFirstPuzzle =
-      GameScore.getAllGameLevelInfo().length <= 0 && this.puzzleNumber == 0;
+    let playDragAnimationForFirstPuzzle = Utils.levelNum == 0;
     return playDragAnimationForFirstPuzzle;
   }
 
   shouldPlayMonsterClickTutorialAnimation(): boolean{
-    let playDragAnimationForFirstPuzzle =
-      GameScore.getAllGameLevelInfo().length <= 0 && this.playMnstrClkTtrlAnim;
+    let playDragAnimationForFirstPuzzle = Utils.levelNum == 0;
     return playDragAnimationForFirstPuzzle;
   }
 

@@ -1,6 +1,7 @@
-import { Debugger, lang, pseudoId, loadImages } from "@common";
+import { Debugger, lang, pseudoId, loadImages, Utils } from "@common";
 import { AudioPlayer } from "@components";
 import { getData, GameScore } from "@data";
+import { getOPDSData } from "@data/opds-api-data";
 import { SelectedLevel } from "../Firebase/firebase-event-interface";
 import { FirebaseIntegration } from "../Firebase/firebase-integration";
 import {
@@ -107,7 +108,7 @@ export class LevelSelectionScreen {
   }
 
   private async init() {
-    const data = await getData();
+    const data = Utils.isRespect ? await getOPDSData() : await getData();
     console.log("LevelSelectionScreen init called", data);
     this.majVersion = data.majversion;
     this.minVersion = data.minversion;
@@ -122,6 +123,7 @@ export class LevelSelectionScreen {
       levelSelectBgDrawing
     );
   };
+
 
   private async createLevelButtons() {
     const images = await loadLevelImages();
@@ -253,6 +255,7 @@ export class LevelSelectionScreen {
         (index) => {
           this.audioPlayer.playButtonClickSound();
           this.levelNumber = index + this.levelSelectionPageIndex - 1;
+          Utils.levelNum = this.levelNumber;
           this.startGame(this.levelNumber);
         }
       );

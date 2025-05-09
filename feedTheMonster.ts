@@ -25,6 +25,7 @@ import {
 } from "./src/Firebase/firebase-event-interface";
 import { URL } from "@data";
 import { AndroidBridge } from "./src/common/utils";
+import { getOPDSData } from "@data/opds-api-data";
 declare const window: any;
 
 class App {
@@ -79,83 +80,105 @@ class App {
   }
 
   private async init() {
-    let lessonId;
-    if (window.Android && typeof window.Android.getLessonId === "function") {
-      lessonId = window.Android.getLessonId();
-      if (lessonId != "") {
-        Utils.isDeepLink = true;
+    try {
+      let lessonId;
+      if (window.Android && typeof window.Android.getLessonId === "function") {
+          lessonId = window.Android.getLessonId();
+          if (lessonId != "") {
+              Utils.isDeepLink = true;
+          }
+          console.log("Lesson ID from Android:", lessonId);
       }
-      console.log("Lesson ID from Android:", lessonId);
-    }
-    setTimeout(() => {
-      if (Utils.isDeepLink) {
-        Utils.isDeepLink = false;
-        console.log("Lesson ID from Android:", lessonId);
-        this.startGameWithLevel(lessonId);
-      }
-    }, 3000);
-    // Make sure to listen for the response globally
-    console.log(
-      "Android available: requestDataFromContainer",
-      !!window.Android?.requestDataFromContainer
-    );
-    window.onDataFromAndroid = function (responseJson: string) {
-      AndroidBridge._handleDataFromAndroid(responseJson);
-    };
-    console.log("hello world from FTM");
-    console.log("hello ftm");
+      setTimeout(() => {
+          if (Utils.isDeepLink) {
+              Utils.isDeepLink = false;
+              console.log("Lesson ID from Android:", lessonId);
+              Utils.levelNum = lessonId;
+              this.startGameWithLevel(lessonId);
+          }
+      }, 3000);
+      // Make sure to listen for the response globally
+      console.log(
+          "Android available: requestDataFromContainer",
+          !!window.Android?.requestDataFromContainer
+      );
+      window.onDataFromAndroid = function (responseJson: string) {
+          AndroidBridge._handleDataFromAndroid(responseJson);
+      };
+      console.log("hello world from FTM");
+      console.log("hello ftm");
 
-    AndroidBridge.requestDataFromContainer("score")
-      .then((data) => {
-        console.log(
-          "Received score data from Container:",
-          JSON.stringify(data)
-        );
-      })
-      .catch((err) => {
-        console.error("Error in requestDataFromContainer promise:", err);
+      if (AndroidBridge !== undefined) {
+          AndroidBridge.requestDataFromContainer("score").then((data) => {
+              console.log(
+                  "Received score data from Container:",
+                  JSON.stringify(data)
+              );
+          });
+      } else {
+          console.log("AndroidBridge not available");
+      }
+
+      const font = await Utils.getLanguageSpecificFont(this.lang);
+      await this.loadAndCacheFont(font, `./assets/fonts/${font}.ttf`);
+      await this.loadTitleFeedbackCustomFont();
+      await this.preloadGameAudios();
+      this.handleLoadingScreen();
+      this.setupCanvas();
+
+      const data = Utils.isRespect ? await getOPDSData() : await getData();
+      this.majVersion = data.majversion;
+      this.minVersion = data.minversion;
+      this.dataModal = this.createDataModal(data);
+      this.globalInitialization(data);
+      this.logSessionStartFirebaseEvent();
+      window.addEventListener("resize", async () => {
+          this.handleResize(this.dataModal);
       });
 
-    AndroidBridge.requestInstalledAppInfo()
-      .then((data) => {
-        console.log("isAppInstalled:", data.isAppInstalled);
-      })
-      .catch((err) => {
-        console.error("Error in installedAppInfo promise:", err);
-      });
+      const playedInfo = localStorage.getItem(this.lang + "gamePlayedInfo");
+      const nextPlayableLevel = playedInfo
+          ? JSON.parse(playedInfo).length - 1
+          : 0;
+      const storageKey = Debugger.DebugMode
+          ? PreviousPlayedLevel + this.lang + "Debug"
+          : PreviousPlayedLevel + this.lang;
 
-    const font = await Utils.getLanguageSpecificFont(this.lang);
-    await this.loadAndCacheFont(font, `./assets/fonts/${font}.ttf`);
-    await this.loadTitleFeedbackCustomFont();
-    await this.preloadGameAudios();
-    this.handleLoadingScreen();
-    this.setupCanvas();
-    const data = await getData();
-    this.majVersion = data.majversion;
-    this.minVersion = data.minversion;
-    this.dataModal = this.createDataModal(data);
-    this.globalInitialization(data);
-    this.logSessionStartFirebaseEvent();
-    window.addEventListener("resize", async () => {
-      this.handleResize(this.dataModal);
-    });
+      localStorage.setItem(storageKey, nextPlayableLevel.toString());
 
-    const playedInfo = localStorage.getItem(this.lang + "gamePlayedInfo");
-    const nextPlayableLevel = playedInfo
-      ? JSON.parse(playedInfo).length - 1
-      : 0;
-    const storageKey = Debugger.DebugMode
-      ? PreviousPlayedLevel + this.lang + "Debug"
-      : PreviousPlayedLevel + this.lang;
+      if (this.is_cached.has(this.lang)) {
+          this.handleCachedScenario(this.dataModal);
+      }
 
-    localStorage.setItem(storageKey, nextPlayableLevel.toString());
+      // Check if the user is online
+      if (navigator.onLine) {
+          console.log("Internet is available. Registering Workbox...");
+          await this.registerWorkbox();
+      } else {
+          console.warn("No internet connection. Simulating fake loading progress...");
+          this.simulateFakeCachingProgress(this.lang);
+      }
 
-    if (this.is_cached.has(this.lang)) {
-      this.handleCachedScenario(this.dataModal);
-    }
-    this.registerWorkbox();
+  } catch (err) {
+      console.error("Error in init:", err);
   }
-
+  }
+  private simulateFakeCachingProgress(lang: string) {
+    const steps = [25, 50, 75, 100];
+    steps.forEach((val, i) => {
+        setTimeout(() => {
+            this.handleLoadingMessage({
+                data: val,
+                version: `${lang}-fake-version`,
+            });
+            if (val === 100) {
+                this.cacheLanguage();
+                this.hideLoadingScreen();
+            }
+        }, i * 700); // Simulate progress every 700ms
+    });
+}
+  
   private async loadTitleFeedbackCustomFont() {
     const customTitleFeedbackFont =
       customFonts[this.lang] || customFonts.default;
@@ -479,29 +502,20 @@ class App {
   public startGameWithLevel(levelNumber: string | number): void {
     console.log(`📱 FTM: Starting game with level ${levelNumber}`);
     if (this.sceneHandler) {
-      // Switch to level selection scene first
-      this.sceneHandler.switchSceneToLevelSelection("START");
+      // Skip level selection screen and directly start the game
+      console.log(`📱 FTM: Directly starting level ${levelNumber}`);
 
-      // After a delay to ensure the level selection scene is loaded,
-      // start the game with the specified level
-      setTimeout(() => {
-        console.log(
-          `📱 FTM: Starting level ${levelNumber} after level selection scene loads`
-        );
-        // Create the gameplay data structure similar to what startGame uses in level-selection-scene.ts
-        const gamePlayData = {
-          currentLevelData: {
-            ...this.dataModal.levels[levelNumber],
-            levelNumber: levelNumber,
-          },
-          selectedLevelNumber: levelNumber,
-        };
-        // Call the switchSceneToGameplay method with the gameplay data
-        this.sceneHandler.switchSceneToGameplay(
-          gamePlayData,
-          SCENE_NAME_LEVEL_SELECT
-        );
-      }, 1000); // Delay to ensure level selection scene is loaded
+      // Create the gameplay data structure
+      const gamePlayData = {
+        currentLevelData: {
+          ...this.dataModal.levels[levelNumber],
+          levelNumber: levelNumber,
+        },
+        selectedLevelNumber: levelNumber,
+      };
+
+      // Call the switchSceneToGameplay method directly with the gameplay data
+      this.sceneHandler.switchSceneToGameplay(gamePlayData, "START");
     } else {
       console.error(
         "📱 FTM: Cannot start game - scene handler not initialized"
