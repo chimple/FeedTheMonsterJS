@@ -83,40 +83,40 @@ class App {
     try {
       let lessonId;
       if (window.Android && typeof window.Android.getLessonId === "function") {
-          lessonId = window.Android.getLessonId();
-          if (lessonId != "") {
-              Utils.isDeepLink = true;
-          }
-          console.log("Lesson ID from Android:", lessonId);
+        lessonId = window.Android.getLessonId();
+        if (lessonId != "") {
+          Utils.isDeepLink = true;
+        }
+        console.log("Lesson ID from Android:", lessonId);
       }
       setTimeout(() => {
-          if (Utils.isDeepLink) {
-              Utils.isDeepLink = false;
-              console.log("Lesson ID from Android:", lessonId);
-              Utils.levelNum = lessonId;
-              this.startGameWithLevel(lessonId);
-          }
+        if (Utils.isDeepLink) {
+          Utils.isDeepLink = false;
+          console.log("Lesson ID from Android:", lessonId);
+          Utils.levelNum = lessonId;
+          this.startGameWithLevel(lessonId);
+        }
       }, 3000);
       // Make sure to listen for the response globally
       console.log(
-          "Android available: requestDataFromContainer",
-          !!window.Android?.requestDataFromContainer
+        "Android available: requestDataFromContainer",
+        !!window.Android?.requestDataFromContainer
       );
       window.onDataFromAndroid = function (responseJson: string) {
-          AndroidBridge._handleDataFromAndroid(responseJson);
+        AndroidBridge._handleDataFromAndroid(responseJson);
       };
       console.log("hello world from FTM");
       console.log("hello ftm");
 
       if (AndroidBridge !== undefined) {
-          AndroidBridge.requestDataFromContainer("score").then((data) => {
-              console.log(
-                  "Received score data from Container:",
-                  JSON.stringify(data)
-              );
-          });
+        AndroidBridge.requestDataFromContainer("score").then((data) => {
+          console.log(
+            "Received score data from Container:",
+            JSON.stringify(data)
+          );
+        });
       } else {
-          console.log("AndroidBridge not available");
+        console.log("AndroidBridge not available");
       }
 
       const font = await Utils.getLanguageSpecificFont(this.lang);
@@ -133,51 +133,51 @@ class App {
       this.globalInitialization(data);
       this.logSessionStartFirebaseEvent();
       window.addEventListener("resize", async () => {
-          this.handleResize(this.dataModal);
+        this.handleResize(this.dataModal);
       });
 
       const playedInfo = localStorage.getItem(this.lang + "gamePlayedInfo");
       const nextPlayableLevel = playedInfo
-          ? JSON.parse(playedInfo).length - 1
-          : 0;
+        ? JSON.parse(playedInfo).length - 1
+        : 0;
       const storageKey = Debugger.DebugMode
-          ? PreviousPlayedLevel + this.lang + "Debug"
-          : PreviousPlayedLevel + this.lang;
+        ? PreviousPlayedLevel + this.lang + "Debug"
+        : PreviousPlayedLevel + this.lang;
 
       localStorage.setItem(storageKey, nextPlayableLevel.toString());
 
       if (this.is_cached.has(this.lang)) {
-          this.handleCachedScenario(this.dataModal);
+        this.handleCachedScenario(this.dataModal);
       }
 
-      // Check if the user is online
-      if (navigator.onLine) {
-          console.log("Internet is available. Registering Workbox...");
-          await this.registerWorkbox();
+      if (Utils.isRespect) {
+        console.warn(
+          "Respect mode enabled. Simulating fake loading progress..."
+        );
+        this.simulateFakeCachingProgress(this.lang);
       } else {
-          console.warn("No internet connection. Simulating fake loading progress...");
-          this.simulateFakeCachingProgress(this.lang);
+        console.log("Respect mode disabled. Registering Workbox...");
+        await this.registerWorkbox();
       }
-
-  } catch (err) {
+    } catch (err) {
       console.error("Error in init:", err);
-  }
+    }
   }
   private simulateFakeCachingProgress(lang: string) {
     const steps = [25, 50, 75, 100];
     steps.forEach((val, i) => {
-        setTimeout(() => {
-            this.handleLoadingMessage({
-                data: val,
-                version: `${lang}-fake-version`,
-            });
-            if (val === 100) {
-                this.cacheLanguage();
-                this.hideLoadingScreen();
-            }
-        }, i * 700); // Simulate progress every 700ms
+      setTimeout(() => {
+        this.handleLoadingMessage({
+          data: val,
+          version: `${lang}-fake-version`,
+        });
+        if (val === 100) {
+          this.cacheLanguage();
+          this.hideLoadingScreen();
+        }
+      }, i * 700); // Simulate progress every 700ms
     });
-}
+  }
 
   private async loadTitleFeedbackCustomFont() {
     const customTitleFeedbackFont =
