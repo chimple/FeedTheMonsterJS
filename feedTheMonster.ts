@@ -125,6 +125,7 @@ class App {
       await this.preloadGameAudios();
       this.handleLoadingScreen();
       this.setupCanvas();
+
       const data = Utils.isRespect ? await getOPDSData() : await getData();
       this.majVersion = data.majversion;
       this.minVersion = data.minversion;
@@ -148,10 +149,34 @@ class App {
       if (this.is_cached.has(this.lang)) {
         this.handleCachedScenario(this.dataModal);
       }
-      this.registerWorkbox();
+
+      if (Utils.isRespect) {
+        console.warn(
+          "Respect mode enabled. Simulating fake loading progress..."
+        );
+        this.simulateFakeCachingProgress(this.lang);
+      } else {
+        console.log("Respect mode disabled. Registering Workbox...");
+        await this.registerWorkbox();
+      }
     } catch (err) {
       console.error("Error in init:", err);
     }
+  }
+  private simulateFakeCachingProgress(lang: string) {
+    const steps = [25, 50, 75, 100];
+    steps.forEach((val, i) => {
+      setTimeout(() => {
+        this.handleLoadingMessage({
+          data: val,
+          version: `${lang}-fake-version`,
+        });
+        if (val === 100) {
+          this.cacheLanguage();
+          this.hideLoadingScreen();
+        }
+      }, i * 700); // Simulate progress every 700ms
+    });
   }
 
   private async loadTitleFeedbackCustomFont() {
