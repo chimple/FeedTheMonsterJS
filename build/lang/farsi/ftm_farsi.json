@@ -8,7 +8,7 @@
   "minversion": 8,
   "langname": "FARSI",
   "FeedbackAudios": [
-    "https://feedthemonster.curiouscontent.org/lang/farsi/audios/fantastic.mp3"
+    "lang/farsi/audios/fantastic.mp3"
   ],
   "OtherAudios": {
     "Select your player": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/Select-your-player.mp3",
@@ -35,7 +35,7 @@
           ],
           "prompt": {
             "PromptText": "ب",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/ب.mp3"
+            "PromptAudio": "lang/farsi/audios/ب.mp3"
           },
           "foilstones": [
             {
@@ -55,7 +55,7 @@
           ],
           "prompt": {
             "PromptText": "بـ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/بـ.mp3"
+            "PromptAudio": "lang/farsi/audios/بـ.mp3"
           },
           "foilstones": [
             {
@@ -75,7 +75,7 @@
           ],
           "prompt": {
             "PromptText": "ـبـ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/ـبـ.mp3"
+            "PromptAudio": "lang/farsi/audios/ـبـ.mp3"
           },
           "foilstones": [
             {
@@ -115,7 +115,7 @@
           ],
           "prompt": {
             "PromptText": "ا",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/ا.mp3"
+            "PromptAudio": "lang/farsi/audios/ا.mp3"
           },
           "foilstones": [
             {
@@ -150,7 +150,7 @@
           ],
           "prompt": {
             "PromptText": "آتش",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/آتش.mp3"
+            "PromptAudio": "lang/farsi/audios/آتش.mp3"
           },
           "foilstones": [
             {
@@ -173,7 +173,7 @@
           ],
           "prompt": {
             "PromptText": "آهنگ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/آهنگ.mp3"
+            "PromptAudio": "lang/farsi/audios/آهنگ.mp3"
           },
           "foilstones": [
             {
@@ -196,7 +196,7 @@
           ],
           "prompt": {
             "PromptText": "آبی",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/آبی.mp3"
+            "PromptAudio": "lang/farsi/audios/آبی.mp3"
           },
           "foilstones": [
             {
@@ -219,7 +219,7 @@
           ],
           "prompt": {
             "PromptText": "آبی",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/آبی.mp3"
+            "PromptAudio": "lang/farsi/audios/آبی.mp3"
           },
           "foilstones": [
             {
@@ -242,7 +242,7 @@
           ],
           "prompt": {
             "PromptText": "آهنگ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/آهنگ.mp3"
+            "PromptAudio": "lang/farsi/audios/آهنگ.mp3"
           },
           "foilstones": [
             {
@@ -280,7 +280,7 @@
           ],
           "prompt": {
             "PromptText": "ب",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/ب.mp3"
+            "PromptAudio": "lang/farsi/audios/ب.mp3"
           },
           "foilstones": [
             {
@@ -300,7 +300,7 @@
           ],
           "prompt": {
             "PromptText": "گ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/گ.mp3"
+            "PromptAudio": "lang/farsi/audios/گ.mp3"
           },
           "foilstones": [
             {
@@ -320,7 +320,7 @@
           ],
           "prompt": {
             "PromptText": "ش",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/ش.mp3"
+            "PromptAudio": "lang/farsi/audios/ش.mp3"
           },
           "foilstones": [
             {
@@ -340,7 +340,7 @@
           ],
           "prompt": {
             "PromptText": "ر",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/ر.mp3"
+            "PromptAudio": "lang/farsi/audios/ر.mp3"
           },
           "foilstones": [
             {
@@ -360,7 +360,7 @@
           ],
           "prompt": {
             "PromptText": "ه",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/ه.mp3"
+            "PromptAudio": "lang/farsi/audios/ه.mp3"
           },
           "foilstones": [
             {
@@ -395,7 +395,7 @@
           ],
           "prompt": {
             "PromptText": "ژ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/ژ.mp3"
+            "PromptAudio": "lang/farsi/audios/ژ.mp3"
           },
           "foilstones": [
             {
@@ -415,7 +415,7 @@
           ],
           "prompt": {
             "PromptText": "ت",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/ت.mp3"
+            "PromptAudio": "lang/farsi/audios/ت.mp3"
           },
           "foilstones": [
             {
@@ -435,7 +435,7 @@
           ],
           "prompt": {
             "PromptText": "ش",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/ش.mp3"
+            "PromptAudio": "lang/farsi/audios/ش.mp3"
           },
           "foilstones": [
             {
@@ -455,7 +455,7 @@
           ],
           "prompt": {
             "PromptText": "ژ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/ژ.mp3"
+            "PromptAudio": "lang/farsi/audios/ژ.mp3"
           },
           "foilstones": [
             {
@@ -475,7 +475,7 @@
           ],
           "prompt": {
             "PromptText": "ه",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/ه.mp3"
+            "PromptAudio": "lang/farsi/audios/ه.mp3"
           },
           "foilstones": [
             {
@@ -510,7 +510,7 @@
           ],
           "prompt": {
             "PromptText": "ر",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/ر.mp3"
+            "PromptAudio": "lang/farsi/audios/ر.mp3"
           },
           "foilstones": [
             {
@@ -533,7 +533,7 @@
           ],
           "prompt": {
             "PromptText": "گ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/گ.mp3"
+            "PromptAudio": "lang/farsi/audios/گ.mp3"
           },
           "foilstones": [
             {
@@ -556,7 +556,7 @@
           ],
           "prompt": {
             "PromptText": "ش",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/ش.mp3"
+            "PromptAudio": "lang/farsi/audios/ش.mp3"
           },
           "foilstones": [
             {
@@ -579,7 +579,7 @@
           ],
           "prompt": {
             "PromptText": "گ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/گ.mp3"
+            "PromptAudio": "lang/farsi/audios/گ.mp3"
           },
           "foilstones": [
             {
@@ -602,7 +602,7 @@
           ],
           "prompt": {
             "PromptText": "آ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/آ.mp3"
+            "PromptAudio": "lang/farsi/audios/آ.mp3"
           },
           "foilstones": [
             {
@@ -640,7 +640,7 @@
           ],
           "prompt": {
             "PromptText": "ر",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/ر.mp3"
+            "PromptAudio": "lang/farsi/audios/ر.mp3"
           },
           "foilstones": [
             {
@@ -663,7 +663,7 @@
           ],
           "prompt": {
             "PromptText": "ژ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/ژ.mp3"
+            "PromptAudio": "lang/farsi/audios/ژ.mp3"
           },
           "foilstones": [
             {
@@ -686,7 +686,7 @@
           ],
           "prompt": {
             "PromptText": "ی",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/ی.mp3"
+            "PromptAudio": "lang/farsi/audios/ی.mp3"
           },
           "foilstones": [
             {
@@ -709,7 +709,7 @@
           ],
           "prompt": {
             "PromptText": "ه",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/ه.mp3"
+            "PromptAudio": "lang/farsi/audios/ه.mp3"
           },
           "foilstones": [
             {
@@ -732,7 +732,7 @@
           ],
           "prompt": {
             "PromptText": "گ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/گ.mp3"
+            "PromptAudio": "lang/farsi/audios/گ.mp3"
           },
           "foilstones": [
             {
@@ -770,7 +770,7 @@
           ],
           "prompt": {
             "PromptText": "ر",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/ر.mp3"
+            "PromptAudio": "lang/farsi/audios/ر.mp3"
           },
           "foilstones": [
             {
@@ -793,7 +793,7 @@
           ],
           "prompt": {
             "PromptText": "ت",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/ت.mp3"
+            "PromptAudio": "lang/farsi/audios/ت.mp3"
           },
           "foilstones": [
             {
@@ -816,7 +816,7 @@
           ],
           "prompt": {
             "PromptText": "ن",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/ن.mp3"
+            "PromptAudio": "lang/farsi/audios/ن.mp3"
           },
           "foilstones": [
             {
@@ -839,7 +839,7 @@
           ],
           "prompt": {
             "PromptText": "ر",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/ر.mp3"
+            "PromptAudio": "lang/farsi/audios/ر.mp3"
           },
           "foilstones": [
             {
@@ -862,7 +862,7 @@
           ],
           "prompt": {
             "PromptText": "ژ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/ژ.mp3"
+            "PromptAudio": "lang/farsi/audios/ژ.mp3"
           },
           "foilstones": [
             {
@@ -900,7 +900,7 @@
           ],
           "prompt": {
             "PromptText": "ژ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/ژ.mp3"
+            "PromptAudio": "lang/farsi/audios/ژ.mp3"
           },
           "foilstones": [
             {
@@ -923,7 +923,7 @@
           ],
           "prompt": {
             "PromptText": "ر",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/ر.mp3"
+            "PromptAudio": "lang/farsi/audios/ر.mp3"
           },
           "foilstones": [
             {
@@ -946,7 +946,7 @@
           ],
           "prompt": {
             "PromptText": "ه",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/ه.mp3"
+            "PromptAudio": "lang/farsi/audios/ه.mp3"
           },
           "foilstones": [
             {
@@ -969,7 +969,7 @@
           ],
           "prompt": {
             "PromptText": "ژ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/ژ.mp3"
+            "PromptAudio": "lang/farsi/audios/ژ.mp3"
           },
           "foilstones": [
             {
@@ -992,7 +992,7 @@
           ],
           "prompt": {
             "PromptText": "ه",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/ه.mp3"
+            "PromptAudio": "lang/farsi/audios/ه.mp3"
           },
           "foilstones": [
             {
@@ -1030,7 +1030,7 @@
           ],
           "prompt": {
             "PromptText": "آتش",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/آ.mp3"
+            "PromptAudio": "lang/farsi/audios/آ.mp3"
           },
           "foilstones": [
             {
@@ -1053,7 +1053,7 @@
           ],
           "prompt": {
             "PromptText": "آبی",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/آ.mp3"
+            "PromptAudio": "lang/farsi/audios/آ.mp3"
           },
           "foilstones": [
             {
@@ -1076,7 +1076,7 @@
           ],
           "prompt": {
             "PromptText": "آهنگ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/آ.mp3"
+            "PromptAudio": "lang/farsi/audios/آ.mp3"
           },
           "foilstones": [
             {
@@ -1099,7 +1099,7 @@
           ],
           "prompt": {
             "PromptText": "آژیر",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/آ.mp3"
+            "PromptAudio": "lang/farsi/audios/آ.mp3"
           },
           "foilstones": [
             {
@@ -1122,7 +1122,7 @@
           ],
           "prompt": {
             "PromptText": "آژیر",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/آ.mp3"
+            "PromptAudio": "lang/farsi/audios/آ.mp3"
           },
           "foilstones": [
             {
@@ -1160,7 +1160,7 @@
           ],
           "prompt": {
             "PromptText": "آژیر",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/آ.mp3"
+            "PromptAudio": "lang/farsi/audios/آ.mp3"
           },
           "foilstones": [
             {
@@ -1183,7 +1183,7 @@
           ],
           "prompt": {
             "PromptText": "آبی",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/آ.mp3"
+            "PromptAudio": "lang/farsi/audios/آ.mp3"
           },
           "foilstones": [
             {
@@ -1209,7 +1209,7 @@
           ],
           "prompt": {
             "PromptText": "آبی",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/آ.mp3"
+            "PromptAudio": "lang/farsi/audios/آ.mp3"
           },
           "foilstones": [
             {
@@ -1232,7 +1232,7 @@
           ],
           "prompt": {
             "PromptText": "آهنگ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/آ.mp3"
+            "PromptAudio": "lang/farsi/audios/آ.mp3"
           },
           "foilstones": [
             {
@@ -1255,7 +1255,7 @@
           ],
           "prompt": {
             "PromptText": "آبی",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/آ.mp3"
+            "PromptAudio": "lang/farsi/audios/آ.mp3"
           },
           "foilstones": [
             {
@@ -1290,7 +1290,7 @@
           ],
           "prompt": {
             "PromptText": "آهنگ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/آ.mp3"
+            "PromptAudio": "lang/farsi/audios/آ.mp3"
           },
           "foilstones": [
             {
@@ -1313,7 +1313,7 @@
           ],
           "prompt": {
             "PromptText": "آبی",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/آ.mp3"
+            "PromptAudio": "lang/farsi/audios/آ.mp3"
           },
           "foilstones": [
             {
@@ -1336,7 +1336,7 @@
           ],
           "prompt": {
             "PromptText": "آبی",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/آ.mp3"
+            "PromptAudio": "lang/farsi/audios/آ.mp3"
           },
           "foilstones": [
             {
@@ -1359,7 +1359,7 @@
           ],
           "prompt": {
             "PromptText": "آژیر",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/آ.mp3"
+            "PromptAudio": "lang/farsi/audios/آ.mp3"
           },
           "foilstones": [
             {
@@ -1385,7 +1385,7 @@
           ],
           "prompt": {
             "PromptText": "آتش",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/آ.mp3"
+            "PromptAudio": "lang/farsi/audios/آ.mp3"
           },
           "foilstones": [
             {
@@ -1426,7 +1426,7 @@
           ],
           "prompt": {
             "PromptText": "آتش",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/آتش.mp3"
+            "PromptAudio": "lang/farsi/audios/آتش.mp3"
           },
           "foilstones": [
             {
@@ -1458,7 +1458,7 @@
           ],
           "prompt": {
             "PromptText": "آهنگ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/آهنگ.mp3"
+            "PromptAudio": "lang/farsi/audios/آهنگ.mp3"
           },
           "foilstones": [
             {
@@ -1487,7 +1487,7 @@
           ],
           "prompt": {
             "PromptText": "آبی",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/آبی.mp3"
+            "PromptAudio": "lang/farsi/audios/آبی.mp3"
           },
           "foilstones": [
             {
@@ -1516,7 +1516,7 @@
           ],
           "prompt": {
             "PromptText": "آبی",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/آبی.mp3"
+            "PromptAudio": "lang/farsi/audios/آبی.mp3"
           },
           "foilstones": [
             {
@@ -1548,7 +1548,7 @@
           ],
           "prompt": {
             "PromptText": "آهنگ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/آهنگ.mp3"
+            "PromptAudio": "lang/farsi/audios/آهنگ.mp3"
           },
           "foilstones": [
             {
@@ -1595,7 +1595,7 @@
           ],
           "prompt": {
             "PromptText": "آهنگ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/آهنگ.mp3"
+            "PromptAudio": "lang/farsi/audios/آهنگ.mp3"
           },
           "foilstones": [
             {
@@ -1627,7 +1627,7 @@
           ],
           "prompt": {
             "PromptText": "آژیر",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/آژیر.mp3"
+            "PromptAudio": "lang/farsi/audios/آژیر.mp3"
           },
           "foilstones": [
             {
@@ -1659,7 +1659,7 @@
           ],
           "prompt": {
             "PromptText": "آهنگ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/آهنگ.mp3"
+            "PromptAudio": "lang/farsi/audios/آهنگ.mp3"
           },
           "foilstones": [
             {
@@ -1688,7 +1688,7 @@
           ],
           "prompt": {
             "PromptText": "آبی",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/آبی.mp3"
+            "PromptAudio": "lang/farsi/audios/آبی.mp3"
           },
           "foilstones": [
             {
@@ -1720,7 +1720,7 @@
           ],
           "prompt": {
             "PromptText": "آژیر",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/آژیر.mp3"
+            "PromptAudio": "lang/farsi/audios/آژیر.mp3"
           },
           "foilstones": [
             {
@@ -1764,7 +1764,7 @@
           ],
           "prompt": {
             "PromptText": "آبی",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/آبی.mp3"
+            "PromptAudio": "lang/farsi/audios/آبی.mp3"
           },
           "foilstones": [
             {
@@ -1793,7 +1793,7 @@
           ],
           "prompt": {
             "PromptText": "آتش",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/آتش.mp3"
+            "PromptAudio": "lang/farsi/audios/آتش.mp3"
           },
           "foilstones": [
             {
@@ -1825,7 +1825,7 @@
           ],
           "prompt": {
             "PromptText": "آهنگ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/آهنگ.mp3"
+            "PromptAudio": "lang/farsi/audios/آهنگ.mp3"
           },
           "foilstones": [
             {
@@ -1857,7 +1857,7 @@
           ],
           "prompt": {
             "PromptText": "آژیر",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/آژیر.mp3"
+            "PromptAudio": "lang/farsi/audios/آژیر.mp3"
           },
           "foilstones": [
             {
@@ -1889,7 +1889,7 @@
           ],
           "prompt": {
             "PromptText": "آهنگ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/آهنگ.mp3"
+            "PromptAudio": "lang/farsi/audios/آهنگ.mp3"
           },
           "foilstones": [
             {
@@ -1927,7 +1927,7 @@
           ],
           "prompt": {
             "PromptText": "آ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/آ.mp3"
+            "PromptAudio": "lang/farsi/audios/آ.mp3"
           },
           "foilstones": [
             {
@@ -1947,7 +1947,7 @@
           ],
           "prompt": {
             "PromptText": "س",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/س.mp3"
+            "PromptAudio": "lang/farsi/audios/س.mp3"
           },
           "foilstones": [
             {
@@ -1967,7 +1967,7 @@
           ],
           "prompt": {
             "PromptText": "س",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/س.mp3"
+            "PromptAudio": "lang/farsi/audios/س.mp3"
           },
           "foilstones": [
             {
@@ -1987,7 +1987,7 @@
           ],
           "prompt": {
             "PromptText": "ب",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/ب.mp3"
+            "PromptAudio": "lang/farsi/audios/ب.mp3"
           },
           "foilstones": [
             {
@@ -2007,7 +2007,7 @@
           ],
           "prompt": {
             "PromptText": "ر",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/ر.mp3"
+            "PromptAudio": "lang/farsi/audios/ر.mp3"
           },
           "foilstones": [
             {
@@ -2042,7 +2042,7 @@
           ],
           "prompt": {
             "PromptText": "ت",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/ت.mp3"
+            "PromptAudio": "lang/farsi/audios/ت.mp3"
           },
           "foilstones": [
             {
@@ -2065,7 +2065,7 @@
           ],
           "prompt": {
             "PromptText": "د",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/د.mp3"
+            "PromptAudio": "lang/farsi/audios/د.mp3"
           },
           "foilstones": [
             {
@@ -2088,7 +2088,7 @@
           ],
           "prompt": {
             "PromptText": "ف",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/ف.mp3"
+            "PromptAudio": "lang/farsi/audios/ف.mp3"
           },
           "foilstones": [
             {
@@ -2111,7 +2111,7 @@
           ],
           "prompt": {
             "PromptText": "ر",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/ر.mp3"
+            "PromptAudio": "lang/farsi/audios/ر.mp3"
           },
           "foilstones": [
             {
@@ -2134,7 +2134,7 @@
           ],
           "prompt": {
             "PromptText": "د",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/د.mp3"
+            "PromptAudio": "lang/farsi/audios/د.mp3"
           },
           "foilstones": [
             {
@@ -2172,7 +2172,7 @@
           ],
           "prompt": {
             "PromptText": "ت",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/ت.mp3"
+            "PromptAudio": "lang/farsi/audios/ت.mp3"
           },
           "foilstones": [
             {
@@ -2201,7 +2201,7 @@
           ],
           "prompt": {
             "PromptText": "م",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/م.mp3"
+            "PromptAudio": "lang/farsi/audios/م.mp3"
           },
           "foilstones": [
             {
@@ -2227,7 +2227,7 @@
           ],
           "prompt": {
             "PromptText": "ف",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/ف.mp3"
+            "PromptAudio": "lang/farsi/audios/ف.mp3"
           },
           "foilstones": [
             {
@@ -2250,7 +2250,7 @@
           ],
           "prompt": {
             "PromptText": "م",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/م.mp3"
+            "PromptAudio": "lang/farsi/audios/م.mp3"
           },
           "foilstones": [
             {
@@ -2276,7 +2276,7 @@
           ],
           "prompt": {
             "PromptText": "ر",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/ر.mp3"
+            "PromptAudio": "lang/farsi/audios/ر.mp3"
           },
           "foilstones": [
             {
@@ -2314,7 +2314,7 @@
           ],
           "prompt": {
             "PromptText": "ب",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/ب.mp3"
+            "PromptAudio": "lang/farsi/audios/ب.mp3"
           },
           "foilstones": [
             {
@@ -2340,7 +2340,7 @@
           ],
           "prompt": {
             "PromptText": "ر",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/ر.mp3"
+            "PromptAudio": "lang/farsi/audios/ر.mp3"
           },
           "foilstones": [
             {
@@ -2366,7 +2366,7 @@
           ],
           "prompt": {
             "PromptText": "ب",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/ب.mp3"
+            "PromptAudio": "lang/farsi/audios/ب.mp3"
           },
           "foilstones": [
             {
@@ -2392,7 +2392,7 @@
           ],
           "prompt": {
             "PromptText": "ب",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/ب.mp3"
+            "PromptAudio": "lang/farsi/audios/ب.mp3"
           },
           "foilstones": [
             {
@@ -2418,7 +2418,7 @@
           ],
           "prompt": {
             "PromptText": "ن",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/ن.mp3"
+            "PromptAudio": "lang/farsi/audios/ن.mp3"
           },
           "foilstones": [
             {
@@ -2462,7 +2462,7 @@
           ],
           "prompt": {
             "PromptText": "ن",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/ن.mp3"
+            "PromptAudio": "lang/farsi/audios/ن.mp3"
           },
           "foilstones": [
             {
@@ -2488,7 +2488,7 @@
           ],
           "prompt": {
             "PromptText": "م",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/م.mp3"
+            "PromptAudio": "lang/farsi/audios/م.mp3"
           },
           "foilstones": [
             {
@@ -2514,7 +2514,7 @@
           ],
           "prompt": {
             "PromptText": "م",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/م.mp3"
+            "PromptAudio": "lang/farsi/audios/م.mp3"
           },
           "foilstones": [
             {
@@ -2540,7 +2540,7 @@
           ],
           "prompt": {
             "PromptText": "د",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/د.mp3"
+            "PromptAudio": "lang/farsi/audios/د.mp3"
           },
           "foilstones": [
             {
@@ -2566,7 +2566,7 @@
           ],
           "prompt": {
             "PromptText": "د",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/د.mp3"
+            "PromptAudio": "lang/farsi/audios/د.mp3"
           },
           "foilstones": [
             {
@@ -2610,7 +2610,7 @@
           ],
           "prompt": {
             "PromptText": "ب",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/ب.mp3"
+            "PromptAudio": "lang/farsi/audios/ب.mp3"
           },
           "foilstones": [
             {
@@ -2636,7 +2636,7 @@
           ],
           "prompt": {
             "PromptText": "ب",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/ب.mp3"
+            "PromptAudio": "lang/farsi/audios/ب.mp3"
           },
           "foilstones": [
             {
@@ -2662,7 +2662,7 @@
           ],
           "prompt": {
             "PromptText": "م",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/م.mp3"
+            "PromptAudio": "lang/farsi/audios/م.mp3"
           },
           "foilstones": [
             {
@@ -2688,7 +2688,7 @@
           ],
           "prompt": {
             "PromptText": "ب",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/ب.mp3"
+            "PromptAudio": "lang/farsi/audios/ب.mp3"
           },
           "foilstones": [
             {
@@ -2714,7 +2714,7 @@
           ],
           "prompt": {
             "PromptText": "د",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/د.mp3"
+            "PromptAudio": "lang/farsi/audios/د.mp3"
           },
           "foilstones": [
             {
@@ -2758,7 +2758,7 @@
           ],
           "prompt": {
             "PromptText": "آدم",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/آ.mp3"
+            "PromptAudio": "lang/farsi/audios/آ.mp3"
           },
           "foilstones": [
             {
@@ -2784,7 +2784,7 @@
           ],
           "prompt": {
             "PromptText": "آسان",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/آ.mp3"
+            "PromptAudio": "lang/farsi/audios/آ.mp3"
           },
           "foilstones": [
             {
@@ -2810,7 +2810,7 @@
           ],
           "prompt": {
             "PromptText": "آسان",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/آ.mp3"
+            "PromptAudio": "lang/farsi/audios/آ.mp3"
           },
           "foilstones": [
             {
@@ -2836,7 +2836,7 @@
           ],
           "prompt": {
             "PromptText": "آرام",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/آ.mp3"
+            "PromptAudio": "lang/farsi/audios/آ.mp3"
           },
           "foilstones": [
             {
@@ -2862,7 +2862,7 @@
           ],
           "prompt": {
             "PromptText": "آفتاب",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/آ.mp3"
+            "PromptAudio": "lang/farsi/audios/آ.mp3"
           },
           "foilstones": [
             {
@@ -2906,7 +2906,7 @@
           ],
           "prompt": {
             "PromptText": "آرام",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/آ.mp3"
+            "PromptAudio": "lang/farsi/audios/آ.mp3"
           },
           "foilstones": [
             {
@@ -2929,7 +2929,7 @@
           ],
           "prompt": {
             "PromptText": "آدم",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/آ.mp3"
+            "PromptAudio": "lang/farsi/audios/آ.mp3"
           },
           "foilstones": [
             {
@@ -2952,7 +2952,7 @@
           ],
           "prompt": {
             "PromptText": "آفتاب",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/آ.mp3"
+            "PromptAudio": "lang/farsi/audios/آ.mp3"
           },
           "foilstones": [
             {
@@ -2975,7 +2975,7 @@
           ],
           "prompt": {
             "PromptText": "آفتاب",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/آ.mp3"
+            "PromptAudio": "lang/farsi/audios/آ.mp3"
           },
           "foilstones": [
             {
@@ -2998,7 +2998,7 @@
           ],
           "prompt": {
             "PromptText": "آفتاب",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/آ.mp3"
+            "PromptAudio": "lang/farsi/audios/آ.mp3"
           },
           "foilstones": [
             {
@@ -3036,7 +3036,7 @@
           ],
           "prompt": {
             "PromptText": "آرام",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/آ.mp3"
+            "PromptAudio": "lang/farsi/audios/آ.mp3"
           },
           "foilstones": [
             {
@@ -3059,7 +3059,7 @@
           ],
           "prompt": {
             "PromptText": "آرام",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/آ.mp3"
+            "PromptAudio": "lang/farsi/audios/آ.mp3"
           },
           "foilstones": [
             {
@@ -3082,7 +3082,7 @@
           ],
           "prompt": {
             "PromptText": "آدم",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/آ.mp3"
+            "PromptAudio": "lang/farsi/audios/آ.mp3"
           },
           "foilstones": [
             {
@@ -3105,7 +3105,7 @@
           ],
           "prompt": {
             "PromptText": "آرام",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/آ.mp3"
+            "PromptAudio": "lang/farsi/audios/آ.mp3"
           },
           "foilstones": [
             {
@@ -3128,7 +3128,7 @@
           ],
           "prompt": {
             "PromptText": "آفتاب",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/آ.mp3"
+            "PromptAudio": "lang/farsi/audios/آ.mp3"
           },
           "foilstones": [
             {
@@ -3163,7 +3163,7 @@
           ],
           "prompt": {
             "PromptText": "آسان",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/آ.mp3"
+            "PromptAudio": "lang/farsi/audios/آ.mp3"
           },
           "foilstones": [
             {
@@ -3186,7 +3186,7 @@
           ],
           "prompt": {
             "PromptText": "آفتاب",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/آ.mp3"
+            "PromptAudio": "lang/farsi/audios/آ.mp3"
           },
           "foilstones": [
             {
@@ -3209,7 +3209,7 @@
           ],
           "prompt": {
             "PromptText": "آسان",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/آ.mp3"
+            "PromptAudio": "lang/farsi/audios/آ.mp3"
           },
           "foilstones": [
             {
@@ -3235,7 +3235,7 @@
           ],
           "prompt": {
             "PromptText": "آرام",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/آ.mp3"
+            "PromptAudio": "lang/farsi/audios/آ.mp3"
           },
           "foilstones": [
             {
@@ -3258,7 +3258,7 @@
           ],
           "prompt": {
             "PromptText": "آسان",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/آ.mp3"
+            "PromptAudio": "lang/farsi/audios/آ.mp3"
           },
           "foilstones": [
             {
@@ -3302,7 +3302,7 @@
           ],
           "prompt": {
             "PromptText": "آسان",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/آسان.mp3"
+            "PromptAudio": "lang/farsi/audios/آسان.mp3"
           },
           "foilstones": [
             {
@@ -3334,7 +3334,7 @@
           ],
           "prompt": {
             "PromptText": "آرام",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/آرام.mp3"
+            "PromptAudio": "lang/farsi/audios/آرام.mp3"
           },
           "foilstones": [
             {
@@ -3363,7 +3363,7 @@
           ],
           "prompt": {
             "PromptText": "آدم",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/آدم.mp3"
+            "PromptAudio": "lang/farsi/audios/آدم.mp3"
           },
           "foilstones": [
             {
@@ -3395,7 +3395,7 @@
           ],
           "prompt": {
             "PromptText": "آرام",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/آرام.mp3"
+            "PromptAudio": "lang/farsi/audios/آرام.mp3"
           },
           "foilstones": [
             {
@@ -3430,7 +3430,7 @@
           ],
           "prompt": {
             "PromptText": "آفتاب",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/آفتاب.mp3"
+            "PromptAudio": "lang/farsi/audios/آفتاب.mp3"
           },
           "foilstones": [
             {
@@ -3477,7 +3477,7 @@
           ],
           "prompt": {
             "PromptText": "آسان",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/آسان.mp3"
+            "PromptAudio": "lang/farsi/audios/آسان.mp3"
           },
           "foilstones": [
             {
@@ -3509,7 +3509,7 @@
           ],
           "prompt": {
             "PromptText": "آرام",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/آرام.mp3"
+            "PromptAudio": "lang/farsi/audios/آرام.mp3"
           },
           "foilstones": [
             {
@@ -3541,7 +3541,7 @@
           ],
           "prompt": {
             "PromptText": "آرام",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/آرام.mp3"
+            "PromptAudio": "lang/farsi/audios/آرام.mp3"
           },
           "foilstones": [
             {
@@ -3576,7 +3576,7 @@
           ],
           "prompt": {
             "PromptText": "آسان",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/آسان.mp3"
+            "PromptAudio": "lang/farsi/audios/آسان.mp3"
           },
           "foilstones": [
             {
@@ -3611,7 +3611,7 @@
           ],
           "prompt": {
             "PromptText": "آفتاب",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/آفتاب.mp3"
+            "PromptAudio": "lang/farsi/audios/آفتاب.mp3"
           },
           "foilstones": [
             {
@@ -3655,7 +3655,7 @@
           ],
           "prompt": {
             "PromptText": "آسان",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/آسان.mp3"
+            "PromptAudio": "lang/farsi/audios/آسان.mp3"
           },
           "foilstones": [
             {
@@ -3687,7 +3687,7 @@
           ],
           "prompt": {
             "PromptText": "آسان",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/آسان.mp3"
+            "PromptAudio": "lang/farsi/audios/آسان.mp3"
           },
           "foilstones": [
             {
@@ -3719,7 +3719,7 @@
           ],
           "prompt": {
             "PromptText": "آرام",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/آرام.mp3"
+            "PromptAudio": "lang/farsi/audios/آرام.mp3"
           },
           "foilstones": [
             {
@@ -3754,7 +3754,7 @@
           ],
           "prompt": {
             "PromptText": "آرام",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/آرام.mp3"
+            "PromptAudio": "lang/farsi/audios/آرام.mp3"
           },
           "foilstones": [
             {
@@ -3786,7 +3786,7 @@
           ],
           "prompt": {
             "PromptText": "آرام",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/آرام.mp3"
+            "PromptAudio": "lang/farsi/audios/آرام.mp3"
           },
           "foilstones": [
             {
@@ -3821,7 +3821,7 @@
           ],
           "prompt": {
             "PromptText": "چ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/چ.mp3"
+            "PromptAudio": "lang/farsi/audios/چ.mp3"
           },
           "foilstones": [
             {
@@ -3844,7 +3844,7 @@
           ],
           "prompt": {
             "PromptText": "ج",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/ج.mp3"
+            "PromptAudio": "lang/farsi/audios/ج.mp3"
           },
           "foilstones": [
             {
@@ -3867,7 +3867,7 @@
           ],
           "prompt": {
             "PromptText": "ت",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/ت.mp3"
+            "PromptAudio": "lang/farsi/audios/ت.mp3"
           },
           "foilstones": [
             {
@@ -3893,7 +3893,7 @@
           ],
           "prompt": {
             "PromptText": "ج",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/ج.mp3"
+            "PromptAudio": "lang/farsi/audios/ج.mp3"
           },
           "foilstones": [
             {
@@ -3916,7 +3916,7 @@
           ],
           "prompt": {
             "PromptText": "ج",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/ج.mp3"
+            "PromptAudio": "lang/farsi/audios/ج.mp3"
           },
           "foilstones": [
             {
@@ -3951,7 +3951,7 @@
           ],
           "prompt": {
             "PromptText": "ا",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/ا.mp3"
+            "PromptAudio": "lang/farsi/audios/ا.mp3"
           },
           "foilstones": [
             {
@@ -3983,7 +3983,7 @@
           ],
           "prompt": {
             "PromptText": "ت",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/ت.mp3"
+            "PromptAudio": "lang/farsi/audios/ت.mp3"
           },
           "foilstones": [
             {
@@ -4012,7 +4012,7 @@
           ],
           "prompt": {
             "PromptText": "ق",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/ق.mp3"
+            "PromptAudio": "lang/farsi/audios/ق.mp3"
           },
           "foilstones": [
             {
@@ -4044,7 +4044,7 @@
           ],
           "prompt": {
             "PromptText": "ت",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/ت.mp3"
+            "PromptAudio": "lang/farsi/audios/ت.mp3"
           },
           "foilstones": [
             {
@@ -4073,7 +4073,7 @@
           ],
           "prompt": {
             "PromptText": "ب",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/ب.mp3"
+            "PromptAudio": "lang/farsi/audios/ب.mp3"
           },
           "foilstones": [
             {
@@ -4117,7 +4117,7 @@
           ],
           "prompt": {
             "PromptText": "چ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/چ.mp3"
+            "PromptAudio": "lang/farsi/audios/چ.mp3"
           },
           "foilstones": [
             {
@@ -4149,7 +4149,7 @@
           ],
           "prompt": {
             "PromptText": "ت",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/ت.mp3"
+            "PromptAudio": "lang/farsi/audios/ت.mp3"
           },
           "foilstones": [
             {
@@ -4181,7 +4181,7 @@
           ],
           "prompt": {
             "PromptText": "م",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/م.mp3"
+            "PromptAudio": "lang/farsi/audios/م.mp3"
           },
           "foilstones": [
             {
@@ -4210,7 +4210,7 @@
           ],
           "prompt": {
             "PromptText": "ت",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/ت.mp3"
+            "PromptAudio": "lang/farsi/audios/ت.mp3"
           },
           "foilstones": [
             {
@@ -4239,7 +4239,7 @@
           ],
           "prompt": {
             "PromptText": "ج",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/ج.mp3"
+            "PromptAudio": "lang/farsi/audios/ج.mp3"
           },
           "foilstones": [
             {
@@ -4283,7 +4283,7 @@
           ],
           "prompt": {
             "PromptText": "ج",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/ج.mp3"
+            "PromptAudio": "lang/farsi/audios/ج.mp3"
           },
           "foilstones": [
             {
@@ -4315,7 +4315,7 @@
           ],
           "prompt": {
             "PromptText": "ج",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/ج.mp3"
+            "PromptAudio": "lang/farsi/audios/ج.mp3"
           },
           "foilstones": [
             {
@@ -4347,7 +4347,7 @@
           ],
           "prompt": {
             "PromptText": "م",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/م.mp3"
+            "PromptAudio": "lang/farsi/audios/م.mp3"
           },
           "foilstones": [
             {
@@ -4376,7 +4376,7 @@
           ],
           "prompt": {
             "PromptText": "ت",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/ت.mp3"
+            "PromptAudio": "lang/farsi/audios/ت.mp3"
           },
           "foilstones": [
             {
@@ -4405,7 +4405,7 @@
           ],
           "prompt": {
             "PromptText": "ا",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/ا.mp3"
+            "PromptAudio": "lang/farsi/audios/ا.mp3"
           },
           "foilstones": [
             {
@@ -4449,7 +4449,7 @@
           ],
           "prompt": {
             "PromptText": "ق",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/ق.mp3"
+            "PromptAudio": "lang/farsi/audios/ق.mp3"
           },
           "foilstones": [
             {
@@ -4478,7 +4478,7 @@
           ],
           "prompt": {
             "PromptText": "م",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/م.mp3"
+            "PromptAudio": "lang/farsi/audios/م.mp3"
           },
           "foilstones": [
             {
@@ -4510,7 +4510,7 @@
           ],
           "prompt": {
             "PromptText": "ب",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/ب.mp3"
+            "PromptAudio": "lang/farsi/audios/ب.mp3"
           },
           "foilstones": [
             {
@@ -4542,7 +4542,7 @@
           ],
           "prompt": {
             "PromptText": "ب",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/ب.mp3"
+            "PromptAudio": "lang/farsi/audios/ب.mp3"
           },
           "foilstones": [
             {
@@ -4571,7 +4571,7 @@
           ],
           "prompt": {
             "PromptText": "ت",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/ت.mp3"
+            "PromptAudio": "lang/farsi/audios/ت.mp3"
           },
           "foilstones": [
             {
@@ -4615,7 +4615,7 @@
           ],
           "prompt": {
             "PromptText": "ت",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/ت.mp3"
+            "PromptAudio": "lang/farsi/audios/ت.mp3"
           },
           "foilstones": [
             {
@@ -4647,7 +4647,7 @@
           ],
           "prompt": {
             "PromptText": "م",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/م.mp3"
+            "PromptAudio": "lang/farsi/audios/م.mp3"
           },
           "foilstones": [
             {
@@ -4679,7 +4679,7 @@
           ],
           "prompt": {
             "PromptText": "ب",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/ب.mp3"
+            "PromptAudio": "lang/farsi/audios/ب.mp3"
           },
           "foilstones": [
             {
@@ -4708,7 +4708,7 @@
           ],
           "prompt": {
             "PromptText": "ب",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/ب.mp3"
+            "PromptAudio": "lang/farsi/audios/ب.mp3"
           },
           "foilstones": [
             {
@@ -4740,7 +4740,7 @@
           ],
           "prompt": {
             "PromptText": "م",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/م.mp3"
+            "PromptAudio": "lang/farsi/audios/م.mp3"
           },
           "foilstones": [
             {
@@ -4781,7 +4781,7 @@
           ],
           "prompt": {
             "PromptText": "قاچ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/ق.mp3"
+            "PromptAudio": "lang/farsi/audios/ق.mp3"
           },
           "foilstones": [
             {
@@ -4813,7 +4813,7 @@
           ],
           "prompt": {
             "PromptText": "قاچ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/ق.mp3"
+            "PromptAudio": "lang/farsi/audios/ق.mp3"
           },
           "foilstones": [
             {
@@ -4845,7 +4845,7 @@
           ],
           "prompt": {
             "PromptText": "تاج",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/ت.mp3"
+            "PromptAudio": "lang/farsi/audios/ت.mp3"
           },
           "foilstones": [
             {
@@ -4874,7 +4874,7 @@
           ],
           "prompt": {
             "PromptText": "تاج",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/ت.mp3"
+            "PromptAudio": "lang/farsi/audios/ت.mp3"
           },
           "foilstones": [
             {
@@ -4906,7 +4906,7 @@
           ],
           "prompt": {
             "PromptText": "قاچ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/ق.mp3"
+            "PromptAudio": "lang/farsi/audios/ق.mp3"
           },
           "foilstones": [
             {
@@ -4947,7 +4947,7 @@
           ],
           "prompt": {
             "PromptText": "ماچ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/م.mp3"
+            "PromptAudio": "lang/farsi/audios/م.mp3"
           },
           "foilstones": [
             {
@@ -4979,7 +4979,7 @@
           ],
           "prompt": {
             "PromptText": "ماچ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/م.mp3"
+            "PromptAudio": "lang/farsi/audios/م.mp3"
           },
           "foilstones": [
             {
@@ -5011,7 +5011,7 @@
           ],
           "prompt": {
             "PromptText": "قاچ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/ق.mp3"
+            "PromptAudio": "lang/farsi/audios/ق.mp3"
           },
           "foilstones": [
             {
@@ -5040,7 +5040,7 @@
           ],
           "prompt": {
             "PromptText": "ماچ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/م.mp3"
+            "PromptAudio": "lang/farsi/audios/م.mp3"
           },
           "foilstones": [
             {
@@ -5072,7 +5072,7 @@
           ],
           "prompt": {
             "PromptText": "قاچ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/ق.mp3"
+            "PromptAudio": "lang/farsi/audios/ق.mp3"
           },
           "foilstones": [
             {
@@ -5113,7 +5113,7 @@
           ],
           "prompt": {
             "PromptText": "تاب",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/ت.mp3"
+            "PromptAudio": "lang/farsi/audios/ت.mp3"
           },
           "foilstones": [
             {
@@ -5151,7 +5151,7 @@
           ],
           "prompt": {
             "PromptText": "تاب",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/ت.mp3"
+            "PromptAudio": "lang/farsi/audios/ت.mp3"
           },
           "foilstones": [
             {
@@ -5186,7 +5186,7 @@
           ],
           "prompt": {
             "PromptText": "تاج",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/ت.mp3"
+            "PromptAudio": "lang/farsi/audios/ت.mp3"
           },
           "foilstones": [
             {
@@ -5224,7 +5224,7 @@
           ],
           "prompt": {
             "PromptText": "قاچ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/ق.mp3"
+            "PromptAudio": "lang/farsi/audios/ق.mp3"
           },
           "foilstones": [
             {
@@ -5256,7 +5256,7 @@
           ],
           "prompt": {
             "PromptText": "قاب",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/ق.mp3"
+            "PromptAudio": "lang/farsi/audios/ق.mp3"
           },
           "foilstones": [
             {
@@ -5309,7 +5309,7 @@
           ],
           "prompt": {
             "PromptText": "تاج",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/ت.mp3"
+            "PromptAudio": "lang/farsi/audios/ت.mp3"
           },
           "foilstones": [
             {
@@ -5344,7 +5344,7 @@
           ],
           "prompt": {
             "PromptText": "قاچ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/ق.mp3"
+            "PromptAudio": "lang/farsi/audios/ق.mp3"
           },
           "foilstones": [
             {
@@ -5382,7 +5382,7 @@
           ],
           "prompt": {
             "PromptText": "قاب",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/ق.mp3"
+            "PromptAudio": "lang/farsi/audios/ق.mp3"
           },
           "foilstones": [
             {
@@ -5420,7 +5420,7 @@
           ],
           "prompt": {
             "PromptText": "مات",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/م.mp3"
+            "PromptAudio": "lang/farsi/audios/م.mp3"
           },
           "foilstones": [
             {
@@ -5461,7 +5461,7 @@
           ],
           "prompt": {
             "PromptText": "مات",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/م.mp3"
+            "PromptAudio": "lang/farsi/audios/م.mp3"
           },
           "foilstones": [
             {
@@ -5511,7 +5511,7 @@
           ],
           "prompt": {
             "PromptText": "ماچ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/ماچ.mp3"
+            "PromptAudio": "lang/farsi/audios/ماچ.mp3"
           },
           "foilstones": [
             {
@@ -5555,7 +5555,7 @@
           ],
           "prompt": {
             "PromptText": "تاب",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/تاب.mp3"
+            "PromptAudio": "lang/farsi/audios/تاب.mp3"
           },
           "foilstones": [
             {
@@ -5602,7 +5602,7 @@
           ],
           "prompt": {
             "PromptText": "ماچ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/ماچ.mp3"
+            "PromptAudio": "lang/farsi/audios/ماچ.mp3"
           },
           "foilstones": [
             {
@@ -5646,7 +5646,7 @@
           ],
           "prompt": {
             "PromptText": "تاج",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/تاج.mp3"
+            "PromptAudio": "lang/farsi/audios/تاج.mp3"
           },
           "foilstones": [
             {
@@ -5687,7 +5687,7 @@
           ],
           "prompt": {
             "PromptText": "تاب",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/تاب.mp3"
+            "PromptAudio": "lang/farsi/audios/تاب.mp3"
           },
           "foilstones": [
             {
@@ -5743,7 +5743,7 @@
           ],
           "prompt": {
             "PromptText": "تاج",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/تاج.mp3"
+            "PromptAudio": "lang/farsi/audios/تاج.mp3"
           },
           "foilstones": [
             {
@@ -5787,7 +5787,7 @@
           ],
           "prompt": {
             "PromptText": "مات",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/مات.mp3"
+            "PromptAudio": "lang/farsi/audios/مات.mp3"
           },
           "foilstones": [
             {
@@ -5831,7 +5831,7 @@
           ],
           "prompt": {
             "PromptText": "تاج",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/تاج.mp3"
+            "PromptAudio": "lang/farsi/audios/تاج.mp3"
           },
           "foilstones": [
             {
@@ -5875,7 +5875,7 @@
           ],
           "prompt": {
             "PromptText": "تاج",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/تاج.mp3"
+            "PromptAudio": "lang/farsi/audios/تاج.mp3"
           },
           "foilstones": [
             {
@@ -5916,7 +5916,7 @@
           ],
           "prompt": {
             "PromptText": "ماچ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/ماچ.mp3"
+            "PromptAudio": "lang/farsi/audios/ماچ.mp3"
           },
           "foilstones": [
             {
@@ -5975,7 +5975,7 @@
           ],
           "prompt": {
             "PromptText": "تاج",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/تاج.mp3"
+            "PromptAudio": "lang/farsi/audios/تاج.mp3"
           },
           "foilstones": [
             {
@@ -6019,7 +6019,7 @@
           ],
           "prompt": {
             "PromptText": "ماچ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/ماچ.mp3"
+            "PromptAudio": "lang/farsi/audios/ماچ.mp3"
           },
           "foilstones": [
             {
@@ -6063,7 +6063,7 @@
           ],
           "prompt": {
             "PromptText": "ماچ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/ماچ.mp3"
+            "PromptAudio": "lang/farsi/audios/ماچ.mp3"
           },
           "foilstones": [
             {
@@ -6107,7 +6107,7 @@
           ],
           "prompt": {
             "PromptText": "قاب",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/قاب.mp3"
+            "PromptAudio": "lang/farsi/audios/قاب.mp3"
           },
           "foilstones": [
             {
@@ -6154,7 +6154,7 @@
           ],
           "prompt": {
             "PromptText": "تاج",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/تاج.mp3"
+            "PromptAudio": "lang/farsi/audios/تاج.mp3"
           },
           "foilstones": [
             {
@@ -6201,7 +6201,7 @@
           ],
           "prompt": {
             "PromptText": "پ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/پ.mp3"
+            "PromptAudio": "lang/farsi/audios/پ.mp3"
           },
           "foilstones": [
             {
@@ -6239,7 +6239,7 @@
           ],
           "prompt": {
             "PromptText": "ن",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/ن.mp3"
+            "PromptAudio": "lang/farsi/audios/ن.mp3"
           },
           "foilstones": [
             {
@@ -6277,7 +6277,7 @@
           ],
           "prompt": {
             "PromptText": "ا",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/ا.mp3"
+            "PromptAudio": "lang/farsi/audios/ا.mp3"
           },
           "foilstones": [
             {
@@ -6315,7 +6315,7 @@
           ],
           "prompt": {
             "PromptText": "ب",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/ب.mp3"
+            "PromptAudio": "lang/farsi/audios/ب.mp3"
           },
           "foilstones": [
             {
@@ -6356,7 +6356,7 @@
           ],
           "prompt": {
             "PromptText": "س",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/س.mp3"
+            "PromptAudio": "lang/farsi/audios/س.mp3"
           },
           "foilstones": [
             {
@@ -6403,7 +6403,7 @@
           ],
           "prompt": {
             "PromptText": "م",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/م.mp3"
+            "PromptAudio": "lang/farsi/audios/م.mp3"
           },
           "foilstones": [
             {
@@ -6441,7 +6441,7 @@
           ],
           "prompt": {
             "PromptText": "ن",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/ن.mp3"
+            "PromptAudio": "lang/farsi/audios/ن.mp3"
           },
           "foilstones": [
             {
@@ -6479,7 +6479,7 @@
           ],
           "prompt": {
             "PromptText": "م",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/م.mp3"
+            "PromptAudio": "lang/farsi/audios/م.mp3"
           },
           "foilstones": [
             {
@@ -6517,7 +6517,7 @@
           ],
           "prompt": {
             "PromptText": "ب",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/ب.mp3"
+            "PromptAudio": "lang/farsi/audios/ب.mp3"
           },
           "foilstones": [
             {
@@ -6558,7 +6558,7 @@
           ],
           "prompt": {
             "PromptText": "ن",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/ن.mp3"
+            "PromptAudio": "lang/farsi/audios/ن.mp3"
           },
           "foilstones": [
             {
@@ -6605,7 +6605,7 @@
           ],
           "prompt": {
             "PromptText": "ا",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/ا.mp3"
+            "PromptAudio": "lang/farsi/audios/ا.mp3"
           },
           "foilstones": [
             {
@@ -6643,7 +6643,7 @@
           ],
           "prompt": {
             "PromptText": "س",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/س.mp3"
+            "PromptAudio": "lang/farsi/audios/س.mp3"
           },
           "foilstones": [
             {
@@ -6681,7 +6681,7 @@
           ],
           "prompt": {
             "PromptText": "س",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/س.mp3"
+            "PromptAudio": "lang/farsi/audios/س.mp3"
           },
           "foilstones": [
             {
@@ -6719,7 +6719,7 @@
           ],
           "prompt": {
             "PromptText": "ا",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/ا.mp3"
+            "PromptAudio": "lang/farsi/audios/ا.mp3"
           },
           "foilstones": [
             {
@@ -6754,7 +6754,7 @@
           ],
           "prompt": {
             "PromptText": "س",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/س.mp3"
+            "PromptAudio": "lang/farsi/audios/س.mp3"
           },
           "foilstones": [
             {
@@ -6807,7 +6807,7 @@
           ],
           "prompt": {
             "PromptText": "د",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/د.mp3"
+            "PromptAudio": "lang/farsi/audios/د.mp3"
           },
           "foilstones": [
             {
@@ -6845,7 +6845,7 @@
           ],
           "prompt": {
             "PromptText": "ر",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/ر.mp3"
+            "PromptAudio": "lang/farsi/audios/ر.mp3"
           },
           "foilstones": [
             {
@@ -6883,7 +6883,7 @@
           ],
           "prompt": {
             "PromptText": "پ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/پ.mp3"
+            "PromptAudio": "lang/farsi/audios/پ.mp3"
           },
           "foilstones": [
             {
@@ -6921,7 +6921,7 @@
           ],
           "prompt": {
             "PromptText": "ر",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/ر.mp3"
+            "PromptAudio": "lang/farsi/audios/ر.mp3"
           },
           "foilstones": [
             {
@@ -6956,7 +6956,7 @@
           ],
           "prompt": {
             "PromptText": "د",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/د.mp3"
+            "PromptAudio": "lang/farsi/audios/د.mp3"
           },
           "foilstones": [
             {
@@ -7009,7 +7009,7 @@
           ],
           "prompt": {
             "PromptText": "ن",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/ن.mp3"
+            "PromptAudio": "lang/farsi/audios/ن.mp3"
           },
           "foilstones": [
             {
@@ -7047,7 +7047,7 @@
           ],
           "prompt": {
             "PromptText": "ن",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/ن.mp3"
+            "PromptAudio": "lang/farsi/audios/ن.mp3"
           },
           "foilstones": [
             {
@@ -7085,7 +7085,7 @@
           ],
           "prompt": {
             "PromptText": "ب",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/ب.mp3"
+            "PromptAudio": "lang/farsi/audios/ب.mp3"
           },
           "foilstones": [
             {
@@ -7120,7 +7120,7 @@
           ],
           "prompt": {
             "PromptText": "ا",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/ا.mp3"
+            "PromptAudio": "lang/farsi/audios/ا.mp3"
           },
           "foilstones": [
             {
@@ -7161,7 +7161,7 @@
           ],
           "prompt": {
             "PromptText": "د",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/د.mp3"
+            "PromptAudio": "lang/farsi/audios/د.mp3"
           },
           "foilstones": [
             {
@@ -7211,7 +7211,7 @@
           ],
           "prompt": {
             "PromptText": "ن",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/ن.mp3"
+            "PromptAudio": "lang/farsi/audios/ن.mp3"
           },
           "foilstones": [
             {
@@ -7249,7 +7249,7 @@
           ],
           "prompt": {
             "PromptText": "ن",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/ن.mp3"
+            "PromptAudio": "lang/farsi/audios/ن.mp3"
           },
           "foilstones": [
             {
@@ -7287,7 +7287,7 @@
           ],
           "prompt": {
             "PromptText": "م",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/م.mp3"
+            "PromptAudio": "lang/farsi/audios/م.mp3"
           },
           "foilstones": [
             {
@@ -7325,7 +7325,7 @@
           ],
           "prompt": {
             "PromptText": "ن",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/ن.mp3"
+            "PromptAudio": "lang/farsi/audios/ن.mp3"
           },
           "foilstones": [
             {
@@ -7360,7 +7360,7 @@
           ],
           "prompt": {
             "PromptText": "ا",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/ا.mp3"
+            "PromptAudio": "lang/farsi/audios/ا.mp3"
           },
           "foilstones": [
             {
@@ -7413,7 +7413,7 @@
           ],
           "prompt": {
             "PromptText": "مادر",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/م.mp3"
+            "PromptAudio": "lang/farsi/audios/م.mp3"
           },
           "foilstones": [
             {
@@ -7451,7 +7451,7 @@
           ],
           "prompt": {
             "PromptText": "مادر",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/م.mp3"
+            "PromptAudio": "lang/farsi/audios/م.mp3"
           },
           "foilstones": [
             {
@@ -7489,7 +7489,7 @@
           ],
           "prompt": {
             "PromptText": "مادر",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/م.mp3"
+            "PromptAudio": "lang/farsi/audios/م.mp3"
           },
           "foilstones": [
             {
@@ -7527,7 +7527,7 @@
           ],
           "prompt": {
             "PromptText": "مادر",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/م.mp3"
+            "PromptAudio": "lang/farsi/audios/م.mp3"
           },
           "foilstones": [
             {
@@ -7562,7 +7562,7 @@
           ],
           "prompt": {
             "PromptText": "سارا",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/س.mp3"
+            "PromptAudio": "lang/farsi/audios/س.mp3"
           },
           "foilstones": [
             {
@@ -7615,7 +7615,7 @@
           ],
           "prompt": {
             "PromptText": "پاندا",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/پ.mp3"
+            "PromptAudio": "lang/farsi/audios/پ.mp3"
           },
           "foilstones": [
             {
@@ -7638,7 +7638,7 @@
           ],
           "prompt": {
             "PromptText": "سارا",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/س.mp3"
+            "PromptAudio": "lang/farsi/audios/س.mp3"
           },
           "foilstones": [
             {
@@ -7661,7 +7661,7 @@
           ],
           "prompt": {
             "PromptText": "سارا",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/س.mp3"
+            "PromptAudio": "lang/farsi/audios/س.mp3"
           },
           "foilstones": [
             {
@@ -7684,7 +7684,7 @@
           ],
           "prompt": {
             "PromptText": "مادر",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/م.mp3"
+            "PromptAudio": "lang/farsi/audios/م.mp3"
           },
           "foilstones": [
             {
@@ -7710,7 +7710,7 @@
           ],
           "prompt": {
             "PromptText": "بابا",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/ب.mp3"
+            "PromptAudio": "lang/farsi/audios/ب.mp3"
           },
           "foilstones": [
             {
@@ -7745,7 +7745,7 @@
           ],
           "prompt": {
             "PromptText": "بادام",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/ب.mp3"
+            "PromptAudio": "lang/farsi/audios/ب.mp3"
           },
           "foilstones": [
             {
@@ -7768,7 +7768,7 @@
           ],
           "prompt": {
             "PromptText": "مادر",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/م.mp3"
+            "PromptAudio": "lang/farsi/audios/م.mp3"
           },
           "foilstones": [
             {
@@ -7791,7 +7791,7 @@
           ],
           "prompt": {
             "PromptText": "پاندا",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/پ.mp3"
+            "PromptAudio": "lang/farsi/audios/پ.mp3"
           },
           "foilstones": [
             {
@@ -7814,7 +7814,7 @@
           ],
           "prompt": {
             "PromptText": "مادر",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/م.mp3"
+            "PromptAudio": "lang/farsi/audios/م.mp3"
           },
           "foilstones": [
             {
@@ -7840,7 +7840,7 @@
           ],
           "prompt": {
             "PromptText": "مادر",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/م.mp3"
+            "PromptAudio": "lang/farsi/audios/م.mp3"
           },
           "foilstones": [
             {
@@ -7875,7 +7875,7 @@
           ],
           "prompt": {
             "PromptText": "سارا",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/س.mp3"
+            "PromptAudio": "lang/farsi/audios/س.mp3"
           },
           "foilstones": [
             {
@@ -7913,7 +7913,7 @@
           ],
           "prompt": {
             "PromptText": "سارا",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/س.mp3"
+            "PromptAudio": "lang/farsi/audios/س.mp3"
           },
           "foilstones": [
             {
@@ -7951,7 +7951,7 @@
           ],
           "prompt": {
             "PromptText": "باران",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/ب.mp3"
+            "PromptAudio": "lang/farsi/audios/ب.mp3"
           },
           "foilstones": [
             {
@@ -7986,7 +7986,7 @@
           ],
           "prompt": {
             "PromptText": "پاندا",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/پ.mp3"
+            "PromptAudio": "lang/farsi/audios/پ.mp3"
           },
           "foilstones": [
             {
@@ -8027,7 +8027,7 @@
           ],
           "prompt": {
             "PromptText": "بابا",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/ب.mp3"
+            "PromptAudio": "lang/farsi/audios/ب.mp3"
           },
           "foilstones": [
             {
@@ -8086,7 +8086,7 @@
           ],
           "prompt": {
             "PromptText": "سارا",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/سارا.mp3"
+            "PromptAudio": "lang/farsi/audios/سارا.mp3"
           },
           "foilstones": [
             {
@@ -8136,7 +8136,7 @@
           ],
           "prompt": {
             "PromptText": "باران",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/باران.mp3"
+            "PromptAudio": "lang/farsi/audios/باران.mp3"
           },
           "foilstones": [
             {
@@ -8186,7 +8186,7 @@
           ],
           "prompt": {
             "PromptText": "باران",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/باران.mp3"
+            "PromptAudio": "lang/farsi/audios/باران.mp3"
           },
           "foilstones": [
             {
@@ -8233,7 +8233,7 @@
           ],
           "prompt": {
             "PromptText": "بابا",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/بابا.mp3"
+            "PromptAudio": "lang/farsi/audios/بابا.mp3"
           },
           "foilstones": [
             {
@@ -8277,7 +8277,7 @@
           ],
           "prompt": {
             "PromptText": "بابا",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/بابا.mp3"
+            "PromptAudio": "lang/farsi/audios/بابا.mp3"
           },
           "foilstones": [
             {
@@ -8342,7 +8342,7 @@
           ],
           "prompt": {
             "PromptText": "پاندا",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/پاندا.mp3"
+            "PromptAudio": "lang/farsi/audios/پاندا.mp3"
           },
           "foilstones": [
             {
@@ -8392,7 +8392,7 @@
           ],
           "prompt": {
             "PromptText": "پاندا",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/پاندا.mp3"
+            "PromptAudio": "lang/farsi/audios/پاندا.mp3"
           },
           "foilstones": [
             {
@@ -8442,7 +8442,7 @@
           ],
           "prompt": {
             "PromptText": "بادام",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/بادام.mp3"
+            "PromptAudio": "lang/farsi/audios/بادام.mp3"
           },
           "foilstones": [
             {
@@ -8489,7 +8489,7 @@
           ],
           "prompt": {
             "PromptText": "بادام",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/بادام.mp3"
+            "PromptAudio": "lang/farsi/audios/بادام.mp3"
           },
           "foilstones": [
             {
@@ -8539,7 +8539,7 @@
           ],
           "prompt": {
             "PromptText": "بابا",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/بابا.mp3"
+            "PromptAudio": "lang/farsi/audios/بابا.mp3"
           },
           "foilstones": [
             {
@@ -8598,7 +8598,7 @@
           ],
           "prompt": {
             "PromptText": "بابا",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/بابا.mp3"
+            "PromptAudio": "lang/farsi/audios/بابا.mp3"
           },
           "foilstones": [
             {
@@ -8645,7 +8645,7 @@
           ],
           "prompt": {
             "PromptText": "مادر",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/مادر.mp3"
+            "PromptAudio": "lang/farsi/audios/مادر.mp3"
           },
           "foilstones": [
             {
@@ -8698,7 +8698,7 @@
           ],
           "prompt": {
             "PromptText": "پاندا",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/پاندا.mp3"
+            "PromptAudio": "lang/farsi/audios/پاندا.mp3"
           },
           "foilstones": [
             {
@@ -8748,7 +8748,7 @@
           ],
           "prompt": {
             "PromptText": "پاندا",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/پاندا.mp3"
+            "PromptAudio": "lang/farsi/audios/پاندا.mp3"
           },
           "foilstones": [
             {
@@ -8792,7 +8792,7 @@
           ],
           "prompt": {
             "PromptText": "سارا",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/سارا.mp3"
+            "PromptAudio": "lang/farsi/audios/سارا.mp3"
           },
           "foilstones": [
             {
@@ -8842,7 +8842,7 @@
           ],
           "prompt": {
             "PromptText": "ت",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/ت.mp3"
+            "PromptAudio": "lang/farsi/audios/ت.mp3"
           },
           "foilstones": [
             {
@@ -8880,7 +8880,7 @@
           ],
           "prompt": {
             "PromptText": "ل",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/ل.mp3"
+            "PromptAudio": "lang/farsi/audios/ل.mp3"
           },
           "foilstones": [
             {
@@ -8918,7 +8918,7 @@
           ],
           "prompt": {
             "PromptText": "خ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/خ.mp3"
+            "PromptAudio": "lang/farsi/audios/خ.mp3"
           },
           "foilstones": [
             {
@@ -8956,7 +8956,7 @@
           ],
           "prompt": {
             "PromptText": "ژ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/ژ.mp3"
+            "PromptAudio": "lang/farsi/audios/ژ.mp3"
           },
           "foilstones": [
             {
@@ -8991,7 +8991,7 @@
           ],
           "prompt": {
             "PromptText": "ه",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/ه.mp3"
+            "PromptAudio": "lang/farsi/audios/ه.mp3"
           },
           "foilstones": [
             {
@@ -9044,7 +9044,7 @@
           ],
           "prompt": {
             "PromptText": "ا",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/ا.mp3"
+            "PromptAudio": "lang/farsi/audios/ا.mp3"
           },
           "foilstones": [
             {
@@ -9082,7 +9082,7 @@
           ],
           "prompt": {
             "PromptText": "ن",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/ن.mp3"
+            "PromptAudio": "lang/farsi/audios/ن.mp3"
           },
           "foilstones": [
             {
@@ -9120,7 +9120,7 @@
           ],
           "prompt": {
             "PromptText": "ژ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/ژ.mp3"
+            "PromptAudio": "lang/farsi/audios/ژ.mp3"
           },
           "foilstones": [
             {
@@ -9158,7 +9158,7 @@
           ],
           "prompt": {
             "PromptText": "د",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/د.mp3"
+            "PromptAudio": "lang/farsi/audios/د.mp3"
           },
           "foilstones": [
             {
@@ -9193,7 +9193,7 @@
           ],
           "prompt": {
             "PromptText": "ا",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/ا.mp3"
+            "PromptAudio": "lang/farsi/audios/ا.mp3"
           },
           "foilstones": [
             {
@@ -9246,7 +9246,7 @@
           ],
           "prompt": {
             "PromptText": "ه",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/ه.mp3"
+            "PromptAudio": "lang/farsi/audios/ه.mp3"
           },
           "foilstones": [
             {
@@ -9284,7 +9284,7 @@
           ],
           "prompt": {
             "PromptText": "د",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/د.mp3"
+            "PromptAudio": "lang/farsi/audios/د.mp3"
           },
           "foilstones": [
             {
@@ -9325,7 +9325,7 @@
           ],
           "prompt": {
             "PromptText": "ه",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/ه.mp3"
+            "PromptAudio": "lang/farsi/audios/ه.mp3"
           },
           "foilstones": [
             {
@@ -9363,7 +9363,7 @@
           ],
           "prompt": {
             "PromptText": "ا",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/ا.mp3"
+            "PromptAudio": "lang/farsi/audios/ا.mp3"
           },
           "foilstones": [
             {
@@ -9398,7 +9398,7 @@
           ],
           "prompt": {
             "PromptText": "ب",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/ب.mp3"
+            "PromptAudio": "lang/farsi/audios/ب.mp3"
           },
           "foilstones": [
             {
@@ -9448,7 +9448,7 @@
           ],
           "prompt": {
             "PromptText": "ه",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/ه.mp3"
+            "PromptAudio": "lang/farsi/audios/ه.mp3"
           },
           "foilstones": [
             {
@@ -9486,7 +9486,7 @@
           ],
           "prompt": {
             "PromptText": "ژ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/ژ.mp3"
+            "PromptAudio": "lang/farsi/audios/ژ.mp3"
           },
           "foilstones": [
             {
@@ -9524,7 +9524,7 @@
           ],
           "prompt": {
             "PromptText": "ت",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/ت.mp3"
+            "PromptAudio": "lang/farsi/audios/ت.mp3"
           },
           "foilstones": [
             {
@@ -9562,7 +9562,7 @@
           ],
           "prompt": {
             "PromptText": "ه",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/ه.mp3"
+            "PromptAudio": "lang/farsi/audios/ه.mp3"
           },
           "foilstones": [
             {
@@ -9597,7 +9597,7 @@
           ],
           "prompt": {
             "PromptText": "ا",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/ا.mp3"
+            "PromptAudio": "lang/farsi/audios/ا.mp3"
           },
           "foilstones": [
             {
@@ -9650,7 +9650,7 @@
           ],
           "prompt": {
             "PromptText": "ه",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/ه.mp3"
+            "PromptAudio": "lang/farsi/audios/ه.mp3"
           },
           "foilstones": [
             {
@@ -9688,7 +9688,7 @@
           ],
           "prompt": {
             "PromptText": "س",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/س.mp3"
+            "PromptAudio": "lang/farsi/audios/س.mp3"
           },
           "foilstones": [
             {
@@ -9726,7 +9726,7 @@
           ],
           "prompt": {
             "PromptText": "د",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/د.mp3"
+            "PromptAudio": "lang/farsi/audios/د.mp3"
           },
           "foilstones": [
             {
@@ -9764,7 +9764,7 @@
           ],
           "prompt": {
             "PromptText": "ا",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/ا.mp3"
+            "PromptAudio": "lang/farsi/audios/ا.mp3"
           },
           "foilstones": [
             {
@@ -9799,7 +9799,7 @@
           ],
           "prompt": {
             "PromptText": "ه",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/ه.mp3"
+            "PromptAudio": "lang/farsi/audios/ه.mp3"
           },
           "foilstones": [
             {
@@ -9852,7 +9852,7 @@
           ],
           "prompt": {
             "PromptText": "د",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/د.mp3"
+            "PromptAudio": "lang/farsi/audios/د.mp3"
           },
           "foilstones": [
             {
@@ -9890,7 +9890,7 @@
           ],
           "prompt": {
             "PromptText": "ل",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/ل.mp3"
+            "PromptAudio": "lang/farsi/audios/ل.mp3"
           },
           "foilstones": [
             {
@@ -9928,7 +9928,7 @@
           ],
           "prompt": {
             "PromptText": "ل",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/ل.mp3"
+            "PromptAudio": "lang/farsi/audios/ل.mp3"
           },
           "foilstones": [
             {
@@ -9963,7 +9963,7 @@
           ],
           "prompt": {
             "PromptText": "ه",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/ه.mp3"
+            "PromptAudio": "lang/farsi/audios/ه.mp3"
           },
           "foilstones": [
             {
@@ -10001,7 +10001,7 @@
           ],
           "prompt": {
             "PromptText": "ه",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/ه.mp3"
+            "PromptAudio": "lang/farsi/audios/ه.mp3"
           },
           "foilstones": [
             {
@@ -10054,7 +10054,7 @@
           ],
           "prompt": {
             "PromptText": "دانه",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/د.mp3"
+            "PromptAudio": "lang/farsi/audios/د.mp3"
           },
           "foilstones": [
             {
@@ -10092,7 +10092,7 @@
           ],
           "prompt": {
             "PromptText": "تابه",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/ت.mp3"
+            "PromptAudio": "lang/farsi/audios/ت.mp3"
           },
           "foilstones": [
             {
@@ -10130,7 +10130,7 @@
           ],
           "prompt": {
             "PromptText": "خانه",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/خ.mp3"
+            "PromptAudio": "lang/farsi/audios/خ.mp3"
           },
           "foilstones": [
             {
@@ -10165,7 +10165,7 @@
           ],
           "prompt": {
             "PromptText": "تابه",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/ت.mp3"
+            "PromptAudio": "lang/farsi/audios/ت.mp3"
           },
           "foilstones": [
             {
@@ -10203,7 +10203,7 @@
           ],
           "prompt": {
             "PromptText": "تابه",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/ت.mp3"
+            "PromptAudio": "lang/farsi/audios/ت.mp3"
           },
           "foilstones": [
             {
@@ -10256,7 +10256,7 @@
           ],
           "prompt": {
             "PromptText": "دانه",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/د.mp3"
+            "PromptAudio": "lang/farsi/audios/د.mp3"
           },
           "foilstones": [
             {
@@ -10294,7 +10294,7 @@
           ],
           "prompt": {
             "PromptText": "ساده",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/س.mp3"
+            "PromptAudio": "lang/farsi/audios/س.mp3"
           },
           "foilstones": [
             {
@@ -10332,7 +10332,7 @@
           ],
           "prompt": {
             "PromptText": "خانه",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/خ.mp3"
+            "PromptAudio": "lang/farsi/audios/خ.mp3"
           },
           "foilstones": [
             {
@@ -10367,7 +10367,7 @@
           ],
           "prompt": {
             "PromptText": "ساده",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/س.mp3"
+            "PromptAudio": "lang/farsi/audios/س.mp3"
           },
           "foilstones": [
             {
@@ -10405,7 +10405,7 @@
           ],
           "prompt": {
             "PromptText": "ساده",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/س.mp3"
+            "PromptAudio": "lang/farsi/audios/س.mp3"
           },
           "foilstones": [
             {
@@ -10458,7 +10458,7 @@
           ],
           "prompt": {
             "PromptText": "ساده",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/س.mp3"
+            "PromptAudio": "lang/farsi/audios/س.mp3"
           },
           "foilstones": [
             {
@@ -10496,7 +10496,7 @@
           ],
           "prompt": {
             "PromptText": "ساده",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/س.mp3"
+            "PromptAudio": "lang/farsi/audios/س.mp3"
           },
           "foilstones": [
             {
@@ -10534,7 +10534,7 @@
           ],
           "prompt": {
             "PromptText": "تابه",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/ت.mp3"
+            "PromptAudio": "lang/farsi/audios/ت.mp3"
           },
           "foilstones": [
             {
@@ -10569,7 +10569,7 @@
           ],
           "prompt": {
             "PromptText": "تابه",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/ت.mp3"
+            "PromptAudio": "lang/farsi/audios/ت.mp3"
           },
           "foilstones": [
             {
@@ -10607,7 +10607,7 @@
           ],
           "prompt": {
             "PromptText": "دانه",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/د.mp3"
+            "PromptAudio": "lang/farsi/audios/د.mp3"
           },
           "foilstones": [
             {
@@ -10660,7 +10660,7 @@
           ],
           "prompt": {
             "PromptText": "خاله",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/خ.mp3"
+            "PromptAudio": "lang/farsi/audios/خ.mp3"
           },
           "foilstones": [
             {
@@ -10698,7 +10698,7 @@
           ],
           "prompt": {
             "PromptText": "ژاله",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/ژ.mp3"
+            "PromptAudio": "lang/farsi/audios/ژ.mp3"
           },
           "foilstones": [
             {
@@ -10736,7 +10736,7 @@
           ],
           "prompt": {
             "PromptText": "ژاله",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/ژ.mp3"
+            "PromptAudio": "lang/farsi/audios/ژ.mp3"
           },
           "foilstones": [
             {
@@ -10771,7 +10771,7 @@
           ],
           "prompt": {
             "PromptText": "دانه",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/د.mp3"
+            "PromptAudio": "lang/farsi/audios/د.mp3"
           },
           "foilstones": [
             {
@@ -10809,7 +10809,7 @@
           ],
           "prompt": {
             "PromptText": "ساده",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/س.mp3"
+            "PromptAudio": "lang/farsi/audios/س.mp3"
           },
           "foilstones": [
             {
@@ -10871,7 +10871,7 @@
           ],
           "prompt": {
             "PromptText": "دانه",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/دانه.mp3"
+            "PromptAudio": "lang/farsi/audios/دانه.mp3"
           },
           "foilstones": [
             {
@@ -10918,7 +10918,7 @@
           ],
           "prompt": {
             "PromptText": "خاله",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/خاله.mp3"
+            "PromptAudio": "lang/farsi/audios/خاله.mp3"
           },
           "foilstones": [
             {
@@ -10965,7 +10965,7 @@
           ],
           "prompt": {
             "PromptText": "دانه",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/دانه.mp3"
+            "PromptAudio": "lang/farsi/audios/دانه.mp3"
           },
           "foilstones": [
             {
@@ -11009,7 +11009,7 @@
           ],
           "prompt": {
             "PromptText": "ساده",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/ساده.mp3"
+            "PromptAudio": "lang/farsi/audios/ساده.mp3"
           },
           "foilstones": [
             {
@@ -11056,7 +11056,7 @@
           ],
           "prompt": {
             "PromptText": "خانه",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/خانه.mp3"
+            "PromptAudio": "lang/farsi/audios/خانه.mp3"
           },
           "foilstones": [
             {
@@ -11118,7 +11118,7 @@
           ],
           "prompt": {
             "PromptText": "ژاله",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/ژاله.mp3"
+            "PromptAudio": "lang/farsi/audios/ژاله.mp3"
           },
           "foilstones": [
             {
@@ -11165,7 +11165,7 @@
           ],
           "prompt": {
             "PromptText": "خاله",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/خاله.mp3"
+            "PromptAudio": "lang/farsi/audios/خاله.mp3"
           },
           "foilstones": [
             {
@@ -11212,7 +11212,7 @@
           ],
           "prompt": {
             "PromptText": "ژاله",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/ژاله.mp3"
+            "PromptAudio": "lang/farsi/audios/ژاله.mp3"
           },
           "foilstones": [
             {
@@ -11253,7 +11253,7 @@
           ],
           "prompt": {
             "PromptText": "ساده",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/ساده.mp3"
+            "PromptAudio": "lang/farsi/audios/ساده.mp3"
           },
           "foilstones": [
             {
@@ -11297,7 +11297,7 @@
           ],
           "prompt": {
             "PromptText": "خاله",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/خاله.mp3"
+            "PromptAudio": "lang/farsi/audios/خاله.mp3"
           },
           "foilstones": [
             {
@@ -11359,7 +11359,7 @@
           ],
           "prompt": {
             "PromptText": "خاله",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/خاله.mp3"
+            "PromptAudio": "lang/farsi/audios/خاله.mp3"
           },
           "foilstones": [
             {
@@ -11406,7 +11406,7 @@
           ],
           "prompt": {
             "PromptText": "ساده",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/ساده.mp3"
+            "PromptAudio": "lang/farsi/audios/ساده.mp3"
           },
           "foilstones": [
             {
@@ -11453,7 +11453,7 @@
           ],
           "prompt": {
             "PromptText": "ژاله",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/ژاله.mp3"
+            "PromptAudio": "lang/farsi/audios/ژاله.mp3"
           },
           "foilstones": [
             {
@@ -11500,7 +11500,7 @@
           ],
           "prompt": {
             "PromptText": "تابه",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/تابه.mp3"
+            "PromptAudio": "lang/farsi/audios/تابه.mp3"
           },
           "foilstones": [
             {
@@ -11544,7 +11544,7 @@
           ],
           "prompt": {
             "PromptText": "ژاله",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/ژاله.mp3"
+            "PromptAudio": "lang/farsi/audios/ژاله.mp3"
           },
           "foilstones": [
             {
@@ -11597,7 +11597,7 @@
           ],
           "prompt": {
             "PromptText": "ت",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/ت.mp3"
+            "PromptAudio": "lang/farsi/audios/ت.mp3"
           },
           "foilstones": [
             {
@@ -11635,7 +11635,7 @@
           ],
           "prompt": {
             "PromptText": "ش",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/ش.mp3"
+            "PromptAudio": "lang/farsi/audios/ش.mp3"
           },
           "foilstones": [
             {
@@ -11673,7 +11673,7 @@
           ],
           "prompt": {
             "PromptText": "م",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/م.mp3"
+            "PromptAudio": "lang/farsi/audios/م.mp3"
           },
           "foilstones": [
             {
@@ -11705,7 +11705,7 @@
           ],
           "prompt": {
             "PromptText": "ر",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/ر.mp3"
+            "PromptAudio": "lang/farsi/audios/ر.mp3"
           },
           "foilstones": [
             {
@@ -11740,7 +11740,7 @@
           ],
           "prompt": {
             "PromptText": "ر",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/ر.mp3"
+            "PromptAudio": "lang/farsi/audios/ر.mp3"
           },
           "foilstones": [
             {
@@ -11793,7 +11793,7 @@
           ],
           "prompt": {
             "PromptText": "ت",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/ت.mp3"
+            "PromptAudio": "lang/farsi/audios/ت.mp3"
           },
           "foilstones": [
             {
@@ -11831,7 +11831,7 @@
           ],
           "prompt": {
             "PromptText": "ر",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/ر.mp3"
+            "PromptAudio": "lang/farsi/audios/ر.mp3"
           },
           "foilstones": [
             {
@@ -11869,7 +11869,7 @@
           ],
           "prompt": {
             "PromptText": "د",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/د.mp3"
+            "PromptAudio": "lang/farsi/audios/د.mp3"
           },
           "foilstones": [
             {
@@ -11907,7 +11907,7 @@
           ],
           "prompt": {
             "PromptText": "ا",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/ا.mp3"
+            "PromptAudio": "lang/farsi/audios/ا.mp3"
           },
           "foilstones": [
             {
@@ -11942,7 +11942,7 @@
           ],
           "prompt": {
             "PromptText": "ت",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/ت.mp3"
+            "PromptAudio": "lang/farsi/audios/ت.mp3"
           },
           "foilstones": [
             {
@@ -11995,7 +11995,7 @@
           ],
           "prompt": {
             "PromptText": "ا",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/ا.mp3"
+            "PromptAudio": "lang/farsi/audios/ا.mp3"
           },
           "foilstones": [
             {
@@ -12033,7 +12033,7 @@
           ],
           "prompt": {
             "PromptText": "ت",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/ت.mp3"
+            "PromptAudio": "lang/farsi/audios/ت.mp3"
           },
           "foilstones": [
             {
@@ -12071,7 +12071,7 @@
           ],
           "prompt": {
             "PromptText": "د",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/د.mp3"
+            "PromptAudio": "lang/farsi/audios/د.mp3"
           },
           "foilstones": [
             {
@@ -12103,7 +12103,7 @@
           ],
           "prompt": {
             "PromptText": "ا",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/ا.mp3"
+            "PromptAudio": "lang/farsi/audios/ا.mp3"
           },
           "foilstones": [
             {
@@ -12138,7 +12138,7 @@
           ],
           "prompt": {
             "PromptText": "ز",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/ز.mp3"
+            "PromptAudio": "lang/farsi/audios/ز.mp3"
           },
           "foilstones": [
             {
@@ -12191,7 +12191,7 @@
           ],
           "prompt": {
             "PromptText": "ت",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/ت.mp3"
+            "PromptAudio": "lang/farsi/audios/ت.mp3"
           },
           "foilstones": [
             {
@@ -12229,7 +12229,7 @@
           ],
           "prompt": {
             "PromptText": "س",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/س.mp3"
+            "PromptAudio": "lang/farsi/audios/س.mp3"
           },
           "foilstones": [
             {
@@ -12267,7 +12267,7 @@
           ],
           "prompt": {
             "PromptText": "ز",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/ز.mp3"
+            "PromptAudio": "lang/farsi/audios/ز.mp3"
           },
           "foilstones": [
             {
@@ -12305,7 +12305,7 @@
           ],
           "prompt": {
             "PromptText": "م",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/م.mp3"
+            "PromptAudio": "lang/farsi/audios/م.mp3"
           },
           "foilstones": [
             {
@@ -12346,7 +12346,7 @@
           ],
           "prompt": {
             "PromptText": "د",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/د.mp3"
+            "PromptAudio": "lang/farsi/audios/د.mp3"
           },
           "foilstones": [
             {
@@ -12393,7 +12393,7 @@
           ],
           "prompt": {
             "PromptText": "ا",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/ا.mp3"
+            "PromptAudio": "lang/farsi/audios/ا.mp3"
           },
           "foilstones": [
             {
@@ -12431,7 +12431,7 @@
           ],
           "prompt": {
             "PromptText": "د",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/د.mp3"
+            "PromptAudio": "lang/farsi/audios/د.mp3"
           },
           "foilstones": [
             {
@@ -12469,7 +12469,7 @@
           ],
           "prompt": {
             "PromptText": "ش",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/ش.mp3"
+            "PromptAudio": "lang/farsi/audios/ش.mp3"
           },
           "foilstones": [
             {
@@ -12501,7 +12501,7 @@
           ],
           "prompt": {
             "PromptText": "ا",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/ا.mp3"
+            "PromptAudio": "lang/farsi/audios/ا.mp3"
           },
           "foilstones": [
             {
@@ -12536,7 +12536,7 @@
           ],
           "prompt": {
             "PromptText": "ر",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/ر.mp3"
+            "PromptAudio": "lang/farsi/audios/ر.mp3"
           },
           "foilstones": [
             {
@@ -12589,7 +12589,7 @@
           ],
           "prompt": {
             "PromptText": "د",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/د.mp3"
+            "PromptAudio": "lang/farsi/audios/د.mp3"
           },
           "foilstones": [
             {
@@ -12627,7 +12627,7 @@
           ],
           "prompt": {
             "PromptText": "د",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/د.mp3"
+            "PromptAudio": "lang/farsi/audios/د.mp3"
           },
           "foilstones": [
             {
@@ -12665,7 +12665,7 @@
           ],
           "prompt": {
             "PromptText": "ا",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/ا.mp3"
+            "PromptAudio": "lang/farsi/audios/ا.mp3"
           },
           "foilstones": [
             {
@@ -12703,7 +12703,7 @@
           ],
           "prompt": {
             "PromptText": "ا",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/ا.mp3"
+            "PromptAudio": "lang/farsi/audios/ا.mp3"
           },
           "foilstones": [
             {
@@ -12738,7 +12738,7 @@
           ],
           "prompt": {
             "PromptText": "ش",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/ش.mp3"
+            "PromptAudio": "lang/farsi/audios/ش.mp3"
           },
           "foilstones": [
             {
@@ -12791,7 +12791,7 @@
           ],
           "prompt": {
             "PromptText": "تیز",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/ت.mp3"
+            "PromptAudio": "lang/farsi/audios/ت.mp3"
           },
           "foilstones": [
             {
@@ -12829,7 +12829,7 @@
           ],
           "prompt": {
             "PromptText": "میز",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/م.mp3"
+            "PromptAudio": "lang/farsi/audios/م.mp3"
           },
           "foilstones": [
             {
@@ -12867,7 +12867,7 @@
           ],
           "prompt": {
             "PromptText": "دیر",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/د.mp3"
+            "PromptAudio": "lang/farsi/audios/د.mp3"
           },
           "foilstones": [
             {
@@ -12905,7 +12905,7 @@
           ],
           "prompt": {
             "PromptText": "دیر",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/د.mp3"
+            "PromptAudio": "lang/farsi/audios/د.mp3"
           },
           "foilstones": [
             {
@@ -12940,7 +12940,7 @@
           ],
           "prompt": {
             "PromptText": "شیر",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/ش.mp3"
+            "PromptAudio": "lang/farsi/audios/ش.mp3"
           },
           "foilstones": [
             {
@@ -12993,7 +12993,7 @@
           ],
           "prompt": {
             "PromptText": "تیز",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/ت.mp3"
+            "PromptAudio": "lang/farsi/audios/ت.mp3"
           },
           "foilstones": [
             {
@@ -13031,7 +13031,7 @@
           ],
           "prompt": {
             "PromptText": "دیر",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/د.mp3"
+            "PromptAudio": "lang/farsi/audios/د.mp3"
           },
           "foilstones": [
             {
@@ -13069,7 +13069,7 @@
           ],
           "prompt": {
             "PromptText": "سیر",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/س.mp3"
+            "PromptAudio": "lang/farsi/audios/س.mp3"
           },
           "foilstones": [
             {
@@ -13101,7 +13101,7 @@
           ],
           "prompt": {
             "PromptText": "سیر",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/س.mp3"
+            "PromptAudio": "lang/farsi/audios/س.mp3"
           },
           "foilstones": [
             {
@@ -13136,7 +13136,7 @@
           ],
           "prompt": {
             "PromptText": "تیز",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/ت.mp3"
+            "PromptAudio": "lang/farsi/audios/ت.mp3"
           },
           "foilstones": [
             {
@@ -13189,7 +13189,7 @@
           ],
           "prompt": {
             "PromptText": "میز",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/م.mp3"
+            "PromptAudio": "lang/farsi/audios/م.mp3"
           },
           "foilstones": [
             {
@@ -13227,7 +13227,7 @@
           ],
           "prompt": {
             "PromptText": "سیر",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/س.mp3"
+            "PromptAudio": "lang/farsi/audios/س.mp3"
           },
           "foilstones": [
             {
@@ -13265,7 +13265,7 @@
           ],
           "prompt": {
             "PromptText": "دیر",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/د.mp3"
+            "PromptAudio": "lang/farsi/audios/د.mp3"
           },
           "foilstones": [
             {
@@ -13303,7 +13303,7 @@
           ],
           "prompt": {
             "PromptText": "سیر",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/س.mp3"
+            "PromptAudio": "lang/farsi/audios/س.mp3"
           },
           "foilstones": [
             {
@@ -13338,7 +13338,7 @@
           ],
           "prompt": {
             "PromptText": "میز",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/م.mp3"
+            "PromptAudio": "lang/farsi/audios/م.mp3"
           },
           "foilstones": [
             {
@@ -13391,7 +13391,7 @@
           ],
           "prompt": {
             "PromptText": "میز",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/م.mp3"
+            "PromptAudio": "lang/farsi/audios/م.mp3"
           },
           "foilstones": [
             {
@@ -13429,7 +13429,7 @@
           ],
           "prompt": {
             "PromptText": "سیر",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/س.mp3"
+            "PromptAudio": "lang/farsi/audios/س.mp3"
           },
           "foilstones": [
             {
@@ -13467,7 +13467,7 @@
           ],
           "prompt": {
             "PromptText": "میز",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/م.mp3"
+            "PromptAudio": "lang/farsi/audios/م.mp3"
           },
           "foilstones": [
             {
@@ -13505,7 +13505,7 @@
           ],
           "prompt": {
             "PromptText": "دیر",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/د.mp3"
+            "PromptAudio": "lang/farsi/audios/د.mp3"
           },
           "foilstones": [
             {
@@ -13546,7 +13546,7 @@
           ],
           "prompt": {
             "PromptText": "تیز",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/ت.mp3"
+            "PromptAudio": "lang/farsi/audios/ت.mp3"
           },
           "foilstones": [
             {
@@ -13599,7 +13599,7 @@
           ],
           "prompt": {
             "PromptText": "دیر",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/دیر.mp3"
+            "PromptAudio": "lang/farsi/audios/دیر.mp3"
           },
           "foilstones": [
             {
@@ -13643,7 +13643,7 @@
           ],
           "prompt": {
             "PromptText": "تیز",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/تیز.mp3"
+            "PromptAudio": "lang/farsi/audios/تیز.mp3"
           },
           "foilstones": [
             {
@@ -13687,7 +13687,7 @@
           ],
           "prompt": {
             "PromptText": "تیز",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/تیز.mp3"
+            "PromptAudio": "lang/farsi/audios/تیز.mp3"
           },
           "foilstones": [
             {
@@ -13725,7 +13725,7 @@
           ],
           "prompt": {
             "PromptText": "شیر",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/شیر.mp3"
+            "PromptAudio": "lang/farsi/audios/شیر.mp3"
           },
           "foilstones": [
             {
@@ -13766,7 +13766,7 @@
           ],
           "prompt": {
             "PromptText": "شیر",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/شیر.mp3"
+            "PromptAudio": "lang/farsi/audios/شیر.mp3"
           },
           "foilstones": [
             {
@@ -13825,7 +13825,7 @@
           ],
           "prompt": {
             "PromptText": "دیر",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/دیر.mp3"
+            "PromptAudio": "lang/farsi/audios/دیر.mp3"
           },
           "foilstones": [
             {
@@ -13869,7 +13869,7 @@
           ],
           "prompt": {
             "PromptText": "میز",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/میز.mp3"
+            "PromptAudio": "lang/farsi/audios/میز.mp3"
           },
           "foilstones": [
             {
@@ -13913,7 +13913,7 @@
           ],
           "prompt": {
             "PromptText": "شیر",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/شیر.mp3"
+            "PromptAudio": "lang/farsi/audios/شیر.mp3"
           },
           "foilstones": [
             {
@@ -13957,7 +13957,7 @@
           ],
           "prompt": {
             "PromptText": "تیز",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/تیز.mp3"
+            "PromptAudio": "lang/farsi/audios/تیز.mp3"
           },
           "foilstones": [
             {
@@ -13998,7 +13998,7 @@
           ],
           "prompt": {
             "PromptText": "سیر",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/سیر.mp3"
+            "PromptAudio": "lang/farsi/audios/سیر.mp3"
           },
           "foilstones": [
             {
@@ -14057,7 +14057,7 @@
           ],
           "prompt": {
             "PromptText": "دیر",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/دیر.mp3"
+            "PromptAudio": "lang/farsi/audios/دیر.mp3"
           },
           "foilstones": [
             {
@@ -14101,7 +14101,7 @@
           ],
           "prompt": {
             "PromptText": "تیز",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/تیز.mp3"
+            "PromptAudio": "lang/farsi/audios/تیز.mp3"
           },
           "foilstones": [
             {
@@ -14145,7 +14145,7 @@
           ],
           "prompt": {
             "PromptText": "سیر",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/سیر.mp3"
+            "PromptAudio": "lang/farsi/audios/سیر.mp3"
           },
           "foilstones": [
             {
@@ -14186,7 +14186,7 @@
           ],
           "prompt": {
             "PromptText": "دیر",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/دیر.mp3"
+            "PromptAudio": "lang/farsi/audios/دیر.mp3"
           },
           "foilstones": [
             {
@@ -14230,7 +14230,7 @@
           ],
           "prompt": {
             "PromptText": "میز",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/farsi/audios/میز.mp3"
+            "PromptAudio": "lang/farsi/audios/میز.mp3"
           },
           "foilstones": [
             {

@@ -222,10 +222,6 @@ const _callbacks: CallbackMap = window._callbacks;
 export const AndroidBridge = {
   sendDataToContainer(key: string, data: any) {
     try {
-      console.log(
-        `Attempting to send ${key} to container:`,
-        JSON.stringify(data)
-      );
       if (window.Android?.sendDataToContainer) {
         // Stringify the data before sending to avoid [object Object] issues
         const jsonData = typeof data === "object" ? JSON.stringify(data) : data;
@@ -271,6 +267,18 @@ export const AndroidBridge = {
     });
   },
 
+  /************ Please also don't remove this */
+  // requestDataFromContainer(type: string, assetFileName: string): Promise<any> {
+  //   return new Promise((resolve, reject) => {
+  //     if (window.Android?.requestDataFromContainer) {
+  //       _callbacks[type] = resolve; // store callback by type
+  //       window.Android.requestDataFromContainer(type, assetFileName);
+  //     } else {
+  //       reject("Android bridge not available");
+  //     }
+  //   });
+  // },
+
   requestGameLevelInfo(): Promise<any> {
     return new Promise((resolve, reject) => {
       try {
@@ -312,41 +320,60 @@ export const AndroidBridge = {
   },
 };
 
+/***************************** Please don't remove below commented code */
 // Function to decode base64 to ArrayBuffer
-function base64ToArrayBuffer(base64) {
-  const binaryString = atob(base64);
-  const len = binaryString.length;
-  const bytes = new Uint8Array(len);
-  for (let i = 0; i < len; i++) {
-    bytes[i] = binaryString.charCodeAt(i);
-  }
-  return bytes.buffer;
-}
+// function base64ToArrayBuffer(base64) {
+//   const binaryString = atob(base64);
+//   const len = binaryString.length;
+//   const bytes = new Uint8Array(len);
+//   for (let i = 0; i < len; i++) {
+//     bytes[i] = binaryString.charCodeAt(i);
+//   }
+//   return bytes.buffer;
+// }
 
-// Function to extract ZIP and use the contents
-export async function handleReceivedZipData(base64Zip) {
-  const zipArrayBuffer = base64ToArrayBuffer(base64Zip);
-  const zip = await JSZip.loadAsync(zipArrayBuffer);
+// declare global {
+//   interface Window {
+//     AssetStore: {
+//       audios: Record<string, HTMLAudioElement>;
+//       images: Record<string, string>; // URLs from createObjectURL
+//       json: Record<string, any>;
+//     };
+//   }
+// }
 
-  Object.keys(zip.files).forEach(async (filename) => {
-    const file = zip.files[filename];
+// export async function handleReceivedZipData(base64Zip) {
+//   const zipArrayBuffer = base64ToArrayBuffer(base64Zip);
+//   const zip = await JSZip.loadAsync(zipArrayBuffer);
 
-    if (!file.dir) {
-      const content = await file.async("blob");
+//   Object.keys(zip.files).forEach(async (filename) => {
+//     const file = zip.files[filename];
 
-      if (filename.endsWith(".json")) {
-        const jsonData = await content.text();
-        console.log("Extracted JSON:", JSON.parse(jsonData));
-      } else if (filename.endsWith(".mp3")) {
-        const audioURL = URL.createObjectURL(content);
-        const audio = new Audio(audioURL);
-        audio.play();
-      } else if (filename.endsWith(".jpg") || filename.endsWith(".png")) {
-        const imgURL = URL.createObjectURL(content);
-        const imgElement = document.createElement("img");
-        imgElement.src = imgURL;
-        document.body.appendChild(imgElement);
-      }
-    }
-  });
-}
+//     if (!file.dir) {
+//       const content = await file.async("blob");
+//       console.log("Extracted file:", filename, content);
+
+//       if (filename.endsWith(".json")) {
+//         const jsonText = await content.text();
+//         const parsedJson = JSON.parse(jsonText);
+//         console.log("Extracted JSON:", parsedJson);
+//         window.AssetStore.json[filename] = parsedJson;
+//       } else if (filename.endsWith(".mp3")) {
+//         const audioURL = URL.createObjectURL(content);
+//         const audio = new Audio(audioURL);
+//         window.AssetStore.audios[filename] = audio;
+
+//         // Optional: Autoplay
+//         // audio.play();
+//       } else if (filename.endsWith(".jpg") || filename.endsWith(".png")) {
+//         const imgURL = URL.createObjectURL(content);
+//         window.AssetStore.images[filename] = imgURL;
+
+//         // Optional: auto render to DOM
+//         // const imgElement = document.createElement("img");
+//         // imgElement.src = imgURL;
+//         // document.body.appendChild(imgElement);
+//       }
+//     }
+//   });
+// }

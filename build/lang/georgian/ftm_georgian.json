@@ -10,9 +10,9 @@
   "minversion": 10,
   "langname": "GEORGIAN",
   "FeedbackAudios": [
-    "https://feedthemonster.curiouscontent.org/lang/georgian/audios/fantastic.mp3",
-    "https://feedthemonster.curiouscontent.org/lang/georgian/audios/great.mp3",
-    "https://feedthemonster.curiouscontent.org/lang/georgian/audios/amazing.mp3"
+    "lang/georgian/audios/fantastic.mp3",
+    "lang/georgian/audios/great.mp3",
+    "lang/georgian/audios/amazing.mp3"
   ],
   "OtherAudios": {
     "Select your player": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/Select-your-player.mp3",
@@ -39,7 +39,7 @@
           ],
           "prompt": {
             "PromptText": "ც",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ც.mp3"
+            "PromptAudio": "lang/georgian/audios/ც.mp3"
           },
           "foilstones": [
             {
@@ -59,7 +59,7 @@
           ],
           "prompt": {
             "PromptText": "თ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/თ.mp3"
+            "PromptAudio": "lang/georgian/audios/თ.mp3"
           },
           "foilstones": [
             {
@@ -79,7 +79,7 @@
           ],
           "prompt": {
             "PromptText": "ჭ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ჭ.mp3"
+            "PromptAudio": "lang/georgian/audios/ჭ.mp3"
           },
           "foilstones": [
             {
@@ -99,7 +99,7 @@
           ],
           "prompt": {
             "PromptText": "თ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/თ.mp3"
+            "PromptAudio": "lang/georgian/audios/თ.mp3"
           },
           "foilstones": [
             {
@@ -119,7 +119,7 @@
           ],
           "prompt": {
             "PromptText": "ჭ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ჭ.mp3"
+            "PromptAudio": "lang/georgian/audios/ჭ.mp3"
           },
           "foilstones": [
             {
@@ -154,7 +154,7 @@
           ],
           "prompt": {
             "PromptText": "ა",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ა.mp3"
+            "PromptAudio": "lang/georgian/audios/ა.mp3"
           },
           "foilstones": [
             {
@@ -177,7 +177,7 @@
           ],
           "prompt": {
             "PromptText": "ჰ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ჰ.mp3"
+            "PromptAudio": "lang/georgian/audios/ჰ.mp3"
           },
           "foilstones": [
             {
@@ -200,7 +200,7 @@
           ],
           "prompt": {
             "PromptText": "ც",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ც.mp3"
+            "PromptAudio": "lang/georgian/audios/ც.mp3"
           },
           "foilstones": [
             {
@@ -223,7 +223,7 @@
           ],
           "prompt": {
             "PromptText": "ც",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ც.mp3"
+            "PromptAudio": "lang/georgian/audios/ც.mp3"
           },
           "foilstones": [
             {
@@ -246,7 +246,7 @@
           ],
           "prompt": {
             "PromptText": "ჭ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ჭ.mp3"
+            "PromptAudio": "lang/georgian/audios/ჭ.mp3"
           },
           "foilstones": [
             {
@@ -284,7 +284,7 @@
           ],
           "prompt": {
             "PromptText": "ჭ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ჭ.mp3"
+            "PromptAudio": "lang/georgian/audios/ჭ.mp3"
           },
           "foilstones": [
             {
@@ -304,7 +304,7 @@
           ],
           "prompt": {
             "PromptText": "ფ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ფ.mp3"
+            "PromptAudio": "lang/georgian/audios/ფ.mp3"
           },
           "foilstones": [
             {
@@ -324,7 +324,7 @@
           ],
           "prompt": {
             "PromptText": "თ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/თ.mp3"
+            "PromptAudio": "lang/georgian/audios/თ.mp3"
           },
           "foilstones": [
             {
@@ -344,7 +344,7 @@
           ],
           "prompt": {
             "PromptText": "ც",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ც.mp3"
+            "PromptAudio": "lang/georgian/audios/ც.mp3"
           },
           "foilstones": [
             {
@@ -364,7 +364,7 @@
           ],
           "prompt": {
             "PromptText": "ხ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ხ.mp3"
+            "PromptAudio": "lang/georgian/audios/ხ.mp3"
           },
           "foilstones": [
             {
@@ -399,7 +399,7 @@
           ],
           "prompt": {
             "PromptText": "ჭ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ჭ.mp3"
+            "PromptAudio": "lang/georgian/audios/ჭ.mp3"
           },
           "foilstones": [
             {
@@ -419,7 +419,7 @@
           ],
           "prompt": {
             "PromptText": "ჰ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ჰ.mp3"
+            "PromptAudio": "lang/georgian/audios/ჰ.mp3"
           },
           "foilstones": [
             {
@@ -439,7 +439,7 @@
           ],
           "prompt": {
             "PromptText": "ჰ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ჰ.mp3"
+            "PromptAudio": "lang/georgian/audios/ჰ.mp3"
           },
           "foilstones": [
             {
@@ -459,7 +459,7 @@
           ],
           "prompt": {
             "PromptText": "ც",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ც.mp3"
+            "PromptAudio": "lang/georgian/audios/ც.mp3"
           },
           "foilstones": [
             {
@@ -479,7 +479,7 @@
           ],
           "prompt": {
             "PromptText": "ც",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ც.mp3"
+            "PromptAudio": "lang/georgian/audios/ც.mp3"
           },
           "foilstones": [
             {
@@ -514,7 +514,7 @@
           ],
           "prompt": {
             "PromptText": "ჭ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ჭ.mp3"
+            "PromptAudio": "lang/georgian/audios/ჭ.mp3"
           },
           "foilstones": [
             {
@@ -537,7 +537,7 @@
           ],
           "prompt": {
             "PromptText": "ხ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ხ.mp3"
+            "PromptAudio": "lang/georgian/audios/ხ.mp3"
           },
           "foilstones": [
             {
@@ -560,7 +560,7 @@
           ],
           "prompt": {
             "PromptText": "ჰ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ჰ.mp3"
+            "PromptAudio": "lang/georgian/audios/ჰ.mp3"
           },
           "foilstones": [
             {
@@ -583,7 +583,7 @@
           ],
           "prompt": {
             "PromptText": "ფ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ფ.mp3"
+            "PromptAudio": "lang/georgian/audios/ფ.mp3"
           },
           "foilstones": [
             {
@@ -606,7 +606,7 @@
           ],
           "prompt": {
             "PromptText": "ჭ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ჭ.mp3"
+            "PromptAudio": "lang/georgian/audios/ჭ.mp3"
           },
           "foilstones": [
             {
@@ -644,7 +644,7 @@
           ],
           "prompt": {
             "PromptText": "ფ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ფ.mp3"
+            "PromptAudio": "lang/georgian/audios/ფ.mp3"
           },
           "foilstones": [
             {
@@ -667,7 +667,7 @@
           ],
           "prompt": {
             "PromptText": "ჭ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ჭ.mp3"
+            "PromptAudio": "lang/georgian/audios/ჭ.mp3"
           },
           "foilstones": [
             {
@@ -690,7 +690,7 @@
           ],
           "prompt": {
             "PromptText": "ფ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ფ.mp3"
+            "PromptAudio": "lang/georgian/audios/ფ.mp3"
           },
           "foilstones": [
             {
@@ -713,7 +713,7 @@
           ],
           "prompt": {
             "PromptText": "ჰ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ჰ.mp3"
+            "PromptAudio": "lang/georgian/audios/ჰ.mp3"
           },
           "foilstones": [
             {
@@ -736,7 +736,7 @@
           ],
           "prompt": {
             "PromptText": "ჭ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ჭ.mp3"
+            "PromptAudio": "lang/georgian/audios/ჭ.mp3"
           },
           "foilstones": [
             {
@@ -774,7 +774,7 @@
           ],
           "prompt": {
             "PromptText": "ჰა",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ჰ.mp3"
+            "PromptAudio": "lang/georgian/audios/ჰ.mp3"
           },
           "foilstones": [
             {
@@ -797,7 +797,7 @@
           ],
           "prompt": {
             "PromptText": "ჰა",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ჰ.mp3"
+            "PromptAudio": "lang/georgian/audios/ჰ.mp3"
           },
           "foilstones": [
             {
@@ -820,7 +820,7 @@
           ],
           "prompt": {
             "PromptText": "ჭა",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ჭ.mp3"
+            "PromptAudio": "lang/georgian/audios/ჭ.mp3"
           },
           "foilstones": [
             {
@@ -843,7 +843,7 @@
           ],
           "prompt": {
             "PromptText": "ფაფა",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ფ.mp3"
+            "PromptAudio": "lang/georgian/audios/ფ.mp3"
           },
           "foilstones": [
             {
@@ -866,7 +866,7 @@
           ],
           "prompt": {
             "PromptText": "ხა",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ხ.mp3"
+            "PromptAudio": "lang/georgian/audios/ხ.mp3"
           },
           "foilstones": [
             {
@@ -904,7 +904,7 @@
           ],
           "prompt": {
             "PromptText": "ხა",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ხ.mp3"
+            "PromptAudio": "lang/georgian/audios/ხ.mp3"
           },
           "foilstones": [
             {
@@ -927,7 +927,7 @@
           ],
           "prompt": {
             "PromptText": "ჰა",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ჰ.mp3"
+            "PromptAudio": "lang/georgian/audios/ჰ.mp3"
           },
           "foilstones": [
             {
@@ -950,7 +950,7 @@
           ],
           "prompt": {
             "PromptText": "ფაფა",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ფ.mp3"
+            "PromptAudio": "lang/georgian/audios/ფ.mp3"
           },
           "foilstones": [
             {
@@ -973,7 +973,7 @@
           ],
           "prompt": {
             "PromptText": "ჰა",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ჰ.mp3"
+            "PromptAudio": "lang/georgian/audios/ჰ.mp3"
           },
           "foilstones": [
             {
@@ -996,7 +996,7 @@
           ],
           "prompt": {
             "PromptText": "ფაფა",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ფ.mp3"
+            "PromptAudio": "lang/georgian/audios/ფ.mp3"
           },
           "foilstones": [
             {
@@ -1034,7 +1034,7 @@
           ],
           "prompt": {
             "PromptText": "თხა",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/თ.mp3"
+            "PromptAudio": "lang/georgian/audios/თ.mp3"
           },
           "foilstones": [
             {
@@ -1057,7 +1057,7 @@
           ],
           "prompt": {
             "PromptText": "ცა",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ც.mp3"
+            "PromptAudio": "lang/georgian/audios/ც.mp3"
           },
           "foilstones": [
             {
@@ -1080,7 +1080,7 @@
           ],
           "prompt": {
             "PromptText": "თხა",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/თ.mp3"
+            "PromptAudio": "lang/georgian/audios/თ.mp3"
           },
           "foilstones": [
             {
@@ -1103,7 +1103,7 @@
           ],
           "prompt": {
             "PromptText": "ჭა",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ჭ.mp3"
+            "PromptAudio": "lang/georgian/audios/ჭ.mp3"
           },
           "foilstones": [
             {
@@ -1126,7 +1126,7 @@
           ],
           "prompt": {
             "PromptText": "თხა",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/თ.mp3"
+            "PromptAudio": "lang/georgian/audios/თ.mp3"
           },
           "foilstones": [
             {
@@ -1167,7 +1167,7 @@
           ],
           "prompt": {
             "PromptText": "თა",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/თა.mp3"
+            "PromptAudio": "lang/georgian/audios/თა.mp3"
           },
           "foilstones": [
             {
@@ -1193,7 +1193,7 @@
           ],
           "prompt": {
             "PromptText": "ცა",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ცა.mp3"
+            "PromptAudio": "lang/georgian/audios/ცა.mp3"
           },
           "foilstones": [
             {
@@ -1222,7 +1222,7 @@
           ],
           "prompt": {
             "PromptText": "ხა",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ხა.mp3"
+            "PromptAudio": "lang/georgian/audios/ხა.mp3"
           },
           "foilstones": [
             {
@@ -1248,7 +1248,7 @@
           ],
           "prompt": {
             "PromptText": "ჭა",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ჭა.mp3"
+            "PromptAudio": "lang/georgian/audios/ჭა.mp3"
           },
           "foilstones": [
             {
@@ -1274,7 +1274,7 @@
           ],
           "prompt": {
             "PromptText": "ხა",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ხა.mp3"
+            "PromptAudio": "lang/georgian/audios/ხა.mp3"
           },
           "foilstones": [
             {
@@ -1312,7 +1312,7 @@
           ],
           "prompt": {
             "PromptText": "ჰა",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ჰა.mp3"
+            "PromptAudio": "lang/georgian/audios/ჰა.mp3"
           },
           "foilstones": [
             {
@@ -1338,7 +1338,7 @@
           ],
           "prompt": {
             "PromptText": "ცა",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ცა.mp3"
+            "PromptAudio": "lang/georgian/audios/ცა.mp3"
           },
           "foilstones": [
             {
@@ -1364,7 +1364,7 @@
           ],
           "prompt": {
             "PromptText": "ჰა",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ჰა.mp3"
+            "PromptAudio": "lang/georgian/audios/ჰა.mp3"
           },
           "foilstones": [
             {
@@ -1390,7 +1390,7 @@
           ],
           "prompt": {
             "PromptText": "თა",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/თა.mp3"
+            "PromptAudio": "lang/georgian/audios/თა.mp3"
           },
           "foilstones": [
             {
@@ -1419,7 +1419,7 @@
           ],
           "prompt": {
             "PromptText": "ხა",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ხა.mp3"
+            "PromptAudio": "lang/georgian/audios/ხა.mp3"
           },
           "foilstones": [
             {
@@ -1457,7 +1457,7 @@
           ],
           "prompt": {
             "PromptText": "ჭა",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ჭა.mp3"
+            "PromptAudio": "lang/georgian/audios/ჭა.mp3"
           },
           "foilstones": [
             {
@@ -1486,7 +1486,7 @@
           ],
           "prompt": {
             "PromptText": "თხა",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/თხა.mp3"
+            "PromptAudio": "lang/georgian/audios/თხა.mp3"
           },
           "foilstones": [
             {
@@ -1512,7 +1512,7 @@
           ],
           "prompt": {
             "PromptText": "ცა",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ცა.mp3"
+            "PromptAudio": "lang/georgian/audios/ცა.mp3"
           },
           "foilstones": [
             {
@@ -1541,7 +1541,7 @@
           ],
           "prompt": {
             "PromptText": "თხა",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/თხა.mp3"
+            "PromptAudio": "lang/georgian/audios/თხა.mp3"
           },
           "foilstones": [
             {
@@ -1567,7 +1567,7 @@
           ],
           "prompt": {
             "PromptText": "ჭა",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ჭა.mp3"
+            "PromptAudio": "lang/georgian/audios/ჭა.mp3"
           },
           "foilstones": [
             {
@@ -1605,7 +1605,7 @@
           ],
           "prompt": {
             "PromptText": "ტ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ტ.mp3"
+            "PromptAudio": "lang/georgian/audios/ტ.mp3"
           },
           "foilstones": [
             {
@@ -1628,7 +1628,7 @@
           ],
           "prompt": {
             "PromptText": "დ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/დ.mp3"
+            "PromptAudio": "lang/georgian/audios/დ.mp3"
           },
           "foilstones": [
             {
@@ -1651,7 +1651,7 @@
           ],
           "prompt": {
             "PromptText": "ყ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ყ.mp3"
+            "PromptAudio": "lang/georgian/audios/ყ.mp3"
           },
           "foilstones": [
             {
@@ -1674,7 +1674,7 @@
           ],
           "prompt": {
             "PromptText": "ე",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ე.mp3"
+            "PromptAudio": "lang/georgian/audios/ე.mp3"
           },
           "foilstones": [
             {
@@ -1697,7 +1697,7 @@
           ],
           "prompt": {
             "PromptText": "დ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/დ.mp3"
+            "PromptAudio": "lang/georgian/audios/დ.mp3"
           },
           "foilstones": [
             {
@@ -1735,7 +1735,7 @@
           ],
           "prompt": {
             "PromptText": "მ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/მ.mp3"
+            "PromptAudio": "lang/georgian/audios/მ.mp3"
           },
           "foilstones": [
             {
@@ -1758,7 +1758,7 @@
           ],
           "prompt": {
             "PromptText": "ღ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ღ.mp3"
+            "PromptAudio": "lang/georgian/audios/ღ.mp3"
           },
           "foilstones": [
             {
@@ -1781,7 +1781,7 @@
           ],
           "prompt": {
             "PromptText": "ზ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ზ.mp3"
+            "PromptAudio": "lang/georgian/audios/ზ.mp3"
           },
           "foilstones": [
             {
@@ -1804,7 +1804,7 @@
           ],
           "prompt": {
             "PromptText": "ზ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ზ.mp3"
+            "PromptAudio": "lang/georgian/audios/ზ.mp3"
           },
           "foilstones": [
             {
@@ -1827,7 +1827,7 @@
           ],
           "prompt": {
             "PromptText": "ტ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ტ.mp3"
+            "PromptAudio": "lang/georgian/audios/ტ.mp3"
           },
           "foilstones": [
             {
@@ -1865,7 +1865,7 @@
           ],
           "prompt": {
             "PromptText": "ტ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ტ.mp3"
+            "PromptAudio": "lang/georgian/audios/ტ.mp3"
           },
           "foilstones": [
             {
@@ -1885,7 +1885,7 @@
           ],
           "prompt": {
             "PromptText": "ზ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ზ.mp3"
+            "PromptAudio": "lang/georgian/audios/ზ.mp3"
           },
           "foilstones": [
             {
@@ -1905,7 +1905,7 @@
           ],
           "prompt": {
             "PromptText": "დ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/დ.mp3"
+            "PromptAudio": "lang/georgian/audios/დ.mp3"
           },
           "foilstones": [
             {
@@ -1925,7 +1925,7 @@
           ],
           "prompt": {
             "PromptText": "მ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/მ.mp3"
+            "PromptAudio": "lang/georgian/audios/მ.mp3"
           },
           "foilstones": [
             {
@@ -1945,7 +1945,7 @@
           ],
           "prompt": {
             "PromptText": "დ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/დ.mp3"
+            "PromptAudio": "lang/georgian/audios/დ.mp3"
           },
           "foilstones": [
             {
@@ -1980,7 +1980,7 @@
           ],
           "prompt": {
             "PromptText": "მ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/მ.mp3"
+            "PromptAudio": "lang/georgian/audios/მ.mp3"
           },
           "foilstones": [
             {
@@ -2003,7 +2003,7 @@
           ],
           "prompt": {
             "PromptText": "ტ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ტ.mp3"
+            "PromptAudio": "lang/georgian/audios/ტ.mp3"
           },
           "foilstones": [
             {
@@ -2026,7 +2026,7 @@
           ],
           "prompt": {
             "PromptText": "ტ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ტ.mp3"
+            "PromptAudio": "lang/georgian/audios/ტ.mp3"
           },
           "foilstones": [
             {
@@ -2049,7 +2049,7 @@
           ],
           "prompt": {
             "PromptText": "ყ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ყ.mp3"
+            "PromptAudio": "lang/georgian/audios/ყ.mp3"
           },
           "foilstones": [
             {
@@ -2072,7 +2072,7 @@
           ],
           "prompt": {
             "PromptText": "ე",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ე.mp3"
+            "PromptAudio": "lang/georgian/audios/ე.mp3"
           },
           "foilstones": [
             {
@@ -2110,7 +2110,7 @@
           ],
           "prompt": {
             "PromptText": "ტ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ტ.mp3"
+            "PromptAudio": "lang/georgian/audios/ტ.mp3"
           },
           "foilstones": [
             {
@@ -2139,7 +2139,7 @@
           ],
           "prompt": {
             "PromptText": "ყ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ყ.mp3"
+            "PromptAudio": "lang/georgian/audios/ყ.mp3"
           },
           "foilstones": [
             {
@@ -2165,7 +2165,7 @@
           ],
           "prompt": {
             "PromptText": "ე",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ე.mp3"
+            "PromptAudio": "lang/georgian/audios/ე.mp3"
           },
           "foilstones": [
             {
@@ -2188,7 +2188,7 @@
           ],
           "prompt": {
             "PromptText": "ყ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ყ.mp3"
+            "PromptAudio": "lang/georgian/audios/ყ.mp3"
           },
           "foilstones": [
             {
@@ -2214,7 +2214,7 @@
           ],
           "prompt": {
             "PromptText": "ე",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ე.mp3"
+            "PromptAudio": "lang/georgian/audios/ე.mp3"
           },
           "foilstones": [
             {
@@ -2252,7 +2252,7 @@
           ],
           "prompt": {
             "PromptText": "ე",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ე.mp3"
+            "PromptAudio": "lang/georgian/audios/ე.mp3"
           },
           "foilstones": [
             {
@@ -2278,7 +2278,7 @@
           ],
           "prompt": {
             "PromptText": "ზ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ზ.mp3"
+            "PromptAudio": "lang/georgian/audios/ზ.mp3"
           },
           "foilstones": [
             {
@@ -2304,7 +2304,7 @@
           ],
           "prompt": {
             "PromptText": "დ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/დ.mp3"
+            "PromptAudio": "lang/georgian/audios/დ.mp3"
           },
           "foilstones": [
             {
@@ -2330,7 +2330,7 @@
           ],
           "prompt": {
             "PromptText": "დ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/დ.mp3"
+            "PromptAudio": "lang/georgian/audios/დ.mp3"
           },
           "foilstones": [
             {
@@ -2356,7 +2356,7 @@
           ],
           "prompt": {
             "PromptText": "ყ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ყ.mp3"
+            "PromptAudio": "lang/georgian/audios/ყ.mp3"
           },
           "foilstones": [
             {
@@ -2400,7 +2400,7 @@
           ],
           "prompt": {
             "PromptText": "ყე",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ყ.mp3"
+            "PromptAudio": "lang/georgian/audios/ყ.mp3"
           },
           "foilstones": [
             {
@@ -2426,7 +2426,7 @@
           ],
           "prompt": {
             "PromptText": "მზე",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/მ.mp3"
+            "PromptAudio": "lang/georgian/audios/მ.mp3"
           },
           "foilstones": [
             {
@@ -2452,7 +2452,7 @@
           ],
           "prompt": {
             "PromptText": "ზე",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ზ.mp3"
+            "PromptAudio": "lang/georgian/audios/ზ.mp3"
           },
           "foilstones": [
             {
@@ -2478,7 +2478,7 @@
           ],
           "prompt": {
             "PromptText": "დღე",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/დ.mp3"
+            "PromptAudio": "lang/georgian/audios/დ.mp3"
           },
           "foilstones": [
             {
@@ -2504,7 +2504,7 @@
           ],
           "prompt": {
             "PromptText": "ყე",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ყ.mp3"
+            "PromptAudio": "lang/georgian/audios/ყ.mp3"
           },
           "foilstones": [
             {
@@ -2548,7 +2548,7 @@
           ],
           "prompt": {
             "PromptText": "ზე",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ზ.mp3"
+            "PromptAudio": "lang/georgian/audios/ზ.mp3"
           },
           "foilstones": [
             {
@@ -2574,7 +2574,7 @@
           ],
           "prompt": {
             "PromptText": "მზე",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/მ.mp3"
+            "PromptAudio": "lang/georgian/audios/მ.mp3"
           },
           "foilstones": [
             {
@@ -2600,7 +2600,7 @@
           ],
           "prompt": {
             "PromptText": "ტყე",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ტ.mp3"
+            "PromptAudio": "lang/georgian/audios/ტ.mp3"
           },
           "foilstones": [
             {
@@ -2626,7 +2626,7 @@
           ],
           "prompt": {
             "PromptText": "ღე",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ღ.mp3"
+            "PromptAudio": "lang/georgian/audios/ღ.mp3"
           },
           "foilstones": [
             {
@@ -2652,7 +2652,7 @@
           ],
           "prompt": {
             "PromptText": "ღე",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ღ.mp3"
+            "PromptAudio": "lang/georgian/audios/ღ.mp3"
           },
           "foilstones": [
             {
@@ -2696,7 +2696,7 @@
           ],
           "prompt": {
             "PromptText": "ყე",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ყ.mp3"
+            "PromptAudio": "lang/georgian/audios/ყ.mp3"
           },
           "foilstones": [
             {
@@ -2722,7 +2722,7 @@
           ],
           "prompt": {
             "PromptText": "ყე",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ყ.mp3"
+            "PromptAudio": "lang/georgian/audios/ყ.mp3"
           },
           "foilstones": [
             {
@@ -2748,7 +2748,7 @@
           ],
           "prompt": {
             "PromptText": "დღე",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/დ.mp3"
+            "PromptAudio": "lang/georgian/audios/დ.mp3"
           },
           "foilstones": [
             {
@@ -2774,7 +2774,7 @@
           ],
           "prompt": {
             "PromptText": "მზე",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/მ.mp3"
+            "PromptAudio": "lang/georgian/audios/მ.mp3"
           },
           "foilstones": [
             {
@@ -2800,7 +2800,7 @@
           ],
           "prompt": {
             "PromptText": "დღე",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/დ.mp3"
+            "PromptAudio": "lang/georgian/audios/დ.mp3"
           },
           "foilstones": [
             {
@@ -2844,7 +2844,7 @@
           ],
           "prompt": {
             "PromptText": "ღე",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ღ.mp3"
+            "PromptAudio": "lang/georgian/audios/ღ.mp3"
           },
           "foilstones": [
             {
@@ -2867,7 +2867,7 @@
           ],
           "prompt": {
             "PromptText": "მზე",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/მ.mp3"
+            "PromptAudio": "lang/georgian/audios/მ.mp3"
           },
           "foilstones": [
             {
@@ -2890,7 +2890,7 @@
           ],
           "prompt": {
             "PromptText": "ზე",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ზ.mp3"
+            "PromptAudio": "lang/georgian/audios/ზ.mp3"
           },
           "foilstones": [
             {
@@ -2913,7 +2913,7 @@
           ],
           "prompt": {
             "PromptText": "დღე",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/დ.mp3"
+            "PromptAudio": "lang/georgian/audios/დ.mp3"
           },
           "foilstones": [
             {
@@ -2936,7 +2936,7 @@
           ],
           "prompt": {
             "PromptText": "დღე",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/დ.mp3"
+            "PromptAudio": "lang/georgian/audios/დ.mp3"
           },
           "foilstones": [
             {
@@ -2977,7 +2977,7 @@
           ],
           "prompt": {
             "PromptText": "ყე",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ყე.mp3"
+            "PromptAudio": "lang/georgian/audios/ყე.mp3"
           },
           "foilstones": [
             {
@@ -3003,7 +3003,7 @@
           ],
           "prompt": {
             "PromptText": "ღე",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ღე.mp3"
+            "PromptAudio": "lang/georgian/audios/ღე.mp3"
           },
           "foilstones": [
             {
@@ -3032,7 +3032,7 @@
           ],
           "prompt": {
             "PromptText": "მზე",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/მზე.mp3"
+            "PromptAudio": "lang/georgian/audios/მზე.mp3"
           },
           "foilstones": [
             {
@@ -3058,7 +3058,7 @@
           ],
           "prompt": {
             "PromptText": "ღე",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ღე.mp3"
+            "PromptAudio": "lang/georgian/audios/ღე.mp3"
           },
           "foilstones": [
             {
@@ -3087,7 +3087,7 @@
           ],
           "prompt": {
             "PromptText": "ტყე",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ტყე.mp3"
+            "PromptAudio": "lang/georgian/audios/ტყე.mp3"
           },
           "foilstones": [
             {
@@ -3125,7 +3125,7 @@
           ],
           "prompt": {
             "PromptText": "მე",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/მე.mp3"
+            "PromptAudio": "lang/georgian/audios/მე.mp3"
           },
           "foilstones": [
             {
@@ -3151,7 +3151,7 @@
           ],
           "prompt": {
             "PromptText": "მე",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/მე.mp3"
+            "PromptAudio": "lang/georgian/audios/მე.mp3"
           },
           "foilstones": [
             {
@@ -3177,7 +3177,7 @@
           ],
           "prompt": {
             "PromptText": "მე",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/მე.mp3"
+            "PromptAudio": "lang/georgian/audios/მე.mp3"
           },
           "foilstones": [
             {
@@ -3206,7 +3206,7 @@
           ],
           "prompt": {
             "PromptText": "ტე",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ტე.mp3"
+            "PromptAudio": "lang/georgian/audios/ტე.mp3"
           },
           "foilstones": [
             {
@@ -3232,7 +3232,7 @@
           ],
           "prompt": {
             "PromptText": "დე",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/დე.mp3"
+            "PromptAudio": "lang/georgian/audios/დე.mp3"
           },
           "foilstones": [
             {
@@ -3270,7 +3270,7 @@
           ],
           "prompt": {
             "PromptText": "დე",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/დე.mp3"
+            "PromptAudio": "lang/georgian/audios/დე.mp3"
           },
           "foilstones": [
             {
@@ -3296,7 +3296,7 @@
           ],
           "prompt": {
             "PromptText": "ღე",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ღე.mp3"
+            "PromptAudio": "lang/georgian/audios/ღე.mp3"
           },
           "foilstones": [
             {
@@ -3325,7 +3325,7 @@
           ],
           "prompt": {
             "PromptText": "მზე",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/მზე.mp3"
+            "PromptAudio": "lang/georgian/audios/მზე.mp3"
           },
           "foilstones": [
             {
@@ -3354,7 +3354,7 @@
           ],
           "prompt": {
             "PromptText": "მზე",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/მზე.mp3"
+            "PromptAudio": "lang/georgian/audios/მზე.mp3"
           },
           "foilstones": [
             {
@@ -3380,7 +3380,7 @@
           ],
           "prompt": {
             "PromptText": "ღე",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ღე.mp3"
+            "PromptAudio": "lang/georgian/audios/ღე.mp3"
           },
           "foilstones": [
             {
@@ -3418,7 +3418,7 @@
           ],
           "prompt": {
             "PromptText": "ი",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ი.mp3"
+            "PromptAudio": "lang/georgian/audios/ი.mp3"
           },
           "foilstones": [
             {
@@ -3441,7 +3441,7 @@
           ],
           "prompt": {
             "PromptText": "რ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/რ.mp3"
+            "PromptAudio": "lang/georgian/audios/რ.mp3"
           },
           "foilstones": [
             {
@@ -3464,7 +3464,7 @@
           ],
           "prompt": {
             "PromptText": "ი",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ი.mp3"
+            "PromptAudio": "lang/georgian/audios/ი.mp3"
           },
           "foilstones": [
             {
@@ -3490,7 +3490,7 @@
           ],
           "prompt": {
             "PromptText": "რ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/რ.mp3"
+            "PromptAudio": "lang/georgian/audios/რ.mp3"
           },
           "foilstones": [
             {
@@ -3513,7 +3513,7 @@
           ],
           "prompt": {
             "PromptText": "ნ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ნ.mp3"
+            "PromptAudio": "lang/georgian/audios/ნ.mp3"
           },
           "foilstones": [
             {
@@ -3548,7 +3548,7 @@
           ],
           "prompt": {
             "PromptText": "ჩ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ჩ.mp3"
+            "PromptAudio": "lang/georgian/audios/ჩ.mp3"
           },
           "foilstones": [
             {
@@ -3571,7 +3571,7 @@
           ],
           "prompt": {
             "PromptText": "ვ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ვ.mp3"
+            "PromptAudio": "lang/georgian/audios/ვ.mp3"
           },
           "foilstones": [
             {
@@ -3594,7 +3594,7 @@
           ],
           "prompt": {
             "PromptText": "ჩ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ჩ.mp3"
+            "PromptAudio": "lang/georgian/audios/ჩ.mp3"
           },
           "foilstones": [
             {
@@ -3620,7 +3620,7 @@
           ],
           "prompt": {
             "PromptText": "ვ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ვ.mp3"
+            "PromptAudio": "lang/georgian/audios/ვ.mp3"
           },
           "foilstones": [
             {
@@ -3643,7 +3643,7 @@
           ],
           "prompt": {
             "PromptText": "ი",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ი.mp3"
+            "PromptAudio": "lang/georgian/audios/ი.mp3"
           },
           "foilstones": [
             {
@@ -3678,7 +3678,7 @@
           ],
           "prompt": {
             "PromptText": "პ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/პ.mp3"
+            "PromptAudio": "lang/georgian/audios/პ.mp3"
           },
           "foilstones": [
             {
@@ -3701,7 +3701,7 @@
           ],
           "prompt": {
             "PromptText": "ნ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ნ.mp3"
+            "PromptAudio": "lang/georgian/audios/ნ.mp3"
           },
           "foilstones": [
             {
@@ -3724,7 +3724,7 @@
           ],
           "prompt": {
             "PromptText": "პ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/პ.mp3"
+            "PromptAudio": "lang/georgian/audios/პ.mp3"
           },
           "foilstones": [
             {
@@ -3750,7 +3750,7 @@
           ],
           "prompt": {
             "PromptText": "ჩ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ჩ.mp3"
+            "PromptAudio": "lang/georgian/audios/ჩ.mp3"
           },
           "foilstones": [
             {
@@ -3773,7 +3773,7 @@
           ],
           "prompt": {
             "PromptText": "ი",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ი.mp3"
+            "PromptAudio": "lang/georgian/audios/ი.mp3"
           },
           "foilstones": [
             {
@@ -3808,7 +3808,7 @@
           ],
           "prompt": {
             "PromptText": "რ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/რ.mp3"
+            "PromptAudio": "lang/georgian/audios/რ.mp3"
           },
           "foilstones": [
             {
@@ -3840,7 +3840,7 @@
           ],
           "prompt": {
             "PromptText": "ვ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ვ.mp3"
+            "PromptAudio": "lang/georgian/audios/ვ.mp3"
           },
           "foilstones": [
             {
@@ -3869,7 +3869,7 @@
           ],
           "prompt": {
             "PromptText": "ნ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ნ.mp3"
+            "PromptAudio": "lang/georgian/audios/ნ.mp3"
           },
           "foilstones": [
             {
@@ -3901,7 +3901,7 @@
           ],
           "prompt": {
             "PromptText": "რ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/რ.mp3"
+            "PromptAudio": "lang/georgian/audios/რ.mp3"
           },
           "foilstones": [
             {
@@ -3930,7 +3930,7 @@
           ],
           "prompt": {
             "PromptText": "ნ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ნ.mp3"
+            "PromptAudio": "lang/georgian/audios/ნ.mp3"
           },
           "foilstones": [
             {
@@ -3974,7 +3974,7 @@
           ],
           "prompt": {
             "PromptText": "ი",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ი.mp3"
+            "PromptAudio": "lang/georgian/audios/ი.mp3"
           },
           "foilstones": [
             {
@@ -4006,7 +4006,7 @@
           ],
           "prompt": {
             "PromptText": "ნ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ნ.mp3"
+            "PromptAudio": "lang/georgian/audios/ნ.mp3"
           },
           "foilstones": [
             {
@@ -4038,7 +4038,7 @@
           ],
           "prompt": {
             "PromptText": "ნ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ნ.mp3"
+            "PromptAudio": "lang/georgian/audios/ნ.mp3"
           },
           "foilstones": [
             {
@@ -4067,7 +4067,7 @@
           ],
           "prompt": {
             "PromptText": "ჩ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ჩ.mp3"
+            "PromptAudio": "lang/georgian/audios/ჩ.mp3"
           },
           "foilstones": [
             {
@@ -4096,7 +4096,7 @@
           ],
           "prompt": {
             "PromptText": "პ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/პ.mp3"
+            "PromptAudio": "lang/georgian/audios/პ.mp3"
           },
           "foilstones": [
             {
@@ -4140,7 +4140,7 @@
           ],
           "prompt": {
             "PromptText": "პ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/პ.mp3"
+            "PromptAudio": "lang/georgian/audios/პ.mp3"
           },
           "foilstones": [
             {
@@ -4172,7 +4172,7 @@
           ],
           "prompt": {
             "PromptText": "რ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/რ.mp3"
+            "PromptAudio": "lang/georgian/audios/რ.mp3"
           },
           "foilstones": [
             {
@@ -4204,7 +4204,7 @@
           ],
           "prompt": {
             "PromptText": "ჩ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ჩ.mp3"
+            "PromptAudio": "lang/georgian/audios/ჩ.mp3"
           },
           "foilstones": [
             {
@@ -4233,7 +4233,7 @@
           ],
           "prompt": {
             "PromptText": "ი",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ი.mp3"
+            "PromptAudio": "lang/georgian/audios/ი.mp3"
           },
           "foilstones": [
             {
@@ -4262,7 +4262,7 @@
           ],
           "prompt": {
             "PromptText": "ნ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ნ.mp3"
+            "PromptAudio": "lang/georgian/audios/ნ.mp3"
           },
           "foilstones": [
             {
@@ -4306,7 +4306,7 @@
           ],
           "prompt": {
             "PromptText": "ჩირი",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ჩ.mp3"
+            "PromptAudio": "lang/georgian/audios/ჩ.mp3"
           },
           "foilstones": [
             {
@@ -4335,7 +4335,7 @@
           ],
           "prompt": {
             "PromptText": "პირი",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/პ.mp3"
+            "PromptAudio": "lang/georgian/audios/პ.mp3"
           },
           "foilstones": [
             {
@@ -4367,7 +4367,7 @@
           ],
           "prompt": {
             "PromptText": "ვირი",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ვ.mp3"
+            "PromptAudio": "lang/georgian/audios/ვ.mp3"
           },
           "foilstones": [
             {
@@ -4399,7 +4399,7 @@
           ],
           "prompt": {
             "PromptText": "ჩირი",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ჩ.mp3"
+            "PromptAudio": "lang/georgian/audios/ჩ.mp3"
           },
           "foilstones": [
             {
@@ -4428,7 +4428,7 @@
           ],
           "prompt": {
             "PromptText": "ნი",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ნ.mp3"
+            "PromptAudio": "lang/georgian/audios/ნ.mp3"
           },
           "foilstones": [
             {
@@ -4472,7 +4472,7 @@
           ],
           "prompt": {
             "PromptText": "ვირი",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ვ.mp3"
+            "PromptAudio": "lang/georgian/audios/ვ.mp3"
           },
           "foilstones": [
             {
@@ -4504,7 +4504,7 @@
           ],
           "prompt": {
             "PromptText": "ჩირი",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ჩ.mp3"
+            "PromptAudio": "lang/georgian/audios/ჩ.mp3"
           },
           "foilstones": [
             {
@@ -4536,7 +4536,7 @@
           ],
           "prompt": {
             "PromptText": "რი",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/რ.mp3"
+            "PromptAudio": "lang/georgian/audios/რ.mp3"
           },
           "foilstones": [
             {
@@ -4565,7 +4565,7 @@
           ],
           "prompt": {
             "PromptText": "ვირი",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ვ.mp3"
+            "PromptAudio": "lang/georgian/audios/ვ.mp3"
           },
           "foilstones": [
             {
@@ -4597,7 +4597,7 @@
           ],
           "prompt": {
             "PromptText": "რი",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/რ.mp3"
+            "PromptAudio": "lang/georgian/audios/რ.mp3"
           },
           "foilstones": [
             {
@@ -4638,7 +4638,7 @@
           ],
           "prompt": {
             "PromptText": "ვირი",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ვ.mp3"
+            "PromptAudio": "lang/georgian/audios/ვ.mp3"
           },
           "foilstones": [
             {
@@ -4670,7 +4670,7 @@
           ],
           "prompt": {
             "PromptText": "ჩირი",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ჩ.mp3"
+            "PromptAudio": "lang/georgian/audios/ჩ.mp3"
           },
           "foilstones": [
             {
@@ -4702,7 +4702,7 @@
           ],
           "prompt": {
             "PromptText": "რი",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/რ.mp3"
+            "PromptAudio": "lang/georgian/audios/რ.mp3"
           },
           "foilstones": [
             {
@@ -4731,7 +4731,7 @@
           ],
           "prompt": {
             "PromptText": "ვირი",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ვ.mp3"
+            "PromptAudio": "lang/georgian/audios/ვ.mp3"
           },
           "foilstones": [
             {
@@ -4763,7 +4763,7 @@
           ],
           "prompt": {
             "PromptText": "პირი",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/პ.mp3"
+            "PromptAudio": "lang/georgian/audios/პ.mp3"
           },
           "foilstones": [
             {
@@ -4804,7 +4804,7 @@
           ],
           "prompt": {
             "PromptText": "ნი",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ნ.mp3"
+            "PromptAudio": "lang/georgian/audios/ნ.mp3"
           },
           "foilstones": [
             {
@@ -4836,7 +4836,7 @@
           ],
           "prompt": {
             "PromptText": "პირი",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/პ.mp3"
+            "PromptAudio": "lang/georgian/audios/პ.mp3"
           },
           "foilstones": [
             {
@@ -4868,7 +4868,7 @@
           ],
           "prompt": {
             "PromptText": "რი",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/რ.mp3"
+            "PromptAudio": "lang/georgian/audios/რ.mp3"
           },
           "foilstones": [
             {
@@ -4897,7 +4897,7 @@
           ],
           "prompt": {
             "PromptText": "პირი",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/პ.mp3"
+            "PromptAudio": "lang/georgian/audios/პ.mp3"
           },
           "foilstones": [
             {
@@ -4929,7 +4929,7 @@
           ],
           "prompt": {
             "PromptText": "ვირი",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ვ.mp3"
+            "PromptAudio": "lang/georgian/audios/ვ.mp3"
           },
           "foilstones": [
             {
@@ -4979,7 +4979,7 @@
           ],
           "prompt": {
             "PromptText": "ჩირი",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ჩირი.mp3"
+            "PromptAudio": "lang/georgian/audios/ჩირი.mp3"
           },
           "foilstones": [
             {
@@ -5026,7 +5026,7 @@
           ],
           "prompt": {
             "PromptText": "ჩირი",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ჩირი.mp3"
+            "PromptAudio": "lang/georgian/audios/ჩირი.mp3"
           },
           "foilstones": [
             {
@@ -5064,7 +5064,7 @@
           ],
           "prompt": {
             "PromptText": "რი",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/რი.mp3"
+            "PromptAudio": "lang/georgian/audios/რი.mp3"
           },
           "foilstones": [
             {
@@ -5105,7 +5105,7 @@
           ],
           "prompt": {
             "PromptText": "ნი",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ნი.mp3"
+            "PromptAudio": "lang/georgian/audios/ნი.mp3"
           },
           "foilstones": [
             {
@@ -5140,7 +5140,7 @@
           ],
           "prompt": {
             "PromptText": "პი",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/პი.mp3"
+            "PromptAudio": "lang/georgian/audios/პი.mp3"
           },
           "foilstones": [
             {
@@ -5196,7 +5196,7 @@
           ],
           "prompt": {
             "PromptText": "ვი",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ვი.mp3"
+            "PromptAudio": "lang/georgian/audios/ვი.mp3"
           },
           "foilstones": [
             {
@@ -5234,7 +5234,7 @@
           ],
           "prompt": {
             "PromptText": "ჩი",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ჩი.mp3"
+            "PromptAudio": "lang/georgian/audios/ჩი.mp3"
           },
           "foilstones": [
             {
@@ -5275,7 +5275,7 @@
           ],
           "prompt": {
             "PromptText": "ჩი",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ჩი.mp3"
+            "PromptAudio": "lang/georgian/audios/ჩი.mp3"
           },
           "foilstones": [
             {
@@ -5322,7 +5322,7 @@
           ],
           "prompt": {
             "PromptText": "ჩირი",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ჩირი.mp3"
+            "PromptAudio": "lang/georgian/audios/ჩირი.mp3"
           },
           "foilstones": [
             {
@@ -5372,7 +5372,7 @@
           ],
           "prompt": {
             "PromptText": "ჩირი",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ჩირი.mp3"
+            "PromptAudio": "lang/georgian/audios/ჩირი.mp3"
           },
           "foilstones": [
             {
@@ -5419,7 +5419,7 @@
           ],
           "prompt": {
             "PromptText": "ნი",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ნი.mp3"
+            "PromptAudio": "lang/georgian/audios/ნი.mp3"
           },
           "foilstones": [
             {
@@ -5466,7 +5466,7 @@
           ],
           "prompt": {
             "PromptText": "ჩირი",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ჩირი.mp3"
+            "PromptAudio": "lang/georgian/audios/ჩირი.mp3"
           },
           "foilstones": [
             {
@@ -5510,7 +5510,7 @@
           ],
           "prompt": {
             "PromptText": "რი",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/რი.mp3"
+            "PromptAudio": "lang/georgian/audios/რი.mp3"
           },
           "foilstones": [
             {
@@ -5551,7 +5551,7 @@
           ],
           "prompt": {
             "PromptText": "პი",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/პი.mp3"
+            "PromptAudio": "lang/georgian/audios/პი.mp3"
           },
           "foilstones": [
             {
@@ -5595,7 +5595,7 @@
           ],
           "prompt": {
             "PromptText": "ჩირი",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ჩირი.mp3"
+            "PromptAudio": "lang/georgian/audios/ჩირი.mp3"
           },
           "foilstones": [
             {
@@ -5645,7 +5645,7 @@
           ],
           "prompt": {
             "PromptText": "ო",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ო.mp3"
+            "PromptAudio": "lang/georgian/audios/ო.mp3"
           },
           "foilstones": [
             {
@@ -5683,7 +5683,7 @@
           ],
           "prompt": {
             "PromptText": "ო",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ო.mp3"
+            "PromptAudio": "lang/georgian/audios/ო.mp3"
           },
           "foilstones": [
             {
@@ -5721,7 +5721,7 @@
           ],
           "prompt": {
             "PromptText": "გ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/გ.mp3"
+            "PromptAudio": "lang/georgian/audios/გ.mp3"
           },
           "foilstones": [
             {
@@ -5759,7 +5759,7 @@
           ],
           "prompt": {
             "PromptText": "ჯ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ჯ.mp3"
+            "PromptAudio": "lang/georgian/audios/ჯ.mp3"
           },
           "foilstones": [
             {
@@ -5794,7 +5794,7 @@
           ],
           "prompt": {
             "PromptText": "ჟ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ჟ.mp3"
+            "PromptAudio": "lang/georgian/audios/ჟ.mp3"
           },
           "foilstones": [
             {
@@ -5847,7 +5847,7 @@
           ],
           "prompt": {
             "PromptText": "ქ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ქ.mp3"
+            "PromptAudio": "lang/georgian/audios/ქ.mp3"
           },
           "foilstones": [
             {
@@ -5885,7 +5885,7 @@
           ],
           "prompt": {
             "PromptText": "ჯ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ჯ.mp3"
+            "PromptAudio": "lang/georgian/audios/ჯ.mp3"
           },
           "foilstones": [
             {
@@ -5923,7 +5923,7 @@
           ],
           "prompt": {
             "PromptText": "ლ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ლ.mp3"
+            "PromptAudio": "lang/georgian/audios/ლ.mp3"
           },
           "foilstones": [
             {
@@ -5961,7 +5961,7 @@
           ],
           "prompt": {
             "PromptText": "ო",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ო.mp3"
+            "PromptAudio": "lang/georgian/audios/ო.mp3"
           },
           "foilstones": [
             {
@@ -6002,7 +6002,7 @@
           ],
           "prompt": {
             "PromptText": "ქ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ქ.mp3"
+            "PromptAudio": "lang/georgian/audios/ქ.mp3"
           },
           "foilstones": [
             {
@@ -6049,7 +6049,7 @@
           ],
           "prompt": {
             "PromptText": "გ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/გ.mp3"
+            "PromptAudio": "lang/georgian/audios/გ.mp3"
           },
           "foilstones": [
             {
@@ -6087,7 +6087,7 @@
           ],
           "prompt": {
             "PromptText": "ჯ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ჯ.mp3"
+            "PromptAudio": "lang/georgian/audios/ჯ.mp3"
           },
           "foilstones": [
             {
@@ -6125,7 +6125,7 @@
           ],
           "prompt": {
             "PromptText": "ჯ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ჯ.mp3"
+            "PromptAudio": "lang/georgian/audios/ჯ.mp3"
           },
           "foilstones": [
             {
@@ -6163,7 +6163,7 @@
           ],
           "prompt": {
             "PromptText": "ო",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ო.mp3"
+            "PromptAudio": "lang/georgian/audios/ო.mp3"
           },
           "foilstones": [
             {
@@ -6204,7 +6204,7 @@
           ],
           "prompt": {
             "PromptText": "ქ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ქ.mp3"
+            "PromptAudio": "lang/georgian/audios/ქ.mp3"
           },
           "foilstones": [
             {
@@ -6251,7 +6251,7 @@
           ],
           "prompt": {
             "PromptText": "ლ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ლ.mp3"
+            "PromptAudio": "lang/georgian/audios/ლ.mp3"
           },
           "foilstones": [
             {
@@ -6289,7 +6289,7 @@
           ],
           "prompt": {
             "PromptText": "წ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/წ.mp3"
+            "PromptAudio": "lang/georgian/audios/წ.mp3"
           },
           "foilstones": [
             {
@@ -6327,7 +6327,7 @@
           ],
           "prompt": {
             "PromptText": "ო",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ო.mp3"
+            "PromptAudio": "lang/georgian/audios/ო.mp3"
           },
           "foilstones": [
             {
@@ -6365,7 +6365,7 @@
           ],
           "prompt": {
             "PromptText": "წ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/წ.mp3"
+            "PromptAudio": "lang/georgian/audios/წ.mp3"
           },
           "foilstones": [
             {
@@ -6406,7 +6406,7 @@
           ],
           "prompt": {
             "PromptText": "წ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/წ.mp3"
+            "PromptAudio": "lang/georgian/audios/წ.mp3"
           },
           "foilstones": [
             {
@@ -6453,7 +6453,7 @@
           ],
           "prompt": {
             "PromptText": "გ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/გ.mp3"
+            "PromptAudio": "lang/georgian/audios/გ.mp3"
           },
           "foilstones": [
             {
@@ -6491,7 +6491,7 @@
           ],
           "prompt": {
             "PromptText": "ჯ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ჯ.mp3"
+            "PromptAudio": "lang/georgian/audios/ჯ.mp3"
           },
           "foilstones": [
             {
@@ -6529,7 +6529,7 @@
           ],
           "prompt": {
             "PromptText": "ჯ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ჯ.mp3"
+            "PromptAudio": "lang/georgian/audios/ჯ.mp3"
           },
           "foilstones": [
             {
@@ -6567,7 +6567,7 @@
           ],
           "prompt": {
             "PromptText": "ლ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ლ.mp3"
+            "PromptAudio": "lang/georgian/audios/ლ.mp3"
           },
           "foilstones": [
             {
@@ -6602,7 +6602,7 @@
           ],
           "prompt": {
             "PromptText": "ლ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ლ.mp3"
+            "PromptAudio": "lang/georgian/audios/ლ.mp3"
           },
           "foilstones": [
             {
@@ -6655,7 +6655,7 @@
           ],
           "prompt": {
             "PromptText": "გ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/გ.mp3"
+            "PromptAudio": "lang/georgian/audios/გ.mp3"
           },
           "foilstones": [
             {
@@ -6693,7 +6693,7 @@
           ],
           "prompt": {
             "PromptText": "ჟ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ჟ.mp3"
+            "PromptAudio": "lang/georgian/audios/ჟ.mp3"
           },
           "foilstones": [
             {
@@ -6731,7 +6731,7 @@
           ],
           "prompt": {
             "PromptText": "გ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/გ.mp3"
+            "PromptAudio": "lang/georgian/audios/გ.mp3"
           },
           "foilstones": [
             {
@@ -6769,7 +6769,7 @@
           ],
           "prompt": {
             "PromptText": "წ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/წ.mp3"
+            "PromptAudio": "lang/georgian/audios/წ.mp3"
           },
           "foilstones": [
             {
@@ -6804,7 +6804,7 @@
           ],
           "prompt": {
             "PromptText": "ჯ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ჯ.mp3"
+            "PromptAudio": "lang/georgian/audios/ჯ.mp3"
           },
           "foilstones": [
             {
@@ -6857,7 +6857,7 @@
           ],
           "prompt": {
             "PromptText": "გოგო",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/გ.mp3"
+            "PromptAudio": "lang/georgian/audios/გ.mp3"
           },
           "foilstones": [
             {
@@ -6895,7 +6895,7 @@
           ],
           "prompt": {
             "PromptText": "ქო",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ქ.mp3"
+            "PromptAudio": "lang/georgian/audios/ქ.mp3"
           },
           "foilstones": [
             {
@@ -6933,7 +6933,7 @@
           ],
           "prompt": {
             "PromptText": "გოგო",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/გ.mp3"
+            "PromptAudio": "lang/georgian/audios/გ.mp3"
           },
           "foilstones": [
             {
@@ -6968,7 +6968,7 @@
           ],
           "prompt": {
             "PromptText": "ლოქო",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ლ.mp3"
+            "PromptAudio": "lang/georgian/audios/ლ.mp3"
           },
           "foilstones": [
             {
@@ -7009,7 +7009,7 @@
           ],
           "prompt": {
             "PromptText": "გოგო",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/გ.mp3"
+            "PromptAudio": "lang/georgian/audios/გ.mp3"
           },
           "foilstones": [
             {
@@ -7059,7 +7059,7 @@
           ],
           "prompt": {
             "PromptText": "წო",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/წ.mp3"
+            "PromptAudio": "lang/georgian/audios/წ.mp3"
           },
           "foilstones": [
             {
@@ -7097,7 +7097,7 @@
           ],
           "prompt": {
             "PromptText": "ჯო",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ჯ.mp3"
+            "PromptAudio": "lang/georgian/audios/ჯ.mp3"
           },
           "foilstones": [
             {
@@ -7135,7 +7135,7 @@
           ],
           "prompt": {
             "PromptText": "ქო",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ქ.mp3"
+            "PromptAudio": "lang/georgian/audios/ქ.mp3"
           },
           "foilstones": [
             {
@@ -7173,7 +7173,7 @@
           ],
           "prompt": {
             "PromptText": "ლოქო",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ლ.mp3"
+            "PromptAudio": "lang/georgian/audios/ლ.mp3"
           },
           "foilstones": [
             {
@@ -7208,7 +7208,7 @@
           ],
           "prompt": {
             "PromptText": "ქო",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ქ.mp3"
+            "PromptAudio": "lang/georgian/audios/ქ.mp3"
           },
           "foilstones": [
             {
@@ -7261,7 +7261,7 @@
           ],
           "prompt": {
             "PromptText": "ქო",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ქ.mp3"
+            "PromptAudio": "lang/georgian/audios/ქ.mp3"
           },
           "foilstones": [
             {
@@ -7299,7 +7299,7 @@
           ],
           "prompt": {
             "PromptText": "გოგო",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/გ.mp3"
+            "PromptAudio": "lang/georgian/audios/გ.mp3"
           },
           "foilstones": [
             {
@@ -7337,7 +7337,7 @@
           ],
           "prompt": {
             "PromptText": "ქო",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ქ.mp3"
+            "PromptAudio": "lang/georgian/audios/ქ.mp3"
           },
           "foilstones": [
             {
@@ -7375,7 +7375,7 @@
           ],
           "prompt": {
             "PromptText": "წო",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/წ.mp3"
+            "PromptAudio": "lang/georgian/audios/წ.mp3"
           },
           "foilstones": [
             {
@@ -7410,7 +7410,7 @@
           ],
           "prompt": {
             "PromptText": "წო",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/წ.mp3"
+            "PromptAudio": "lang/georgian/audios/წ.mp3"
           },
           "foilstones": [
             {
@@ -7463,7 +7463,7 @@
           ],
           "prompt": {
             "PromptText": "ჯო",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ჯ.mp3"
+            "PromptAudio": "lang/georgian/audios/ჯ.mp3"
           },
           "foilstones": [
             {
@@ -7486,7 +7486,7 @@
           ],
           "prompt": {
             "PromptText": "ლოქო",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ლ.mp3"
+            "PromptAudio": "lang/georgian/audios/ლ.mp3"
           },
           "foilstones": [
             {
@@ -7509,7 +7509,7 @@
           ],
           "prompt": {
             "PromptText": "ქო",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ქ.mp3"
+            "PromptAudio": "lang/georgian/audios/ქ.mp3"
           },
           "foilstones": [
             {
@@ -7532,7 +7532,7 @@
           ],
           "prompt": {
             "PromptText": "ჯო",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ჯ.mp3"
+            "PromptAudio": "lang/georgian/audios/ჯ.mp3"
           },
           "foilstones": [
             {
@@ -7558,7 +7558,7 @@
           ],
           "prompt": {
             "PromptText": "ქო",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ქ.mp3"
+            "PromptAudio": "lang/georgian/audios/ქ.mp3"
           },
           "foilstones": [
             {
@@ -7602,7 +7602,7 @@
           ],
           "prompt": {
             "PromptText": "გოგო",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/გოგო.mp3"
+            "PromptAudio": "lang/georgian/audios/გოგო.mp3"
           },
           "foilstones": [
             {
@@ -7634,7 +7634,7 @@
           ],
           "prompt": {
             "PromptText": "ლოქო",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ლოქო.mp3"
+            "PromptAudio": "lang/georgian/audios/ლოქო.mp3"
           },
           "foilstones": [
             {
@@ -7660,7 +7660,7 @@
           ],
           "prompt": {
             "PromptText": "წო",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/წო.mp3"
+            "PromptAudio": "lang/georgian/audios/წო.mp3"
           },
           "foilstones": [
             {
@@ -7686,7 +7686,7 @@
           ],
           "prompt": {
             "PromptText": "ჟო",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ჟო.mp3"
+            "PromptAudio": "lang/georgian/audios/ჟო.mp3"
           },
           "foilstones": [
             {
@@ -7715,7 +7715,7 @@
           ],
           "prompt": {
             "PromptText": "ჟო",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ჟო.mp3"
+            "PromptAudio": "lang/georgian/audios/ჟო.mp3"
           },
           "foilstones": [
             {
@@ -7753,7 +7753,7 @@
           ],
           "prompt": {
             "PromptText": "ჟო",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ჟო.mp3"
+            "PromptAudio": "lang/georgian/audios/ჟო.mp3"
           },
           "foilstones": [
             {
@@ -7794,7 +7794,7 @@
           ],
           "prompt": {
             "PromptText": "ჯო",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ჯო.mp3"
+            "PromptAudio": "lang/georgian/audios/ჯო.mp3"
           },
           "foilstones": [
             {
@@ -7841,7 +7841,7 @@
           ],
           "prompt": {
             "PromptText": "ლოქო",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ლოქო.mp3"
+            "PromptAudio": "lang/georgian/audios/ლოქო.mp3"
           },
           "foilstones": [
             {
@@ -7879,7 +7879,7 @@
           ],
           "prompt": {
             "PromptText": "ლო",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ლო.mp3"
+            "PromptAudio": "lang/georgian/audios/ლო.mp3"
           },
           "foilstones": [
             {
@@ -7923,7 +7923,7 @@
           ],
           "prompt": {
             "PromptText": "გო",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/გო.mp3"
+            "PromptAudio": "lang/georgian/audios/გო.mp3"
           },
           "foilstones": [
             {
@@ -7976,7 +7976,7 @@
           ],
           "prompt": {
             "PromptText": "წო",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/წო.mp3"
+            "PromptAudio": "lang/georgian/audios/წო.mp3"
           },
           "foilstones": [
             {
@@ -8023,7 +8023,7 @@
           ],
           "prompt": {
             "PromptText": "ლოქო",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ლოქო.mp3"
+            "PromptAudio": "lang/georgian/audios/ლოქო.mp3"
           },
           "foilstones": [
             {
@@ -8070,7 +8070,7 @@
           ],
           "prompt": {
             "PromptText": "ჟოლო",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ჟოლო.mp3"
+            "PromptAudio": "lang/georgian/audios/ჟოლო.mp3"
           },
           "foilstones": [
             {
@@ -8111,7 +8111,7 @@
           ],
           "prompt": {
             "PromptText": "ჟო",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ჟო.mp3"
+            "PromptAudio": "lang/georgian/audios/ჟო.mp3"
           },
           "foilstones": [
             {
@@ -8149,7 +8149,7 @@
           ],
           "prompt": {
             "PromptText": "ქო",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ქო.mp3"
+            "PromptAudio": "lang/georgian/audios/ქო.mp3"
           },
           "foilstones": [
             {
@@ -8202,7 +8202,7 @@
           ],
           "prompt": {
             "PromptText": "უ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/უ.mp3"
+            "PromptAudio": "lang/georgian/audios/უ.mp3"
           },
           "foilstones": [
             {
@@ -8240,7 +8240,7 @@
           ],
           "prompt": {
             "PromptText": "ბ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ბ.mp3"
+            "PromptAudio": "lang/georgian/audios/ბ.mp3"
           },
           "foilstones": [
             {
@@ -8278,7 +8278,7 @@
           ],
           "prompt": {
             "PromptText": "შ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/შ.mp3"
+            "PromptAudio": "lang/georgian/audios/შ.mp3"
           },
           "foilstones": [
             {
@@ -8313,7 +8313,7 @@
           ],
           "prompt": {
             "PromptText": "კ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/კ.mp3"
+            "PromptAudio": "lang/georgian/audios/კ.mp3"
           },
           "foilstones": [
             {
@@ -8354,7 +8354,7 @@
           ],
           "prompt": {
             "PromptText": "უ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/უ.mp3"
+            "PromptAudio": "lang/georgian/audios/უ.mp3"
           },
           "foilstones": [
             {
@@ -8404,7 +8404,7 @@
           ],
           "prompt": {
             "PromptText": "ს",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ს.mp3"
+            "PromptAudio": "lang/georgian/audios/ს.mp3"
           },
           "foilstones": [
             {
@@ -8442,7 +8442,7 @@
           ],
           "prompt": {
             "PromptText": "კ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/კ.mp3"
+            "PromptAudio": "lang/georgian/audios/კ.mp3"
           },
           "foilstones": [
             {
@@ -8483,7 +8483,7 @@
           ],
           "prompt": {
             "PromptText": "კ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/კ.mp3"
+            "PromptAudio": "lang/georgian/audios/კ.mp3"
           },
           "foilstones": [
             {
@@ -8521,7 +8521,7 @@
           ],
           "prompt": {
             "PromptText": "ძ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ძ.mp3"
+            "PromptAudio": "lang/georgian/audios/ძ.mp3"
           },
           "foilstones": [
             {
@@ -8556,7 +8556,7 @@
           ],
           "prompt": {
             "PromptText": "ძ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ძ.mp3"
+            "PromptAudio": "lang/georgian/audios/ძ.mp3"
           },
           "foilstones": [
             {
@@ -8606,7 +8606,7 @@
           ],
           "prompt": {
             "PromptText": "უ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/უ.mp3"
+            "PromptAudio": "lang/georgian/audios/უ.mp3"
           },
           "foilstones": [
             {
@@ -8644,7 +8644,7 @@
           ],
           "prompt": {
             "PromptText": "ს",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ს.mp3"
+            "PromptAudio": "lang/georgian/audios/ს.mp3"
           },
           "foilstones": [
             {
@@ -8682,7 +8682,7 @@
           ],
           "prompt": {
             "PromptText": "უ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/უ.mp3"
+            "PromptAudio": "lang/georgian/audios/უ.mp3"
           },
           "foilstones": [
             {
@@ -8720,7 +8720,7 @@
           ],
           "prompt": {
             "PromptText": "უ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/უ.mp3"
+            "PromptAudio": "lang/georgian/audios/უ.mp3"
           },
           "foilstones": [
             {
@@ -8755,7 +8755,7 @@
           ],
           "prompt": {
             "PromptText": "ს",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ს.mp3"
+            "PromptAudio": "lang/georgian/audios/ს.mp3"
           },
           "foilstones": [
             {
@@ -8808,7 +8808,7 @@
           ],
           "prompt": {
             "PromptText": "ძ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ძ.mp3"
+            "PromptAudio": "lang/georgian/audios/ძ.mp3"
           },
           "foilstones": [
             {
@@ -8846,7 +8846,7 @@
           ],
           "prompt": {
             "PromptText": "კ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/კ.mp3"
+            "PromptAudio": "lang/georgian/audios/კ.mp3"
           },
           "foilstones": [
             {
@@ -8884,7 +8884,7 @@
           ],
           "prompt": {
             "PromptText": "კ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/კ.mp3"
+            "PromptAudio": "lang/georgian/audios/კ.mp3"
           },
           "foilstones": [
             {
@@ -8922,7 +8922,7 @@
           ],
           "prompt": {
             "PromptText": "შ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/შ.mp3"
+            "PromptAudio": "lang/georgian/audios/შ.mp3"
           },
           "foilstones": [
             {
@@ -8957,7 +8957,7 @@
           ],
           "prompt": {
             "PromptText": "ს",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ს.mp3"
+            "PromptAudio": "lang/georgian/audios/ს.mp3"
           },
           "foilstones": [
             {
@@ -9010,7 +9010,7 @@
           ],
           "prompt": {
             "PromptText": "ს",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ს.mp3"
+            "PromptAudio": "lang/georgian/audios/ს.mp3"
           },
           "foilstones": [
             {
@@ -9048,7 +9048,7 @@
           ],
           "prompt": {
             "PromptText": "კ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/კ.mp3"
+            "PromptAudio": "lang/georgian/audios/კ.mp3"
           },
           "foilstones": [
             {
@@ -9089,7 +9089,7 @@
           ],
           "prompt": {
             "PromptText": "შ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/შ.mp3"
+            "PromptAudio": "lang/georgian/audios/შ.mp3"
           },
           "foilstones": [
             {
@@ -9127,7 +9127,7 @@
           ],
           "prompt": {
             "PromptText": "უ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/უ.mp3"
+            "PromptAudio": "lang/georgian/audios/უ.mp3"
           },
           "foilstones": [
             {
@@ -9162,7 +9162,7 @@
           ],
           "prompt": {
             "PromptText": "უ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/უ.mp3"
+            "PromptAudio": "lang/georgian/audios/უ.mp3"
           },
           "foilstones": [
             {
@@ -9212,7 +9212,7 @@
           ],
           "prompt": {
             "PromptText": "ბ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ბ.mp3"
+            "PromptAudio": "lang/georgian/audios/ბ.mp3"
           },
           "foilstones": [
             {
@@ -9250,7 +9250,7 @@
           ],
           "prompt": {
             "PromptText": "უ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/უ.mp3"
+            "PromptAudio": "lang/georgian/audios/უ.mp3"
           },
           "foilstones": [
             {
@@ -9288,7 +9288,7 @@
           ],
           "prompt": {
             "PromptText": "ძ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ძ.mp3"
+            "PromptAudio": "lang/georgian/audios/ძ.mp3"
           },
           "foilstones": [
             {
@@ -9326,7 +9326,7 @@
           ],
           "prompt": {
             "PromptText": "უ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/უ.mp3"
+            "PromptAudio": "lang/georgian/audios/უ.mp3"
           },
           "foilstones": [
             {
@@ -9361,7 +9361,7 @@
           ],
           "prompt": {
             "PromptText": "შ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/შ.mp3"
+            "PromptAudio": "lang/georgian/audios/შ.mp3"
           },
           "foilstones": [
             {
@@ -9414,7 +9414,7 @@
           ],
           "prompt": {
             "PromptText": "ბუ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ბ.mp3"
+            "PromptAudio": "lang/georgian/audios/ბ.mp3"
           },
           "foilstones": [
             {
@@ -9452,7 +9452,7 @@
           ],
           "prompt": {
             "PromptText": "ძუძუ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ძ.mp3"
+            "PromptAudio": "lang/georgian/audios/ძ.mp3"
           },
           "foilstones": [
             {
@@ -9490,7 +9490,7 @@
           ],
           "prompt": {
             "PromptText": "ძუძუ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ძ.mp3"
+            "PromptAudio": "lang/georgian/audios/ძ.mp3"
           },
           "foilstones": [
             {
@@ -9528,7 +9528,7 @@
           ],
           "prompt": {
             "PromptText": "ბუ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ბ.mp3"
+            "PromptAudio": "lang/georgian/audios/ბ.mp3"
           },
           "foilstones": [
             {
@@ -9563,7 +9563,7 @@
           ],
           "prompt": {
             "PromptText": "შუ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/შ.mp3"
+            "PromptAudio": "lang/georgian/audios/შ.mp3"
           },
           "foilstones": [
             {
@@ -9616,7 +9616,7 @@
           ],
           "prompt": {
             "PromptText": "ბუ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ბ.mp3"
+            "PromptAudio": "lang/georgian/audios/ბ.mp3"
           },
           "foilstones": [
             {
@@ -9654,7 +9654,7 @@
           ],
           "prompt": {
             "PromptText": "სუ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ს.mp3"
+            "PromptAudio": "lang/georgian/audios/ს.mp3"
           },
           "foilstones": [
             {
@@ -9692,7 +9692,7 @@
           ],
           "prompt": {
             "PromptText": "ძუძუ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ძ.mp3"
+            "PromptAudio": "lang/georgian/audios/ძ.mp3"
           },
           "foilstones": [
             {
@@ -9727,7 +9727,7 @@
           ],
           "prompt": {
             "PromptText": "ბუ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ბ.mp3"
+            "PromptAudio": "lang/georgian/audios/ბ.mp3"
           },
           "foilstones": [
             {
@@ -9765,7 +9765,7 @@
           ],
           "prompt": {
             "PromptText": "კუ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/კ.mp3"
+            "PromptAudio": "lang/georgian/audios/კ.mp3"
           },
           "foilstones": [
             {
@@ -9818,7 +9818,7 @@
           ],
           "prompt": {
             "PromptText": "ბუ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ბ.mp3"
+            "PromptAudio": "lang/georgian/audios/ბ.mp3"
           },
           "foilstones": [
             {
@@ -9856,7 +9856,7 @@
           ],
           "prompt": {
             "PromptText": "ბუ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ბ.mp3"
+            "PromptAudio": "lang/georgian/audios/ბ.mp3"
           },
           "foilstones": [
             {
@@ -9894,7 +9894,7 @@
           ],
           "prompt": {
             "PromptText": "შუ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/შ.mp3"
+            "PromptAudio": "lang/georgian/audios/შ.mp3"
           },
           "foilstones": [
             {
@@ -9929,7 +9929,7 @@
           ],
           "prompt": {
             "PromptText": "ძუძუ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ძ.mp3"
+            "PromptAudio": "lang/georgian/audios/ძ.mp3"
           },
           "foilstones": [
             {
@@ -9967,7 +9967,7 @@
           ],
           "prompt": {
             "PromptText": "ბუ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ბ.mp3"
+            "PromptAudio": "lang/georgian/audios/ბ.mp3"
           },
           "foilstones": [
             {
@@ -10020,7 +10020,7 @@
           ],
           "prompt": {
             "PromptText": "კუ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/კ.mp3"
+            "PromptAudio": "lang/georgian/audios/კ.mp3"
           },
           "foilstones": [
             {
@@ -10058,7 +10058,7 @@
           ],
           "prompt": {
             "PromptText": "ბუ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ბ.mp3"
+            "PromptAudio": "lang/georgian/audios/ბ.mp3"
           },
           "foilstones": [
             {
@@ -10096,7 +10096,7 @@
           ],
           "prompt": {
             "PromptText": "კუ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/კ.mp3"
+            "PromptAudio": "lang/georgian/audios/კ.mp3"
           },
           "foilstones": [
             {
@@ -10131,7 +10131,7 @@
           ],
           "prompt": {
             "PromptText": "ძუძუ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ძ.mp3"
+            "PromptAudio": "lang/georgian/audios/ძ.mp3"
           },
           "foilstones": [
             {
@@ -10169,7 +10169,7 @@
           ],
           "prompt": {
             "PromptText": "შუ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/შ.mp3"
+            "PromptAudio": "lang/georgian/audios/შ.mp3"
           },
           "foilstones": [
             {
@@ -10225,7 +10225,7 @@
           ],
           "prompt": {
             "PromptText": "ბუ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ბუ.mp3"
+            "PromptAudio": "lang/georgian/audios/ბუ.mp3"
           },
           "foilstones": [
             {
@@ -10266,7 +10266,7 @@
           ],
           "prompt": {
             "PromptText": "სუ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/სუ.mp3"
+            "PromptAudio": "lang/georgian/audios/სუ.mp3"
           },
           "foilstones": [
             {
@@ -10307,7 +10307,7 @@
           ],
           "prompt": {
             "PromptText": "ძუ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ძუ.mp3"
+            "PromptAudio": "lang/georgian/audios/ძუ.mp3"
           },
           "foilstones": [
             {
@@ -10345,7 +10345,7 @@
           ],
           "prompt": {
             "PromptText": "ბუ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ბუ.mp3"
+            "PromptAudio": "lang/georgian/audios/ბუ.mp3"
           },
           "foilstones": [
             {
@@ -10386,7 +10386,7 @@
           ],
           "prompt": {
             "PromptText": "ბუ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ბუ.mp3"
+            "PromptAudio": "lang/georgian/audios/ბუ.mp3"
           },
           "foilstones": [
             {
@@ -10442,7 +10442,7 @@
           ],
           "prompt": {
             "PromptText": "სუ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/სუ.mp3"
+            "PromptAudio": "lang/georgian/audios/სუ.mp3"
           },
           "foilstones": [
             {
@@ -10483,7 +10483,7 @@
           ],
           "prompt": {
             "PromptText": "შუ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/შუ.mp3"
+            "PromptAudio": "lang/georgian/audios/შუ.mp3"
           },
           "foilstones": [
             {
@@ -10524,7 +10524,7 @@
           ],
           "prompt": {
             "PromptText": "სუ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/სუ.mp3"
+            "PromptAudio": "lang/georgian/audios/სუ.mp3"
           },
           "foilstones": [
             {
@@ -10562,7 +10562,7 @@
           ],
           "prompt": {
             "PromptText": "ბუ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ბუ.mp3"
+            "PromptAudio": "lang/georgian/audios/ბუ.mp3"
           },
           "foilstones": [
             {
@@ -10603,7 +10603,7 @@
           ],
           "prompt": {
             "PromptText": "სუ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/სუ.mp3"
+            "PromptAudio": "lang/georgian/audios/სუ.mp3"
           },
           "foilstones": [
             {
@@ -10659,7 +10659,7 @@
           ],
           "prompt": {
             "PromptText": "ბუ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ბუ.mp3"
+            "PromptAudio": "lang/georgian/audios/ბუ.mp3"
           },
           "foilstones": [
             {
@@ -10700,7 +10700,7 @@
           ],
           "prompt": {
             "PromptText": "ბუ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ბუ.mp3"
+            "PromptAudio": "lang/georgian/audios/ბუ.mp3"
           },
           "foilstones": [
             {
@@ -10741,7 +10741,7 @@
           ],
           "prompt": {
             "PromptText": "სუ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/სუ.mp3"
+            "PromptAudio": "lang/georgian/audios/სუ.mp3"
           },
           "foilstones": [
             {
@@ -10779,7 +10779,7 @@
           ],
           "prompt": {
             "PromptText": "ბუ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ბუ.mp3"
+            "PromptAudio": "lang/georgian/audios/ბუ.mp3"
           },
           "foilstones": [
             {
@@ -10820,7 +10820,7 @@
           ],
           "prompt": {
             "PromptText": "შუ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/შუ.mp3"
+            "PromptAudio": "lang/georgian/audios/შუ.mp3"
           },
           "foilstones": [
             {
@@ -10873,7 +10873,7 @@
           ],
           "prompt": {
             "PromptText": "კ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/კ.mp3"
+            "PromptAudio": "lang/georgian/audios/კ.mp3"
           },
           "foilstones": [
             {
@@ -10911,7 +10911,7 @@
           ],
           "prompt": {
             "PromptText": "ძ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ძ.mp3"
+            "PromptAudio": "lang/georgian/audios/ძ.mp3"
           },
           "foilstones": [
             {
@@ -10949,7 +10949,7 @@
           ],
           "prompt": {
             "PromptText": "ს",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ს.mp3"
+            "PromptAudio": "lang/georgian/audios/ს.mp3"
           },
           "foilstones": [
             {
@@ -10981,7 +10981,7 @@
           ],
           "prompt": {
             "PromptText": "ს",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ს.mp3"
+            "PromptAudio": "lang/georgian/audios/ს.mp3"
           },
           "foilstones": [
             {
@@ -11016,7 +11016,7 @@
           ],
           "prompt": {
             "PromptText": "ბ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ბ.mp3"
+            "PromptAudio": "lang/georgian/audios/ბ.mp3"
           },
           "foilstones": [
             {
@@ -11069,7 +11069,7 @@
           ],
           "prompt": {
             "PromptText": "ძ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ძ.mp3"
+            "PromptAudio": "lang/georgian/audios/ძ.mp3"
           },
           "foilstones": [
             {
@@ -11107,7 +11107,7 @@
           ],
           "prompt": {
             "PromptText": "უ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/უ.mp3"
+            "PromptAudio": "lang/georgian/audios/უ.mp3"
           },
           "foilstones": [
             {
@@ -11145,7 +11145,7 @@
           ],
           "prompt": {
             "PromptText": "ბ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ბ.mp3"
+            "PromptAudio": "lang/georgian/audios/ბ.mp3"
           },
           "foilstones": [
             {
@@ -11183,7 +11183,7 @@
           ],
           "prompt": {
             "PromptText": "ს",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ს.mp3"
+            "PromptAudio": "lang/georgian/audios/ს.mp3"
           },
           "foilstones": [
             {
@@ -11218,7 +11218,7 @@
           ],
           "prompt": {
             "PromptText": "კ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/კ.mp3"
+            "PromptAudio": "lang/georgian/audios/კ.mp3"
           },
           "foilstones": [
             {
@@ -11271,7 +11271,7 @@
           ],
           "prompt": {
             "PromptText": "შ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/შ.mp3"
+            "PromptAudio": "lang/georgian/audios/შ.mp3"
           },
           "foilstones": [
             {
@@ -11309,7 +11309,7 @@
           ],
           "prompt": {
             "PromptText": "ს",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ს.mp3"
+            "PromptAudio": "lang/georgian/audios/ს.mp3"
           },
           "foilstones": [
             {
@@ -11347,7 +11347,7 @@
           ],
           "prompt": {
             "PromptText": "ს",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ს.mp3"
+            "PromptAudio": "lang/georgian/audios/ს.mp3"
           },
           "foilstones": [
             {
@@ -11379,7 +11379,7 @@
           ],
           "prompt": {
             "PromptText": "კ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/კ.mp3"
+            "PromptAudio": "lang/georgian/audios/კ.mp3"
           },
           "foilstones": [
             {
@@ -11414,7 +11414,7 @@
           ],
           "prompt": {
             "PromptText": "ბ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ბ.mp3"
+            "PromptAudio": "lang/georgian/audios/ბ.mp3"
           },
           "foilstones": [
             {
@@ -11467,7 +11467,7 @@
           ],
           "prompt": {
             "PromptText": "კ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/კ.mp3"
+            "PromptAudio": "lang/georgian/audios/კ.mp3"
           },
           "foilstones": [
             {
@@ -11505,7 +11505,7 @@
           ],
           "prompt": {
             "PromptText": "შ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/შ.mp3"
+            "PromptAudio": "lang/georgian/audios/შ.mp3"
           },
           "foilstones": [
             {
@@ -11543,7 +11543,7 @@
           ],
           "prompt": {
             "PromptText": "უ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/უ.mp3"
+            "PromptAudio": "lang/georgian/audios/უ.mp3"
           },
           "foilstones": [
             {
@@ -11581,7 +11581,7 @@
           ],
           "prompt": {
             "PromptText": "ბ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ბ.mp3"
+            "PromptAudio": "lang/georgian/audios/ბ.mp3"
           },
           "foilstones": [
             {
@@ -11616,7 +11616,7 @@
           ],
           "prompt": {
             "PromptText": "უ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/უ.mp3"
+            "PromptAudio": "lang/georgian/audios/უ.mp3"
           },
           "foilstones": [
             {
@@ -11669,7 +11669,7 @@
           ],
           "prompt": {
             "PromptText": "შ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/შ.mp3"
+            "PromptAudio": "lang/georgian/audios/შ.mp3"
           },
           "foilstones": [
             {
@@ -11707,7 +11707,7 @@
           ],
           "prompt": {
             "PromptText": "ს",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ს.mp3"
+            "PromptAudio": "lang/georgian/audios/ს.mp3"
           },
           "foilstones": [
             {
@@ -11745,7 +11745,7 @@
           ],
           "prompt": {
             "PromptText": "შ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/შ.mp3"
+            "PromptAudio": "lang/georgian/audios/შ.mp3"
           },
           "foilstones": [
             {
@@ -11777,7 +11777,7 @@
           ],
           "prompt": {
             "PromptText": "შ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/შ.mp3"
+            "PromptAudio": "lang/georgian/audios/შ.mp3"
           },
           "foilstones": [
             {
@@ -11812,7 +11812,7 @@
           ],
           "prompt": {
             "PromptText": "უ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/უ.mp3"
+            "PromptAudio": "lang/georgian/audios/უ.mp3"
           },
           "foilstones": [
             {
@@ -11865,7 +11865,7 @@
           ],
           "prompt": {
             "PromptText": "ძ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ძ.mp3"
+            "PromptAudio": "lang/georgian/audios/ძ.mp3"
           },
           "foilstones": [
             {
@@ -11903,7 +11903,7 @@
           ],
           "prompt": {
             "PromptText": "შ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/შ.mp3"
+            "PromptAudio": "lang/georgian/audios/შ.mp3"
           },
           "foilstones": [
             {
@@ -11941,7 +11941,7 @@
           ],
           "prompt": {
             "PromptText": "კ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/კ.mp3"
+            "PromptAudio": "lang/georgian/audios/კ.mp3"
           },
           "foilstones": [
             {
@@ -11979,7 +11979,7 @@
           ],
           "prompt": {
             "PromptText": "ბ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ბ.mp3"
+            "PromptAudio": "lang/georgian/audios/ბ.mp3"
           },
           "foilstones": [
             {
@@ -12020,7 +12020,7 @@
           ],
           "prompt": {
             "PromptText": "კ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/კ.mp3"
+            "PromptAudio": "lang/georgian/audios/კ.mp3"
           },
           "foilstones": [
             {
@@ -12067,7 +12067,7 @@
           ],
           "prompt": {
             "PromptText": "ბუ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ბ.mp3"
+            "PromptAudio": "lang/georgian/audios/ბ.mp3"
           },
           "foilstones": [
             {
@@ -12105,7 +12105,7 @@
           ],
           "prompt": {
             "PromptText": "კუ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/კ.mp3"
+            "PromptAudio": "lang/georgian/audios/კ.mp3"
           },
           "foilstones": [
             {
@@ -12143,7 +12143,7 @@
           ],
           "prompt": {
             "PromptText": "შუ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/შ.mp3"
+            "PromptAudio": "lang/georgian/audios/შ.mp3"
           },
           "foilstones": [
             {
@@ -12175,7 +12175,7 @@
           ],
           "prompt": {
             "PromptText": "სუ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ს.mp3"
+            "PromptAudio": "lang/georgian/audios/ს.mp3"
           },
           "foilstones": [
             {
@@ -12210,7 +12210,7 @@
           ],
           "prompt": {
             "PromptText": "შუ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/შ.mp3"
+            "PromptAudio": "lang/georgian/audios/შ.mp3"
           },
           "foilstones": [
             {
@@ -12263,7 +12263,7 @@
           ],
           "prompt": {
             "PromptText": "ძუძუ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ძ.mp3"
+            "PromptAudio": "lang/georgian/audios/ძ.mp3"
           },
           "foilstones": [
             {
@@ -12301,7 +12301,7 @@
           ],
           "prompt": {
             "PromptText": "ბუ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ბ.mp3"
+            "PromptAudio": "lang/georgian/audios/ბ.mp3"
           },
           "foilstones": [
             {
@@ -12339,7 +12339,7 @@
           ],
           "prompt": {
             "PromptText": "ძუძუ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ძ.mp3"
+            "PromptAudio": "lang/georgian/audios/ძ.mp3"
           },
           "foilstones": [
             {
@@ -12377,7 +12377,7 @@
           ],
           "prompt": {
             "PromptText": "ბუ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ბ.mp3"
+            "PromptAudio": "lang/georgian/audios/ბ.mp3"
           },
           "foilstones": [
             {
@@ -12412,7 +12412,7 @@
           ],
           "prompt": {
             "PromptText": "შუ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/შ.mp3"
+            "PromptAudio": "lang/georgian/audios/შ.mp3"
           },
           "foilstones": [
             {
@@ -12465,7 +12465,7 @@
           ],
           "prompt": {
             "PromptText": "შუ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/შ.mp3"
+            "PromptAudio": "lang/georgian/audios/შ.mp3"
           },
           "foilstones": [
             {
@@ -12503,7 +12503,7 @@
           ],
           "prompt": {
             "PromptText": "ბუ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ბ.mp3"
+            "PromptAudio": "lang/georgian/audios/ბ.mp3"
           },
           "foilstones": [
             {
@@ -12541,7 +12541,7 @@
           ],
           "prompt": {
             "PromptText": "ბუ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ბ.mp3"
+            "PromptAudio": "lang/georgian/audios/ბ.mp3"
           },
           "foilstones": [
             {
@@ -12579,7 +12579,7 @@
           ],
           "prompt": {
             "PromptText": "ძუძუ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ძ.mp3"
+            "PromptAudio": "lang/georgian/audios/ძ.mp3"
           },
           "foilstones": [
             {
@@ -12614,7 +12614,7 @@
           ],
           "prompt": {
             "PromptText": "კუ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/კ.mp3"
+            "PromptAudio": "lang/georgian/audios/კ.mp3"
           },
           "foilstones": [
             {
@@ -12667,7 +12667,7 @@
           ],
           "prompt": {
             "PromptText": "სუ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ს.mp3"
+            "PromptAudio": "lang/georgian/audios/ს.mp3"
           },
           "foilstones": [
             {
@@ -12705,7 +12705,7 @@
           ],
           "prompt": {
             "PromptText": "ბუ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ბ.mp3"
+            "PromptAudio": "lang/georgian/audios/ბ.mp3"
           },
           "foilstones": [
             {
@@ -12743,7 +12743,7 @@
           ],
           "prompt": {
             "PromptText": "ბუ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ბ.mp3"
+            "PromptAudio": "lang/georgian/audios/ბ.mp3"
           },
           "foilstones": [
             {
@@ -12775,7 +12775,7 @@
           ],
           "prompt": {
             "PromptText": "შუ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/შ.mp3"
+            "PromptAudio": "lang/georgian/audios/შ.mp3"
           },
           "foilstones": [
             {
@@ -12810,7 +12810,7 @@
           ],
           "prompt": {
             "PromptText": "ბუ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ბ.mp3"
+            "PromptAudio": "lang/georgian/audios/ბ.mp3"
           },
           "foilstones": [
             {
@@ -12866,7 +12866,7 @@
           ],
           "prompt": {
             "PromptText": "ბუ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ბუ.mp3"
+            "PromptAudio": "lang/georgian/audios/ბუ.mp3"
           },
           "foilstones": [
             {
@@ -12907,7 +12907,7 @@
           ],
           "prompt": {
             "PromptText": "ძუ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ძუ.mp3"
+            "PromptAudio": "lang/georgian/audios/ძუ.mp3"
           },
           "foilstones": [
             {
@@ -12954,7 +12954,7 @@
           ],
           "prompt": {
             "PromptText": "ძუძუ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ძუძუ.mp3"
+            "PromptAudio": "lang/georgian/audios/ძუძუ.mp3"
           },
           "foilstones": [
             {
@@ -12995,7 +12995,7 @@
           ],
           "prompt": {
             "PromptText": "ბუ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ბუ.mp3"
+            "PromptAudio": "lang/georgian/audios/ბუ.mp3"
           },
           "foilstones": [
             {
@@ -13033,7 +13033,7 @@
           ],
           "prompt": {
             "PromptText": "კუ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/კუ.mp3"
+            "PromptAudio": "lang/georgian/audios/კუ.mp3"
           },
           "foilstones": [
             {
@@ -13089,7 +13089,7 @@
           ],
           "prompt": {
             "PromptText": "შუ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/შუ.mp3"
+            "PromptAudio": "lang/georgian/audios/შუ.mp3"
           },
           "foilstones": [
             {
@@ -13130,7 +13130,7 @@
           ],
           "prompt": {
             "PromptText": "შუ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/შუ.mp3"
+            "PromptAudio": "lang/georgian/audios/შუ.mp3"
           },
           "foilstones": [
             {
@@ -13171,7 +13171,7 @@
           ],
           "prompt": {
             "PromptText": "კუ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/კუ.mp3"
+            "PromptAudio": "lang/georgian/audios/კუ.mp3"
           },
           "foilstones": [
             {
@@ -13212,7 +13212,7 @@
           ],
           "prompt": {
             "PromptText": "სუ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/სუ.mp3"
+            "PromptAudio": "lang/georgian/audios/სუ.mp3"
           },
           "foilstones": [
             {
@@ -13256,7 +13256,7 @@
           ],
           "prompt": {
             "PromptText": "შუ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/შუ.mp3"
+            "PromptAudio": "lang/georgian/audios/შუ.mp3"
           },
           "foilstones": [
             {
@@ -13306,7 +13306,7 @@
           ],
           "prompt": {
             "PromptText": "ბუ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ბუ.mp3"
+            "PromptAudio": "lang/georgian/audios/ბუ.mp3"
           },
           "foilstones": [
             {
@@ -13347,7 +13347,7 @@
           ],
           "prompt": {
             "PromptText": "ძუ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ძუ.mp3"
+            "PromptAudio": "lang/georgian/audios/ძუ.mp3"
           },
           "foilstones": [
             {
@@ -13388,7 +13388,7 @@
           ],
           "prompt": {
             "PromptText": "ბუ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ბუ.mp3"
+            "PromptAudio": "lang/georgian/audios/ბუ.mp3"
           },
           "foilstones": [
             {
@@ -13423,7 +13423,7 @@
           ],
           "prompt": {
             "PromptText": "ბუ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ბუ.mp3"
+            "PromptAudio": "lang/georgian/audios/ბუ.mp3"
           },
           "foilstones": [
             {
@@ -13467,7 +13467,7 @@
           ],
           "prompt": {
             "PromptText": "ძუძუ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/georgian/audios/ძუძუ.mp3"
+            "PromptAudio": "lang/georgian/audios/ძუძუ.mp3"
           },
           "foilstones": [
             {

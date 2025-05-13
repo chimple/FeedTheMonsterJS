@@ -10,9 +10,9 @@
   "minversion": 8,
   "langname": "SOMALI",
   "FeedbackAudios": [
-    "https://feedthemonster.curiouscontent.org/lang/somali/audios/fantastic.mp3",
-    "https://feedthemonster.curiouscontent.org/lang/somali/audios/great.mp3",
-    "https://feedthemonster.curiouscontent.org/lang/somali/audios/amazing.mp3"
+    "lang/somali/audios/fantastic.mp3",
+    "lang/somali/audios/great.mp3",
+    "lang/somali/audios/amazing.mp3"
   ],
   "OtherAudios": {
     "Select your player": "https://feedthemonster.curiouscontent.org/lang/somali/audios/Select-your-player.mp3",
@@ -39,7 +39,7 @@
           ],
           "prompt": {
             "PromptText": "b",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/b.mp3"
+            "PromptAudio": "lang/somali/audios/b.mp3"
           },
           "foilstones": [
             {
@@ -59,7 +59,7 @@
           ],
           "prompt": {
             "PromptText": "s",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/s.mp3"
+            "PromptAudio": "lang/somali/audios/s.mp3"
           },
           "foilstones": [
             {
@@ -79,7 +79,7 @@
           ],
           "prompt": {
             "PromptText": "s",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/s.mp3"
+            "PromptAudio": "lang/somali/audios/s.mp3"
           },
           "foilstones": [
             {
@@ -99,7 +99,7 @@
           ],
           "prompt": {
             "PromptText": "k",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/k.mp3"
+            "PromptAudio": "lang/somali/audios/k.mp3"
           },
           "foilstones": [
             {
@@ -119,7 +119,7 @@
           ],
           "prompt": {
             "PromptText": "k",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/k.mp3"
+            "PromptAudio": "lang/somali/audios/k.mp3"
           },
           "foilstones": [
             {
@@ -157,7 +157,7 @@
           ],
           "prompt": {
             "PromptText": "t",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/t.mp3"
+            "PromptAudio": "lang/somali/audios/t.mp3"
           },
           "foilstones": [
             {
@@ -180,7 +180,7 @@
           ],
           "prompt": {
             "PromptText": "s",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/s.mp3"
+            "PromptAudio": "lang/somali/audios/s.mp3"
           },
           "foilstones": [
             {
@@ -203,7 +203,7 @@
           ],
           "prompt": {
             "PromptText": "d",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/d.mp3"
+            "PromptAudio": "lang/somali/audios/d.mp3"
           },
           "foilstones": [
             {
@@ -229,7 +229,7 @@
           ],
           "prompt": {
             "PromptText": "s",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/s.mp3"
+            "PromptAudio": "lang/somali/audios/s.mp3"
           },
           "foilstones": [
             {
@@ -252,7 +252,7 @@
           ],
           "prompt": {
             "PromptText": "b",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/b.mp3"
+            "PromptAudio": "lang/somali/audios/b.mp3"
           },
           "foilstones": [
             {
@@ -290,7 +290,7 @@
           ],
           "prompt": {
             "PromptText": "s",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/s.mp3"
+            "PromptAudio": "lang/somali/audios/s.mp3"
           },
           "foilstones": [
             {
@@ -310,7 +310,7 @@
           ],
           "prompt": {
             "PromptText": "k",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/k.mp3"
+            "PromptAudio": "lang/somali/audios/k.mp3"
           },
           "foilstones": [
             {
@@ -330,7 +330,7 @@
           ],
           "prompt": {
             "PromptText": "a",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/a.mp3"
+            "PromptAudio": "lang/somali/audios/a.mp3"
           },
           "foilstones": [
             {
@@ -350,7 +350,7 @@
           ],
           "prompt": {
             "PromptText": "b",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/b.mp3"
+            "PromptAudio": "lang/somali/audios/b.mp3"
           },
           "foilstones": [
             {
@@ -370,7 +370,7 @@
           ],
           "prompt": {
             "PromptText": "s",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/s.mp3"
+            "PromptAudio": "lang/somali/audios/s.mp3"
           },
           "foilstones": [
             {
@@ -405,7 +405,7 @@
           ],
           "prompt": {
             "PromptText": "b",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/b.mp3"
+            "PromptAudio": "lang/somali/audios/b.mp3"
           },
           "foilstones": [
             {
@@ -425,7 +425,7 @@
           ],
           "prompt": {
             "PromptText": "t",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/t.mp3"
+            "PromptAudio": "lang/somali/audios/t.mp3"
           },
           "foilstones": [
             {
@@ -445,7 +445,7 @@
           ],
           "prompt": {
             "PromptText": "b",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/b.mp3"
+            "PromptAudio": "lang/somali/audios/b.mp3"
           },
           "foilstones": [
             {
@@ -465,7 +465,7 @@
           ],
           "prompt": {
             "PromptText": "d",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/d.mp3"
+            "PromptAudio": "lang/somali/audios/d.mp3"
           },
           "foilstones": [
             {
@@ -485,7 +485,7 @@
           ],
           "prompt": {
             "PromptText": "l",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/l.mp3"
+            "PromptAudio": "lang/somali/audios/l.mp3"
           },
           "foilstones": [
             {
@@ -520,7 +520,7 @@
           ],
           "prompt": {
             "PromptText": "a",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/a.mp3"
+            "PromptAudio": "lang/somali/audios/a.mp3"
           },
           "foilstones": [
             {
@@ -543,7 +543,7 @@
           ],
           "prompt": {
             "PromptText": "t",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/t.mp3"
+            "PromptAudio": "lang/somali/audios/t.mp3"
           },
           "foilstones": [
             {
@@ -566,7 +566,7 @@
           ],
           "prompt": {
             "PromptText": "j",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/j.mp3"
+            "PromptAudio": "lang/somali/audios/j.mp3"
           },
           "foilstones": [
             {
@@ -589,7 +589,7 @@
           ],
           "prompt": {
             "PromptText": "k",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/k.mp3"
+            "PromptAudio": "lang/somali/audios/k.mp3"
           },
           "foilstones": [
             {
@@ -612,7 +612,7 @@
           ],
           "prompt": {
             "PromptText": "s",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/s.mp3"
+            "PromptAudio": "lang/somali/audios/s.mp3"
           },
           "foilstones": [
             {
@@ -653,7 +653,7 @@
           ],
           "prompt": {
             "PromptText": "d",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/d.mp3"
+            "PromptAudio": "lang/somali/audios/d.mp3"
           },
           "foilstones": [
             {
@@ -676,7 +676,7 @@
           ],
           "prompt": {
             "PromptText": "s",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/s.mp3"
+            "PromptAudio": "lang/somali/audios/s.mp3"
           },
           "foilstones": [
             {
@@ -699,7 +699,7 @@
           ],
           "prompt": {
             "PromptText": "a",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/a.mp3"
+            "PromptAudio": "lang/somali/audios/a.mp3"
           },
           "foilstones": [
             {
@@ -722,7 +722,7 @@
           ],
           "prompt": {
             "PromptText": "b",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/b.mp3"
+            "PromptAudio": "lang/somali/audios/b.mp3"
           },
           "foilstones": [
             {
@@ -745,7 +745,7 @@
           ],
           "prompt": {
             "PromptText": "b",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/b.mp3"
+            "PromptAudio": "lang/somali/audios/b.mp3"
           },
           "foilstones": [
             {
@@ -783,7 +783,7 @@
           ],
           "prompt": {
             "PromptText": "kab",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/k.mp3"
+            "PromptAudio": "lang/somali/audios/k.mp3"
           },
           "foilstones": [
             {
@@ -806,7 +806,7 @@
           ],
           "prompt": {
             "PromptText": "sac",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/s.mp3"
+            "PromptAudio": "lang/somali/audios/s.mp3"
           },
           "foilstones": [
             {
@@ -829,7 +829,7 @@
           ],
           "prompt": {
             "PromptText": "ama",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/a.mp3"
+            "PromptAudio": "lang/somali/audios/a.mp3"
           },
           "foilstones": [
             {
@@ -852,7 +852,7 @@
           ],
           "prompt": {
             "PromptText": "khad",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/kh.mp3"
+            "PromptAudio": "lang/somali/audios/kh.mp3"
           },
           "foilstones": [
             {
@@ -875,7 +875,7 @@
           ],
           "prompt": {
             "PromptText": "bas",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/b.mp3"
+            "PromptAudio": "lang/somali/audios/b.mp3"
           },
           "foilstones": [
             {
@@ -913,7 +913,7 @@
           ],
           "prompt": {
             "PromptText": "dhar",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/dh.mp3"
+            "PromptAudio": "lang/somali/audios/dh.mp3"
           },
           "foilstones": [
             {
@@ -936,7 +936,7 @@
           ],
           "prompt": {
             "PromptText": "tag",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/t.mp3"
+            "PromptAudio": "lang/somali/audios/t.mp3"
           },
           "foilstones": [
             {
@@ -959,7 +959,7 @@
           ],
           "prompt": {
             "PromptText": "dhar",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/dh.mp3"
+            "PromptAudio": "lang/somali/audios/dh.mp3"
           },
           "foilstones": [
             {
@@ -982,7 +982,7 @@
           ],
           "prompt": {
             "PromptText": "bas",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/b.mp3"
+            "PromptAudio": "lang/somali/audios/b.mp3"
           },
           "foilstones": [
             {
@@ -1005,7 +1005,7 @@
           ],
           "prompt": {
             "PromptText": "tag",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/t.mp3"
+            "PromptAudio": "lang/somali/audios/t.mp3"
           },
           "foilstones": [
             {
@@ -1043,7 +1043,7 @@
           ],
           "prompt": {
             "PromptText": "kab",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/k.mp3"
+            "PromptAudio": "lang/somali/audios/k.mp3"
           },
           "foilstones": [
             {
@@ -1066,7 +1066,7 @@
           ],
           "prompt": {
             "PromptText": "sac",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/s.mp3"
+            "PromptAudio": "lang/somali/audios/s.mp3"
           },
           "foilstones": [
             {
@@ -1089,7 +1089,7 @@
           ],
           "prompt": {
             "PromptText": "khad",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/kh.mp3"
+            "PromptAudio": "lang/somali/audios/kh.mp3"
           },
           "foilstones": [
             {
@@ -1112,7 +1112,7 @@
           ],
           "prompt": {
             "PromptText": "bas",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/b.mp3"
+            "PromptAudio": "lang/somali/audios/b.mp3"
           },
           "foilstones": [
             {
@@ -1138,7 +1138,7 @@
           ],
           "prompt": {
             "PromptText": "bas",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/b.mp3"
+            "PromptAudio": "lang/somali/audios/b.mp3"
           },
           "foilstones": [
             {
@@ -1182,7 +1182,7 @@
           ],
           "prompt": {
             "PromptText": "kab",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/kab.mp3"
+            "PromptAudio": "lang/somali/audios/kab.mp3"
           },
           "foilstones": [
             {
@@ -1214,7 +1214,7 @@
           ],
           "prompt": {
             "PromptText": "khad",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/khad.mp3"
+            "PromptAudio": "lang/somali/audios/khad.mp3"
           },
           "foilstones": [
             {
@@ -1246,7 +1246,7 @@
           ],
           "prompt": {
             "PromptText": "sac",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/sac.mp3"
+            "PromptAudio": "lang/somali/audios/sac.mp3"
           },
           "foilstones": [
             {
@@ -1275,7 +1275,7 @@
           ],
           "prompt": {
             "PromptText": "tag",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/tag.mp3"
+            "PromptAudio": "lang/somali/audios/tag.mp3"
           },
           "foilstones": [
             {
@@ -1304,7 +1304,7 @@
           ],
           "prompt": {
             "PromptText": "bas",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/bas.mp3"
+            "PromptAudio": "lang/somali/audios/bas.mp3"
           },
           "foilstones": [
             {
@@ -1345,7 +1345,7 @@
           ],
           "prompt": {
             "PromptText": "sac",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/sac.mp3"
+            "PromptAudio": "lang/somali/audios/sac.mp3"
           },
           "foilstones": [
             {
@@ -1374,7 +1374,7 @@
           ],
           "prompt": {
             "PromptText": "tag",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/tag.mp3"
+            "PromptAudio": "lang/somali/audios/tag.mp3"
           },
           "foilstones": [
             {
@@ -1403,7 +1403,7 @@
           ],
           "prompt": {
             "PromptText": "bas",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/bas.mp3"
+            "PromptAudio": "lang/somali/audios/bas.mp3"
           },
           "foilstones": [
             {
@@ -1432,7 +1432,7 @@
           ],
           "prompt": {
             "PromptText": "sac",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/sac.mp3"
+            "PromptAudio": "lang/somali/audios/sac.mp3"
           },
           "foilstones": [
             {
@@ -1464,7 +1464,7 @@
           ],
           "prompt": {
             "PromptText": "kab",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/kab.mp3"
+            "PromptAudio": "lang/somali/audios/kab.mp3"
           },
           "foilstones": [
             {
@@ -1508,7 +1508,7 @@
           ],
           "prompt": {
             "PromptText": "khad",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/khad.mp3"
+            "PromptAudio": "lang/somali/audios/khad.mp3"
           },
           "foilstones": [
             {
@@ -1537,7 +1537,7 @@
           ],
           "prompt": {
             "PromptText": "sac",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/sac.mp3"
+            "PromptAudio": "lang/somali/audios/sac.mp3"
           },
           "foilstones": [
             {
@@ -1566,7 +1566,7 @@
           ],
           "prompt": {
             "PromptText": "tag",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/tag.mp3"
+            "PromptAudio": "lang/somali/audios/tag.mp3"
           },
           "foilstones": [
             {
@@ -1595,7 +1595,7 @@
           ],
           "prompt": {
             "PromptText": "kab",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/kab.mp3"
+            "PromptAudio": "lang/somali/audios/kab.mp3"
           },
           "foilstones": [
             {
@@ -1627,7 +1627,7 @@
           ],
           "prompt": {
             "PromptText": "khad",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/khad.mp3"
+            "PromptAudio": "lang/somali/audios/khad.mp3"
           },
           "foilstones": [
             {
@@ -1665,7 +1665,7 @@
           ],
           "prompt": {
             "PromptText": "h",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/h.mp3"
+            "PromptAudio": "lang/somali/audios/h.mp3"
           },
           "foilstones": [
             {
@@ -1688,7 +1688,7 @@
           ],
           "prompt": {
             "PromptText": "e",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/e.mp3"
+            "PromptAudio": "lang/somali/audios/e.mp3"
           },
           "foilstones": [
             {
@@ -1711,7 +1711,7 @@
           ],
           "prompt": {
             "PromptText": "y",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/y.mp3"
+            "PromptAudio": "lang/somali/audios/y.mp3"
           },
           "foilstones": [
             {
@@ -1734,7 +1734,7 @@
           ],
           "prompt": {
             "PromptText": "e",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/e.mp3"
+            "PromptAudio": "lang/somali/audios/e.mp3"
           },
           "foilstones": [
             {
@@ -1757,7 +1757,7 @@
           ],
           "prompt": {
             "PromptText": "x",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/x.mp3"
+            "PromptAudio": "lang/somali/audios/x.mp3"
           },
           "foilstones": [
             {
@@ -1795,7 +1795,7 @@
           ],
           "prompt": {
             "PromptText": "y",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/y.mp3"
+            "PromptAudio": "lang/somali/audios/y.mp3"
           },
           "foilstones": [
             {
@@ -1818,7 +1818,7 @@
           ],
           "prompt": {
             "PromptText": "x",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/x.mp3"
+            "PromptAudio": "lang/somali/audios/x.mp3"
           },
           "foilstones": [
             {
@@ -1841,7 +1841,7 @@
           ],
           "prompt": {
             "PromptText": "e",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/e.mp3"
+            "PromptAudio": "lang/somali/audios/e.mp3"
           },
           "foilstones": [
             {
@@ -1864,7 +1864,7 @@
           ],
           "prompt": {
             "PromptText": "h",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/h.mp3"
+            "PromptAudio": "lang/somali/audios/h.mp3"
           },
           "foilstones": [
             {
@@ -1887,7 +1887,7 @@
           ],
           "prompt": {
             "PromptText": "y",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/y.mp3"
+            "PromptAudio": "lang/somali/audios/y.mp3"
           },
           "foilstones": [
             {
@@ -1925,7 +1925,7 @@
           ],
           "prompt": {
             "PromptText": "h",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/h.mp3"
+            "PromptAudio": "lang/somali/audios/h.mp3"
           },
           "foilstones": [
             {
@@ -1945,7 +1945,7 @@
           ],
           "prompt": {
             "PromptText": "e",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/e.mp3"
+            "PromptAudio": "lang/somali/audios/e.mp3"
           },
           "foilstones": [
             {
@@ -1965,7 +1965,7 @@
           ],
           "prompt": {
             "PromptText": "h",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/h.mp3"
+            "PromptAudio": "lang/somali/audios/h.mp3"
           },
           "foilstones": [
             {
@@ -1985,7 +1985,7 @@
           ],
           "prompt": {
             "PromptText": "w",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/w.mp3"
+            "PromptAudio": "lang/somali/audios/w.mp3"
           },
           "foilstones": [
             {
@@ -2005,7 +2005,7 @@
           ],
           "prompt": {
             "PromptText": "y",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/y.mp3"
+            "PromptAudio": "lang/somali/audios/y.mp3"
           },
           "foilstones": [
             {
@@ -2040,7 +2040,7 @@
           ],
           "prompt": {
             "PromptText": "y",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/y.mp3"
+            "PromptAudio": "lang/somali/audios/y.mp3"
           },
           "foilstones": [
             {
@@ -2063,7 +2063,7 @@
           ],
           "prompt": {
             "PromptText": "y",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/y.mp3"
+            "PromptAudio": "lang/somali/audios/y.mp3"
           },
           "foilstones": [
             {
@@ -2086,7 +2086,7 @@
           ],
           "prompt": {
             "PromptText": "w",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/w.mp3"
+            "PromptAudio": "lang/somali/audios/w.mp3"
           },
           "foilstones": [
             {
@@ -2109,7 +2109,7 @@
           ],
           "prompt": {
             "PromptText": "g",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/g.mp3"
+            "PromptAudio": "lang/somali/audios/g.mp3"
           },
           "foilstones": [
             {
@@ -2132,7 +2132,7 @@
           ],
           "prompt": {
             "PromptText": "g",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/g.mp3"
+            "PromptAudio": "lang/somali/audios/g.mp3"
           },
           "foilstones": [
             {
@@ -2170,7 +2170,7 @@
           ],
           "prompt": {
             "PromptText": "e",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/e.mp3"
+            "PromptAudio": "lang/somali/audios/e.mp3"
           },
           "foilstones": [
             {
@@ -2199,7 +2199,7 @@
           ],
           "prompt": {
             "PromptText": "h",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/h.mp3"
+            "PromptAudio": "lang/somali/audios/h.mp3"
           },
           "foilstones": [
             {
@@ -2225,7 +2225,7 @@
           ],
           "prompt": {
             "PromptText": "w",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/w.mp3"
+            "PromptAudio": "lang/somali/audios/w.mp3"
           },
           "foilstones": [
             {
@@ -2248,7 +2248,7 @@
           ],
           "prompt": {
             "PromptText": "e",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/e.mp3"
+            "PromptAudio": "lang/somali/audios/e.mp3"
           },
           "foilstones": [
             {
@@ -2274,7 +2274,7 @@
           ],
           "prompt": {
             "PromptText": "h",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/h.mp3"
+            "PromptAudio": "lang/somali/audios/h.mp3"
           },
           "foilstones": [
             {
@@ -2312,7 +2312,7 @@
           ],
           "prompt": {
             "PromptText": "y",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/y.mp3"
+            "PromptAudio": "lang/somali/audios/y.mp3"
           },
           "foilstones": [
             {
@@ -2338,7 +2338,7 @@
           ],
           "prompt": {
             "PromptText": "h",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/h.mp3"
+            "PromptAudio": "lang/somali/audios/h.mp3"
           },
           "foilstones": [
             {
@@ -2364,7 +2364,7 @@
           ],
           "prompt": {
             "PromptText": "g",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/g.mp3"
+            "PromptAudio": "lang/somali/audios/g.mp3"
           },
           "foilstones": [
             {
@@ -2390,7 +2390,7 @@
           ],
           "prompt": {
             "PromptText": "e",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/e.mp3"
+            "PromptAudio": "lang/somali/audios/e.mp3"
           },
           "foilstones": [
             {
@@ -2416,7 +2416,7 @@
           ],
           "prompt": {
             "PromptText": "x",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/x.mp3"
+            "PromptAudio": "lang/somali/audios/x.mp3"
           },
           "foilstones": [
             {
@@ -2460,7 +2460,7 @@
           ],
           "prompt": {
             "PromptText": "weyn",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/w.mp3"
+            "PromptAudio": "lang/somali/audios/w.mp3"
           },
           "foilstones": [
             {
@@ -2486,7 +2486,7 @@
           ],
           "prompt": {
             "PromptText": "gal",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/g.mp3"
+            "PromptAudio": "lang/somali/audios/g.mp3"
           },
           "foilstones": [
             {
@@ -2512,7 +2512,7 @@
           ],
           "prompt": {
             "PromptText": "hel",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/h.mp3"
+            "PromptAudio": "lang/somali/audios/h.mp3"
           },
           "foilstones": [
             {
@@ -2538,7 +2538,7 @@
           ],
           "prompt": {
             "PromptText": "gal",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/g.mp3"
+            "PromptAudio": "lang/somali/audios/g.mp3"
           },
           "foilstones": [
             {
@@ -2564,7 +2564,7 @@
           ],
           "prompt": {
             "PromptText": "hel",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/h.mp3"
+            "PromptAudio": "lang/somali/audios/h.mp3"
           },
           "foilstones": [
             {
@@ -2608,7 +2608,7 @@
           ],
           "prompt": {
             "PromptText": "hel",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/h.mp3"
+            "PromptAudio": "lang/somali/audios/h.mp3"
           },
           "foilstones": [
             {
@@ -2640,7 +2640,7 @@
           ],
           "prompt": {
             "PromptText": "hel",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/h.mp3"
+            "PromptAudio": "lang/somali/audios/h.mp3"
           },
           "foilstones": [
             {
@@ -2666,7 +2666,7 @@
           ],
           "prompt": {
             "PromptText": "eey",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/e.mp3"
+            "PromptAudio": "lang/somali/audios/e.mp3"
           },
           "foilstones": [
             {
@@ -2692,7 +2692,7 @@
           ],
           "prompt": {
             "PromptText": "weyn",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/w.mp3"
+            "PromptAudio": "lang/somali/audios/w.mp3"
           },
           "foilstones": [
             {
@@ -2718,7 +2718,7 @@
           ],
           "prompt": {
             "PromptText": "eey",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/e.mp3"
+            "PromptAudio": "lang/somali/audios/e.mp3"
           },
           "foilstones": [
             {
@@ -2762,7 +2762,7 @@
           ],
           "prompt": {
             "PromptText": "gal",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/g.mp3"
+            "PromptAudio": "lang/somali/audios/g.mp3"
           },
           "foilstones": [
             {
@@ -2788,7 +2788,7 @@
           ],
           "prompt": {
             "PromptText": "hel",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/h.mp3"
+            "PromptAudio": "lang/somali/audios/h.mp3"
           },
           "foilstones": [
             {
@@ -2814,7 +2814,7 @@
           ],
           "prompt": {
             "PromptText": "weyn",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/w.mp3"
+            "PromptAudio": "lang/somali/audios/w.mp3"
           },
           "foilstones": [
             {
@@ -2840,7 +2840,7 @@
           ],
           "prompt": {
             "PromptText": "bac",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/b.mp3"
+            "PromptAudio": "lang/somali/audios/b.mp3"
           },
           "foilstones": [
             {
@@ -2866,7 +2866,7 @@
           ],
           "prompt": {
             "PromptText": "weyn",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/w.mp3"
+            "PromptAudio": "lang/somali/audios/w.mp3"
           },
           "foilstones": [
             {
@@ -2910,7 +2910,7 @@
           ],
           "prompt": {
             "PromptText": "gal",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/g.mp3"
+            "PromptAudio": "lang/somali/audios/g.mp3"
           },
           "foilstones": [
             {
@@ -2933,7 +2933,7 @@
           ],
           "prompt": {
             "PromptText": "eey",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/e.mp3"
+            "PromptAudio": "lang/somali/audios/e.mp3"
           },
           "foilstones": [
             {
@@ -2956,7 +2956,7 @@
           ],
           "prompt": {
             "PromptText": "bac",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/b.mp3"
+            "PromptAudio": "lang/somali/audios/b.mp3"
           },
           "foilstones": [
             {
@@ -2979,7 +2979,7 @@
           ],
           "prompt": {
             "PromptText": "gal",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/g.mp3"
+            "PromptAudio": "lang/somali/audios/g.mp3"
           },
           "foilstones": [
             {
@@ -3002,7 +3002,7 @@
           ],
           "prompt": {
             "PromptText": "eey",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/e.mp3"
+            "PromptAudio": "lang/somali/audios/e.mp3"
           },
           "foilstones": [
             {
@@ -3046,7 +3046,7 @@
           ],
           "prompt": {
             "PromptText": "gal",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/gal.mp3"
+            "PromptAudio": "lang/somali/audios/gal.mp3"
           },
           "foilstones": [
             {
@@ -3075,7 +3075,7 @@
           ],
           "prompt": {
             "PromptText": "hel",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/hel.mp3"
+            "PromptAudio": "lang/somali/audios/hel.mp3"
           },
           "foilstones": [
             {
@@ -3104,7 +3104,7 @@
           ],
           "prompt": {
             "PromptText": "gal",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/gal.mp3"
+            "PromptAudio": "lang/somali/audios/gal.mp3"
           },
           "foilstones": [
             {
@@ -3133,7 +3133,7 @@
           ],
           "prompt": {
             "PromptText": "hel",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/hel.mp3"
+            "PromptAudio": "lang/somali/audios/hel.mp3"
           },
           "foilstones": [
             {
@@ -3165,7 +3165,7 @@
           ],
           "prompt": {
             "PromptText": "weyn",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/weyn.mp3"
+            "PromptAudio": "lang/somali/audios/weyn.mp3"
           },
           "foilstones": [
             {
@@ -3206,7 +3206,7 @@
           ],
           "prompt": {
             "PromptText": "hel",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/hel.mp3"
+            "PromptAudio": "lang/somali/audios/hel.mp3"
           },
           "foilstones": [
             {
@@ -3235,7 +3235,7 @@
           ],
           "prompt": {
             "PromptText": "eey",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/eey.mp3"
+            "PromptAudio": "lang/somali/audios/eey.mp3"
           },
           "foilstones": [
             {
@@ -3267,7 +3267,7 @@
           ],
           "prompt": {
             "PromptText": "weyn",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/weyn.mp3"
+            "PromptAudio": "lang/somali/audios/weyn.mp3"
           },
           "foilstones": [
             {
@@ -3299,7 +3299,7 @@
           ],
           "prompt": {
             "PromptText": "eey",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/eey.mp3"
+            "PromptAudio": "lang/somali/audios/eey.mp3"
           },
           "foilstones": [
             {
@@ -3328,7 +3328,7 @@
           ],
           "prompt": {
             "PromptText": "bac",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/bac.mp3"
+            "PromptAudio": "lang/somali/audios/bac.mp3"
           },
           "foilstones": [
             {
@@ -3369,7 +3369,7 @@
           ],
           "prompt": {
             "PromptText": "bac",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/bac.mp3"
+            "PromptAudio": "lang/somali/audios/bac.mp3"
           },
           "foilstones": [
             {
@@ -3401,7 +3401,7 @@
           ],
           "prompt": {
             "PromptText": "weyn",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/weyn.mp3"
+            "PromptAudio": "lang/somali/audios/weyn.mp3"
           },
           "foilstones": [
             {
@@ -3430,7 +3430,7 @@
           ],
           "prompt": {
             "PromptText": "eey",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/eey.mp3"
+            "PromptAudio": "lang/somali/audios/eey.mp3"
           },
           "foilstones": [
             {
@@ -3459,7 +3459,7 @@
           ],
           "prompt": {
             "PromptText": "gal",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/gal.mp3"
+            "PromptAudio": "lang/somali/audios/gal.mp3"
           },
           "foilstones": [
             {
@@ -3488,7 +3488,7 @@
           ],
           "prompt": {
             "PromptText": "bac",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/bac.mp3"
+            "PromptAudio": "lang/somali/audios/bac.mp3"
           },
           "foilstones": [
             {
@@ -3526,7 +3526,7 @@
           ],
           "prompt": {
             "PromptText": "x",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/x.mp3"
+            "PromptAudio": "lang/somali/audios/x.mp3"
           },
           "foilstones": [
             {
@@ -3549,7 +3549,7 @@
           ],
           "prompt": {
             "PromptText": "x",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/x.mp3"
+            "PromptAudio": "lang/somali/audios/x.mp3"
           },
           "foilstones": [
             {
@@ -3572,7 +3572,7 @@
           ],
           "prompt": {
             "PromptText": "i",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/i.mp3"
+            "PromptAudio": "lang/somali/audios/i.mp3"
           },
           "foilstones": [
             {
@@ -3598,7 +3598,7 @@
           ],
           "prompt": {
             "PromptText": "q",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/q.mp3"
+            "PromptAudio": "lang/somali/audios/q.mp3"
           },
           "foilstones": [
             {
@@ -3621,7 +3621,7 @@
           ],
           "prompt": {
             "PromptText": "n",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/n.mp3"
+            "PromptAudio": "lang/somali/audios/n.mp3"
           },
           "foilstones": [
             {
@@ -3656,7 +3656,7 @@
           ],
           "prompt": {
             "PromptText": "n",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/n.mp3"
+            "PromptAudio": "lang/somali/audios/n.mp3"
           },
           "foilstones": [
             {
@@ -3679,7 +3679,7 @@
           ],
           "prompt": {
             "PromptText": "q",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/q.mp3"
+            "PromptAudio": "lang/somali/audios/q.mp3"
           },
           "foilstones": [
             {
@@ -3702,7 +3702,7 @@
           ],
           "prompt": {
             "PromptText": "q",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/q.mp3"
+            "PromptAudio": "lang/somali/audios/q.mp3"
           },
           "foilstones": [
             {
@@ -3728,7 +3728,7 @@
           ],
           "prompt": {
             "PromptText": "x",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/x.mp3"
+            "PromptAudio": "lang/somali/audios/x.mp3"
           },
           "foilstones": [
             {
@@ -3751,7 +3751,7 @@
           ],
           "prompt": {
             "PromptText": "x",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/x.mp3"
+            "PromptAudio": "lang/somali/audios/x.mp3"
           },
           "foilstones": [
             {
@@ -3786,7 +3786,7 @@
           ],
           "prompt": {
             "PromptText": "n",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/n.mp3"
+            "PromptAudio": "lang/somali/audios/n.mp3"
           },
           "foilstones": [
             {
@@ -3809,7 +3809,7 @@
           ],
           "prompt": {
             "PromptText": "x",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/x.mp3"
+            "PromptAudio": "lang/somali/audios/x.mp3"
           },
           "foilstones": [
             {
@@ -3832,7 +3832,7 @@
           ],
           "prompt": {
             "PromptText": "m",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/m.mp3"
+            "PromptAudio": "lang/somali/audios/m.mp3"
           },
           "foilstones": [
             {
@@ -3858,7 +3858,7 @@
           ],
           "prompt": {
             "PromptText": "q",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/q.mp3"
+            "PromptAudio": "lang/somali/audios/q.mp3"
           },
           "foilstones": [
             {
@@ -3881,7 +3881,7 @@
           ],
           "prompt": {
             "PromptText": "m",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/m.mp3"
+            "PromptAudio": "lang/somali/audios/m.mp3"
           },
           "foilstones": [
             {
@@ -3916,7 +3916,7 @@
           ],
           "prompt": {
             "PromptText": "i",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/i.mp3"
+            "PromptAudio": "lang/somali/audios/i.mp3"
           },
           "foilstones": [
             {
@@ -3948,7 +3948,7 @@
           ],
           "prompt": {
             "PromptText": "x",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/x.mp3"
+            "PromptAudio": "lang/somali/audios/x.mp3"
           },
           "foilstones": [
             {
@@ -3977,7 +3977,7 @@
           ],
           "prompt": {
             "PromptText": "i",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/i.mp3"
+            "PromptAudio": "lang/somali/audios/i.mp3"
           },
           "foilstones": [
             {
@@ -4009,7 +4009,7 @@
           ],
           "prompt": {
             "PromptText": "x",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/x.mp3"
+            "PromptAudio": "lang/somali/audios/x.mp3"
           },
           "foilstones": [
             {
@@ -4038,7 +4038,7 @@
           ],
           "prompt": {
             "PromptText": "q",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/q.mp3"
+            "PromptAudio": "lang/somali/audios/q.mp3"
           },
           "foilstones": [
             {
@@ -4082,7 +4082,7 @@
           ],
           "prompt": {
             "PromptText": "s",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/s.mp3"
+            "PromptAudio": "lang/somali/audios/s.mp3"
           },
           "foilstones": [
             {
@@ -4114,7 +4114,7 @@
           ],
           "prompt": {
             "PromptText": "s",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/s.mp3"
+            "PromptAudio": "lang/somali/audios/s.mp3"
           },
           "foilstones": [
             {
@@ -4146,7 +4146,7 @@
           ],
           "prompt": {
             "PromptText": "m",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/m.mp3"
+            "PromptAudio": "lang/somali/audios/m.mp3"
           },
           "foilstones": [
             {
@@ -4175,7 +4175,7 @@
           ],
           "prompt": {
             "PromptText": "s",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/s.mp3"
+            "PromptAudio": "lang/somali/audios/s.mp3"
           },
           "foilstones": [
             {
@@ -4204,7 +4204,7 @@
           ],
           "prompt": {
             "PromptText": "q",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/q.mp3"
+            "PromptAudio": "lang/somali/audios/q.mp3"
           },
           "foilstones": [
             {
@@ -4248,7 +4248,7 @@
           ],
           "prompt": {
             "PromptText": "x",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/x.mp3"
+            "PromptAudio": "lang/somali/audios/x.mp3"
           },
           "foilstones": [
             {
@@ -4280,7 +4280,7 @@
           ],
           "prompt": {
             "PromptText": "m",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/m.mp3"
+            "PromptAudio": "lang/somali/audios/m.mp3"
           },
           "foilstones": [
             {
@@ -4312,7 +4312,7 @@
           ],
           "prompt": {
             "PromptText": "x",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/x.mp3"
+            "PromptAudio": "lang/somali/audios/x.mp3"
           },
           "foilstones": [
             {
@@ -4341,7 +4341,7 @@
           ],
           "prompt": {
             "PromptText": "q",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/q.mp3"
+            "PromptAudio": "lang/somali/audios/q.mp3"
           },
           "foilstones": [
             {
@@ -4370,7 +4370,7 @@
           ],
           "prompt": {
             "PromptText": "s",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/s.mp3"
+            "PromptAudio": "lang/somali/audios/s.mp3"
           },
           "foilstones": [
             {
@@ -4414,7 +4414,7 @@
           ],
           "prompt": {
             "PromptText": "mid",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/m.mp3"
+            "PromptAudio": "lang/somali/audios/m.mp3"
           },
           "foilstones": [
             {
@@ -4443,7 +4443,7 @@
           ],
           "prompt": {
             "PromptText": "il",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/i.mp3"
+            "PromptAudio": "lang/somali/audios/i.mp3"
           },
           "foilstones": [
             {
@@ -4475,7 +4475,7 @@
           ],
           "prompt": {
             "PromptText": "mid",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/m.mp3"
+            "PromptAudio": "lang/somali/audios/m.mp3"
           },
           "foilstones": [
             {
@@ -4507,7 +4507,7 @@
           ],
           "prompt": {
             "PromptText": "mid",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/m.mp3"
+            "PromptAudio": "lang/somali/audios/m.mp3"
           },
           "foilstones": [
             {
@@ -4539,7 +4539,7 @@
           ],
           "prompt": {
             "PromptText": "il",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/i.mp3"
+            "PromptAudio": "lang/somali/audios/i.mp3"
           },
           "foilstones": [
             {
@@ -4568,7 +4568,7 @@
           ],
           "prompt": {
             "PromptText": "shir",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/sh.mp3"
+            "PromptAudio": "lang/somali/audios/sh.mp3"
           },
           "foilstones": [
             {
@@ -4612,7 +4612,7 @@
           ],
           "prompt": {
             "PromptText": "qalin",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/q.mp3"
+            "PromptAudio": "lang/somali/audios/q.mp3"
           },
           "foilstones": [
             {
@@ -4644,7 +4644,7 @@
           ],
           "prompt": {
             "PromptText": "nin",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/n.mp3"
+            "PromptAudio": "lang/somali/audios/n.mp3"
           },
           "foilstones": [
             {
@@ -4679,7 +4679,7 @@
           ],
           "prompt": {
             "PromptText": "qalin",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/q.mp3"
+            "PromptAudio": "lang/somali/audios/q.mp3"
           },
           "foilstones": [
             {
@@ -4708,7 +4708,7 @@
           ],
           "prompt": {
             "PromptText": "shir",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/sh.mp3"
+            "PromptAudio": "lang/somali/audios/sh.mp3"
           },
           "foilstones": [
             {
@@ -4740,7 +4740,7 @@
           ],
           "prompt": {
             "PromptText": "nin",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/n.mp3"
+            "PromptAudio": "lang/somali/audios/n.mp3"
           },
           "foilstones": [
             {
@@ -4781,7 +4781,7 @@
           ],
           "prompt": {
             "PromptText": "shir",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/sh.mp3"
+            "PromptAudio": "lang/somali/audios/sh.mp3"
           },
           "foilstones": [
             {
@@ -4813,7 +4813,7 @@
           ],
           "prompt": {
             "PromptText": "miro",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/m.mp3"
+            "PromptAudio": "lang/somali/audios/m.mp3"
           },
           "foilstones": [
             {
@@ -4845,7 +4845,7 @@
           ],
           "prompt": {
             "PromptText": "shir",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/sh.mp3"
+            "PromptAudio": "lang/somali/audios/sh.mp3"
           },
           "foilstones": [
             {
@@ -4874,7 +4874,7 @@
           ],
           "prompt": {
             "PromptText": "mid",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/m.mp3"
+            "PromptAudio": "lang/somali/audios/m.mp3"
           },
           "foilstones": [
             {
@@ -4906,7 +4906,7 @@
           ],
           "prompt": {
             "PromptText": "miro",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/m.mp3"
+            "PromptAudio": "lang/somali/audios/m.mp3"
           },
           "foilstones": [
             {
@@ -4947,7 +4947,7 @@
           ],
           "prompt": {
             "PromptText": "qalin",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/q.mp3"
+            "PromptAudio": "lang/somali/audios/q.mp3"
           },
           "foilstones": [
             {
@@ -4979,7 +4979,7 @@
           ],
           "prompt": {
             "PromptText": "qalin",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/q.mp3"
+            "PromptAudio": "lang/somali/audios/q.mp3"
           },
           "foilstones": [
             {
@@ -5011,7 +5011,7 @@
           ],
           "prompt": {
             "PromptText": "miro",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/m.mp3"
+            "PromptAudio": "lang/somali/audios/m.mp3"
           },
           "foilstones": [
             {
@@ -5040,7 +5040,7 @@
           ],
           "prompt": {
             "PromptText": "nin",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/n.mp3"
+            "PromptAudio": "lang/somali/audios/n.mp3"
           },
           "foilstones": [
             {
@@ -5072,7 +5072,7 @@
           ],
           "prompt": {
             "PromptText": "shir",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/sh.mp3"
+            "PromptAudio": "lang/somali/audios/sh.mp3"
           },
           "foilstones": [
             {
@@ -5119,7 +5119,7 @@
           ],
           "prompt": {
             "PromptText": "mid",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/mid.mp3"
+            "PromptAudio": "lang/somali/audios/mid.mp3"
           },
           "foilstones": [
             {
@@ -5160,7 +5160,7 @@
           ],
           "prompt": {
             "PromptText": "il",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/il.mp3"
+            "PromptAudio": "lang/somali/audios/il.mp3"
           },
           "foilstones": [
             {
@@ -5204,7 +5204,7 @@
           ],
           "prompt": {
             "PromptText": "shir",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/shir.mp3"
+            "PromptAudio": "lang/somali/audios/shir.mp3"
           },
           "foilstones": [
             {
@@ -5245,7 +5245,7 @@
           ],
           "prompt": {
             "PromptText": "il",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/il.mp3"
+            "PromptAudio": "lang/somali/audios/il.mp3"
           },
           "foilstones": [
             {
@@ -5283,7 +5283,7 @@
           ],
           "prompt": {
             "PromptText": "mid",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/mid.mp3"
+            "PromptAudio": "lang/somali/audios/mid.mp3"
           },
           "foilstones": [
             {
@@ -5348,7 +5348,7 @@
           ],
           "prompt": {
             "PromptText": "qalin",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/qalin.mp3"
+            "PromptAudio": "lang/somali/audios/qalin.mp3"
           },
           "foilstones": [
             {
@@ -5389,7 +5389,7 @@
           ],
           "prompt": {
             "PromptText": "nin",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/nin.mp3"
+            "PromptAudio": "lang/somali/audios/nin.mp3"
           },
           "foilstones": [
             {
@@ -5439,7 +5439,7 @@
           ],
           "prompt": {
             "PromptText": "qalin",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/qalin.mp3"
+            "PromptAudio": "lang/somali/audios/qalin.mp3"
           },
           "foilstones": [
             {
@@ -5483,7 +5483,7 @@
           ],
           "prompt": {
             "PromptText": "nin",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/nin.mp3"
+            "PromptAudio": "lang/somali/audios/nin.mp3"
           },
           "foilstones": [
             {
@@ -5533,7 +5533,7 @@
           ],
           "prompt": {
             "PromptText": "shir",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/shir.mp3"
+            "PromptAudio": "lang/somali/audios/shir.mp3"
           },
           "foilstones": [
             {
@@ -5586,7 +5586,7 @@
           ],
           "prompt": {
             "PromptText": "miro",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/miro.mp3"
+            "PromptAudio": "lang/somali/audios/miro.mp3"
           },
           "foilstones": [
             {
@@ -5630,7 +5630,7 @@
           ],
           "prompt": {
             "PromptText": "mid",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/mid.mp3"
+            "PromptAudio": "lang/somali/audios/mid.mp3"
           },
           "foilstones": [
             {
@@ -5683,7 +5683,7 @@
           ],
           "prompt": {
             "PromptText": "qalin",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/qalin.mp3"
+            "PromptAudio": "lang/somali/audios/qalin.mp3"
           },
           "foilstones": [
             {
@@ -5730,7 +5730,7 @@
           ],
           "prompt": {
             "PromptText": "shir",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/shir.mp3"
+            "PromptAudio": "lang/somali/audios/shir.mp3"
           },
           "foilstones": [
             {
@@ -5771,7 +5771,7 @@
           ],
           "prompt": {
             "PromptText": "nin",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/nin.mp3"
+            "PromptAudio": "lang/somali/audios/nin.mp3"
           },
           "foilstones": [
             {
@@ -5821,7 +5821,7 @@
           ],
           "prompt": {
             "PromptText": "o",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/o.mp3"
+            "PromptAudio": "lang/somali/audios/o.mp3"
           },
           "foilstones": [
             {
@@ -5859,7 +5859,7 @@
           ],
           "prompt": {
             "PromptText": "k",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/k.mp3"
+            "PromptAudio": "lang/somali/audios/k.mp3"
           },
           "foilstones": [
             {
@@ -5897,7 +5897,7 @@
           ],
           "prompt": {
             "PromptText": "s",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/s.mp3"
+            "PromptAudio": "lang/somali/audios/s.mp3"
           },
           "foilstones": [
             {
@@ -5935,7 +5935,7 @@
           ],
           "prompt": {
             "PromptText": "q",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/q.mp3"
+            "PromptAudio": "lang/somali/audios/q.mp3"
           },
           "foilstones": [
             {
@@ -5970,7 +5970,7 @@
           ],
           "prompt": {
             "PromptText": "s",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/s.mp3"
+            "PromptAudio": "lang/somali/audios/s.mp3"
           },
           "foilstones": [
             {
@@ -6023,7 +6023,7 @@
           ],
           "prompt": {
             "PromptText": "k",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/k.mp3"
+            "PromptAudio": "lang/somali/audios/k.mp3"
           },
           "foilstones": [
             {
@@ -6061,7 +6061,7 @@
           ],
           "prompt": {
             "PromptText": "k",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/k.mp3"
+            "PromptAudio": "lang/somali/audios/k.mp3"
           },
           "foilstones": [
             {
@@ -6099,7 +6099,7 @@
           ],
           "prompt": {
             "PromptText": "o",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/o.mp3"
+            "PromptAudio": "lang/somali/audios/o.mp3"
           },
           "foilstones": [
             {
@@ -6137,7 +6137,7 @@
           ],
           "prompt": {
             "PromptText": "h",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/h.mp3"
+            "PromptAudio": "lang/somali/audios/h.mp3"
           },
           "foilstones": [
             {
@@ -6178,7 +6178,7 @@
           ],
           "prompt": {
             "PromptText": "s",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/s.mp3"
+            "PromptAudio": "lang/somali/audios/s.mp3"
           },
           "foilstones": [
             {
@@ -6225,7 +6225,7 @@
           ],
           "prompt": {
             "PromptText": "s",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/s.mp3"
+            "PromptAudio": "lang/somali/audios/s.mp3"
           },
           "foilstones": [
             {
@@ -6263,7 +6263,7 @@
           ],
           "prompt": {
             "PromptText": "q",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/q.mp3"
+            "PromptAudio": "lang/somali/audios/q.mp3"
           },
           "foilstones": [
             {
@@ -6301,7 +6301,7 @@
           ],
           "prompt": {
             "PromptText": "k",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/k.mp3"
+            "PromptAudio": "lang/somali/audios/k.mp3"
           },
           "foilstones": [
             {
@@ -6339,7 +6339,7 @@
           ],
           "prompt": {
             "PromptText": "h",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/h.mp3"
+            "PromptAudio": "lang/somali/audios/h.mp3"
           },
           "foilstones": [
             {
@@ -6380,7 +6380,7 @@
           ],
           "prompt": {
             "PromptText": "q",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/q.mp3"
+            "PromptAudio": "lang/somali/audios/q.mp3"
           },
           "foilstones": [
             {
@@ -6427,7 +6427,7 @@
           ],
           "prompt": {
             "PromptText": "q",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/q.mp3"
+            "PromptAudio": "lang/somali/audios/q.mp3"
           },
           "foilstones": [
             {
@@ -6465,7 +6465,7 @@
           ],
           "prompt": {
             "PromptText": "c",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/c.mp3"
+            "PromptAudio": "lang/somali/audios/c.mp3"
           },
           "foilstones": [
             {
@@ -6503,7 +6503,7 @@
           ],
           "prompt": {
             "PromptText": "h",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/h.mp3"
+            "PromptAudio": "lang/somali/audios/h.mp3"
           },
           "foilstones": [
             {
@@ -6541,7 +6541,7 @@
           ],
           "prompt": {
             "PromptText": "k",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/k.mp3"
+            "PromptAudio": "lang/somali/audios/k.mp3"
           },
           "foilstones": [
             {
@@ -6582,7 +6582,7 @@
           ],
           "prompt": {
             "PromptText": "k",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/k.mp3"
+            "PromptAudio": "lang/somali/audios/k.mp3"
           },
           "foilstones": [
             {
@@ -6629,7 +6629,7 @@
           ],
           "prompt": {
             "PromptText": "k",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/k.mp3"
+            "PromptAudio": "lang/somali/audios/k.mp3"
           },
           "foilstones": [
             {
@@ -6682,7 +6682,7 @@
           ],
           "prompt": {
             "PromptText": "s",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/s.mp3"
+            "PromptAudio": "lang/somali/audios/s.mp3"
           },
           "foilstones": [
             {
@@ -6720,7 +6720,7 @@
           ],
           "prompt": {
             "PromptText": "s",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/s.mp3"
+            "PromptAudio": "lang/somali/audios/s.mp3"
           },
           "foilstones": [
             {
@@ -6758,7 +6758,7 @@
           ],
           "prompt": {
             "PromptText": "s",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/s.mp3"
+            "PromptAudio": "lang/somali/audios/s.mp3"
           },
           "foilstones": [
             {
@@ -6793,7 +6793,7 @@
           ],
           "prompt": {
             "PromptText": "c",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/c.mp3"
+            "PromptAudio": "lang/somali/audios/c.mp3"
           },
           "foilstones": [
             {
@@ -6849,7 +6849,7 @@
           ],
           "prompt": {
             "PromptText": "s",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/s.mp3"
+            "PromptAudio": "lang/somali/audios/s.mp3"
           },
           "foilstones": [
             {
@@ -6887,7 +6887,7 @@
           ],
           "prompt": {
             "PromptText": "s",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/s.mp3"
+            "PromptAudio": "lang/somali/audios/s.mp3"
           },
           "foilstones": [
             {
@@ -6925,7 +6925,7 @@
           ],
           "prompt": {
             "PromptText": "c",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/c.mp3"
+            "PromptAudio": "lang/somali/audios/c.mp3"
           },
           "foilstones": [
             {
@@ -6963,7 +6963,7 @@
           ],
           "prompt": {
             "PromptText": "k",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/k.mp3"
+            "PromptAudio": "lang/somali/audios/k.mp3"
           },
           "foilstones": [
             {
@@ -6998,7 +6998,7 @@
           ],
           "prompt": {
             "PromptText": "s",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/s.mp3"
+            "PromptAudio": "lang/somali/audios/s.mp3"
           },
           "foilstones": [
             {
@@ -7051,7 +7051,7 @@
           ],
           "prompt": {
             "PromptText": "shaqo",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/sh.mp3"
+            "PromptAudio": "lang/somali/audios/sh.mp3"
           },
           "foilstones": [
             {
@@ -7089,7 +7089,7 @@
           ],
           "prompt": {
             "PromptText": "shaqo",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/sh.mp3"
+            "PromptAudio": "lang/somali/audios/sh.mp3"
           },
           "foilstones": [
             {
@@ -7127,7 +7127,7 @@
           ],
           "prompt": {
             "PromptText": "qol",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/q.mp3"
+            "PromptAudio": "lang/somali/audios/q.mp3"
           },
           "foilstones": [
             {
@@ -7162,7 +7162,7 @@
           ],
           "prompt": {
             "PromptText": "qosol",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/q.mp3"
+            "PromptAudio": "lang/somali/audios/q.mp3"
           },
           "foilstones": [
             {
@@ -7203,7 +7203,7 @@
           ],
           "prompt": {
             "PromptText": "qosol",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/q.mp3"
+            "PromptAudio": "lang/somali/audios/q.mp3"
           },
           "foilstones": [
             {
@@ -7253,7 +7253,7 @@
           ],
           "prompt": {
             "PromptText": "shaqo",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/sh.mp3"
+            "PromptAudio": "lang/somali/audios/sh.mp3"
           },
           "foilstones": [
             {
@@ -7291,7 +7291,7 @@
           ],
           "prompt": {
             "PromptText": "cun",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/c.mp3"
+            "PromptAudio": "lang/somali/audios/c.mp3"
           },
           "foilstones": [
             {
@@ -7329,7 +7329,7 @@
           ],
           "prompt": {
             "PromptText": "qol",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/q.mp3"
+            "PromptAudio": "lang/somali/audios/q.mp3"
           },
           "foilstones": [
             {
@@ -7373,7 +7373,7 @@
           ],
           "prompt": {
             "PromptText": "qosol",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/q.mp3"
+            "PromptAudio": "lang/somali/audios/q.mp3"
           },
           "foilstones": [
             {
@@ -7408,7 +7408,7 @@
           ],
           "prompt": {
             "PromptText": "cun",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/c.mp3"
+            "PromptAudio": "lang/somali/audios/c.mp3"
           },
           "foilstones": [
             {
@@ -7461,7 +7461,7 @@
           ],
           "prompt": {
             "PromptText": "hooyo",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/h.mp3"
+            "PromptAudio": "lang/somali/audios/h.mp3"
           },
           "foilstones": [
             {
@@ -7499,7 +7499,7 @@
           ],
           "prompt": {
             "PromptText": "qol",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/q.mp3"
+            "PromptAudio": "lang/somali/audios/q.mp3"
           },
           "foilstones": [
             {
@@ -7537,7 +7537,7 @@
           ],
           "prompt": {
             "PromptText": "shaqo",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/sh.mp3"
+            "PromptAudio": "lang/somali/audios/sh.mp3"
           },
           "foilstones": [
             {
@@ -7575,7 +7575,7 @@
           ],
           "prompt": {
             "PromptText": "qosol",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/q.mp3"
+            "PromptAudio": "lang/somali/audios/q.mp3"
           },
           "foilstones": [
             {
@@ -7610,7 +7610,7 @@
           ],
           "prompt": {
             "PromptText": "hooyo",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/h.mp3"
+            "PromptAudio": "lang/somali/audios/h.mp3"
           },
           "foilstones": [
             {
@@ -7663,7 +7663,7 @@
           ],
           "prompt": {
             "PromptText": "hooyo",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/h.mp3"
+            "PromptAudio": "lang/somali/audios/h.mp3"
           },
           "foilstones": [
             {
@@ -7686,7 +7686,7 @@
           ],
           "prompt": {
             "PromptText": "qosol",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/q.mp3"
+            "PromptAudio": "lang/somali/audios/q.mp3"
           },
           "foilstones": [
             {
@@ -7709,7 +7709,7 @@
           ],
           "prompt": {
             "PromptText": "cun",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/c.mp3"
+            "PromptAudio": "lang/somali/audios/c.mp3"
           },
           "foilstones": [
             {
@@ -7732,7 +7732,7 @@
           ],
           "prompt": {
             "PromptText": "shaqo",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/sh.mp3"
+            "PromptAudio": "lang/somali/audios/sh.mp3"
           },
           "foilstones": [
             {
@@ -7758,7 +7758,7 @@
           ],
           "prompt": {
             "PromptText": "qol",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/q.mp3"
+            "PromptAudio": "lang/somali/audios/q.mp3"
           },
           "foilstones": [
             {
@@ -7799,7 +7799,7 @@
           ],
           "prompt": {
             "PromptText": "cun",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/cun.mp3"
+            "PromptAudio": "lang/somali/audios/cun.mp3"
           },
           "foilstones": [
             {
@@ -7828,7 +7828,7 @@
           ],
           "prompt": {
             "PromptText": "qol",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/qol.mp3"
+            "PromptAudio": "lang/somali/audios/qol.mp3"
           },
           "foilstones": [
             {
@@ -7863,7 +7863,7 @@
           ],
           "prompt": {
             "PromptText": "shaqo",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/shaqo.mp3"
+            "PromptAudio": "lang/somali/audios/shaqo.mp3"
           },
           "foilstones": [
             {
@@ -7892,7 +7892,7 @@
           ],
           "prompt": {
             "PromptText": "cun",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/cun.mp3"
+            "PromptAudio": "lang/somali/audios/cun.mp3"
           },
           "foilstones": [
             {
@@ -7930,7 +7930,7 @@
           ],
           "prompt": {
             "PromptText": "qosol",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/qosol.mp3"
+            "PromptAudio": "lang/somali/audios/qosol.mp3"
           },
           "foilstones": [
             {
@@ -7977,7 +7977,7 @@
           ],
           "prompt": {
             "PromptText": "qosol",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/qosol.mp3"
+            "PromptAudio": "lang/somali/audios/qosol.mp3"
           },
           "foilstones": [
             {
@@ -8021,7 +8021,7 @@
           ],
           "prompt": {
             "PromptText": "cun",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/cun.mp3"
+            "PromptAudio": "lang/somali/audios/cun.mp3"
           },
           "foilstones": [
             {
@@ -8071,7 +8071,7 @@
           ],
           "prompt": {
             "PromptText": "hooyo",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/hooyo.mp3"
+            "PromptAudio": "lang/somali/audios/hooyo.mp3"
           },
           "foilstones": [
             {
@@ -8118,7 +8118,7 @@
           ],
           "prompt": {
             "PromptText": "shaqo",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/shaqo.mp3"
+            "PromptAudio": "lang/somali/audios/shaqo.mp3"
           },
           "foilstones": [
             {
@@ -8171,7 +8171,7 @@
           ],
           "prompt": {
             "PromptText": "hooyo",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/hooyo.mp3"
+            "PromptAudio": "lang/somali/audios/hooyo.mp3"
           },
           "foilstones": [
             {
@@ -8227,7 +8227,7 @@
           ],
           "prompt": {
             "PromptText": "qol",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/qol.mp3"
+            "PromptAudio": "lang/somali/audios/qol.mp3"
           },
           "foilstones": [
             {
@@ -8277,7 +8277,7 @@
           ],
           "prompt": {
             "PromptText": "qosol",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/qosol.mp3"
+            "PromptAudio": "lang/somali/audios/qosol.mp3"
           },
           "foilstones": [
             {
@@ -8321,7 +8321,7 @@
           ],
           "prompt": {
             "PromptText": "cun",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/cun.mp3"
+            "PromptAudio": "lang/somali/audios/cun.mp3"
           },
           "foilstones": [
             {
@@ -8371,7 +8371,7 @@
           ],
           "prompt": {
             "PromptText": "hooyo",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/hooyo.mp3"
+            "PromptAudio": "lang/somali/audios/hooyo.mp3"
           },
           "foilstones": [
             {
@@ -8418,7 +8418,7 @@
           ],
           "prompt": {
             "PromptText": "shaqo",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/shaqo.mp3"
+            "PromptAudio": "lang/somali/audios/shaqo.mp3"
           },
           "foilstones": [
             {
@@ -8471,7 +8471,7 @@
           ],
           "prompt": {
             "PromptText": "r",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/r.mp3"
+            "PromptAudio": "lang/somali/audios/r.mp3"
           },
           "foilstones": [
             {
@@ -8509,7 +8509,7 @@
           ],
           "prompt": {
             "PromptText": "d",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/d.mp3"
+            "PromptAudio": "lang/somali/audios/d.mp3"
           },
           "foilstones": [
             {
@@ -8547,7 +8547,7 @@
           ],
           "prompt": {
             "PromptText": "r",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/r.mp3"
+            "PromptAudio": "lang/somali/audios/r.mp3"
           },
           "foilstones": [
             {
@@ -8582,7 +8582,7 @@
           ],
           "prompt": {
             "PromptText": "f",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/f.mp3"
+            "PromptAudio": "lang/somali/audios/f.mp3"
           },
           "foilstones": [
             {
@@ -8623,7 +8623,7 @@
           ],
           "prompt": {
             "PromptText": "c",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/c.mp3"
+            "PromptAudio": "lang/somali/audios/c.mp3"
           },
           "foilstones": [
             {
@@ -8673,7 +8673,7 @@
           ],
           "prompt": {
             "PromptText": "r",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/r.mp3"
+            "PromptAudio": "lang/somali/audios/r.mp3"
           },
           "foilstones": [
             {
@@ -8711,7 +8711,7 @@
           ],
           "prompt": {
             "PromptText": "d",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/d.mp3"
+            "PromptAudio": "lang/somali/audios/d.mp3"
           },
           "foilstones": [
             {
@@ -8752,7 +8752,7 @@
           ],
           "prompt": {
             "PromptText": "f",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/f.mp3"
+            "PromptAudio": "lang/somali/audios/f.mp3"
           },
           "foilstones": [
             {
@@ -8790,7 +8790,7 @@
           ],
           "prompt": {
             "PromptText": "r",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/r.mp3"
+            "PromptAudio": "lang/somali/audios/r.mp3"
           },
           "foilstones": [
             {
@@ -8825,7 +8825,7 @@
           ],
           "prompt": {
             "PromptText": "d",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/d.mp3"
+            "PromptAudio": "lang/somali/audios/d.mp3"
           },
           "foilstones": [
             {
@@ -8875,7 +8875,7 @@
           ],
           "prompt": {
             "PromptText": "q",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/q.mp3"
+            "PromptAudio": "lang/somali/audios/q.mp3"
           },
           "foilstones": [
             {
@@ -8913,7 +8913,7 @@
           ],
           "prompt": {
             "PromptText": "u",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/u.mp3"
+            "PromptAudio": "lang/somali/audios/u.mp3"
           },
           "foilstones": [
             {
@@ -8951,7 +8951,7 @@
           ],
           "prompt": {
             "PromptText": "f",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/f.mp3"
+            "PromptAudio": "lang/somali/audios/f.mp3"
           },
           "foilstones": [
             {
@@ -8989,7 +8989,7 @@
           ],
           "prompt": {
             "PromptText": "c",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/c.mp3"
+            "PromptAudio": "lang/somali/audios/c.mp3"
           },
           "foilstones": [
             {
@@ -9027,7 +9027,7 @@
           ],
           "prompt": {
             "PromptText": "d",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/d.mp3"
+            "PromptAudio": "lang/somali/audios/d.mp3"
           },
           "foilstones": [
             {
@@ -9080,7 +9080,7 @@
           ],
           "prompt": {
             "PromptText": "c",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/c.mp3"
+            "PromptAudio": "lang/somali/audios/c.mp3"
           },
           "foilstones": [
             {
@@ -9118,7 +9118,7 @@
           ],
           "prompt": {
             "PromptText": "q",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/q.mp3"
+            "PromptAudio": "lang/somali/audios/q.mp3"
           },
           "foilstones": [
             {
@@ -9156,7 +9156,7 @@
           ],
           "prompt": {
             "PromptText": "u",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/u.mp3"
+            "PromptAudio": "lang/somali/audios/u.mp3"
           },
           "foilstones": [
             {
@@ -9194,7 +9194,7 @@
           ],
           "prompt": {
             "PromptText": "c",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/c.mp3"
+            "PromptAudio": "lang/somali/audios/c.mp3"
           },
           "foilstones": [
             {
@@ -9229,7 +9229,7 @@
           ],
           "prompt": {
             "PromptText": "r",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/r.mp3"
+            "PromptAudio": "lang/somali/audios/r.mp3"
           },
           "foilstones": [
             {
@@ -9282,7 +9282,7 @@
           ],
           "prompt": {
             "PromptText": "r",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/r.mp3"
+            "PromptAudio": "lang/somali/audios/r.mp3"
           },
           "foilstones": [
             {
@@ -9320,7 +9320,7 @@
           ],
           "prompt": {
             "PromptText": "u",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/u.mp3"
+            "PromptAudio": "lang/somali/audios/u.mp3"
           },
           "foilstones": [
             {
@@ -9361,7 +9361,7 @@
           ],
           "prompt": {
             "PromptText": "d",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/d.mp3"
+            "PromptAudio": "lang/somali/audios/d.mp3"
           },
           "foilstones": [
             {
@@ -9399,7 +9399,7 @@
           ],
           "prompt": {
             "PromptText": "q",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/q.mp3"
+            "PromptAudio": "lang/somali/audios/q.mp3"
           },
           "foilstones": [
             {
@@ -9434,7 +9434,7 @@
           ],
           "prompt": {
             "PromptText": "q",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/q.mp3"
+            "PromptAudio": "lang/somali/audios/q.mp3"
           },
           "foilstones": [
             {
@@ -9484,7 +9484,7 @@
           ],
           "prompt": {
             "PromptText": "r",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/r.mp3"
+            "PromptAudio": "lang/somali/audios/r.mp3"
           },
           "foilstones": [
             {
@@ -9531,7 +9531,7 @@
           ],
           "prompt": {
             "PromptText": "c",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/c.mp3"
+            "PromptAudio": "lang/somali/audios/c.mp3"
           },
           "foilstones": [
             {
@@ -9569,7 +9569,7 @@
           ],
           "prompt": {
             "PromptText": "u",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/u.mp3"
+            "PromptAudio": "lang/somali/audios/u.mp3"
           },
           "foilstones": [
             {
@@ -9613,7 +9613,7 @@
           ],
           "prompt": {
             "PromptText": "c",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/c.mp3"
+            "PromptAudio": "lang/somali/audios/c.mp3"
           },
           "foilstones": [
             {
@@ -9648,7 +9648,7 @@
           ],
           "prompt": {
             "PromptText": "c",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/c.mp3"
+            "PromptAudio": "lang/somali/audios/c.mp3"
           },
           "foilstones": [
             {
@@ -9701,7 +9701,7 @@
           ],
           "prompt": {
             "PromptText": "run",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/r.mp3"
+            "PromptAudio": "lang/somali/audios/r.mp3"
           },
           "foilstones": [
             {
@@ -9739,7 +9739,7 @@
           ],
           "prompt": {
             "PromptText": "laf",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/l.mp3"
+            "PromptAudio": "lang/somali/audios/l.mp3"
           },
           "foilstones": [
             {
@@ -9777,7 +9777,7 @@
           ],
           "prompt": {
             "PromptText": "dhar",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/dh.mp3"
+            "PromptAudio": "lang/somali/audios/dh.mp3"
           },
           "foilstones": [
             {
@@ -9815,7 +9815,7 @@
           ],
           "prompt": {
             "PromptText": "laf",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/l.mp3"
+            "PromptAudio": "lang/somali/audios/l.mp3"
           },
           "foilstones": [
             {
@@ -9850,7 +9850,7 @@
           ],
           "prompt": {
             "PromptText": "run",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/r.mp3"
+            "PromptAudio": "lang/somali/audios/r.mp3"
           },
           "foilstones": [
             {
@@ -9903,7 +9903,7 @@
           ],
           "prompt": {
             "PromptText": "ubax",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/u.mp3"
+            "PromptAudio": "lang/somali/audios/u.mp3"
           },
           "foilstones": [
             {
@@ -9941,7 +9941,7 @@
           ],
           "prompt": {
             "PromptText": "dhar",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/dh.mp3"
+            "PromptAudio": "lang/somali/audios/dh.mp3"
           },
           "foilstones": [
             {
@@ -9988,7 +9988,7 @@
           ],
           "prompt": {
             "PromptText": "run",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/r.mp3"
+            "PromptAudio": "lang/somali/audios/r.mp3"
           },
           "foilstones": [
             {
@@ -10023,7 +10023,7 @@
           ],
           "prompt": {
             "PromptText": "ubax",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/u.mp3"
+            "PromptAudio": "lang/somali/audios/u.mp3"
           },
           "foilstones": [
             {
@@ -10061,7 +10061,7 @@
           ],
           "prompt": {
             "PromptText": "dhar",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/dh.mp3"
+            "PromptAudio": "lang/somali/audios/dh.mp3"
           },
           "foilstones": [
             {
@@ -10114,7 +10114,7 @@
           ],
           "prompt": {
             "PromptText": "run",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/r.mp3"
+            "PromptAudio": "lang/somali/audios/r.mp3"
           },
           "foilstones": [
             {
@@ -10152,7 +10152,7 @@
           ],
           "prompt": {
             "PromptText": "dhar",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/dh.mp3"
+            "PromptAudio": "lang/somali/audios/dh.mp3"
           },
           "foilstones": [
             {
@@ -10190,7 +10190,7 @@
           ],
           "prompt": {
             "PromptText": "laf",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/l.mp3"
+            "PromptAudio": "lang/somali/audios/l.mp3"
           },
           "foilstones": [
             {
@@ -10225,7 +10225,7 @@
           ],
           "prompt": {
             "PromptText": "cun",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/c.mp3"
+            "PromptAudio": "lang/somali/audios/c.mp3"
           },
           "foilstones": [
             {
@@ -10263,7 +10263,7 @@
           ],
           "prompt": {
             "PromptText": "run",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/r.mp3"
+            "PromptAudio": "lang/somali/audios/r.mp3"
           },
           "foilstones": [
             {
@@ -10316,7 +10316,7 @@
           ],
           "prompt": {
             "PromptText": "laf",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/l.mp3"
+            "PromptAudio": "lang/somali/audios/l.mp3"
           },
           "foilstones": [
             {
@@ -10354,7 +10354,7 @@
           ],
           "prompt": {
             "PromptText": "qol",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/q.mp3"
+            "PromptAudio": "lang/somali/audios/q.mp3"
           },
           "foilstones": [
             {
@@ -10392,7 +10392,7 @@
           ],
           "prompt": {
             "PromptText": "ubax",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/u.mp3"
+            "PromptAudio": "lang/somali/audios/u.mp3"
           },
           "foilstones": [
             {
@@ -10427,7 +10427,7 @@
           ],
           "prompt": {
             "PromptText": "cun",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/c.mp3"
+            "PromptAudio": "lang/somali/audios/c.mp3"
           },
           "foilstones": [
             {
@@ -10465,7 +10465,7 @@
           ],
           "prompt": {
             "PromptText": "dhar",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/dh.mp3"
+            "PromptAudio": "lang/somali/audios/dh.mp3"
           },
           "foilstones": [
             {
@@ -10524,7 +10524,7 @@
           ],
           "prompt": {
             "PromptText": "run",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/run.mp3"
+            "PromptAudio": "lang/somali/audios/run.mp3"
           },
           "foilstones": [
             {
@@ -10568,7 +10568,7 @@
           ],
           "prompt": {
             "PromptText": "cun",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/cun.mp3"
+            "PromptAudio": "lang/somali/audios/cun.mp3"
           },
           "foilstones": [
             {
@@ -10612,7 +10612,7 @@
           ],
           "prompt": {
             "PromptText": "laf",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/laf.mp3"
+            "PromptAudio": "lang/somali/audios/laf.mp3"
           },
           "foilstones": [
             {
@@ -10653,7 +10653,7 @@
           ],
           "prompt": {
             "PromptText": "run",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/run.mp3"
+            "PromptAudio": "lang/somali/audios/run.mp3"
           },
           "foilstones": [
             {
@@ -10706,7 +10706,7 @@
           ],
           "prompt": {
             "PromptText": "cun",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/cun.mp3"
+            "PromptAudio": "lang/somali/audios/cun.mp3"
           },
           "foilstones": [
             {
@@ -10768,7 +10768,7 @@
           ],
           "prompt": {
             "PromptText": "dhar",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/dhar.mp3"
+            "PromptAudio": "lang/somali/audios/dhar.mp3"
           },
           "foilstones": [
             {
@@ -10815,7 +10815,7 @@
           ],
           "prompt": {
             "PromptText": "ubax",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/ubax.mp3"
+            "PromptAudio": "lang/somali/audios/ubax.mp3"
           },
           "foilstones": [
             {
@@ -10862,7 +10862,7 @@
           ],
           "prompt": {
             "PromptText": "dhar",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/dhar.mp3"
+            "PromptAudio": "lang/somali/audios/dhar.mp3"
           },
           "foilstones": [
             {
@@ -10906,7 +10906,7 @@
           ],
           "prompt": {
             "PromptText": "ubax",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/ubax.mp3"
+            "PromptAudio": "lang/somali/audios/ubax.mp3"
           },
           "foilstones": [
             {
@@ -10950,7 +10950,7 @@
           ],
           "prompt": {
             "PromptText": "laf",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/laf.mp3"
+            "PromptAudio": "lang/somali/audios/laf.mp3"
           },
           "foilstones": [
             {
@@ -11012,7 +11012,7 @@
           ],
           "prompt": {
             "PromptText": "ubax",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/ubax.mp3"
+            "PromptAudio": "lang/somali/audios/ubax.mp3"
           },
           "foilstones": [
             {
@@ -11056,7 +11056,7 @@
           ],
           "prompt": {
             "PromptText": "cun",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/cun.mp3"
+            "PromptAudio": "lang/somali/audios/cun.mp3"
           },
           "foilstones": [
             {
@@ -11100,7 +11100,7 @@
           ],
           "prompt": {
             "PromptText": "run",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/run.mp3"
+            "PromptAudio": "lang/somali/audios/run.mp3"
           },
           "foilstones": [
             {
@@ -11141,7 +11141,7 @@
           ],
           "prompt": {
             "PromptText": "laf",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/laf.mp3"
+            "PromptAudio": "lang/somali/audios/laf.mp3"
           },
           "foilstones": [
             {
@@ -11191,7 +11191,7 @@
           ],
           "prompt": {
             "PromptText": "dhar",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/dhar.mp3"
+            "PromptAudio": "lang/somali/audios/dhar.mp3"
           },
           "foilstones": [
             {
@@ -11244,7 +11244,7 @@
           ],
           "prompt": {
             "PromptText": "f",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/f.mp3"
+            "PromptAudio": "lang/somali/audios/f.mp3"
           },
           "foilstones": [
             {
@@ -11282,7 +11282,7 @@
           ],
           "prompt": {
             "PromptText": "d",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/d.mp3"
+            "PromptAudio": "lang/somali/audios/d.mp3"
           },
           "foilstones": [
             {
@@ -11320,7 +11320,7 @@
           ],
           "prompt": {
             "PromptText": "f",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/f.mp3"
+            "PromptAudio": "lang/somali/audios/f.mp3"
           },
           "foilstones": [
             {
@@ -11352,7 +11352,7 @@
           ],
           "prompt": {
             "PromptText": "q",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/q.mp3"
+            "PromptAudio": "lang/somali/audios/q.mp3"
           },
           "foilstones": [
             {
@@ -11387,7 +11387,7 @@
           ],
           "prompt": {
             "PromptText": "d",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/d.mp3"
+            "PromptAudio": "lang/somali/audios/d.mp3"
           },
           "foilstones": [
             {
@@ -11440,7 +11440,7 @@
           ],
           "prompt": {
             "PromptText": "q",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/q.mp3"
+            "PromptAudio": "lang/somali/audios/q.mp3"
           },
           "foilstones": [
             {
@@ -11478,7 +11478,7 @@
           ],
           "prompt": {
             "PromptText": "r",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/r.mp3"
+            "PromptAudio": "lang/somali/audios/r.mp3"
           },
           "foilstones": [
             {
@@ -11516,7 +11516,7 @@
           ],
           "prompt": {
             "PromptText": "u",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/u.mp3"
+            "PromptAudio": "lang/somali/audios/u.mp3"
           },
           "foilstones": [
             {
@@ -11563,7 +11563,7 @@
           ],
           "prompt": {
             "PromptText": "q",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/q.mp3"
+            "PromptAudio": "lang/somali/audios/q.mp3"
           },
           "foilstones": [
             {
@@ -11598,7 +11598,7 @@
           ],
           "prompt": {
             "PromptText": "c",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/c.mp3"
+            "PromptAudio": "lang/somali/audios/c.mp3"
           },
           "foilstones": [
             {
@@ -11651,7 +11651,7 @@
           ],
           "prompt": {
             "PromptText": "r",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/r.mp3"
+            "PromptAudio": "lang/somali/audios/r.mp3"
           },
           "foilstones": [
             {
@@ -11689,7 +11689,7 @@
           ],
           "prompt": {
             "PromptText": "r",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/r.mp3"
+            "PromptAudio": "lang/somali/audios/r.mp3"
           },
           "foilstones": [
             {
@@ -11727,7 +11727,7 @@
           ],
           "prompt": {
             "PromptText": "d",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/d.mp3"
+            "PromptAudio": "lang/somali/audios/d.mp3"
           },
           "foilstones": [
             {
@@ -11759,7 +11759,7 @@
           ],
           "prompt": {
             "PromptText": "f",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/f.mp3"
+            "PromptAudio": "lang/somali/audios/f.mp3"
           },
           "foilstones": [
             {
@@ -11794,7 +11794,7 @@
           ],
           "prompt": {
             "PromptText": "r",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/r.mp3"
+            "PromptAudio": "lang/somali/audios/r.mp3"
           },
           "foilstones": [
             {
@@ -11847,7 +11847,7 @@
           ],
           "prompt": {
             "PromptText": "u",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/u.mp3"
+            "PromptAudio": "lang/somali/audios/u.mp3"
           },
           "foilstones": [
             {
@@ -11885,7 +11885,7 @@
           ],
           "prompt": {
             "PromptText": "c",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/c.mp3"
+            "PromptAudio": "lang/somali/audios/c.mp3"
           },
           "foilstones": [
             {
@@ -11923,7 +11923,7 @@
           ],
           "prompt": {
             "PromptText": "q",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/q.mp3"
+            "PromptAudio": "lang/somali/audios/q.mp3"
           },
           "foilstones": [
             {
@@ -11961,7 +11961,7 @@
           ],
           "prompt": {
             "PromptText": "u",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/u.mp3"
+            "PromptAudio": "lang/somali/audios/u.mp3"
           },
           "foilstones": [
             {
@@ -11996,7 +11996,7 @@
           ],
           "prompt": {
             "PromptText": "u",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/u.mp3"
+            "PromptAudio": "lang/somali/audios/u.mp3"
           },
           "foilstones": [
             {
@@ -12049,7 +12049,7 @@
           ],
           "prompt": {
             "PromptText": "q",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/q.mp3"
+            "PromptAudio": "lang/somali/audios/q.mp3"
           },
           "foilstones": [
             {
@@ -12087,7 +12087,7 @@
           ],
           "prompt": {
             "PromptText": "d",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/d.mp3"
+            "PromptAudio": "lang/somali/audios/d.mp3"
           },
           "foilstones": [
             {
@@ -12125,7 +12125,7 @@
           ],
           "prompt": {
             "PromptText": "q",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/q.mp3"
+            "PromptAudio": "lang/somali/audios/q.mp3"
           },
           "foilstones": [
             {
@@ -12166,7 +12166,7 @@
           ],
           "prompt": {
             "PromptText": "q",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/q.mp3"
+            "PromptAudio": "lang/somali/audios/q.mp3"
           },
           "foilstones": [
             {
@@ -12201,7 +12201,7 @@
           ],
           "prompt": {
             "PromptText": "u",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/u.mp3"
+            "PromptAudio": "lang/somali/audios/u.mp3"
           },
           "foilstones": [
             {
@@ -12254,7 +12254,7 @@
           ],
           "prompt": {
             "PromptText": "d",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/d.mp3"
+            "PromptAudio": "lang/somali/audios/d.mp3"
           },
           "foilstones": [
             {
@@ -12292,7 +12292,7 @@
           ],
           "prompt": {
             "PromptText": "d",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/d.mp3"
+            "PromptAudio": "lang/somali/audios/d.mp3"
           },
           "foilstones": [
             {
@@ -12330,7 +12330,7 @@
           ],
           "prompt": {
             "PromptText": "q",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/q.mp3"
+            "PromptAudio": "lang/somali/audios/q.mp3"
           },
           "foilstones": [
             {
@@ -12368,7 +12368,7 @@
           ],
           "prompt": {
             "PromptText": "q",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/q.mp3"
+            "PromptAudio": "lang/somali/audios/q.mp3"
           },
           "foilstones": [
             {
@@ -12409,7 +12409,7 @@
           ],
           "prompt": {
             "PromptText": "c",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/c.mp3"
+            "PromptAudio": "lang/somali/audios/c.mp3"
           },
           "foilstones": [
             {
@@ -12456,7 +12456,7 @@
           ],
           "prompt": {
             "PromptText": "ubax",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/u.mp3"
+            "PromptAudio": "lang/somali/audios/u.mp3"
           },
           "foilstones": [
             {
@@ -12494,7 +12494,7 @@
           ],
           "prompt": {
             "PromptText": "run",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/r.mp3"
+            "PromptAudio": "lang/somali/audios/r.mp3"
           },
           "foilstones": [
             {
@@ -12532,7 +12532,7 @@
           ],
           "prompt": {
             "PromptText": "qof",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/q.mp3"
+            "PromptAudio": "lang/somali/audios/q.mp3"
           },
           "foilstones": [
             {
@@ -12564,7 +12564,7 @@
           ],
           "prompt": {
             "PromptText": "qof",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/q.mp3"
+            "PromptAudio": "lang/somali/audios/q.mp3"
           },
           "foilstones": [
             {
@@ -12599,7 +12599,7 @@
           ],
           "prompt": {
             "PromptText": "jar",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/j.mp3"
+            "PromptAudio": "lang/somali/audios/j.mp3"
           },
           "foilstones": [
             {
@@ -12652,7 +12652,7 @@
           ],
           "prompt": {
             "PromptText": "fur",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/f.mp3"
+            "PromptAudio": "lang/somali/audios/f.mp3"
           },
           "foilstones": [
             {
@@ -12690,7 +12690,7 @@
           ],
           "prompt": {
             "PromptText": "qof",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/q.mp3"
+            "PromptAudio": "lang/somali/audios/q.mp3"
           },
           "foilstones": [
             {
@@ -12728,7 +12728,7 @@
           ],
           "prompt": {
             "PromptText": "fur",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/f.mp3"
+            "PromptAudio": "lang/somali/audios/f.mp3"
           },
           "foilstones": [
             {
@@ -12766,7 +12766,7 @@
           ],
           "prompt": {
             "PromptText": "run",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/r.mp3"
+            "PromptAudio": "lang/somali/audios/r.mp3"
           },
           "foilstones": [
             {
@@ -12801,7 +12801,7 @@
           ],
           "prompt": {
             "PromptText": "fur",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/f.mp3"
+            "PromptAudio": "lang/somali/audios/f.mp3"
           },
           "foilstones": [
             {
@@ -12854,7 +12854,7 @@
           ],
           "prompt": {
             "PromptText": "run",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/r.mp3"
+            "PromptAudio": "lang/somali/audios/r.mp3"
           },
           "foilstones": [
             {
@@ -12892,7 +12892,7 @@
           ],
           "prompt": {
             "PromptText": "jar",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/j.mp3"
+            "PromptAudio": "lang/somali/audios/j.mp3"
           },
           "foilstones": [
             {
@@ -12930,7 +12930,7 @@
           ],
           "prompt": {
             "PromptText": "ubax",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/u.mp3"
+            "PromptAudio": "lang/somali/audios/u.mp3"
           },
           "foilstones": [
             {
@@ -12968,7 +12968,7 @@
           ],
           "prompt": {
             "PromptText": "fur",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/f.mp3"
+            "PromptAudio": "lang/somali/audios/f.mp3"
           },
           "foilstones": [
             {
@@ -13003,7 +13003,7 @@
           ],
           "prompt": {
             "PromptText": "qof",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/q.mp3"
+            "PromptAudio": "lang/somali/audios/q.mp3"
           },
           "foilstones": [
             {
@@ -13056,7 +13056,7 @@
           ],
           "prompt": {
             "PromptText": "ubax",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/u.mp3"
+            "PromptAudio": "lang/somali/audios/u.mp3"
           },
           "foilstones": [
             {
@@ -13094,7 +13094,7 @@
           ],
           "prompt": {
             "PromptText": "qof",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/q.mp3"
+            "PromptAudio": "lang/somali/audios/q.mp3"
           },
           "foilstones": [
             {
@@ -13132,7 +13132,7 @@
           ],
           "prompt": {
             "PromptText": "ubax",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/u.mp3"
+            "PromptAudio": "lang/somali/audios/u.mp3"
           },
           "foilstones": [
             {
@@ -13164,7 +13164,7 @@
           ],
           "prompt": {
             "PromptText": "fur",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/f.mp3"
+            "PromptAudio": "lang/somali/audios/f.mp3"
           },
           "foilstones": [
             {
@@ -13208,7 +13208,7 @@
           ],
           "prompt": {
             "PromptText": "qof",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/q.mp3"
+            "PromptAudio": "lang/somali/audios/q.mp3"
           },
           "foilstones": [
             {
@@ -13252,7 +13252,7 @@
           ],
           "prompt": {
             "PromptText": "ubax",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/u.mp3"
+            "PromptAudio": "lang/somali/audios/u.mp3"
           },
           "foilstones": [
             {
@@ -13290,7 +13290,7 @@
           ],
           "prompt": {
             "PromptText": "qof",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/q.mp3"
+            "PromptAudio": "lang/somali/audios/q.mp3"
           },
           "foilstones": [
             {
@@ -13328,7 +13328,7 @@
           ],
           "prompt": {
             "PromptText": "ubax",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/u.mp3"
+            "PromptAudio": "lang/somali/audios/u.mp3"
           },
           "foilstones": [
             {
@@ -13360,7 +13360,7 @@
           ],
           "prompt": {
             "PromptText": "fur",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/f.mp3"
+            "PromptAudio": "lang/somali/audios/f.mp3"
           },
           "foilstones": [
             {
@@ -13395,7 +13395,7 @@
           ],
           "prompt": {
             "PromptText": "run",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/r.mp3"
+            "PromptAudio": "lang/somali/audios/r.mp3"
           },
           "foilstones": [
             {
@@ -13457,7 +13457,7 @@
           ],
           "prompt": {
             "PromptText": "ubax",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/ubax.mp3"
+            "PromptAudio": "lang/somali/audios/ubax.mp3"
           },
           "foilstones": [
             {
@@ -13501,7 +13501,7 @@
           ],
           "prompt": {
             "PromptText": "qof",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/qof.mp3"
+            "PromptAudio": "lang/somali/audios/qof.mp3"
           },
           "foilstones": [
             {
@@ -13545,7 +13545,7 @@
           ],
           "prompt": {
             "PromptText": "fur",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/fur.mp3"
+            "PromptAudio": "lang/somali/audios/fur.mp3"
           },
           "foilstones": [
             {
@@ -13592,7 +13592,7 @@
           ],
           "prompt": {
             "PromptText": "ubax",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/ubax.mp3"
+            "PromptAudio": "lang/somali/audios/ubax.mp3"
           },
           "foilstones": [
             {
@@ -13633,7 +13633,7 @@
           ],
           "prompt": {
             "PromptText": "fur",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/fur.mp3"
+            "PromptAudio": "lang/somali/audios/fur.mp3"
           },
           "foilstones": [
             {
@@ -13695,7 +13695,7 @@
           ],
           "prompt": {
             "PromptText": "ubax",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/ubax.mp3"
+            "PromptAudio": "lang/somali/audios/ubax.mp3"
           },
           "foilstones": [
             {
@@ -13742,7 +13742,7 @@
           ],
           "prompt": {
             "PromptText": "run",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/run.mp3"
+            "PromptAudio": "lang/somali/audios/run.mp3"
           },
           "foilstones": [
             {
@@ -13786,7 +13786,7 @@
           ],
           "prompt": {
             "PromptText": "jar",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/jar.mp3"
+            "PromptAudio": "lang/somali/audios/jar.mp3"
           },
           "foilstones": [
             {
@@ -13833,7 +13833,7 @@
           ],
           "prompt": {
             "PromptText": "run",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/run.mp3"
+            "PromptAudio": "lang/somali/audios/run.mp3"
           },
           "foilstones": [
             {
@@ -13880,7 +13880,7 @@
           ],
           "prompt": {
             "PromptText": "fur",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/fur.mp3"
+            "PromptAudio": "lang/somali/audios/fur.mp3"
           },
           "foilstones": [
             {
@@ -13936,7 +13936,7 @@
           ],
           "prompt": {
             "PromptText": "ubax",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/ubax.mp3"
+            "PromptAudio": "lang/somali/audios/ubax.mp3"
           },
           "foilstones": [
             {
@@ -13980,7 +13980,7 @@
           ],
           "prompt": {
             "PromptText": "qof",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/qof.mp3"
+            "PromptAudio": "lang/somali/audios/qof.mp3"
           },
           "foilstones": [
             {
@@ -14024,7 +14024,7 @@
           ],
           "prompt": {
             "PromptText": "fur",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/fur.mp3"
+            "PromptAudio": "lang/somali/audios/fur.mp3"
           },
           "foilstones": [
             {
@@ -14062,7 +14062,7 @@
           ],
           "prompt": {
             "PromptText": "jar",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/jar.mp3"
+            "PromptAudio": "lang/somali/audios/jar.mp3"
           },
           "foilstones": [
             {
@@ -14103,7 +14103,7 @@
           ],
           "prompt": {
             "PromptText": "cun",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/somali/audios/cun.mp3"
+            "PromptAudio": "lang/somali/audios/cun.mp3"
           },
           "foilstones": [
             {

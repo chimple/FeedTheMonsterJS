@@ -5,7 +5,6 @@ export class GameScore {
   public static currentlanguage: string = lang;
 
   public static setGameLevelScore(currentLevelInfo, score) {
-    console.log("SCORE>>>", { score, currentLevelInfo });
     let starsGained = this.calculateStarCount(score);
     let levelPlayedInfo = {
       levelName: currentLevelInfo.levelMeta.levelType,
@@ -27,7 +26,6 @@ export class GameScore {
     } else {
       allGamelevelInfo.push(levelPlayedInfo);
     }
-    console.log("BPUTTTTTTT", allGamelevelInfo);
     localStorage.setItem(
       this.currentlanguage + "gamePlayedInfo",
       JSON.stringify(allGamelevelInfo)
@@ -36,17 +34,15 @@ export class GameScore {
 
   public static getAllGameLevelInfo(): Map<string, any>[] {
     const levelInfoData = [];
-    
+
     if (window.Android?.sendGameLevelInfoToJS) {
-      console.log("Requesting game level info from Android");
       AndroidBridge.requestGameLevelInfo()
-        .then(levelInfo => {
-          levelInfo.forEach(element => {
+        .then((levelInfo) => {
+          levelInfo.forEach((element) => {
             levelInfoData.push(element);
           });
-          console.log("Received game level info in response to request:", levelInfo);
         })
-        .catch(err => console.error("Failed to get game level info:", err));
+        .catch((err) => console.error("Failed to get game level info:", err));
     }
 
     return levelInfoData as any;
@@ -70,12 +66,12 @@ export class GameScore {
 
   public static calculateStarCount(score: number): number {
     return score >= 25 && score <= 50
-    ? 1
-    : score > 50 && score <= 75
-    ? 2
-    : score > 75 && score <= 100
-    ? 3
-    : 0;
+      ? 1
+      : score > 50 && score <= 75
+      ? 2
+      : score > 75 && score <= 100
+      ? 3
+      : 0;
   }
 
   public static getDatafromStorage() {

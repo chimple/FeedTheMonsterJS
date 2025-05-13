@@ -19,7 +19,6 @@ import {
   AUDIO_INTRO,
 } from "@constants";
 import { LevelBloonButton } from "@buttons";
-import { AndroidBridge, handleReceivedZipData } from "../common/utils";
 
 export class LevelSelectionScreen {
   private canvas: HTMLCanvasElement;
@@ -123,7 +122,6 @@ export class LevelSelectionScreen {
       levelSelectBgDrawing
     );
   };
-
 
   private async createLevelButtons() {
     const images = await loadLevelImages();
@@ -348,18 +346,6 @@ export class LevelSelectionScreen {
   }
 
   private startGame(level_number: string | number) {
-    console.log(":hello world from level selection scene");
-    AndroidBridge.requestDataFromContainer("sample.zip")
-      .then((data) => {
-        console.log(
-          "Received score data from Container:",
-          JSON.stringify(data)
-        );
-        handleReceivedZipData(data);
-      })
-      .catch((error) => {
-        console.error("Error receiving images data from Container:", error);
-      });
     this.dispose();
     this.audioPlayer.stopAllAudios();
     const gamePlayData = {

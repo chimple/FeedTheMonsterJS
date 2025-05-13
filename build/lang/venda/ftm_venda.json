@@ -10,9 +10,9 @@
   "minversion": 4,
   "langname": "VENDA",
   "FeedbackAudios": [
-    "https://feedthemonster.curiouscontent.org/lang/venda/audios/fantastic.mp3",
-    "https://feedthemonster.curiouscontent.org/lang/venda/audios/great.mp3",
-    "https://feedthemonster.curiouscontent.org/lang/venda/audios/amazing.mp3"
+    "lang/venda/audios/fantastic.mp3",
+    "lang/venda/audios/great.mp3",
+    "lang/venda/audios/amazing.mp3"
   ],
   "OtherAudios": {
     "Select your player": "https://feedthemonster.curiouscontent.org/lang/venda/audios/Select-your-player.mp3",
@@ -39,7 +39,7 @@
           ],
           "prompt": {
             "PromptText": "g",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/g.mp3"
+            "PromptAudio": "lang/venda/audios/g.mp3"
           },
           "foilstones": [
             {
@@ -59,7 +59,7 @@
           ],
           "prompt": {
             "PromptText": "h",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/h.mp3"
+            "PromptAudio": "lang/venda/audios/h.mp3"
           },
           "foilstones": [
             {
@@ -79,7 +79,7 @@
           ],
           "prompt": {
             "PromptText": "h",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/h.mp3"
+            "PromptAudio": "lang/venda/audios/h.mp3"
           },
           "foilstones": [
             {
@@ -99,7 +99,7 @@
           ],
           "prompt": {
             "PromptText": "h",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/h.mp3"
+            "PromptAudio": "lang/venda/audios/h.mp3"
           },
           "foilstones": [
             {
@@ -119,7 +119,7 @@
           ],
           "prompt": {
             "PromptText": "g",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/g.mp3"
+            "PromptAudio": "lang/venda/audios/g.mp3"
           },
           "foilstones": [
             {
@@ -154,7 +154,7 @@
           ],
           "prompt": {
             "PromptText": "f",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/f.mp3"
+            "PromptAudio": "lang/venda/audios/f.mp3"
           },
           "foilstones": [
             {
@@ -177,7 +177,7 @@
           ],
           "prompt": {
             "PromptText": "f",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/f.mp3"
+            "PromptAudio": "lang/venda/audios/f.mp3"
           },
           "foilstones": [
             {
@@ -200,7 +200,7 @@
           ],
           "prompt": {
             "PromptText": "h",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/h.mp3"
+            "PromptAudio": "lang/venda/audios/h.mp3"
           },
           "foilstones": [
             {
@@ -223,7 +223,7 @@
           ],
           "prompt": {
             "PromptText": "h",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/h.mp3"
+            "PromptAudio": "lang/venda/audios/h.mp3"
           },
           "foilstones": [
             {
@@ -246,7 +246,7 @@
           ],
           "prompt": {
             "PromptText": "d",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/d.mp3"
+            "PromptAudio": "lang/venda/audios/d.mp3"
           },
           "foilstones": [
             {
@@ -284,7 +284,7 @@
           ],
           "prompt": {
             "PromptText": "d",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/d.mp3"
+            "PromptAudio": "lang/venda/audios/d.mp3"
           },
           "foilstones": [
             {
@@ -304,7 +304,7 @@
           ],
           "prompt": {
             "PromptText": "h",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/h.mp3"
+            "PromptAudio": "lang/venda/audios/h.mp3"
           },
           "foilstones": [
             {
@@ -324,7 +324,7 @@
           ],
           "prompt": {
             "PromptText": "m",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/m.mp3"
+            "PromptAudio": "lang/venda/audios/m.mp3"
           },
           "foilstones": [
             {
@@ -344,7 +344,7 @@
           ],
           "prompt": {
             "PromptText": "f",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/f.mp3"
+            "PromptAudio": "lang/venda/audios/f.mp3"
           },
           "foilstones": [
             {
@@ -364,7 +364,7 @@
           ],
           "prompt": {
             "PromptText": "h",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/h.mp3"
+            "PromptAudio": "lang/venda/audios/h.mp3"
           },
           "foilstones": [
             {
@@ -399,7 +399,7 @@
           ],
           "prompt": {
             "PromptText": "m",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/m.mp3"
+            "PromptAudio": "lang/venda/audios/m.mp3"
           },
           "foilstones": [
             {
@@ -419,7 +419,7 @@
           ],
           "prompt": {
             "PromptText": "m",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/m.mp3"
+            "PromptAudio": "lang/venda/audios/m.mp3"
           },
           "foilstones": [
             {
@@ -439,7 +439,7 @@
           ],
           "prompt": {
             "PromptText": "m",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/m.mp3"
+            "PromptAudio": "lang/venda/audios/m.mp3"
           },
           "foilstones": [
             {
@@ -459,7 +459,7 @@
           ],
           "prompt": {
             "PromptText": "h",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/h.mp3"
+            "PromptAudio": "lang/venda/audios/h.mp3"
           },
           "foilstones": [
             {
@@ -479,7 +479,7 @@
           ],
           "prompt": {
             "PromptText": "b",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/b.mp3"
+            "PromptAudio": "lang/venda/audios/b.mp3"
           },
           "foilstones": [
             {
@@ -514,7 +514,7 @@
           ],
           "prompt": {
             "PromptText": "b",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/b.mp3"
+            "PromptAudio": "lang/venda/audios/b.mp3"
           },
           "foilstones": [
             {
@@ -537,7 +537,7 @@
           ],
           "prompt": {
             "PromptText": "h",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/h.mp3"
+            "PromptAudio": "lang/venda/audios/h.mp3"
           },
           "foilstones": [
             {
@@ -560,7 +560,7 @@
           ],
           "prompt": {
             "PromptText": "m",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/m.mp3"
+            "PromptAudio": "lang/venda/audios/m.mp3"
           },
           "foilstones": [
             {
@@ -583,7 +583,7 @@
           ],
           "prompt": {
             "PromptText": "b",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/b.mp3"
+            "PromptAudio": "lang/venda/audios/b.mp3"
           },
           "foilstones": [
             {
@@ -606,7 +606,7 @@
           ],
           "prompt": {
             "PromptText": "d",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/d.mp3"
+            "PromptAudio": "lang/venda/audios/d.mp3"
           },
           "foilstones": [
             {
@@ -644,7 +644,7 @@
           ],
           "prompt": {
             "PromptText": "d",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/d.mp3"
+            "PromptAudio": "lang/venda/audios/d.mp3"
           },
           "foilstones": [
             {
@@ -667,7 +667,7 @@
           ],
           "prompt": {
             "PromptText": "f",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/f.mp3"
+            "PromptAudio": "lang/venda/audios/f.mp3"
           },
           "foilstones": [
             {
@@ -690,7 +690,7 @@
           ],
           "prompt": {
             "PromptText": "a",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/a.mp3"
+            "PromptAudio": "lang/venda/audios/a.mp3"
           },
           "foilstones": [
             {
@@ -713,7 +713,7 @@
           ],
           "prompt": {
             "PromptText": "f",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/f.mp3"
+            "PromptAudio": "lang/venda/audios/f.mp3"
           },
           "foilstones": [
             {
@@ -736,7 +736,7 @@
           ],
           "prompt": {
             "PromptText": "a",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/a.mp3"
+            "PromptAudio": "lang/venda/audios/a.mp3"
           },
           "foilstones": [
             {
@@ -774,7 +774,7 @@
           ],
           "prompt": {
             "PromptText": "baba",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/b.mp3"
+            "PromptAudio": "lang/venda/audios/b.mp3"
           },
           "foilstones": [
             {
@@ -797,7 +797,7 @@
           ],
           "prompt": {
             "PromptText": "fagi",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/f.mp3"
+            "PromptAudio": "lang/venda/audios/f.mp3"
           },
           "foilstones": [
             {
@@ -820,7 +820,7 @@
           ],
           "prompt": {
             "PromptText": "mma",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/m.mp3"
+            "PromptAudio": "lang/venda/audios/m.mp3"
           },
           "foilstones": [
             {
@@ -843,7 +843,7 @@
           ],
           "prompt": {
             "PromptText": "dugu",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/d.mp3"
+            "PromptAudio": "lang/venda/audios/d.mp3"
           },
           "foilstones": [
             {
@@ -866,7 +866,7 @@
           ],
           "prompt": {
             "PromptText": "baba",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/b.mp3"
+            "PromptAudio": "lang/venda/audios/b.mp3"
           },
           "foilstones": [
             {
@@ -904,7 +904,7 @@
           ],
           "prompt": {
             "PromptText": "baba",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/b.mp3"
+            "PromptAudio": "lang/venda/audios/b.mp3"
           },
           "foilstones": [
             {
@@ -927,7 +927,7 @@
           ],
           "prompt": {
             "PromptText": "habu",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/h.mp3"
+            "PromptAudio": "lang/venda/audios/h.mp3"
           },
           "foilstones": [
             {
@@ -950,7 +950,7 @@
           ],
           "prompt": {
             "PromptText": "mma",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/m.mp3"
+            "PromptAudio": "lang/venda/audios/m.mp3"
           },
           "foilstones": [
             {
@@ -973,7 +973,7 @@
           ],
           "prompt": {
             "PromptText": "mma",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/m.mp3"
+            "PromptAudio": "lang/venda/audios/m.mp3"
           },
           "foilstones": [
             {
@@ -996,7 +996,7 @@
           ],
           "prompt": {
             "PromptText": "fagi",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/f.mp3"
+            "PromptAudio": "lang/venda/audios/f.mp3"
           },
           "foilstones": [
             {
@@ -1034,7 +1034,7 @@
           ],
           "prompt": {
             "PromptText": "gamu",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/g.mp3"
+            "PromptAudio": "lang/venda/audios/g.mp3"
           },
           "foilstones": [
             {
@@ -1057,7 +1057,7 @@
           ],
           "prompt": {
             "PromptText": "fagi",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/f.mp3"
+            "PromptAudio": "lang/venda/audios/f.mp3"
           },
           "foilstones": [
             {
@@ -1080,7 +1080,7 @@
           ],
           "prompt": {
             "PromptText": "mma",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/m.mp3"
+            "PromptAudio": "lang/venda/audios/m.mp3"
           },
           "foilstones": [
             {
@@ -1103,7 +1103,7 @@
           ],
           "prompt": {
             "PromptText": "baba",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/b.mp3"
+            "PromptAudio": "lang/venda/audios/b.mp3"
           },
           "foilstones": [
             {
@@ -1126,7 +1126,7 @@
           ],
           "prompt": {
             "PromptText": "fagi",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/f.mp3"
+            "PromptAudio": "lang/venda/audios/f.mp3"
           },
           "foilstones": [
             {
@@ -1173,7 +1173,7 @@
           ],
           "prompt": {
             "PromptText": "dugu",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/dugu.mp3"
+            "PromptAudio": "lang/venda/audios/dugu.mp3"
           },
           "foilstones": [
             {
@@ -1202,7 +1202,7 @@
           ],
           "prompt": {
             "PromptText": "mma",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/mma.mp3"
+            "PromptAudio": "lang/venda/audios/mma.mp3"
           },
           "foilstones": [
             {
@@ -1237,7 +1237,7 @@
           ],
           "prompt": {
             "PromptText": "fagi",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/fagi.mp3"
+            "PromptAudio": "lang/venda/audios/fagi.mp3"
           },
           "foilstones": [
             {
@@ -1269,7 +1269,7 @@
           ],
           "prompt": {
             "PromptText": "gaga",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/gaga.mp3"
+            "PromptAudio": "lang/venda/audios/gaga.mp3"
           },
           "foilstones": [
             {
@@ -1301,7 +1301,7 @@
           ],
           "prompt": {
             "PromptText": "habu",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/habu.mp3"
+            "PromptAudio": "lang/venda/audios/habu.mp3"
           },
           "foilstones": [
             {
@@ -1345,7 +1345,7 @@
           ],
           "prompt": {
             "PromptText": "dugu",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/dugu.mp3"
+            "PromptAudio": "lang/venda/audios/dugu.mp3"
           },
           "foilstones": [
             {
@@ -1377,7 +1377,7 @@
           ],
           "prompt": {
             "PromptText": "fagi",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/fagi.mp3"
+            "PromptAudio": "lang/venda/audios/fagi.mp3"
           },
           "foilstones": [
             {
@@ -1409,7 +1409,7 @@
           ],
           "prompt": {
             "PromptText": "baba",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/baba.mp3"
+            "PromptAudio": "lang/venda/audios/baba.mp3"
           },
           "foilstones": [
             {
@@ -1441,7 +1441,7 @@
           ],
           "prompt": {
             "PromptText": "bama",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/bama.mp3"
+            "PromptAudio": "lang/venda/audios/bama.mp3"
           },
           "foilstones": [
             {
@@ -1473,7 +1473,7 @@
           ],
           "prompt": {
             "PromptText": "mma",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/mma.mp3"
+            "PromptAudio": "lang/venda/audios/mma.mp3"
           },
           "foilstones": [
             {
@@ -1517,7 +1517,7 @@
           ],
           "prompt": {
             "PromptText": "baba",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/baba.mp3"
+            "PromptAudio": "lang/venda/audios/baba.mp3"
           },
           "foilstones": [
             {
@@ -1549,7 +1549,7 @@
           ],
           "prompt": {
             "PromptText": "gaga",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/gaga.mp3"
+            "PromptAudio": "lang/venda/audios/gaga.mp3"
           },
           "foilstones": [
             {
@@ -1581,7 +1581,7 @@
           ],
           "prompt": {
             "PromptText": "bugu",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/bugu.mp3"
+            "PromptAudio": "lang/venda/audios/bugu.mp3"
           },
           "foilstones": [
             {
@@ -1613,7 +1613,7 @@
           ],
           "prompt": {
             "PromptText": "habu",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/habu.mp3"
+            "PromptAudio": "lang/venda/audios/habu.mp3"
           },
           "foilstones": [
             {
@@ -1645,7 +1645,7 @@
           ],
           "prompt": {
             "PromptText": "bama",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/bama.mp3"
+            "PromptAudio": "lang/venda/audios/bama.mp3"
           },
           "foilstones": [
             {
@@ -1683,7 +1683,7 @@
           ],
           "prompt": {
             "PromptText": "n",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/n.mp3"
+            "PromptAudio": "lang/venda/audios/n.mp3"
           },
           "foilstones": [
             {
@@ -1706,7 +1706,7 @@
           ],
           "prompt": {
             "PromptText": "w",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/w.mp3"
+            "PromptAudio": "lang/venda/audios/w.mp3"
           },
           "foilstones": [
             {
@@ -1729,7 +1729,7 @@
           ],
           "prompt": {
             "PromptText": "p",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/p.mp3"
+            "PromptAudio": "lang/venda/audios/p.mp3"
           },
           "foilstones": [
             {
@@ -1752,7 +1752,7 @@
           ],
           "prompt": {
             "PromptText": "t",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/t.mp3"
+            "PromptAudio": "lang/venda/audios/t.mp3"
           },
           "foilstones": [
             {
@@ -1775,7 +1775,7 @@
           ],
           "prompt": {
             "PromptText": "l",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/l.mp3"
+            "PromptAudio": "lang/venda/audios/l.mp3"
           },
           "foilstones": [
             {
@@ -1813,7 +1813,7 @@
           ],
           "prompt": {
             "PromptText": "e",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/e.mp3"
+            "PromptAudio": "lang/venda/audios/e.mp3"
           },
           "foilstones": [
             {
@@ -1836,7 +1836,7 @@
           ],
           "prompt": {
             "PromptText": "l",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/l.mp3"
+            "PromptAudio": "lang/venda/audios/l.mp3"
           },
           "foilstones": [
             {
@@ -1859,7 +1859,7 @@
           ],
           "prompt": {
             "PromptText": "m",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/m.mp3"
+            "PromptAudio": "lang/venda/audios/m.mp3"
           },
           "foilstones": [
             {
@@ -1882,7 +1882,7 @@
           ],
           "prompt": {
             "PromptText": "l",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/l.mp3"
+            "PromptAudio": "lang/venda/audios/l.mp3"
           },
           "foilstones": [
             {
@@ -1905,7 +1905,7 @@
           ],
           "prompt": {
             "PromptText": "e",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/e.mp3"
+            "PromptAudio": "lang/venda/audios/e.mp3"
           },
           "foilstones": [
             {
@@ -1943,7 +1943,7 @@
           ],
           "prompt": {
             "PromptText": "n",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/n.mp3"
+            "PromptAudio": "lang/venda/audios/n.mp3"
           },
           "foilstones": [
             {
@@ -1963,7 +1963,7 @@
           ],
           "prompt": {
             "PromptText": "e",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/e.mp3"
+            "PromptAudio": "lang/venda/audios/e.mp3"
           },
           "foilstones": [
             {
@@ -1983,7 +1983,7 @@
           ],
           "prompt": {
             "PromptText": "m",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/m.mp3"
+            "PromptAudio": "lang/venda/audios/m.mp3"
           },
           "foilstones": [
             {
@@ -2003,7 +2003,7 @@
           ],
           "prompt": {
             "PromptText": "w",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/w.mp3"
+            "PromptAudio": "lang/venda/audios/w.mp3"
           },
           "foilstones": [
             {
@@ -2023,7 +2023,7 @@
           ],
           "prompt": {
             "PromptText": "p",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/p.mp3"
+            "PromptAudio": "lang/venda/audios/p.mp3"
           },
           "foilstones": [
             {
@@ -2058,7 +2058,7 @@
           ],
           "prompt": {
             "PromptText": "t",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/t.mp3"
+            "PromptAudio": "lang/venda/audios/t.mp3"
           },
           "foilstones": [
             {
@@ -2081,7 +2081,7 @@
           ],
           "prompt": {
             "PromptText": "p",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/p.mp3"
+            "PromptAudio": "lang/venda/audios/p.mp3"
           },
           "foilstones": [
             {
@@ -2104,7 +2104,7 @@
           ],
           "prompt": {
             "PromptText": "n",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/n.mp3"
+            "PromptAudio": "lang/venda/audios/n.mp3"
           },
           "foilstones": [
             {
@@ -2127,7 +2127,7 @@
           ],
           "prompt": {
             "PromptText": "e",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/e.mp3"
+            "PromptAudio": "lang/venda/audios/e.mp3"
           },
           "foilstones": [
             {
@@ -2150,7 +2150,7 @@
           ],
           "prompt": {
             "PromptText": "m",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/m.mp3"
+            "PromptAudio": "lang/venda/audios/m.mp3"
           },
           "foilstones": [
             {
@@ -2188,7 +2188,7 @@
           ],
           "prompt": {
             "PromptText": "n",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/n.mp3"
+            "PromptAudio": "lang/venda/audios/n.mp3"
           },
           "foilstones": [
             {
@@ -2217,7 +2217,7 @@
           ],
           "prompt": {
             "PromptText": "m",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/m.mp3"
+            "PromptAudio": "lang/venda/audios/m.mp3"
           },
           "foilstones": [
             {
@@ -2243,7 +2243,7 @@
           ],
           "prompt": {
             "PromptText": "p",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/p.mp3"
+            "PromptAudio": "lang/venda/audios/p.mp3"
           },
           "foilstones": [
             {
@@ -2266,7 +2266,7 @@
           ],
           "prompt": {
             "PromptText": "p",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/p.mp3"
+            "PromptAudio": "lang/venda/audios/p.mp3"
           },
           "foilstones": [
             {
@@ -2292,7 +2292,7 @@
           ],
           "prompt": {
             "PromptText": "w",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/w.mp3"
+            "PromptAudio": "lang/venda/audios/w.mp3"
           },
           "foilstones": [
             {
@@ -2330,7 +2330,7 @@
           ],
           "prompt": {
             "PromptText": "w",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/w.mp3"
+            "PromptAudio": "lang/venda/audios/w.mp3"
           },
           "foilstones": [
             {
@@ -2356,7 +2356,7 @@
           ],
           "prompt": {
             "PromptText": "l",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/l.mp3"
+            "PromptAudio": "lang/venda/audios/l.mp3"
           },
           "foilstones": [
             {
@@ -2382,7 +2382,7 @@
           ],
           "prompt": {
             "PromptText": "n",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/n.mp3"
+            "PromptAudio": "lang/venda/audios/n.mp3"
           },
           "foilstones": [
             {
@@ -2408,7 +2408,7 @@
           ],
           "prompt": {
             "PromptText": "l",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/l.mp3"
+            "PromptAudio": "lang/venda/audios/l.mp3"
           },
           "foilstones": [
             {
@@ -2434,7 +2434,7 @@
           ],
           "prompt": {
             "PromptText": "p",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/p.mp3"
+            "PromptAudio": "lang/venda/audios/p.mp3"
           },
           "foilstones": [
             {
@@ -2478,7 +2478,7 @@
           ],
           "prompt": {
             "PromptText": "penga",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/p.mp3"
+            "PromptAudio": "lang/venda/audios/p.mp3"
           },
           "foilstones": [
             {
@@ -2504,7 +2504,7 @@
           ],
           "prompt": {
             "PromptText": "wela",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/w.mp3"
+            "PromptAudio": "lang/venda/audios/w.mp3"
           },
           "foilstones": [
             {
@@ -2530,7 +2530,7 @@
           ],
           "prompt": {
             "PromptText": "penga",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/p.mp3"
+            "PromptAudio": "lang/venda/audios/p.mp3"
           },
           "foilstones": [
             {
@@ -2556,7 +2556,7 @@
           ],
           "prompt": {
             "PromptText": "penga",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/p.mp3"
+            "PromptAudio": "lang/venda/audios/p.mp3"
           },
           "foilstones": [
             {
@@ -2582,7 +2582,7 @@
           ],
           "prompt": {
             "PromptText": "nwa",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/n.mp3"
+            "PromptAudio": "lang/venda/audios/n.mp3"
           },
           "foilstones": [
             {
@@ -2626,7 +2626,7 @@
           ],
           "prompt": {
             "PromptText": "lela",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/l.mp3"
+            "PromptAudio": "lang/venda/audios/l.mp3"
           },
           "foilstones": [
             {
@@ -2652,7 +2652,7 @@
           ],
           "prompt": {
             "PromptText": "lela",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/l.mp3"
+            "PromptAudio": "lang/venda/audios/l.mp3"
           },
           "foilstones": [
             {
@@ -2678,7 +2678,7 @@
           ],
           "prompt": {
             "PromptText": "teta",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/t.mp3"
+            "PromptAudio": "lang/venda/audios/t.mp3"
           },
           "foilstones": [
             {
@@ -2704,7 +2704,7 @@
           ],
           "prompt": {
             "PromptText": "nwa",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/n.mp3"
+            "PromptAudio": "lang/venda/audios/n.mp3"
           },
           "foilstones": [
             {
@@ -2730,7 +2730,7 @@
           ],
           "prompt": {
             "PromptText": "wela",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/w.mp3"
+            "PromptAudio": "lang/venda/audios/w.mp3"
           },
           "foilstones": [
             {
@@ -2774,7 +2774,7 @@
           ],
           "prompt": {
             "PromptText": "lela",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/l.mp3"
+            "PromptAudio": "lang/venda/audios/l.mp3"
           },
           "foilstones": [
             {
@@ -2800,7 +2800,7 @@
           ],
           "prompt": {
             "PromptText": "teta",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/t.mp3"
+            "PromptAudio": "lang/venda/audios/t.mp3"
           },
           "foilstones": [
             {
@@ -2826,7 +2826,7 @@
           ],
           "prompt": {
             "PromptText": "nwa",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/n.mp3"
+            "PromptAudio": "lang/venda/audios/n.mp3"
           },
           "foilstones": [
             {
@@ -2852,7 +2852,7 @@
           ],
           "prompt": {
             "PromptText": "mela",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/m.mp3"
+            "PromptAudio": "lang/venda/audios/m.mp3"
           },
           "foilstones": [
             {
@@ -2878,7 +2878,7 @@
           ],
           "prompt": {
             "PromptText": "teta",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/t.mp3"
+            "PromptAudio": "lang/venda/audios/t.mp3"
           },
           "foilstones": [
             {
@@ -2922,7 +2922,7 @@
           ],
           "prompt": {
             "PromptText": "mela",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/m.mp3"
+            "PromptAudio": "lang/venda/audios/m.mp3"
           },
           "foilstones": [
             {
@@ -2945,7 +2945,7 @@
           ],
           "prompt": {
             "PromptText": "nwa",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/n.mp3"
+            "PromptAudio": "lang/venda/audios/n.mp3"
           },
           "foilstones": [
             {
@@ -2968,7 +2968,7 @@
           ],
           "prompt": {
             "PromptText": "mela",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/m.mp3"
+            "PromptAudio": "lang/venda/audios/m.mp3"
           },
           "foilstones": [
             {
@@ -2991,7 +2991,7 @@
           ],
           "prompt": {
             "PromptText": "teta",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/t.mp3"
+            "PromptAudio": "lang/venda/audios/t.mp3"
           },
           "foilstones": [
             {
@@ -3014,7 +3014,7 @@
           ],
           "prompt": {
             "PromptText": "teta",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/t.mp3"
+            "PromptAudio": "lang/venda/audios/t.mp3"
           },
           "foilstones": [
             {
@@ -3061,7 +3061,7 @@
           ],
           "prompt": {
             "PromptText": "mela",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/mela.mp3"
+            "PromptAudio": "lang/venda/audios/mela.mp3"
           },
           "foilstones": [
             {
@@ -3093,7 +3093,7 @@
           ],
           "prompt": {
             "PromptText": "tema",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/tema.mp3"
+            "PromptAudio": "lang/venda/audios/tema.mp3"
           },
           "foilstones": [
             {
@@ -3125,7 +3125,7 @@
           ],
           "prompt": {
             "PromptText": "wela",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/wela.mp3"
+            "PromptAudio": "lang/venda/audios/wela.mp3"
           },
           "foilstones": [
             {
@@ -3157,7 +3157,7 @@
           ],
           "prompt": {
             "PromptText": "lela",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/lela.mp3"
+            "PromptAudio": "lang/venda/audios/lela.mp3"
           },
           "foilstones": [
             {
@@ -3189,7 +3189,7 @@
           ],
           "prompt": {
             "PromptText": "mela",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/mela.mp3"
+            "PromptAudio": "lang/venda/audios/mela.mp3"
           },
           "foilstones": [
             {
@@ -3233,7 +3233,7 @@
           ],
           "prompt": {
             "PromptText": "nela",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/nela.mp3"
+            "PromptAudio": "lang/venda/audios/nela.mp3"
           },
           "foilstones": [
             {
@@ -3262,7 +3262,7 @@
           ],
           "prompt": {
             "PromptText": "nwa",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/nwa.mp3"
+            "PromptAudio": "lang/venda/audios/nwa.mp3"
           },
           "foilstones": [
             {
@@ -3294,7 +3294,7 @@
           ],
           "prompt": {
             "PromptText": "teta",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/teta.mp3"
+            "PromptAudio": "lang/venda/audios/teta.mp3"
           },
           "foilstones": [
             {
@@ -3326,7 +3326,7 @@
           ],
           "prompt": {
             "PromptText": "tea",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/tea.mp3"
+            "PromptAudio": "lang/venda/audios/tea.mp3"
           },
           "foilstones": [
             {
@@ -3361,7 +3361,7 @@
           ],
           "prompt": {
             "PromptText": "penga",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/penga.mp3"
+            "PromptAudio": "lang/venda/audios/penga.mp3"
           },
           "foilstones": [
             {
@@ -3405,7 +3405,7 @@
           ],
           "prompt": {
             "PromptText": "neta",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/neta.mp3"
+            "PromptAudio": "lang/venda/audios/neta.mp3"
           },
           "foilstones": [
             {
@@ -3437,7 +3437,7 @@
           ],
           "prompt": {
             "PromptText": "tema",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/tema.mp3"
+            "PromptAudio": "lang/venda/audios/tema.mp3"
           },
           "foilstones": [
             {
@@ -3469,7 +3469,7 @@
           ],
           "prompt": {
             "PromptText": "mela",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/mela.mp3"
+            "PromptAudio": "lang/venda/audios/mela.mp3"
           },
           "foilstones": [
             {
@@ -3498,7 +3498,7 @@
           ],
           "prompt": {
             "PromptText": "nwa",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/nwa.mp3"
+            "PromptAudio": "lang/venda/audios/nwa.mp3"
           },
           "foilstones": [
             {
@@ -3530,7 +3530,7 @@
           ],
           "prompt": {
             "PromptText": "lela",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/lela.mp3"
+            "PromptAudio": "lang/venda/audios/lela.mp3"
           },
           "foilstones": [
             {
@@ -3568,7 +3568,7 @@
           ],
           "prompt": {
             "PromptText": "ṱ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/ṱ.mp3"
+            "PromptAudio": "lang/venda/audios/ṱ.mp3"
           },
           "foilstones": [
             {
@@ -3591,7 +3591,7 @@
           ],
           "prompt": {
             "PromptText": "s",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/s.mp3"
+            "PromptAudio": "lang/venda/audios/s.mp3"
           },
           "foilstones": [
             {
@@ -3614,7 +3614,7 @@
           ],
           "prompt": {
             "PromptText": "ḽ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/ḽ.mp3"
+            "PromptAudio": "lang/venda/audios/ḽ.mp3"
           },
           "foilstones": [
             {
@@ -3640,7 +3640,7 @@
           ],
           "prompt": {
             "PromptText": "ṅ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/ṅ.mp3"
+            "PromptAudio": "lang/venda/audios/ṅ.mp3"
           },
           "foilstones": [
             {
@@ -3663,7 +3663,7 @@
           ],
           "prompt": {
             "PromptText": "i",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/i.mp3"
+            "PromptAudio": "lang/venda/audios/i.mp3"
           },
           "foilstones": [
             {
@@ -3698,7 +3698,7 @@
           ],
           "prompt": {
             "PromptText": "u",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/u.mp3"
+            "PromptAudio": "lang/venda/audios/u.mp3"
           },
           "foilstones": [
             {
@@ -3721,7 +3721,7 @@
           ],
           "prompt": {
             "PromptText": "ḓ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/ḓ.mp3"
+            "PromptAudio": "lang/venda/audios/ḓ.mp3"
           },
           "foilstones": [
             {
@@ -3744,7 +3744,7 @@
           ],
           "prompt": {
             "PromptText": "ṅ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/ṅ.mp3"
+            "PromptAudio": "lang/venda/audios/ṅ.mp3"
           },
           "foilstones": [
             {
@@ -3770,7 +3770,7 @@
           ],
           "prompt": {
             "PromptText": "ḽ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/ḽ.mp3"
+            "PromptAudio": "lang/venda/audios/ḽ.mp3"
           },
           "foilstones": [
             {
@@ -3793,7 +3793,7 @@
           ],
           "prompt": {
             "PromptText": "s",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/s.mp3"
+            "PromptAudio": "lang/venda/audios/s.mp3"
           },
           "foilstones": [
             {
@@ -3828,7 +3828,7 @@
           ],
           "prompt": {
             "PromptText": "s",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/s.mp3"
+            "PromptAudio": "lang/venda/audios/s.mp3"
           },
           "foilstones": [
             {
@@ -3851,7 +3851,7 @@
           ],
           "prompt": {
             "PromptText": "s",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/s.mp3"
+            "PromptAudio": "lang/venda/audios/s.mp3"
           },
           "foilstones": [
             {
@@ -3874,7 +3874,7 @@
           ],
           "prompt": {
             "PromptText": "ṱ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/ṱ.mp3"
+            "PromptAudio": "lang/venda/audios/ṱ.mp3"
           },
           "foilstones": [
             {
@@ -3900,7 +3900,7 @@
           ],
           "prompt": {
             "PromptText": "ḽ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/ḽ.mp3"
+            "PromptAudio": "lang/venda/audios/ḽ.mp3"
           },
           "foilstones": [
             {
@@ -3923,7 +3923,7 @@
           ],
           "prompt": {
             "PromptText": "ḓ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/ḓ.mp3"
+            "PromptAudio": "lang/venda/audios/ḓ.mp3"
           },
           "foilstones": [
             {
@@ -3958,7 +3958,7 @@
           ],
           "prompt": {
             "PromptText": "ḓ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/ḓ.mp3"
+            "PromptAudio": "lang/venda/audios/ḓ.mp3"
           },
           "foilstones": [
             {
@@ -3990,7 +3990,7 @@
           ],
           "prompt": {
             "PromptText": "ḽ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/ḽ.mp3"
+            "PromptAudio": "lang/venda/audios/ḽ.mp3"
           },
           "foilstones": [
             {
@@ -4019,7 +4019,7 @@
           ],
           "prompt": {
             "PromptText": "i",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/i.mp3"
+            "PromptAudio": "lang/venda/audios/i.mp3"
           },
           "foilstones": [
             {
@@ -4051,7 +4051,7 @@
           ],
           "prompt": {
             "PromptText": "i",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/i.mp3"
+            "PromptAudio": "lang/venda/audios/i.mp3"
           },
           "foilstones": [
             {
@@ -4080,7 +4080,7 @@
           ],
           "prompt": {
             "PromptText": "ḓ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/ḓ.mp3"
+            "PromptAudio": "lang/venda/audios/ḓ.mp3"
           },
           "foilstones": [
             {
@@ -4124,7 +4124,7 @@
           ],
           "prompt": {
             "PromptText": "ṅ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/ṅ.mp3"
+            "PromptAudio": "lang/venda/audios/ṅ.mp3"
           },
           "foilstones": [
             {
@@ -4156,7 +4156,7 @@
           ],
           "prompt": {
             "PromptText": "i",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/i.mp3"
+            "PromptAudio": "lang/venda/audios/i.mp3"
           },
           "foilstones": [
             {
@@ -4188,7 +4188,7 @@
           ],
           "prompt": {
             "PromptText": "ṅ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/ṅ.mp3"
+            "PromptAudio": "lang/venda/audios/ṅ.mp3"
           },
           "foilstones": [
             {
@@ -4217,7 +4217,7 @@
           ],
           "prompt": {
             "PromptText": "i",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/i.mp3"
+            "PromptAudio": "lang/venda/audios/i.mp3"
           },
           "foilstones": [
             {
@@ -4246,7 +4246,7 @@
           ],
           "prompt": {
             "PromptText": "i",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/i.mp3"
+            "PromptAudio": "lang/venda/audios/i.mp3"
           },
           "foilstones": [
             {
@@ -4290,7 +4290,7 @@
           ],
           "prompt": {
             "PromptText": "ḽ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/ḽ.mp3"
+            "PromptAudio": "lang/venda/audios/ḽ.mp3"
           },
           "foilstones": [
             {
@@ -4322,7 +4322,7 @@
           ],
           "prompt": {
             "PromptText": "ḽ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/ḽ.mp3"
+            "PromptAudio": "lang/venda/audios/ḽ.mp3"
           },
           "foilstones": [
             {
@@ -4354,7 +4354,7 @@
           ],
           "prompt": {
             "PromptText": "ṅ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/ṅ.mp3"
+            "PromptAudio": "lang/venda/audios/ṅ.mp3"
           },
           "foilstones": [
             {
@@ -4383,7 +4383,7 @@
           ],
           "prompt": {
             "PromptText": "u",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/u.mp3"
+            "PromptAudio": "lang/venda/audios/u.mp3"
           },
           "foilstones": [
             {
@@ -4412,7 +4412,7 @@
           ],
           "prompt": {
             "PromptText": "ḽ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/ḽ.mp3"
+            "PromptAudio": "lang/venda/audios/ḽ.mp3"
           },
           "foilstones": [
             {
@@ -4456,7 +4456,7 @@
           ],
           "prompt": {
             "PromptText": "ṅala",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/ṅ.mp3"
+            "PromptAudio": "lang/venda/audios/ṅ.mp3"
           },
           "foilstones": [
             {
@@ -4485,7 +4485,7 @@
           ],
           "prompt": {
             "PromptText": "sinḓa",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/s.mp3"
+            "PromptAudio": "lang/venda/audios/s.mp3"
           },
           "foilstones": [
             {
@@ -4517,7 +4517,7 @@
           ],
           "prompt": {
             "PromptText": "ṅala",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/ṅ.mp3"
+            "PromptAudio": "lang/venda/audios/ṅ.mp3"
           },
           "foilstones": [
             {
@@ -4549,7 +4549,7 @@
           ],
           "prompt": {
             "PromptText": "ṅala",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/ṅ.mp3"
+            "PromptAudio": "lang/venda/audios/ṅ.mp3"
           },
           "foilstones": [
             {
@@ -4578,7 +4578,7 @@
           ],
           "prompt": {
             "PromptText": "iṱo",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/i.mp3"
+            "PromptAudio": "lang/venda/audios/i.mp3"
           },
           "foilstones": [
             {
@@ -4622,7 +4622,7 @@
           ],
           "prompt": {
             "PromptText": "unḓa",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/u.mp3"
+            "PromptAudio": "lang/venda/audios/u.mp3"
           },
           "foilstones": [
             {
@@ -4654,7 +4654,7 @@
           ],
           "prompt": {
             "PromptText": "unḓa",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/u.mp3"
+            "PromptAudio": "lang/venda/audios/u.mp3"
           },
           "foilstones": [
             {
@@ -4686,7 +4686,7 @@
           ],
           "prompt": {
             "PromptText": "ṅala",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/ṅ.mp3"
+            "PromptAudio": "lang/venda/audios/ṅ.mp3"
           },
           "foilstones": [
             {
@@ -4715,7 +4715,7 @@
           ],
           "prompt": {
             "PromptText": "ṱuwa",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/ṱ.mp3"
+            "PromptAudio": "lang/venda/audios/ṱ.mp3"
           },
           "foilstones": [
             {
@@ -4747,7 +4747,7 @@
           ],
           "prompt": {
             "PromptText": "ṅala",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/ṅ.mp3"
+            "PromptAudio": "lang/venda/audios/ṅ.mp3"
           },
           "foilstones": [
             {
@@ -4788,7 +4788,7 @@
           ],
           "prompt": {
             "PromptText": "ṅala",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/ṅ.mp3"
+            "PromptAudio": "lang/venda/audios/ṅ.mp3"
           },
           "foilstones": [
             {
@@ -4820,7 +4820,7 @@
           ],
           "prompt": {
             "PromptText": "iṱo",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/i.mp3"
+            "PromptAudio": "lang/venda/audios/i.mp3"
           },
           "foilstones": [
             {
@@ -4852,7 +4852,7 @@
           ],
           "prompt": {
             "PromptText": "sinḓa",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/s.mp3"
+            "PromptAudio": "lang/venda/audios/s.mp3"
           },
           "foilstones": [
             {
@@ -4881,7 +4881,7 @@
           ],
           "prompt": {
             "PromptText": "sinḓa",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/s.mp3"
+            "PromptAudio": "lang/venda/audios/s.mp3"
           },
           "foilstones": [
             {
@@ -4913,7 +4913,7 @@
           ],
           "prompt": {
             "PromptText": "ṱuwa",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/ṱ.mp3"
+            "PromptAudio": "lang/venda/audios/ṱ.mp3"
           },
           "foilstones": [
             {
@@ -4954,7 +4954,7 @@
           ],
           "prompt": {
             "PromptText": "ḓula",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/ḓ.mp3"
+            "PromptAudio": "lang/venda/audios/ḓ.mp3"
           },
           "foilstones": [
             {
@@ -4986,7 +4986,7 @@
           ],
           "prompt": {
             "PromptText": "sinḓa",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/s.mp3"
+            "PromptAudio": "lang/venda/audios/s.mp3"
           },
           "foilstones": [
             {
@@ -5018,7 +5018,7 @@
           ],
           "prompt": {
             "PromptText": "unḓa",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/u.mp3"
+            "PromptAudio": "lang/venda/audios/u.mp3"
           },
           "foilstones": [
             {
@@ -5047,7 +5047,7 @@
           ],
           "prompt": {
             "PromptText": "ḽiḓu",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/ḽ.mp3"
+            "PromptAudio": "lang/venda/audios/ḽ.mp3"
           },
           "foilstones": [
             {
@@ -5079,7 +5079,7 @@
           ],
           "prompt": {
             "PromptText": "sinḓa",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/s.mp3"
+            "PromptAudio": "lang/venda/audios/s.mp3"
           },
           "foilstones": [
             {
@@ -5129,7 +5129,7 @@
           ],
           "prompt": {
             "PromptText": "ṱuwa",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/ṱuwa.mp3"
+            "PromptAudio": "lang/venda/audios/ṱuwa.mp3"
           },
           "foilstones": [
             {
@@ -5173,7 +5173,7 @@
           ],
           "prompt": {
             "PromptText": "iḽa",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/iḽa.mp3"
+            "PromptAudio": "lang/venda/audios/iḽa.mp3"
           },
           "foilstones": [
             {
@@ -5217,7 +5217,7 @@
           ],
           "prompt": {
             "PromptText": "ṱusa",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/ṱusa.mp3"
+            "PromptAudio": "lang/venda/audios/ṱusa.mp3"
           },
           "foilstones": [
             {
@@ -5264,7 +5264,7 @@
           ],
           "prompt": {
             "PromptText": "ḽisa",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/ḽisa.mp3"
+            "PromptAudio": "lang/venda/audios/ḽisa.mp3"
           },
           "foilstones": [
             {
@@ -5305,7 +5305,7 @@
           ],
           "prompt": {
             "PromptText": "unḓa",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/unḓa.mp3"
+            "PromptAudio": "lang/venda/audios/unḓa.mp3"
           },
           "foilstones": [
             {
@@ -5370,7 +5370,7 @@
           ],
           "prompt": {
             "PromptText": "ḓithu",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/ḓithu.mp3"
+            "PromptAudio": "lang/venda/audios/ḓithu.mp3"
           },
           "foilstones": [
             {
@@ -5417,7 +5417,7 @@
           ],
           "prompt": {
             "PromptText": "sinḓa",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/sinḓa.mp3"
+            "PromptAudio": "lang/venda/audios/sinḓa.mp3"
           },
           "foilstones": [
             {
@@ -5464,7 +5464,7 @@
           ],
           "prompt": {
             "PromptText": "ḽiḓu",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/ḽiḓu.mp3"
+            "PromptAudio": "lang/venda/audios/ḽiḓu.mp3"
           },
           "foilstones": [
             {
@@ -5511,7 +5511,7 @@
           ],
           "prompt": {
             "PromptText": "inwa",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/inwa.mp3"
+            "PromptAudio": "lang/venda/audios/inwa.mp3"
           },
           "foilstones": [
             {
@@ -5561,7 +5561,7 @@
           ],
           "prompt": {
             "PromptText": "ḽisa",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/ḽisa.mp3"
+            "PromptAudio": "lang/venda/audios/ḽisa.mp3"
           },
           "foilstones": [
             {
@@ -5626,7 +5626,7 @@
           ],
           "prompt": {
             "PromptText": "tshiṅina",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/tshiṅina.mp3"
+            "PromptAudio": "lang/venda/audios/tshiṅina.mp3"
           },
           "foilstones": [
             {
@@ -5676,7 +5676,7 @@
           ],
           "prompt": {
             "PromptText": "sinḓa",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/sinḓa.mp3"
+            "PromptAudio": "lang/venda/audios/sinḓa.mp3"
           },
           "foilstones": [
             {
@@ -5738,7 +5738,7 @@
           ],
           "prompt": {
             "PromptText": "tshiṅina",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/tshiṅina.mp3"
+            "PromptAudio": "lang/venda/audios/tshiṅina.mp3"
           },
           "foilstones": [
             {
@@ -5782,7 +5782,7 @@
           ],
           "prompt": {
             "PromptText": "iṱo",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/iṱo.mp3"
+            "PromptAudio": "lang/venda/audios/iṱo.mp3"
           },
           "foilstones": [
             {
@@ -5826,7 +5826,7 @@
           ],
           "prompt": {
             "PromptText": "ḽiḓu",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/ḽiḓu.mp3"
+            "PromptAudio": "lang/venda/audios/ḽiḓu.mp3"
           },
           "foilstones": [
             {
@@ -5876,7 +5876,7 @@
           ],
           "prompt": {
             "PromptText": "o",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/o.mp3"
+            "PromptAudio": "lang/venda/audios/o.mp3"
           },
           "foilstones": [
             {
@@ -5914,7 +5914,7 @@
           ],
           "prompt": {
             "PromptText": "k",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/k.mp3"
+            "PromptAudio": "lang/venda/audios/k.mp3"
           },
           "foilstones": [
             {
@@ -5952,7 +5952,7 @@
           ],
           "prompt": {
             "PromptText": "t",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/t.mp3"
+            "PromptAudio": "lang/venda/audios/t.mp3"
           },
           "foilstones": [
             {
@@ -5990,7 +5990,7 @@
           ],
           "prompt": {
             "PromptText": "t",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/t.mp3"
+            "PromptAudio": "lang/venda/audios/t.mp3"
           },
           "foilstones": [
             {
@@ -6025,7 +6025,7 @@
           ],
           "prompt": {
             "PromptText": "o",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/o.mp3"
+            "PromptAudio": "lang/venda/audios/o.mp3"
           },
           "foilstones": [
             {
@@ -6078,7 +6078,7 @@
           ],
           "prompt": {
             "PromptText": "e",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/e.mp3"
+            "PromptAudio": "lang/venda/audios/e.mp3"
           },
           "foilstones": [
             {
@@ -6116,7 +6116,7 @@
           ],
           "prompt": {
             "PromptText": "e",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/e.mp3"
+            "PromptAudio": "lang/venda/audios/e.mp3"
           },
           "foilstones": [
             {
@@ -6154,7 +6154,7 @@
           ],
           "prompt": {
             "PromptText": "w",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/w.mp3"
+            "PromptAudio": "lang/venda/audios/w.mp3"
           },
           "foilstones": [
             {
@@ -6192,7 +6192,7 @@
           ],
           "prompt": {
             "PromptText": "k",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/k.mp3"
+            "PromptAudio": "lang/venda/audios/k.mp3"
           },
           "foilstones": [
             {
@@ -6233,7 +6233,7 @@
           ],
           "prompt": {
             "PromptText": "v",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/v.mp3"
+            "PromptAudio": "lang/venda/audios/v.mp3"
           },
           "foilstones": [
             {
@@ -6280,7 +6280,7 @@
           ],
           "prompt": {
             "PromptText": "o",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/o.mp3"
+            "PromptAudio": "lang/venda/audios/o.mp3"
           },
           "foilstones": [
             {
@@ -6318,7 +6318,7 @@
           ],
           "prompt": {
             "PromptText": "t",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/t.mp3"
+            "PromptAudio": "lang/venda/audios/t.mp3"
           },
           "foilstones": [
             {
@@ -6356,7 +6356,7 @@
           ],
           "prompt": {
             "PromptText": "t",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/t.mp3"
+            "PromptAudio": "lang/venda/audios/t.mp3"
           },
           "foilstones": [
             {
@@ -6394,7 +6394,7 @@
           ],
           "prompt": {
             "PromptText": "o",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/o.mp3"
+            "PromptAudio": "lang/venda/audios/o.mp3"
           },
           "foilstones": [
             {
@@ -6435,7 +6435,7 @@
           ],
           "prompt": {
             "PromptText": "k",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/k.mp3"
+            "PromptAudio": "lang/venda/audios/k.mp3"
           },
           "foilstones": [
             {
@@ -6482,7 +6482,7 @@
           ],
           "prompt": {
             "PromptText": "v",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/v.mp3"
+            "PromptAudio": "lang/venda/audios/v.mp3"
           },
           "foilstones": [
             {
@@ -6520,7 +6520,7 @@
           ],
           "prompt": {
             "PromptText": "v",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/v.mp3"
+            "PromptAudio": "lang/venda/audios/v.mp3"
           },
           "foilstones": [
             {
@@ -6558,7 +6558,7 @@
           ],
           "prompt": {
             "PromptText": "k",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/k.mp3"
+            "PromptAudio": "lang/venda/audios/k.mp3"
           },
           "foilstones": [
             {
@@ -6596,7 +6596,7 @@
           ],
           "prompt": {
             "PromptText": "t",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/t.mp3"
+            "PromptAudio": "lang/venda/audios/t.mp3"
           },
           "foilstones": [
             {
@@ -6637,7 +6637,7 @@
           ],
           "prompt": {
             "PromptText": "o",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/o.mp3"
+            "PromptAudio": "lang/venda/audios/o.mp3"
           },
           "foilstones": [
             {
@@ -6684,7 +6684,7 @@
           ],
           "prompt": {
             "PromptText": "t",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/t.mp3"
+            "PromptAudio": "lang/venda/audios/t.mp3"
           },
           "foilstones": [
             {
@@ -6722,7 +6722,7 @@
           ],
           "prompt": {
             "PromptText": "v",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/v.mp3"
+            "PromptAudio": "lang/venda/audios/v.mp3"
           },
           "foilstones": [
             {
@@ -6760,7 +6760,7 @@
           ],
           "prompt": {
             "PromptText": "e",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/e.mp3"
+            "PromptAudio": "lang/venda/audios/e.mp3"
           },
           "foilstones": [
             {
@@ -6798,7 +6798,7 @@
           ],
           "prompt": {
             "PromptText": "w",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/w.mp3"
+            "PromptAudio": "lang/venda/audios/w.mp3"
           },
           "foilstones": [
             {
@@ -6833,7 +6833,7 @@
           ],
           "prompt": {
             "PromptText": "k",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/k.mp3"
+            "PromptAudio": "lang/venda/audios/k.mp3"
           },
           "foilstones": [
             {
@@ -6886,7 +6886,7 @@
           ],
           "prompt": {
             "PromptText": "o",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/o.mp3"
+            "PromptAudio": "lang/venda/audios/o.mp3"
           },
           "foilstones": [
             {
@@ -6924,7 +6924,7 @@
           ],
           "prompt": {
             "PromptText": "r",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/r.mp3"
+            "PromptAudio": "lang/venda/audios/r.mp3"
           },
           "foilstones": [
             {
@@ -6962,7 +6962,7 @@
           ],
           "prompt": {
             "PromptText": "k",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/k.mp3"
+            "PromptAudio": "lang/venda/audios/k.mp3"
           },
           "foilstones": [
             {
@@ -7000,7 +7000,7 @@
           ],
           "prompt": {
             "PromptText": "t",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/t.mp3"
+            "PromptAudio": "lang/venda/audios/t.mp3"
           },
           "foilstones": [
             {
@@ -7035,7 +7035,7 @@
           ],
           "prompt": {
             "PromptText": "r",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/r.mp3"
+            "PromptAudio": "lang/venda/audios/r.mp3"
           },
           "foilstones": [
             {
@@ -7088,7 +7088,7 @@
           ],
           "prompt": {
             "PromptText": "woṱhe",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/w.mp3"
+            "PromptAudio": "lang/venda/audios/w.mp3"
           },
           "foilstones": [
             {
@@ -7126,7 +7126,7 @@
           ],
           "prompt": {
             "PromptText": "woṱhe",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/w.mp3"
+            "PromptAudio": "lang/venda/audios/w.mp3"
           },
           "foilstones": [
             {
@@ -7164,7 +7164,7 @@
           ],
           "prompt": {
             "PromptText": "woṱhe",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/w.mp3"
+            "PromptAudio": "lang/venda/audios/w.mp3"
           },
           "foilstones": [
             {
@@ -7199,7 +7199,7 @@
           ],
           "prompt": {
             "PromptText": "rovha",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/r.mp3"
+            "PromptAudio": "lang/venda/audios/r.mp3"
           },
           "foilstones": [
             {
@@ -7240,7 +7240,7 @@
           ],
           "prompt": {
             "PromptText": "woṱhe",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/w.mp3"
+            "PromptAudio": "lang/venda/audios/w.mp3"
           },
           "foilstones": [
             {
@@ -7290,7 +7290,7 @@
           ],
           "prompt": {
             "PromptText": "tota",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/t.mp3"
+            "PromptAudio": "lang/venda/audios/t.mp3"
           },
           "foilstones": [
             {
@@ -7328,7 +7328,7 @@
           ],
           "prompt": {
             "PromptText": "rovha",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/r.mp3"
+            "PromptAudio": "lang/venda/audios/r.mp3"
           },
           "foilstones": [
             {
@@ -7366,7 +7366,7 @@
           ],
           "prompt": {
             "PromptText": "woṱhe",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/w.mp3"
+            "PromptAudio": "lang/venda/audios/w.mp3"
           },
           "foilstones": [
             {
@@ -7404,7 +7404,7 @@
           ],
           "prompt": {
             "PromptText": "oṱhe",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/o.mp3"
+            "PromptAudio": "lang/venda/audios/o.mp3"
           },
           "foilstones": [
             {
@@ -7439,7 +7439,7 @@
           ],
           "prompt": {
             "PromptText": "vowa",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/v.mp3"
+            "PromptAudio": "lang/venda/audios/v.mp3"
           },
           "foilstones": [
             {
@@ -7492,7 +7492,7 @@
           ],
           "prompt": {
             "PromptText": "vowa",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/v.mp3"
+            "PromptAudio": "lang/venda/audios/v.mp3"
           },
           "foilstones": [
             {
@@ -7530,7 +7530,7 @@
           ],
           "prompt": {
             "PromptText": "oṱhe",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/o.mp3"
+            "PromptAudio": "lang/venda/audios/o.mp3"
           },
           "foilstones": [
             {
@@ -7568,7 +7568,7 @@
           ],
           "prompt": {
             "PromptText": "woṱhe",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/w.mp3"
+            "PromptAudio": "lang/venda/audios/w.mp3"
           },
           "foilstones": [
             {
@@ -7606,7 +7606,7 @@
           ],
           "prompt": {
             "PromptText": "woṱhe",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/w.mp3"
+            "PromptAudio": "lang/venda/audios/w.mp3"
           },
           "foilstones": [
             {
@@ -7641,7 +7641,7 @@
           ],
           "prompt": {
             "PromptText": "rovha",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/r.mp3"
+            "PromptAudio": "lang/venda/audios/r.mp3"
           },
           "foilstones": [
             {
@@ -7694,7 +7694,7 @@
           ],
           "prompt": {
             "PromptText": "tota",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/t.mp3"
+            "PromptAudio": "lang/venda/audios/t.mp3"
           },
           "foilstones": [
             {
@@ -7717,7 +7717,7 @@
           ],
           "prompt": {
             "PromptText": "rovha",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/r.mp3"
+            "PromptAudio": "lang/venda/audios/r.mp3"
           },
           "foilstones": [
             {
@@ -7740,7 +7740,7 @@
           ],
           "prompt": {
             "PromptText": "rovha",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/r.mp3"
+            "PromptAudio": "lang/venda/audios/r.mp3"
           },
           "foilstones": [
             {
@@ -7763,7 +7763,7 @@
           ],
           "prompt": {
             "PromptText": "woṱhe",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/w.mp3"
+            "PromptAudio": "lang/venda/audios/w.mp3"
           },
           "foilstones": [
             {
@@ -7789,7 +7789,7 @@
           ],
           "prompt": {
             "PromptText": "vowa",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/v.mp3"
+            "PromptAudio": "lang/venda/audios/v.mp3"
           },
           "foilstones": [
             {
@@ -7833,7 +7833,7 @@
           ],
           "prompt": {
             "PromptText": "oṱhe",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/oṱhe.mp3"
+            "PromptAudio": "lang/venda/audios/oṱhe.mp3"
           },
           "foilstones": [
             {
@@ -7868,7 +7868,7 @@
           ],
           "prompt": {
             "PromptText": "roṱwa",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/roṱwa.mp3"
+            "PromptAudio": "lang/venda/audios/roṱwa.mp3"
           },
           "foilstones": [
             {
@@ -7903,7 +7903,7 @@
           ],
           "prompt": {
             "PromptText": "woṱhe",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/woṱhe.mp3"
+            "PromptAudio": "lang/venda/audios/woṱhe.mp3"
           },
           "foilstones": [
             {
@@ -7935,7 +7935,7 @@
           ],
           "prompt": {
             "PromptText": "tota",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/tota.mp3"
+            "PromptAudio": "lang/venda/audios/tota.mp3"
           },
           "foilstones": [
             {
@@ -7973,7 +7973,7 @@
           ],
           "prompt": {
             "PromptText": "woṱhe",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/woṱhe.mp3"
+            "PromptAudio": "lang/venda/audios/woṱhe.mp3"
           },
           "foilstones": [
             {
@@ -8020,7 +8020,7 @@
           ],
           "prompt": {
             "PromptText": "rotha",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/rotha.mp3"
+            "PromptAudio": "lang/venda/audios/rotha.mp3"
           },
           "foilstones": [
             {
@@ -8070,7 +8070,7 @@
           ],
           "prompt": {
             "PromptText": "roṱwa",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/roṱwa.mp3"
+            "PromptAudio": "lang/venda/audios/roṱwa.mp3"
           },
           "foilstones": [
             {
@@ -8120,7 +8120,7 @@
           ],
           "prompt": {
             "PromptText": "roṱwa",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/roṱwa.mp3"
+            "PromptAudio": "lang/venda/audios/roṱwa.mp3"
           },
           "foilstones": [
             {
@@ -8167,7 +8167,7 @@
           ],
           "prompt": {
             "PromptText": "roṱwa",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/roṱwa.mp3"
+            "PromptAudio": "lang/venda/audios/roṱwa.mp3"
           },
           "foilstones": [
             {
@@ -8217,7 +8217,7 @@
           ],
           "prompt": {
             "PromptText": "tota",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/tota.mp3"
+            "PromptAudio": "lang/venda/audios/tota.mp3"
           },
           "foilstones": [
             {
@@ -8276,7 +8276,7 @@
           ],
           "prompt": {
             "PromptText": "oṱhe",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/oṱhe.mp3"
+            "PromptAudio": "lang/venda/audios/oṱhe.mp3"
           },
           "foilstones": [
             {
@@ -8326,7 +8326,7 @@
           ],
           "prompt": {
             "PromptText": "rovha",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/rovha.mp3"
+            "PromptAudio": "lang/venda/audios/rovha.mp3"
           },
           "foilstones": [
             {
@@ -8376,7 +8376,7 @@
           ],
           "prompt": {
             "PromptText": "rokho",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/rokho.mp3"
+            "PromptAudio": "lang/venda/audios/rokho.mp3"
           },
           "foilstones": [
             {
@@ -8426,7 +8426,7 @@
           ],
           "prompt": {
             "PromptText": "rovha",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/rovha.mp3"
+            "PromptAudio": "lang/venda/audios/rovha.mp3"
           },
           "foilstones": [
             {
@@ -8473,7 +8473,7 @@
           ],
           "prompt": {
             "PromptText": "roṱwa",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/roṱwa.mp3"
+            "PromptAudio": "lang/venda/audios/roṱwa.mp3"
           },
           "foilstones": [
             {
@@ -8526,7 +8526,7 @@
           ],
           "prompt": {
             "PromptText": "i",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/i.mp3"
+            "PromptAudio": "lang/venda/audios/i.mp3"
           },
           "foilstones": [
             {
@@ -8564,7 +8564,7 @@
           ],
           "prompt": {
             "PromptText": "i",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/i.mp3"
+            "PromptAudio": "lang/venda/audios/i.mp3"
           },
           "foilstones": [
             {
@@ -8602,7 +8602,7 @@
           ],
           "prompt": {
             "PromptText": "i",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/i.mp3"
+            "PromptAudio": "lang/venda/audios/i.mp3"
           },
           "foilstones": [
             {
@@ -8637,7 +8637,7 @@
           ],
           "prompt": {
             "PromptText": "y",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/y.mp3"
+            "PromptAudio": "lang/venda/audios/y.mp3"
           },
           "foilstones": [
             {
@@ -8678,7 +8678,7 @@
           ],
           "prompt": {
             "PromptText": "u",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/u.mp3"
+            "PromptAudio": "lang/venda/audios/u.mp3"
           },
           "foilstones": [
             {
@@ -8728,7 +8728,7 @@
           ],
           "prompt": {
             "PromptText": "x",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/x.mp3"
+            "PromptAudio": "lang/venda/audios/x.mp3"
           },
           "foilstones": [
             {
@@ -8766,7 +8766,7 @@
           ],
           "prompt": {
             "PromptText": "z",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/z.mp3"
+            "PromptAudio": "lang/venda/audios/z.mp3"
           },
           "foilstones": [
             {
@@ -8807,7 +8807,7 @@
           ],
           "prompt": {
             "PromptText": "u",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/u.mp3"
+            "PromptAudio": "lang/venda/audios/u.mp3"
           },
           "foilstones": [
             {
@@ -8845,7 +8845,7 @@
           ],
           "prompt": {
             "PromptText": "i",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/i.mp3"
+            "PromptAudio": "lang/venda/audios/i.mp3"
           },
           "foilstones": [
             {
@@ -8880,7 +8880,7 @@
           ],
           "prompt": {
             "PromptText": "u",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/u.mp3"
+            "PromptAudio": "lang/venda/audios/u.mp3"
           },
           "foilstones": [
             {
@@ -8930,7 +8930,7 @@
           ],
           "prompt": {
             "PromptText": "i",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/i.mp3"
+            "PromptAudio": "lang/venda/audios/i.mp3"
           },
           "foilstones": [
             {
@@ -8968,7 +8968,7 @@
           ],
           "prompt": {
             "PromptText": "x",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/x.mp3"
+            "PromptAudio": "lang/venda/audios/x.mp3"
           },
           "foilstones": [
             {
@@ -9006,7 +9006,7 @@
           ],
           "prompt": {
             "PromptText": "z",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/z.mp3"
+            "PromptAudio": "lang/venda/audios/z.mp3"
           },
           "foilstones": [
             {
@@ -9044,7 +9044,7 @@
           ],
           "prompt": {
             "PromptText": "z",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/z.mp3"
+            "PromptAudio": "lang/venda/audios/z.mp3"
           },
           "foilstones": [
             {
@@ -9079,7 +9079,7 @@
           ],
           "prompt": {
             "PromptText": "x",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/x.mp3"
+            "PromptAudio": "lang/venda/audios/x.mp3"
           },
           "foilstones": [
             {
@@ -9132,7 +9132,7 @@
           ],
           "prompt": {
             "PromptText": "x",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/x.mp3"
+            "PromptAudio": "lang/venda/audios/x.mp3"
           },
           "foilstones": [
             {
@@ -9170,7 +9170,7 @@
           ],
           "prompt": {
             "PromptText": "i",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/i.mp3"
+            "PromptAudio": "lang/venda/audios/i.mp3"
           },
           "foilstones": [
             {
@@ -9208,7 +9208,7 @@
           ],
           "prompt": {
             "PromptText": "i",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/i.mp3"
+            "PromptAudio": "lang/venda/audios/i.mp3"
           },
           "foilstones": [
             {
@@ -9246,7 +9246,7 @@
           ],
           "prompt": {
             "PromptText": "z",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/z.mp3"
+            "PromptAudio": "lang/venda/audios/z.mp3"
           },
           "foilstones": [
             {
@@ -9281,7 +9281,7 @@
           ],
           "prompt": {
             "PromptText": "u",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/u.mp3"
+            "PromptAudio": "lang/venda/audios/u.mp3"
           },
           "foilstones": [
             {
@@ -9334,7 +9334,7 @@
           ],
           "prompt": {
             "PromptText": "x",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/x.mp3"
+            "PromptAudio": "lang/venda/audios/x.mp3"
           },
           "foilstones": [
             {
@@ -9372,7 +9372,7 @@
           ],
           "prompt": {
             "PromptText": "u",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/u.mp3"
+            "PromptAudio": "lang/venda/audios/u.mp3"
           },
           "foilstones": [
             {
@@ -9413,7 +9413,7 @@
           ],
           "prompt": {
             "PromptText": "y",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/y.mp3"
+            "PromptAudio": "lang/venda/audios/y.mp3"
           },
           "foilstones": [
             {
@@ -9451,7 +9451,7 @@
           ],
           "prompt": {
             "PromptText": "i",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/i.mp3"
+            "PromptAudio": "lang/venda/audios/i.mp3"
           },
           "foilstones": [
             {
@@ -9486,7 +9486,7 @@
           ],
           "prompt": {
             "PromptText": "i",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/i.mp3"
+            "PromptAudio": "lang/venda/audios/i.mp3"
           },
           "foilstones": [
             {
@@ -9536,7 +9536,7 @@
           ],
           "prompt": {
             "PromptText": "x",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/x.mp3"
+            "PromptAudio": "lang/venda/audios/x.mp3"
           },
           "foilstones": [
             {
@@ -9574,7 +9574,7 @@
           ],
           "prompt": {
             "PromptText": "u",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/u.mp3"
+            "PromptAudio": "lang/venda/audios/u.mp3"
           },
           "foilstones": [
             {
@@ -9612,7 +9612,7 @@
           ],
           "prompt": {
             "PromptText": "x",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/x.mp3"
+            "PromptAudio": "lang/venda/audios/x.mp3"
           },
           "foilstones": [
             {
@@ -9650,7 +9650,7 @@
           ],
           "prompt": {
             "PromptText": "y",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/y.mp3"
+            "PromptAudio": "lang/venda/audios/y.mp3"
           },
           "foilstones": [
             {
@@ -9685,7 +9685,7 @@
           ],
           "prompt": {
             "PromptText": "z",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/z.mp3"
+            "PromptAudio": "lang/venda/audios/z.mp3"
           },
           "foilstones": [
             {
@@ -9738,7 +9738,7 @@
           ],
           "prompt": {
             "PromptText": "yau",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/y.mp3"
+            "PromptAudio": "lang/venda/audios/y.mp3"
           },
           "foilstones": [
             {
@@ -9776,7 +9776,7 @@
           ],
           "prompt": {
             "PromptText": "zuza",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/z.mp3"
+            "PromptAudio": "lang/venda/audios/z.mp3"
           },
           "foilstones": [
             {
@@ -9814,7 +9814,7 @@
           ],
           "prompt": {
             "PromptText": "yau",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/y.mp3"
+            "PromptAudio": "lang/venda/audios/y.mp3"
           },
           "foilstones": [
             {
@@ -9852,7 +9852,7 @@
           ],
           "prompt": {
             "PromptText": "xu",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/x.mp3"
+            "PromptAudio": "lang/venda/audios/x.mp3"
           },
           "foilstones": [
             {
@@ -9887,7 +9887,7 @@
           ],
           "prompt": {
             "PromptText": "zuza",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/z.mp3"
+            "PromptAudio": "lang/venda/audios/z.mp3"
           },
           "foilstones": [
             {
@@ -9940,7 +9940,7 @@
           ],
           "prompt": {
             "PromptText": "yau",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/y.mp3"
+            "PromptAudio": "lang/venda/audios/y.mp3"
           },
           "foilstones": [
             {
@@ -9978,7 +9978,7 @@
           ],
           "prompt": {
             "PromptText": "xu",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/x.mp3"
+            "PromptAudio": "lang/venda/audios/x.mp3"
           },
           "foilstones": [
             {
@@ -10016,7 +10016,7 @@
           ],
           "prompt": {
             "PromptText": "zuza",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/z.mp3"
+            "PromptAudio": "lang/venda/audios/z.mp3"
           },
           "foilstones": [
             {
@@ -10051,7 +10051,7 @@
           ],
           "prompt": {
             "PromptText": "yau",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/y.mp3"
+            "PromptAudio": "lang/venda/audios/y.mp3"
           },
           "foilstones": [
             {
@@ -10089,7 +10089,7 @@
           ],
           "prompt": {
             "PromptText": "zuza",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/z.mp3"
+            "PromptAudio": "lang/venda/audios/z.mp3"
           },
           "foilstones": [
             {
@@ -10142,7 +10142,7 @@
           ],
           "prompt": {
             "PromptText": "yau",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/y.mp3"
+            "PromptAudio": "lang/venda/audios/y.mp3"
           },
           "foilstones": [
             {
@@ -10180,7 +10180,7 @@
           ],
           "prompt": {
             "PromptText": "zuza",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/z.mp3"
+            "PromptAudio": "lang/venda/audios/z.mp3"
           },
           "foilstones": [
             {
@@ -10218,7 +10218,7 @@
           ],
           "prompt": {
             "PromptText": "zuza",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/z.mp3"
+            "PromptAudio": "lang/venda/audios/z.mp3"
           },
           "foilstones": [
             {
@@ -10253,7 +10253,7 @@
           ],
           "prompt": {
             "PromptText": "yau",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/y.mp3"
+            "PromptAudio": "lang/venda/audios/y.mp3"
           },
           "foilstones": [
             {
@@ -10291,7 +10291,7 @@
           ],
           "prompt": {
             "PromptText": "yau",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/y.mp3"
+            "PromptAudio": "lang/venda/audios/y.mp3"
           },
           "foilstones": [
             {
@@ -10344,7 +10344,7 @@
           ],
           "prompt": {
             "PromptText": "zuza",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/z.mp3"
+            "PromptAudio": "lang/venda/audios/z.mp3"
           },
           "foilstones": [
             {
@@ -10382,7 +10382,7 @@
           ],
           "prompt": {
             "PromptText": "zuza",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/z.mp3"
+            "PromptAudio": "lang/venda/audios/z.mp3"
           },
           "foilstones": [
             {
@@ -10420,7 +10420,7 @@
           ],
           "prompt": {
             "PromptText": "zuza",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/z.mp3"
+            "PromptAudio": "lang/venda/audios/z.mp3"
           },
           "foilstones": [
             {
@@ -10455,7 +10455,7 @@
           ],
           "prompt": {
             "PromptText": "zuza",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/z.mp3"
+            "PromptAudio": "lang/venda/audios/z.mp3"
           },
           "foilstones": [
             {
@@ -10493,7 +10493,7 @@
           ],
           "prompt": {
             "PromptText": "yau",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/y.mp3"
+            "PromptAudio": "lang/venda/audios/y.mp3"
           },
           "foilstones": [
             {
@@ -10552,7 +10552,7 @@
           ],
           "prompt": {
             "PromptText": "zuu",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/zuu.mp3"
+            "PromptAudio": "lang/venda/audios/zuu.mp3"
           },
           "foilstones": [
             {
@@ -10605,7 +10605,7 @@
           ],
           "prompt": {
             "PromptText": "xaxara",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/xaxara.mp3"
+            "PromptAudio": "lang/venda/audios/xaxara.mp3"
           },
           "foilstones": [
             {
@@ -10652,7 +10652,7 @@
           ],
           "prompt": {
             "PromptText": "zuwa",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/zuwa.mp3"
+            "PromptAudio": "lang/venda/audios/zuwa.mp3"
           },
           "foilstones": [
             {
@@ -10705,7 +10705,7 @@
           ],
           "prompt": {
             "PromptText": "yunithi",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/yunithi.mp3"
+            "PromptAudio": "lang/venda/audios/yunithi.mp3"
           },
           "foilstones": [
             {
@@ -10752,7 +10752,7 @@
           ],
           "prompt": {
             "PromptText": "zuwa",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/zuwa.mp3"
+            "PromptAudio": "lang/venda/audios/zuwa.mp3"
           },
           "foilstones": [
             {
@@ -10820,7 +10820,7 @@
           ],
           "prompt": {
             "PromptText": "xaxara",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/xaxara.mp3"
+            "PromptAudio": "lang/venda/audios/xaxara.mp3"
           },
           "foilstones": [
             {
@@ -10861,7 +10861,7 @@
           ],
           "prompt": {
             "PromptText": "xu",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/xu.mp3"
+            "PromptAudio": "lang/venda/audios/xu.mp3"
           },
           "foilstones": [
             {
@@ -10914,7 +10914,7 @@
           ],
           "prompt": {
             "PromptText": "xaxara",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/xaxara.mp3"
+            "PromptAudio": "lang/venda/audios/xaxara.mp3"
           },
           "foilstones": [
             {
@@ -10964,7 +10964,7 @@
           ],
           "prompt": {
             "PromptText": "xuxuxu",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/xuxuxu.mp3"
+            "PromptAudio": "lang/venda/audios/xuxuxu.mp3"
           },
           "foilstones": [
             {
@@ -11017,7 +11017,7 @@
           ],
           "prompt": {
             "PromptText": "xuxuxu",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/xuxuxu.mp3"
+            "PromptAudio": "lang/venda/audios/xuxuxu.mp3"
           },
           "foilstones": [
             {
@@ -11073,7 +11073,7 @@
           ],
           "prompt": {
             "PromptText": "xu",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/xu.mp3"
+            "PromptAudio": "lang/venda/audios/xu.mp3"
           },
           "foilstones": [
             {
@@ -11117,7 +11117,7 @@
           ],
           "prompt": {
             "PromptText": "yau",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/yau.mp3"
+            "PromptAudio": "lang/venda/audios/yau.mp3"
           },
           "foilstones": [
             {
@@ -11161,7 +11161,7 @@
           ],
           "prompt": {
             "PromptText": "yau",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/yau.mp3"
+            "PromptAudio": "lang/venda/audios/yau.mp3"
           },
           "foilstones": [
             {
@@ -11205,7 +11205,7 @@
           ],
           "prompt": {
             "PromptText": "zuwa",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/zuwa.mp3"
+            "PromptAudio": "lang/venda/audios/zuwa.mp3"
           },
           "foilstones": [
             {
@@ -11252,7 +11252,7 @@
           ],
           "prompt": {
             "PromptText": "zuwa",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/zuwa.mp3"
+            "PromptAudio": "lang/venda/audios/zuwa.mp3"
           },
           "foilstones": [
             {
@@ -11305,7 +11305,7 @@
           ],
           "prompt": {
             "PromptText": "u",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/u.mp3"
+            "PromptAudio": "lang/venda/audios/u.mp3"
           },
           "foilstones": [
             {
@@ -11343,7 +11343,7 @@
           ],
           "prompt": {
             "PromptText": "x",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/x.mp3"
+            "PromptAudio": "lang/venda/audios/x.mp3"
           },
           "foilstones": [
             {
@@ -11381,7 +11381,7 @@
           ],
           "prompt": {
             "PromptText": "i",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/i.mp3"
+            "PromptAudio": "lang/venda/audios/i.mp3"
           },
           "foilstones": [
             {
@@ -11413,7 +11413,7 @@
           ],
           "prompt": {
             "PromptText": "x",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/x.mp3"
+            "PromptAudio": "lang/venda/audios/x.mp3"
           },
           "foilstones": [
             {
@@ -11448,7 +11448,7 @@
           ],
           "prompt": {
             "PromptText": "x",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/x.mp3"
+            "PromptAudio": "lang/venda/audios/x.mp3"
           },
           "foilstones": [
             {
@@ -11501,7 +11501,7 @@
           ],
           "prompt": {
             "PromptText": "z",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/z.mp3"
+            "PromptAudio": "lang/venda/audios/z.mp3"
           },
           "foilstones": [
             {
@@ -11539,7 +11539,7 @@
           ],
           "prompt": {
             "PromptText": "i",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/i.mp3"
+            "PromptAudio": "lang/venda/audios/i.mp3"
           },
           "foilstones": [
             {
@@ -11577,7 +11577,7 @@
           ],
           "prompt": {
             "PromptText": "x",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/x.mp3"
+            "PromptAudio": "lang/venda/audios/x.mp3"
           },
           "foilstones": [
             {
@@ -11615,7 +11615,7 @@
           ],
           "prompt": {
             "PromptText": "y",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/y.mp3"
+            "PromptAudio": "lang/venda/audios/y.mp3"
           },
           "foilstones": [
             {
@@ -11650,7 +11650,7 @@
           ],
           "prompt": {
             "PromptText": "i",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/i.mp3"
+            "PromptAudio": "lang/venda/audios/i.mp3"
           },
           "foilstones": [
             {
@@ -11703,7 +11703,7 @@
           ],
           "prompt": {
             "PromptText": "i",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/i.mp3"
+            "PromptAudio": "lang/venda/audios/i.mp3"
           },
           "foilstones": [
             {
@@ -11741,7 +11741,7 @@
           ],
           "prompt": {
             "PromptText": "y",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/y.mp3"
+            "PromptAudio": "lang/venda/audios/y.mp3"
           },
           "foilstones": [
             {
@@ -11779,7 +11779,7 @@
           ],
           "prompt": {
             "PromptText": "u",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/u.mp3"
+            "PromptAudio": "lang/venda/audios/u.mp3"
           },
           "foilstones": [
             {
@@ -11811,7 +11811,7 @@
           ],
           "prompt": {
             "PromptText": "u",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/u.mp3"
+            "PromptAudio": "lang/venda/audios/u.mp3"
           },
           "foilstones": [
             {
@@ -11846,7 +11846,7 @@
           ],
           "prompt": {
             "PromptText": "u",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/u.mp3"
+            "PromptAudio": "lang/venda/audios/u.mp3"
           },
           "foilstones": [
             {
@@ -11899,7 +11899,7 @@
           ],
           "prompt": {
             "PromptText": "x",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/x.mp3"
+            "PromptAudio": "lang/venda/audios/x.mp3"
           },
           "foilstones": [
             {
@@ -11937,7 +11937,7 @@
           ],
           "prompt": {
             "PromptText": "i",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/i.mp3"
+            "PromptAudio": "lang/venda/audios/i.mp3"
           },
           "foilstones": [
             {
@@ -11975,7 +11975,7 @@
           ],
           "prompt": {
             "PromptText": "u",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/u.mp3"
+            "PromptAudio": "lang/venda/audios/u.mp3"
           },
           "foilstones": [
             {
@@ -12013,7 +12013,7 @@
           ],
           "prompt": {
             "PromptText": "z",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/z.mp3"
+            "PromptAudio": "lang/venda/audios/z.mp3"
           },
           "foilstones": [
             {
@@ -12048,7 +12048,7 @@
           ],
           "prompt": {
             "PromptText": "i",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/i.mp3"
+            "PromptAudio": "lang/venda/audios/i.mp3"
           },
           "foilstones": [
             {
@@ -12101,7 +12101,7 @@
           ],
           "prompt": {
             "PromptText": "u",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/u.mp3"
+            "PromptAudio": "lang/venda/audios/u.mp3"
           },
           "foilstones": [
             {
@@ -12139,7 +12139,7 @@
           ],
           "prompt": {
             "PromptText": "i",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/i.mp3"
+            "PromptAudio": "lang/venda/audios/i.mp3"
           },
           "foilstones": [
             {
@@ -12177,7 +12177,7 @@
           ],
           "prompt": {
             "PromptText": "u",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/u.mp3"
+            "PromptAudio": "lang/venda/audios/u.mp3"
           },
           "foilstones": [
             {
@@ -12209,7 +12209,7 @@
           ],
           "prompt": {
             "PromptText": "y",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/y.mp3"
+            "PromptAudio": "lang/venda/audios/y.mp3"
           },
           "foilstones": [
             {
@@ -12244,7 +12244,7 @@
           ],
           "prompt": {
             "PromptText": "i",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/i.mp3"
+            "PromptAudio": "lang/venda/audios/i.mp3"
           },
           "foilstones": [
             {
@@ -12297,7 +12297,7 @@
           ],
           "prompt": {
             "PromptText": "i",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/i.mp3"
+            "PromptAudio": "lang/venda/audios/i.mp3"
           },
           "foilstones": [
             {
@@ -12335,7 +12335,7 @@
           ],
           "prompt": {
             "PromptText": "y",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/y.mp3"
+            "PromptAudio": "lang/venda/audios/y.mp3"
           },
           "foilstones": [
             {
@@ -12373,7 +12373,7 @@
           ],
           "prompt": {
             "PromptText": "z",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/z.mp3"
+            "PromptAudio": "lang/venda/audios/z.mp3"
           },
           "foilstones": [
             {
@@ -12411,7 +12411,7 @@
           ],
           "prompt": {
             "PromptText": "i",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/i.mp3"
+            "PromptAudio": "lang/venda/audios/i.mp3"
           },
           "foilstones": [
             {
@@ -12452,7 +12452,7 @@
           ],
           "prompt": {
             "PromptText": "x",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/x.mp3"
+            "PromptAudio": "lang/venda/audios/x.mp3"
           },
           "foilstones": [
             {
@@ -12499,7 +12499,7 @@
           ],
           "prompt": {
             "PromptText": "yau",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/y.mp3"
+            "PromptAudio": "lang/venda/audios/y.mp3"
           },
           "foilstones": [
             {
@@ -12537,7 +12537,7 @@
           ],
           "prompt": {
             "PromptText": "xu",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/x.mp3"
+            "PromptAudio": "lang/venda/audios/x.mp3"
           },
           "foilstones": [
             {
@@ -12575,7 +12575,7 @@
           ],
           "prompt": {
             "PromptText": "zuza",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/z.mp3"
+            "PromptAudio": "lang/venda/audios/z.mp3"
           },
           "foilstones": [
             {
@@ -12607,7 +12607,7 @@
           ],
           "prompt": {
             "PromptText": "xu",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/x.mp3"
+            "PromptAudio": "lang/venda/audios/x.mp3"
           },
           "foilstones": [
             {
@@ -12642,7 +12642,7 @@
           ],
           "prompt": {
             "PromptText": "zuza",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/z.mp3"
+            "PromptAudio": "lang/venda/audios/z.mp3"
           },
           "foilstones": [
             {
@@ -12695,7 +12695,7 @@
           ],
           "prompt": {
             "PromptText": "xu",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/x.mp3"
+            "PromptAudio": "lang/venda/audios/x.mp3"
           },
           "foilstones": [
             {
@@ -12733,7 +12733,7 @@
           ],
           "prompt": {
             "PromptText": "xu",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/x.mp3"
+            "PromptAudio": "lang/venda/audios/x.mp3"
           },
           "foilstones": [
             {
@@ -12771,7 +12771,7 @@
           ],
           "prompt": {
             "PromptText": "yau",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/y.mp3"
+            "PromptAudio": "lang/venda/audios/y.mp3"
           },
           "foilstones": [
             {
@@ -12809,7 +12809,7 @@
           ],
           "prompt": {
             "PromptText": "yau",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/y.mp3"
+            "PromptAudio": "lang/venda/audios/y.mp3"
           },
           "foilstones": [
             {
@@ -12844,7 +12844,7 @@
           ],
           "prompt": {
             "PromptText": "zuza",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/z.mp3"
+            "PromptAudio": "lang/venda/audios/z.mp3"
           },
           "foilstones": [
             {
@@ -12897,7 +12897,7 @@
           ],
           "prompt": {
             "PromptText": "zuza",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/z.mp3"
+            "PromptAudio": "lang/venda/audios/z.mp3"
           },
           "foilstones": [
             {
@@ -12935,7 +12935,7 @@
           ],
           "prompt": {
             "PromptText": "xu",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/x.mp3"
+            "PromptAudio": "lang/venda/audios/x.mp3"
           },
           "foilstones": [
             {
@@ -12973,7 +12973,7 @@
           ],
           "prompt": {
             "PromptText": "zuza",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/z.mp3"
+            "PromptAudio": "lang/venda/audios/z.mp3"
           },
           "foilstones": [
             {
@@ -13011,7 +13011,7 @@
           ],
           "prompt": {
             "PromptText": "yau",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/y.mp3"
+            "PromptAudio": "lang/venda/audios/y.mp3"
           },
           "foilstones": [
             {
@@ -13046,7 +13046,7 @@
           ],
           "prompt": {
             "PromptText": "xu",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/x.mp3"
+            "PromptAudio": "lang/venda/audios/x.mp3"
           },
           "foilstones": [
             {
@@ -13099,7 +13099,7 @@
           ],
           "prompt": {
             "PromptText": "zuza",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/z.mp3"
+            "PromptAudio": "lang/venda/audios/z.mp3"
           },
           "foilstones": [
             {
@@ -13137,7 +13137,7 @@
           ],
           "prompt": {
             "PromptText": "zuza",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/z.mp3"
+            "PromptAudio": "lang/venda/audios/z.mp3"
           },
           "foilstones": [
             {
@@ -13175,7 +13175,7 @@
           ],
           "prompt": {
             "PromptText": "yau",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/y.mp3"
+            "PromptAudio": "lang/venda/audios/y.mp3"
           },
           "foilstones": [
             {
@@ -13207,7 +13207,7 @@
           ],
           "prompt": {
             "PromptText": "xu",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/x.mp3"
+            "PromptAudio": "lang/venda/audios/x.mp3"
           },
           "foilstones": [
             {
@@ -13242,7 +13242,7 @@
           ],
           "prompt": {
             "PromptText": "xu",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/x.mp3"
+            "PromptAudio": "lang/venda/audios/x.mp3"
           },
           "foilstones": [
             {
@@ -13301,7 +13301,7 @@
           ],
           "prompt": {
             "PromptText": "yau",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/yau.mp3"
+            "PromptAudio": "lang/venda/audios/yau.mp3"
           },
           "foilstones": [
             {
@@ -13348,7 +13348,7 @@
           ],
           "prompt": {
             "PromptText": "zuza",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/zuza.mp3"
+            "PromptAudio": "lang/venda/audios/zuza.mp3"
           },
           "foilstones": [
             {
@@ -13392,7 +13392,7 @@
           ],
           "prompt": {
             "PromptText": "zuu",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/zuu.mp3"
+            "PromptAudio": "lang/venda/audios/zuu.mp3"
           },
           "foilstones": [
             {
@@ -13439,7 +13439,7 @@
           ],
           "prompt": {
             "PromptText": "zuza",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/zuza.mp3"
+            "PromptAudio": "lang/venda/audios/zuza.mp3"
           },
           "foilstones": [
             {
@@ -13489,7 +13489,7 @@
           ],
           "prompt": {
             "PromptText": "xaxara",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/xaxara.mp3"
+            "PromptAudio": "lang/venda/audios/xaxara.mp3"
           },
           "foilstones": [
             {
@@ -13548,7 +13548,7 @@
           ],
           "prompt": {
             "PromptText": "yau",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/yau.mp3"
+            "PromptAudio": "lang/venda/audios/yau.mp3"
           },
           "foilstones": [
             {
@@ -13595,7 +13595,7 @@
           ],
           "prompt": {
             "PromptText": "zuwa",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/zuwa.mp3"
+            "PromptAudio": "lang/venda/audios/zuwa.mp3"
           },
           "foilstones": [
             {
@@ -13648,7 +13648,7 @@
           ],
           "prompt": {
             "PromptText": "xuxuxu",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/xuxuxu.mp3"
+            "PromptAudio": "lang/venda/audios/xuxuxu.mp3"
           },
           "foilstones": [
             {
@@ -13704,7 +13704,7 @@
           ],
           "prompt": {
             "PromptText": "yunithi",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/yunithi.mp3"
+            "PromptAudio": "lang/venda/audios/yunithi.mp3"
           },
           "foilstones": [
             {
@@ -13760,7 +13760,7 @@
           ],
           "prompt": {
             "PromptText": "xaxara",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/xaxara.mp3"
+            "PromptAudio": "lang/venda/audios/xaxara.mp3"
           },
           "foilstones": [
             {
@@ -13816,7 +13816,7 @@
           ],
           "prompt": {
             "PromptText": "zuwa",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/zuwa.mp3"
+            "PromptAudio": "lang/venda/audios/zuwa.mp3"
           },
           "foilstones": [
             {
@@ -13869,7 +13869,7 @@
           ],
           "prompt": {
             "PromptText": "xuxuxu",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/xuxuxu.mp3"
+            "PromptAudio": "lang/venda/audios/xuxuxu.mp3"
           },
           "foilstones": [
             {
@@ -13913,7 +13913,7 @@
           ],
           "prompt": {
             "PromptText": "yau",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/yau.mp3"
+            "PromptAudio": "lang/venda/audios/yau.mp3"
           },
           "foilstones": [
             {
@@ -13948,7 +13948,7 @@
           ],
           "prompt": {
             "PromptText": "xu",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/xu.mp3"
+            "PromptAudio": "lang/venda/audios/xu.mp3"
           },
           "foilstones": [
             {
@@ -13989,7 +13989,7 @@
           ],
           "prompt": {
             "PromptText": "yau",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/venda/audios/yau.mp3"
+            "PromptAudio": "lang/venda/audios/yau.mp3"
           },
           "foilstones": [
             {

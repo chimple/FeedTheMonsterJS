@@ -8,7 +8,7 @@
   "minversion": 178,
   "langname": "BANGLA",
   "FeedbackAudios": [
-    "https://feedthemonster.curiouscontent.org/lang/farsi/audios/fantastic.mp3"
+    "lang/farsi/audios/fantastic.mp3"
   ],
   "OtherAudios": {
     "Select your player": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/Select-your-player.mp3",
@@ -35,7 +35,7 @@
           ],
           "prompt": {
             "PromptText": "ত",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/ত.mp3"
+            "PromptAudio": "lang/bangla/audios/ত.mp3"
           },
           "foilstones": [
             {
@@ -55,7 +55,7 @@
           ],
           "prompt": {
             "PromptText": "ত",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/ত.mp3"
+            "PromptAudio": "lang/bangla/audios/ত.mp3"
           },
           "foilstones": [
             {
@@ -75,7 +75,7 @@
           ],
           "prompt": {
             "PromptText": "ম",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/ম.mp3"
+            "PromptAudio": "lang/bangla/audios/ম.mp3"
           },
           "foilstones": [
             {
@@ -95,7 +95,7 @@
           ],
           "prompt": {
             "PromptText": "য়",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/য়.mp3"
+            "PromptAudio": "lang/bangla/audios/য়.mp3"
           },
           "foilstones": [
             {
@@ -115,7 +115,7 @@
           ],
           "prompt": {
             "PromptText": "অ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/অ.mp3"
+            "PromptAudio": "lang/bangla/audios/অ.mp3"
           },
           "foilstones": [
             {
@@ -150,7 +150,7 @@
           ],
           "prompt": {
             "PromptText": "র",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/র.mp3"
+            "PromptAudio": "lang/bangla/audios/র.mp3"
           },
           "foilstones": [
             {
@@ -173,7 +173,7 @@
           ],
           "prompt": {
             "PromptText": "অ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/অ.mp3"
+            "PromptAudio": "lang/bangla/audios/অ.mp3"
           },
           "foilstones": [
             {
@@ -196,7 +196,7 @@
           ],
           "prompt": {
             "PromptText": "য়",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/য়.mp3"
+            "PromptAudio": "lang/bangla/audios/য়.mp3"
           },
           "foilstones": [
             {
@@ -219,7 +219,7 @@
           ],
           "prompt": {
             "PromptText": "ত",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/ত.mp3"
+            "PromptAudio": "lang/bangla/audios/ত.mp3"
           },
           "foilstones": [
             {
@@ -242,7 +242,7 @@
           ],
           "prompt": {
             "PromptText": "অ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/অ.mp3"
+            "PromptAudio": "lang/bangla/audios/অ.mp3"
           },
           "foilstones": [
             {
@@ -280,7 +280,7 @@
           ],
           "prompt": {
             "PromptText": "ক",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/ক.mp3"
+            "PromptAudio": "lang/bangla/audios/ক.mp3"
           },
           "foilstones": [
             {
@@ -300,7 +300,7 @@
           ],
           "prompt": {
             "PromptText": "অ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/অ.mp3"
+            "PromptAudio": "lang/bangla/audios/অ.mp3"
           },
           "foilstones": [
             {
@@ -320,7 +320,7 @@
           ],
           "prompt": {
             "PromptText": "ক",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/ক.mp3"
+            "PromptAudio": "lang/bangla/audios/ক.mp3"
           },
           "foilstones": [
             {
@@ -340,7 +340,7 @@
           ],
           "prompt": {
             "PromptText": "অ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/অ.mp3"
+            "PromptAudio": "lang/bangla/audios/অ.mp3"
           },
           "foilstones": [
             {
@@ -360,7 +360,7 @@
           ],
           "prompt": {
             "PromptText": "প",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/প.mp3"
+            "PromptAudio": "lang/bangla/audios/প.mp3"
           },
           "foilstones": [
             {
@@ -395,7 +395,7 @@
           ],
           "prompt": {
             "PromptText": "ট",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/ট.mp3"
+            "PromptAudio": "lang/bangla/audios/ট.mp3"
           },
           "foilstones": [
             {
@@ -415,7 +415,7 @@
           ],
           "prompt": {
             "PromptText": "য়",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/য়.mp3"
+            "PromptAudio": "lang/bangla/audios/য়.mp3"
           },
           "foilstones": [
             {
@@ -435,7 +435,7 @@
           ],
           "prompt": {
             "PromptText": "র",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/র.mp3"
+            "PromptAudio": "lang/bangla/audios/র.mp3"
           },
           "foilstones": [
             {
@@ -455,7 +455,7 @@
           ],
           "prompt": {
             "PromptText": "প",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/প.mp3"
+            "PromptAudio": "lang/bangla/audios/প.mp3"
           },
           "foilstones": [
             {
@@ -475,7 +475,7 @@
           ],
           "prompt": {
             "PromptText": "ক",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/ক.mp3"
+            "PromptAudio": "lang/bangla/audios/ক.mp3"
           },
           "foilstones": [
             {
@@ -510,7 +510,7 @@
           ],
           "prompt": {
             "PromptText": "ক",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/ক.mp3"
+            "PromptAudio": "lang/bangla/audios/ক.mp3"
           },
           "foilstones": [
             {
@@ -533,7 +533,7 @@
           ],
           "prompt": {
             "PromptText": "ম",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/ম.mp3"
+            "PromptAudio": "lang/bangla/audios/ম.mp3"
           },
           "foilstones": [
             {
@@ -556,7 +556,7 @@
           ],
           "prompt": {
             "PromptText": "য়",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/য়.mp3"
+            "PromptAudio": "lang/bangla/audios/য়.mp3"
           },
           "foilstones": [
             {
@@ -579,7 +579,7 @@
           ],
           "prompt": {
             "PromptText": "ম",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/ম.mp3"
+            "PromptAudio": "lang/bangla/audios/ম.mp3"
           },
           "foilstones": [
             {
@@ -602,7 +602,7 @@
           ],
           "prompt": {
             "PromptText": "প",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/প.mp3"
+            "PromptAudio": "lang/bangla/audios/প.mp3"
           },
           "foilstones": [
             {
@@ -640,7 +640,7 @@
           ],
           "prompt": {
             "PromptText": "ট",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/ট.mp3"
+            "PromptAudio": "lang/bangla/audios/ট.mp3"
           },
           "foilstones": [
             {
@@ -663,7 +663,7 @@
           ],
           "prompt": {
             "PromptText": "ট",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/ট.mp3"
+            "PromptAudio": "lang/bangla/audios/ট.mp3"
           },
           "foilstones": [
             {
@@ -686,7 +686,7 @@
           ],
           "prompt": {
             "PromptText": "র",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/র.mp3"
+            "PromptAudio": "lang/bangla/audios/র.mp3"
           },
           "foilstones": [
             {
@@ -709,7 +709,7 @@
           ],
           "prompt": {
             "PromptText": "প",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/প.mp3"
+            "PromptAudio": "lang/bangla/audios/প.mp3"
           },
           "foilstones": [
             {
@@ -732,7 +732,7 @@
           ],
           "prompt": {
             "PromptText": "ক",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/ক.mp3"
+            "PromptAudio": "lang/bangla/audios/ক.mp3"
           },
           "foilstones": [
             {
@@ -770,7 +770,7 @@
           ],
           "prompt": {
             "PromptText": "কয়",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/ক.mp3"
+            "PromptAudio": "lang/bangla/audios/ক.mp3"
           },
           "foilstones": [
             {
@@ -793,7 +793,7 @@
           ],
           "prompt": {
             "PromptText": "অগ্নি",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/অ.mp3"
+            "PromptAudio": "lang/bangla/audios/অ.mp3"
           },
           "foilstones": [
             {
@@ -816,7 +816,7 @@
           ],
           "prompt": {
             "PromptText": "ময়",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/ম.mp3"
+            "PromptAudio": "lang/bangla/audios/ম.mp3"
           },
           "foilstones": [
             {
@@ -839,7 +839,7 @@
           ],
           "prompt": {
             "PromptText": "অপর",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/অ.mp3"
+            "PromptAudio": "lang/bangla/audios/অ.mp3"
           },
           "foilstones": [
             {
@@ -862,7 +862,7 @@
           ],
           "prompt": {
             "PromptText": "পট",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/প.mp3"
+            "PromptAudio": "lang/bangla/audios/প.mp3"
           },
           "foilstones": [
             {
@@ -900,7 +900,7 @@
           ],
           "prompt": {
             "PromptText": "পরম",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/প.mp3"
+            "PromptAudio": "lang/bangla/audios/প.mp3"
           },
           "foilstones": [
             {
@@ -923,7 +923,7 @@
           ],
           "prompt": {
             "PromptText": "অপর",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/অ.mp3"
+            "PromptAudio": "lang/bangla/audios/অ.mp3"
           },
           "foilstones": [
             {
@@ -946,7 +946,7 @@
           ],
           "prompt": {
             "PromptText": "পরম",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/প.mp3"
+            "PromptAudio": "lang/bangla/audios/প.mp3"
           },
           "foilstones": [
             {
@@ -969,7 +969,7 @@
           ],
           "prompt": {
             "PromptText": "ময়",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/ম.mp3"
+            "PromptAudio": "lang/bangla/audios/ম.mp3"
           },
           "foilstones": [
             {
@@ -992,7 +992,7 @@
           ],
           "prompt": {
             "PromptText": "অগ্নি",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/অ.mp3"
+            "PromptAudio": "lang/bangla/audios/অ.mp3"
           },
           "foilstones": [
             {
@@ -1030,7 +1030,7 @@
           ],
           "prompt": {
             "PromptText": "ময়",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/ম.mp3"
+            "PromptAudio": "lang/bangla/audios/ম.mp3"
           },
           "foilstones": [
             {
@@ -1053,7 +1053,7 @@
           ],
           "prompt": {
             "PromptText": "কয়",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/ক.mp3"
+            "PromptAudio": "lang/bangla/audios/ক.mp3"
           },
           "foilstones": [
             {
@@ -1076,7 +1076,7 @@
           ],
           "prompt": {
             "PromptText": "অগ্নি",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/অ.mp3"
+            "PromptAudio": "lang/bangla/audios/অ.mp3"
           },
           "foilstones": [
             {
@@ -1099,7 +1099,7 @@
           ],
           "prompt": {
             "PromptText": "ময়",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/ম.mp3"
+            "PromptAudio": "lang/bangla/audios/ম.mp3"
           },
           "foilstones": [
             {
@@ -1122,7 +1122,7 @@
           ],
           "prompt": {
             "PromptText": "অত",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/অ.mp3"
+            "PromptAudio": "lang/bangla/audios/অ.mp3"
           },
           "foilstones": [
             {
@@ -1166,7 +1166,7 @@
           ],
           "prompt": {
             "PromptText": "অমত",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/অমত.mp3"
+            "PromptAudio": "lang/bangla/audios/অমত.mp3"
           },
           "foilstones": [
             {
@@ -1195,7 +1195,7 @@
           ],
           "prompt": {
             "PromptText": "পরম",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/পরম.mp3"
+            "PromptAudio": "lang/bangla/audios/পরম.mp3"
           },
           "foilstones": [
             {
@@ -1227,7 +1227,7 @@
           ],
           "prompt": {
             "PromptText": "অক্ষম",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/অক্ষম.mp3"
+            "PromptAudio": "lang/bangla/audios/অক্ষম.mp3"
           },
           "foilstones": [
             {
@@ -1256,7 +1256,7 @@
           ],
           "prompt": {
             "PromptText": "অমর",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/অমর.mp3"
+            "PromptAudio": "lang/bangla/audios/অমর.mp3"
           },
           "foilstones": [
             {
@@ -1285,7 +1285,7 @@
           ],
           "prompt": {
             "PromptText": "অপর",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/অপর.mp3"
+            "PromptAudio": "lang/bangla/audios/অপর.mp3"
           },
           "foilstones": [
             {
@@ -1326,7 +1326,7 @@
           ],
           "prompt": {
             "PromptText": "অপর",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/অপর.mp3"
+            "PromptAudio": "lang/bangla/audios/অপর.mp3"
           },
           "foilstones": [
             {
@@ -1355,7 +1355,7 @@
           ],
           "prompt": {
             "PromptText": "অক্ষম",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/অক্ষম.mp3"
+            "PromptAudio": "lang/bangla/audios/অক্ষম.mp3"
           },
           "foilstones": [
             {
@@ -1381,7 +1381,7 @@
           ],
           "prompt": {
             "PromptText": "অত",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/অত.mp3"
+            "PromptAudio": "lang/bangla/audios/অত.mp3"
           },
           "foilstones": [
             {
@@ -1410,7 +1410,7 @@
           ],
           "prompt": {
             "PromptText": "অপর",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/অপর.mp3"
+            "PromptAudio": "lang/bangla/audios/অপর.mp3"
           },
           "foilstones": [
             {
@@ -1442,7 +1442,7 @@
           ],
           "prompt": {
             "PromptText": "অক্ষম",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/অক্ষম.mp3"
+            "PromptAudio": "lang/bangla/audios/অক্ষম.mp3"
           },
           "foilstones": [
             {
@@ -1480,7 +1480,7 @@
           ],
           "prompt": {
             "PromptText": "অত",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/অত.mp3"
+            "PromptAudio": "lang/bangla/audios/অত.mp3"
           },
           "foilstones": [
             {
@@ -1509,7 +1509,7 @@
           ],
           "prompt": {
             "PromptText": "অক্ষম",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/অক্ষম.mp3"
+            "PromptAudio": "lang/bangla/audios/অক্ষম.mp3"
           },
           "foilstones": [
             {
@@ -1538,7 +1538,7 @@
           ],
           "prompt": {
             "PromptText": "অক্ষম",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/অক্ষম.mp3"
+            "PromptAudio": "lang/bangla/audios/অক্ষম.mp3"
           },
           "foilstones": [
             {
@@ -1564,7 +1564,7 @@
           ],
           "prompt": {
             "PromptText": "অক্ষ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/অক্ষ.mp3"
+            "PromptAudio": "lang/bangla/audios/অক্ষ.mp3"
           },
           "foilstones": [
             {
@@ -1593,7 +1593,7 @@
           ],
           "prompt": {
             "PromptText": "অপর",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/অপর.mp3"
+            "PromptAudio": "lang/bangla/audios/অপর.mp3"
           },
           "foilstones": [
             {
@@ -1631,7 +1631,7 @@
           ],
           "prompt": {
             "PromptText": "ঢ়",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/ঢ়.mp3"
+            "PromptAudio": "lang/bangla/audios/ঢ়.mp3"
           },
           "foilstones": [
             {
@@ -1654,7 +1654,7 @@
           ],
           "prompt": {
             "PromptText": "ঢ়",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/ঢ়.mp3"
+            "PromptAudio": "lang/bangla/audios/ঢ়.mp3"
           },
           "foilstones": [
             {
@@ -1677,7 +1677,7 @@
           ],
           "prompt": {
             "PromptText": "ড়",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/ড়.mp3"
+            "PromptAudio": "lang/bangla/audios/ড়.mp3"
           },
           "foilstones": [
             {
@@ -1700,7 +1700,7 @@
           ],
           "prompt": {
             "PromptText": "র",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/র.mp3"
+            "PromptAudio": "lang/bangla/audios/র.mp3"
           },
           "foilstones": [
             {
@@ -1723,7 +1723,7 @@
           ],
           "prompt": {
             "PromptText": "ষ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/ষ.mp3"
+            "PromptAudio": "lang/bangla/audios/ষ.mp3"
           },
           "foilstones": [
             {
@@ -1761,7 +1761,7 @@
           ],
           "prompt": {
             "PromptText": "র",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/র.mp3"
+            "PromptAudio": "lang/bangla/audios/র.mp3"
           },
           "foilstones": [
             {
@@ -1784,7 +1784,7 @@
           ],
           "prompt": {
             "PromptText": "আ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/আ.mp3"
+            "PromptAudio": "lang/bangla/audios/আ.mp3"
           },
           "foilstones": [
             {
@@ -1807,7 +1807,7 @@
           ],
           "prompt": {
             "PromptText": "ল",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/ল.mp3"
+            "PromptAudio": "lang/bangla/audios/ল.mp3"
           },
           "foilstones": [
             {
@@ -1830,7 +1830,7 @@
           ],
           "prompt": {
             "PromptText": "ল",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/ল.mp3"
+            "PromptAudio": "lang/bangla/audios/ল.mp3"
           },
           "foilstones": [
             {
@@ -1853,7 +1853,7 @@
           ],
           "prompt": {
             "PromptText": "আ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/আ.mp3"
+            "PromptAudio": "lang/bangla/audios/আ.mp3"
           },
           "foilstones": [
             {
@@ -1891,7 +1891,7 @@
           ],
           "prompt": {
             "PromptText": "ল",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/ল.mp3"
+            "PromptAudio": "lang/bangla/audios/ল.mp3"
           },
           "foilstones": [
             {
@@ -1911,7 +1911,7 @@
           ],
           "prompt": {
             "PromptText": "র",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/র.mp3"
+            "PromptAudio": "lang/bangla/audios/র.mp3"
           },
           "foilstones": [
             {
@@ -1931,7 +1931,7 @@
           ],
           "prompt": {
             "PromptText": "ঢ়",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/ঢ়.mp3"
+            "PromptAudio": "lang/bangla/audios/ঢ়.mp3"
           },
           "foilstones": [
             {
@@ -1951,7 +1951,7 @@
           ],
           "prompt": {
             "PromptText": "র",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/র.mp3"
+            "PromptAudio": "lang/bangla/audios/র.mp3"
           },
           "foilstones": [
             {
@@ -1971,7 +1971,7 @@
           ],
           "prompt": {
             "PromptText": "ল",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/ল.mp3"
+            "PromptAudio": "lang/bangla/audios/ল.mp3"
           },
           "foilstones": [
             {
@@ -2006,7 +2006,7 @@
           ],
           "prompt": {
             "PromptText": "ড়",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/ড়.mp3"
+            "PromptAudio": "lang/bangla/audios/ড়.mp3"
           },
           "foilstones": [
             {
@@ -2029,7 +2029,7 @@
           ],
           "prompt": {
             "PromptText": "আ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/আ.mp3"
+            "PromptAudio": "lang/bangla/audios/আ.mp3"
           },
           "foilstones": [
             {
@@ -2052,7 +2052,7 @@
           ],
           "prompt": {
             "PromptText": "ল",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/ল.mp3"
+            "PromptAudio": "lang/bangla/audios/ল.mp3"
           },
           "foilstones": [
             {
@@ -2075,7 +2075,7 @@
           ],
           "prompt": {
             "PromptText": "ড়",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/ড়.mp3"
+            "PromptAudio": "lang/bangla/audios/ড়.mp3"
           },
           "foilstones": [
             {
@@ -2098,7 +2098,7 @@
           ],
           "prompt": {
             "PromptText": "র",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/র.mp3"
+            "PromptAudio": "lang/bangla/audios/র.mp3"
           },
           "foilstones": [
             {
@@ -2136,7 +2136,7 @@
           ],
           "prompt": {
             "PromptText": "র",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/র.mp3"
+            "PromptAudio": "lang/bangla/audios/র.mp3"
           },
           "foilstones": [
             {
@@ -2165,7 +2165,7 @@
           ],
           "prompt": {
             "PromptText": "ষ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/ষ.mp3"
+            "PromptAudio": "lang/bangla/audios/ষ.mp3"
           },
           "foilstones": [
             {
@@ -2191,7 +2191,7 @@
           ],
           "prompt": {
             "PromptText": "ঙ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/ঙ.mp3"
+            "PromptAudio": "lang/bangla/audios/ঙ.mp3"
           },
           "foilstones": [
             {
@@ -2214,7 +2214,7 @@
           ],
           "prompt": {
             "PromptText": "র",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/র.mp3"
+            "PromptAudio": "lang/bangla/audios/র.mp3"
           },
           "foilstones": [
             {
@@ -2240,7 +2240,7 @@
           ],
           "prompt": {
             "PromptText": "ষ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/ষ.mp3"
+            "PromptAudio": "lang/bangla/audios/ষ.mp3"
           },
           "foilstones": [
             {
@@ -2278,7 +2278,7 @@
           ],
           "prompt": {
             "PromptText": "ল",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/ল.mp3"
+            "PromptAudio": "lang/bangla/audios/ল.mp3"
           },
           "foilstones": [
             {
@@ -2304,7 +2304,7 @@
           ],
           "prompt": {
             "PromptText": "ষ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/ষ.mp3"
+            "PromptAudio": "lang/bangla/audios/ষ.mp3"
           },
           "foilstones": [
             {
@@ -2330,7 +2330,7 @@
           ],
           "prompt": {
             "PromptText": "ল",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/ল.mp3"
+            "PromptAudio": "lang/bangla/audios/ল.mp3"
           },
           "foilstones": [
             {
@@ -2356,7 +2356,7 @@
           ],
           "prompt": {
             "PromptText": "ষ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/ষ.mp3"
+            "PromptAudio": "lang/bangla/audios/ষ.mp3"
           },
           "foilstones": [
             {
@@ -2382,7 +2382,7 @@
           ],
           "prompt": {
             "PromptText": "ড়",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/ড়.mp3"
+            "PromptAudio": "lang/bangla/audios/ড়.mp3"
           },
           "foilstones": [
             {
@@ -2426,7 +2426,7 @@
           ],
           "prompt": {
             "PromptText": "রাত",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/রা.mp3"
+            "PromptAudio": "lang/bangla/audios/রা.mp3"
           },
           "foilstones": [
             {
@@ -2452,7 +2452,7 @@
           ],
           "prompt": {
             "PromptText": "আম",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/আ.mp3"
+            "PromptAudio": "lang/bangla/audios/আ.mp3"
           },
           "foilstones": [
             {
@@ -2478,7 +2478,7 @@
           ],
           "prompt": {
             "PromptText": "লাল",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/লা.mp3"
+            "PromptAudio": "lang/bangla/audios/লা.mp3"
           },
           "foilstones": [
             {
@@ -2504,7 +2504,7 @@
           ],
           "prompt": {
             "PromptText": "রাম",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/রা.mp3"
+            "PromptAudio": "lang/bangla/audios/রা.mp3"
           },
           "foilstones": [
             {
@@ -2530,7 +2530,7 @@
           ],
           "prompt": {
             "PromptText": "অন্য",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/অ.mp3"
+            "PromptAudio": "lang/bangla/audios/অ.mp3"
           },
           "foilstones": [
             {
@@ -2574,7 +2574,7 @@
           ],
           "prompt": {
             "PromptText": "আড়াল",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/আ.mp3"
+            "PromptAudio": "lang/bangla/audios/আ.mp3"
           },
           "foilstones": [
             {
@@ -2600,7 +2600,7 @@
           ],
           "prompt": {
             "PromptText": "রাঙা",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/রা.mp3"
+            "PromptAudio": "lang/bangla/audios/রা.mp3"
           },
           "foilstones": [
             {
@@ -2626,7 +2626,7 @@
           ],
           "prompt": {
             "PromptText": "রাঙা",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/রা.mp3"
+            "PromptAudio": "lang/bangla/audios/রা.mp3"
           },
           "foilstones": [
             {
@@ -2652,7 +2652,7 @@
           ],
           "prompt": {
             "PromptText": "রাঙা",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/রা.mp3"
+            "PromptAudio": "lang/bangla/audios/রা.mp3"
           },
           "foilstones": [
             {
@@ -2678,7 +2678,7 @@
           ],
           "prompt": {
             "PromptText": "আষাঢ়",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/আ.mp3"
+            "PromptAudio": "lang/bangla/audios/আ.mp3"
           },
           "foilstones": [
             {
@@ -2722,7 +2722,7 @@
           ],
           "prompt": {
             "PromptText": "রাঙা",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/রা.mp3"
+            "PromptAudio": "lang/bangla/audios/রা.mp3"
           },
           "foilstones": [
             {
@@ -2748,7 +2748,7 @@
           ],
           "prompt": {
             "PromptText": "আষাঢ়",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/আ.mp3"
+            "PromptAudio": "lang/bangla/audios/আ.mp3"
           },
           "foilstones": [
             {
@@ -2774,7 +2774,7 @@
           ],
           "prompt": {
             "PromptText": "রাঙা",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/রা.mp3"
+            "PromptAudio": "lang/bangla/audios/রা.mp3"
           },
           "foilstones": [
             {
@@ -2800,7 +2800,7 @@
           ],
           "prompt": {
             "PromptText": "রাঙা",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/রা.mp3"
+            "PromptAudio": "lang/bangla/audios/রা.mp3"
           },
           "foilstones": [
             {
@@ -2826,7 +2826,7 @@
           ],
           "prompt": {
             "PromptText": "আড়াল",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/আ.mp3"
+            "PromptAudio": "lang/bangla/audios/আ.mp3"
           },
           "foilstones": [
             {
@@ -2870,7 +2870,7 @@
           ],
           "prompt": {
             "PromptText": "আড়াল",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/আ.mp3"
+            "PromptAudio": "lang/bangla/audios/আ.mp3"
           },
           "foilstones": [
             {
@@ -2893,7 +2893,7 @@
           ],
           "prompt": {
             "PromptText": "রাঙা",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/রা.mp3"
+            "PromptAudio": "lang/bangla/audios/রা.mp3"
           },
           "foilstones": [
             {
@@ -2916,7 +2916,7 @@
           ],
           "prompt": {
             "PromptText": "রাঙা",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/রা.mp3"
+            "PromptAudio": "lang/bangla/audios/রা.mp3"
           },
           "foilstones": [
             {
@@ -2939,7 +2939,7 @@
           ],
           "prompt": {
             "PromptText": "লাল",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/লা.mp3"
+            "PromptAudio": "lang/bangla/audios/লা.mp3"
           },
           "foilstones": [
             {
@@ -2962,7 +2962,7 @@
           ],
           "prompt": {
             "PromptText": "লাল",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/লা.mp3"
+            "PromptAudio": "lang/bangla/audios/লা.mp3"
           },
           "foilstones": [
             {
@@ -3003,7 +3003,7 @@
           ],
           "prompt": {
             "PromptText": "রাঙা",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/রাঙা.mp3"
+            "PromptAudio": "lang/bangla/audios/রাঙা.mp3"
           },
           "foilstones": [
             {
@@ -3032,7 +3032,7 @@
           ],
           "prompt": {
             "PromptText": "আড়াল",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/আড়াল.mp3"
+            "PromptAudio": "lang/bangla/audios/আড়াল.mp3"
           },
           "foilstones": [
             {
@@ -3058,7 +3058,7 @@
           ],
           "prompt": {
             "PromptText": "ডাঙা",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/ডাঙা.mp3"
+            "PromptAudio": "lang/bangla/audios/ডাঙা.mp3"
           },
           "foilstones": [
             {
@@ -3084,7 +3084,7 @@
           ],
           "prompt": {
             "PromptText": "লাল",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/লাল.mp3"
+            "PromptAudio": "lang/bangla/audios/লাল.mp3"
           },
           "foilstones": [
             {
@@ -3110,7 +3110,7 @@
           ],
           "prompt": {
             "PromptText": "রাঙা",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/রাঙা.mp3"
+            "PromptAudio": "lang/bangla/audios/রাঙা.mp3"
           },
           "foilstones": [
             {
@@ -3151,7 +3151,7 @@
           ],
           "prompt": {
             "PromptText": "আড়াল",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/আড়াল.mp3"
+            "PromptAudio": "lang/bangla/audios/আড়াল.mp3"
           },
           "foilstones": [
             {
@@ -3177,7 +3177,7 @@
           ],
           "prompt": {
             "PromptText": "লাল",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/লাল.mp3"
+            "PromptAudio": "lang/bangla/audios/লাল.mp3"
           },
           "foilstones": [
             {
@@ -3206,7 +3206,7 @@
           ],
           "prompt": {
             "PromptText": "লাঙল",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/লাঙল.mp3"
+            "PromptAudio": "lang/bangla/audios/লাঙল.mp3"
           },
           "foilstones": [
             {
@@ -3235,7 +3235,7 @@
           ],
           "prompt": {
             "PromptText": "ডাঙা",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/ডাঙা.mp3"
+            "PromptAudio": "lang/bangla/audios/ডাঙা.mp3"
           },
           "foilstones": [
             {
@@ -3264,7 +3264,7 @@
           ],
           "prompt": {
             "PromptText": "লাঙল",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/লাঙল.mp3"
+            "PromptAudio": "lang/bangla/audios/লাঙল.mp3"
           },
           "foilstones": [
             {
@@ -3305,7 +3305,7 @@
           ],
           "prompt": {
             "PromptText": "আড়াল",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/আড়াল.mp3"
+            "PromptAudio": "lang/bangla/audios/আড়াল.mp3"
           },
           "foilstones": [
             {
@@ -3334,7 +3334,7 @@
           ],
           "prompt": {
             "PromptText": "লাঙল",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/লাঙল.mp3"
+            "PromptAudio": "lang/bangla/audios/লাঙল.mp3"
           },
           "foilstones": [
             {
@@ -3363,7 +3363,7 @@
           ],
           "prompt": {
             "PromptText": "আড়াল",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/আড়াল.mp3"
+            "PromptAudio": "lang/bangla/audios/আড়াল.mp3"
           },
           "foilstones": [
             {
@@ -3389,7 +3389,7 @@
           ],
           "prompt": {
             "PromptText": "রাঙা",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/রাঙা.mp3"
+            "PromptAudio": "lang/bangla/audios/রাঙা.mp3"
           },
           "foilstones": [
             {
@@ -3415,7 +3415,7 @@
           ],
           "prompt": {
             "PromptText": "লাল",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/লাল.mp3"
+            "PromptAudio": "lang/bangla/audios/লাল.mp3"
           },
           "foilstones": [
             {
@@ -3453,7 +3453,7 @@
           ],
           "prompt": {
             "PromptText": "ঠ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/ঠ.mp3"
+            "PromptAudio": "lang/bangla/audios/ঠ.mp3"
           },
           "foilstones": [
             {
@@ -3476,7 +3476,7 @@
           ],
           "prompt": {
             "PromptText": "জ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/জ.mp3"
+            "PromptAudio": "lang/bangla/audios/জ.mp3"
           },
           "foilstones": [
             {
@@ -3499,7 +3499,7 @@
           ],
           "prompt": {
             "PromptText": "ঞ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/ঞ.mp3"
+            "PromptAudio": "lang/bangla/audios/ঞ.mp3"
           },
           "foilstones": [
             {
@@ -3525,7 +3525,7 @@
           ],
           "prompt": {
             "PromptText": "ই",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/ই.mp3"
+            "PromptAudio": "lang/bangla/audios/ই.mp3"
           },
           "foilstones": [
             {
@@ -3548,7 +3548,7 @@
           ],
           "prompt": {
             "PromptText": "ঞ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/ঞ.mp3"
+            "PromptAudio": "lang/bangla/audios/ঞ.mp3"
           },
           "foilstones": [
             {
@@ -3583,7 +3583,7 @@
           ],
           "prompt": {
             "PromptText": "ঝ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/ঝ.mp3"
+            "PromptAudio": "lang/bangla/audios/ঝ.mp3"
           },
           "foilstones": [
             {
@@ -3606,7 +3606,7 @@
           ],
           "prompt": {
             "PromptText": "চ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/চ.mp3"
+            "PromptAudio": "lang/bangla/audios/চ.mp3"
           },
           "foilstones": [
             {
@@ -3629,7 +3629,7 @@
           ],
           "prompt": {
             "PromptText": "চ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/চ.mp3"
+            "PromptAudio": "lang/bangla/audios/চ.mp3"
           },
           "foilstones": [
             {
@@ -3655,7 +3655,7 @@
           ],
           "prompt": {
             "PromptText": "ন",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/ন.mp3"
+            "PromptAudio": "lang/bangla/audios/ন.mp3"
           },
           "foilstones": [
             {
@@ -3678,7 +3678,7 @@
           ],
           "prompt": {
             "PromptText": "ন",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/ন.mp3"
+            "PromptAudio": "lang/bangla/audios/ন.mp3"
           },
           "foilstones": [
             {
@@ -3713,7 +3713,7 @@
           ],
           "prompt": {
             "PromptText": "ঠ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/ঠ.mp3"
+            "PromptAudio": "lang/bangla/audios/ঠ.mp3"
           },
           "foilstones": [
             {
@@ -3736,7 +3736,7 @@
           ],
           "prompt": {
             "PromptText": "জ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/জ.mp3"
+            "PromptAudio": "lang/bangla/audios/জ.mp3"
           },
           "foilstones": [
             {
@@ -3759,7 +3759,7 @@
           ],
           "prompt": {
             "PromptText": "চ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/চ.mp3"
+            "PromptAudio": "lang/bangla/audios/চ.mp3"
           },
           "foilstones": [
             {
@@ -3785,7 +3785,7 @@
           ],
           "prompt": {
             "PromptText": "জ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/জ.mp3"
+            "PromptAudio": "lang/bangla/audios/জ.mp3"
           },
           "foilstones": [
             {
@@ -3808,7 +3808,7 @@
           ],
           "prompt": {
             "PromptText": "ন",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/ন.mp3"
+            "PromptAudio": "lang/bangla/audios/ন.mp3"
           },
           "foilstones": [
             {
@@ -3843,7 +3843,7 @@
           ],
           "prompt": {
             "PromptText": "ন",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/ন.mp3"
+            "PromptAudio": "lang/bangla/audios/ন.mp3"
           },
           "foilstones": [
             {
@@ -3875,7 +3875,7 @@
           ],
           "prompt": {
             "PromptText": "ঠ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/ঠ.mp3"
+            "PromptAudio": "lang/bangla/audios/ঠ.mp3"
           },
           "foilstones": [
             {
@@ -3904,7 +3904,7 @@
           ],
           "prompt": {
             "PromptText": "ঞ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/ঞ.mp3"
+            "PromptAudio": "lang/bangla/audios/ঞ.mp3"
           },
           "foilstones": [
             {
@@ -3936,7 +3936,7 @@
           ],
           "prompt": {
             "PromptText": "ঝ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/ঝ.mp3"
+            "PromptAudio": "lang/bangla/audios/ঝ.mp3"
           },
           "foilstones": [
             {
@@ -3965,7 +3965,7 @@
           ],
           "prompt": {
             "PromptText": "জ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/জ.mp3"
+            "PromptAudio": "lang/bangla/audios/জ.mp3"
           },
           "foilstones": [
             {
@@ -4009,7 +4009,7 @@
           ],
           "prompt": {
             "PromptText": "ই",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/ই.mp3"
+            "PromptAudio": "lang/bangla/audios/ই.mp3"
           },
           "foilstones": [
             {
@@ -4041,7 +4041,7 @@
           ],
           "prompt": {
             "PromptText": "চ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/চ.mp3"
+            "PromptAudio": "lang/bangla/audios/চ.mp3"
           },
           "foilstones": [
             {
@@ -4073,7 +4073,7 @@
           ],
           "prompt": {
             "PromptText": "ঠ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/ঠ.mp3"
+            "PromptAudio": "lang/bangla/audios/ঠ.mp3"
           },
           "foilstones": [
             {
@@ -4102,7 +4102,7 @@
           ],
           "prompt": {
             "PromptText": "ঠ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/ঠ.mp3"
+            "PromptAudio": "lang/bangla/audios/ঠ.mp3"
           },
           "foilstones": [
             {
@@ -4131,7 +4131,7 @@
           ],
           "prompt": {
             "PromptText": "জ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/জ.mp3"
+            "PromptAudio": "lang/bangla/audios/জ.mp3"
           },
           "foilstones": [
             {
@@ -4175,7 +4175,7 @@
           ],
           "prompt": {
             "PromptText": "ই",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/ই.mp3"
+            "PromptAudio": "lang/bangla/audios/ই.mp3"
           },
           "foilstones": [
             {
@@ -4207,7 +4207,7 @@
           ],
           "prompt": {
             "PromptText": "ঝ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/ঝ.mp3"
+            "PromptAudio": "lang/bangla/audios/ঝ.mp3"
           },
           "foilstones": [
             {
@@ -4239,7 +4239,7 @@
           ],
           "prompt": {
             "PromptText": "ই",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/ই.mp3"
+            "PromptAudio": "lang/bangla/audios/ই.mp3"
           },
           "foilstones": [
             {
@@ -4268,7 +4268,7 @@
           ],
           "prompt": {
             "PromptText": "ঠ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/ঠ.mp3"
+            "PromptAudio": "lang/bangla/audios/ঠ.mp3"
           },
           "foilstones": [
             {
@@ -4297,7 +4297,7 @@
           ],
           "prompt": {
             "PromptText": "ঝ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/ঝ.mp3"
+            "PromptAudio": "lang/bangla/audios/ঝ.mp3"
           },
           "foilstones": [
             {
@@ -4341,7 +4341,7 @@
           ],
           "prompt": {
             "PromptText": "চি",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/চি.mp3"
+            "PromptAudio": "lang/bangla/audios/চি.mp3"
           },
           "foilstones": [
             {
@@ -4370,7 +4370,7 @@
           ],
           "prompt": {
             "PromptText": "ঝি",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/ঝি.mp3"
+            "PromptAudio": "lang/bangla/audios/ঝি.mp3"
           },
           "foilstones": [
             {
@@ -4402,7 +4402,7 @@
           ],
           "prompt": {
             "PromptText": "ইঞ্চি",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/ই.mp3"
+            "PromptAudio": "lang/bangla/audios/ই.mp3"
           },
           "foilstones": [
             {
@@ -4434,7 +4434,7 @@
           ],
           "prompt": {
             "PromptText": "নি",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/নি.mp3"
+            "PromptAudio": "lang/bangla/audios/নি.mp3"
           },
           "foilstones": [
             {
@@ -4463,7 +4463,7 @@
           ],
           "prompt": {
             "PromptText": "চি",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/চি.mp3"
+            "PromptAudio": "lang/bangla/audios/চি.mp3"
           },
           "foilstones": [
             {
@@ -4507,7 +4507,7 @@
           ],
           "prompt": {
             "PromptText": "জি",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/জি.mp3"
+            "PromptAudio": "lang/bangla/audios/জি.mp3"
           },
           "foilstones": [
             {
@@ -4539,7 +4539,7 @@
           ],
           "prompt": {
             "PromptText": "জি",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/জি.mp3"
+            "PromptAudio": "lang/bangla/audios/জি.mp3"
           },
           "foilstones": [
             {
@@ -4571,7 +4571,7 @@
           ],
           "prompt": {
             "PromptText": "জি",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/জি.mp3"
+            "PromptAudio": "lang/bangla/audios/জি.mp3"
           },
           "foilstones": [
             {
@@ -4600,7 +4600,7 @@
           ],
           "prompt": {
             "PromptText": "নিচ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/নি.mp3"
+            "PromptAudio": "lang/bangla/audios/নি.mp3"
           },
           "foilstones": [
             {
@@ -4632,7 +4632,7 @@
           ],
           "prompt": {
             "PromptText": "চি",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/চি.mp3"
+            "PromptAudio": "lang/bangla/audios/চি.mp3"
           },
           "foilstones": [
             {
@@ -4673,7 +4673,7 @@
           ],
           "prompt": {
             "PromptText": "ঝি",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/ঝি.mp3"
+            "PromptAudio": "lang/bangla/audios/ঝি.mp3"
           },
           "foilstones": [
             {
@@ -4705,7 +4705,7 @@
           ],
           "prompt": {
             "PromptText": "ঝি",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/ঝি.mp3"
+            "PromptAudio": "lang/bangla/audios/ঝি.mp3"
           },
           "foilstones": [
             {
@@ -4737,7 +4737,7 @@
           ],
           "prompt": {
             "PromptText": "ঠিক",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/ঠি.mp3"
+            "PromptAudio": "lang/bangla/audios/ঠি.mp3"
           },
           "foilstones": [
             {
@@ -4766,7 +4766,7 @@
           ],
           "prompt": {
             "PromptText": "ঝি",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/ঝি.mp3"
+            "PromptAudio": "lang/bangla/audios/ঝি.mp3"
           },
           "foilstones": [
             {
@@ -4798,7 +4798,7 @@
           ],
           "prompt": {
             "PromptText": "ইঞ্চি",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/ই.mp3"
+            "PromptAudio": "lang/bangla/audios/ই.mp3"
           },
           "foilstones": [
             {
@@ -4839,7 +4839,7 @@
           ],
           "prompt": {
             "PromptText": "জজহবা",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/জ.mp3"
+            "PromptAudio": "lang/bangla/audios/জ.mp3"
           },
           "foilstones": [
             {
@@ -4871,7 +4871,7 @@
           ],
           "prompt": {
             "PromptText": "ঝি",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/ঝি.mp3"
+            "PromptAudio": "lang/bangla/audios/ঝি.mp3"
           },
           "foilstones": [
             {
@@ -4903,7 +4903,7 @@
           ],
           "prompt": {
             "PromptText": "ঝি",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/ঝি.mp3"
+            "PromptAudio": "lang/bangla/audios/ঝি.mp3"
           },
           "foilstones": [
             {
@@ -4932,7 +4932,7 @@
           ],
           "prompt": {
             "PromptText": "জিহ্বা",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/জি.mp3"
+            "PromptAudio": "lang/bangla/audios/জি.mp3"
           },
           "foilstones": [
             {
@@ -4964,7 +4964,7 @@
           ],
           "prompt": {
             "PromptText": "ঝি",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/ঝি.mp3"
+            "PromptAudio": "lang/bangla/audios/ঝি.mp3"
           },
           "foilstones": [
             {
@@ -5008,7 +5008,7 @@
           ],
           "prompt": {
             "PromptText": "জিহ্বা",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/জিহ্বা.mp3"
+            "PromptAudio": "lang/bangla/audios/জিহ্বা.mp3"
           },
           "foilstones": [
             {
@@ -5049,7 +5049,7 @@
           ],
           "prompt": {
             "PromptText": "জি",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/জি.mp3"
+            "PromptAudio": "lang/bangla/audios/জি.mp3"
           },
           "foilstones": [
             {
@@ -5087,7 +5087,7 @@
           ],
           "prompt": {
             "PromptText": "ঝি",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/ঝি.mp3"
+            "PromptAudio": "lang/bangla/audios/ঝি.mp3"
           },
           "foilstones": [
             {
@@ -5128,7 +5128,7 @@
           ],
           "prompt": {
             "PromptText": "নিজ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/নিজ.mp3"
+            "PromptAudio": "lang/bangla/audios/নিজ.mp3"
           },
           "foilstones": [
             {
@@ -5163,7 +5163,7 @@
           ],
           "prompt": {
             "PromptText": "চিঠি",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/চিঠি.mp3"
+            "PromptAudio": "lang/bangla/audios/চিঠি.mp3"
           },
           "foilstones": [
             {
@@ -5219,7 +5219,7 @@
           ],
           "prompt": {
             "PromptText": "নিজ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/নিজ.mp3"
+            "PromptAudio": "lang/bangla/audios/নিজ.mp3"
           },
           "foilstones": [
             {
@@ -5257,7 +5257,7 @@
           ],
           "prompt": {
             "PromptText": "চি",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/চি.mp3"
+            "PromptAudio": "lang/bangla/audios/চি.mp3"
           },
           "foilstones": [
             {
@@ -5298,7 +5298,7 @@
           ],
           "prompt": {
             "PromptText": "ঝি",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/ঝি.mp3"
+            "PromptAudio": "lang/bangla/audios/ঝি.mp3"
           },
           "foilstones": [
             {
@@ -5339,7 +5339,7 @@
           ],
           "prompt": {
             "PromptText": "জিহ্বা",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/জিহ্বা.mp3"
+            "PromptAudio": "lang/bangla/audios/জিহ্বা.mp3"
           },
           "foilstones": [
             {
@@ -5383,7 +5383,7 @@
           ],
           "prompt": {
             "PromptText": "নিজ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/নিজ.mp3"
+            "PromptAudio": "lang/bangla/audios/নিজ.mp3"
           },
           "foilstones": [
             {
@@ -5430,7 +5430,7 @@
           ],
           "prompt": {
             "PromptText": "ঝি",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/ঝি.mp3"
+            "PromptAudio": "lang/bangla/audios/ঝি.mp3"
           },
           "foilstones": [
             {
@@ -5471,7 +5471,7 @@
           ],
           "prompt": {
             "PromptText": "চি",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/চি.mp3"
+            "PromptAudio": "lang/bangla/audios/চি.mp3"
           },
           "foilstones": [
             {
@@ -5515,7 +5515,7 @@
           ],
           "prompt": {
             "PromptText": "ঠি",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/ঠি.mp3"
+            "PromptAudio": "lang/bangla/audios/ঠি.mp3"
           },
           "foilstones": [
             {
@@ -5556,7 +5556,7 @@
           ],
           "prompt": {
             "PromptText": "নিজ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/নিজ.mp3"
+            "PromptAudio": "lang/bangla/audios/নিজ.mp3"
           },
           "foilstones": [
             {
@@ -5594,7 +5594,7 @@
           ],
           "prompt": {
             "PromptText": "ইঞ্চি",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/ইঞ্চি.mp3"
+            "PromptAudio": "lang/bangla/audios/ইঞ্চি.mp3"
           },
           "foilstones": [
             {
@@ -5644,7 +5644,7 @@
           ],
           "prompt": {
             "PromptText": "র",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/র.mp3"
+            "PromptAudio": "lang/bangla/audios/র.mp3"
           },
           "foilstones": [
             {
@@ -5682,7 +5682,7 @@
           ],
           "prompt": {
             "PromptText": "ঈ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/ঈ.mp3"
+            "PromptAudio": "lang/bangla/audios/ঈ.mp3"
           },
           "foilstones": [
             {
@@ -5720,7 +5720,7 @@
           ],
           "prompt": {
             "PromptText": "ঈ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/ঈ.mp3"
+            "PromptAudio": "lang/bangla/audios/ঈ.mp3"
           },
           "foilstones": [
             {
@@ -5758,7 +5758,7 @@
           ],
           "prompt": {
             "PromptText": "ণ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/ণ.mp3"
+            "PromptAudio": "lang/bangla/audios/ণ.mp3"
           },
           "foilstones": [
             {
@@ -5793,7 +5793,7 @@
           ],
           "prompt": {
             "PromptText": "শ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/শ.mp3"
+            "PromptAudio": "lang/bangla/audios/শ.mp3"
           },
           "foilstones": [
             {
@@ -5846,7 +5846,7 @@
           ],
           "prompt": {
             "PromptText": "ব",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/ব.mp3"
+            "PromptAudio": "lang/bangla/audios/ব.mp3"
           },
           "foilstones": [
             {
@@ -5884,7 +5884,7 @@
           ],
           "prompt": {
             "PromptText": "ণ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/ণ.mp3"
+            "PromptAudio": "lang/bangla/audios/ণ.mp3"
           },
           "foilstones": [
             {
@@ -5922,7 +5922,7 @@
           ],
           "prompt": {
             "PromptText": "র",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/র.mp3"
+            "PromptAudio": "lang/bangla/audios/র.mp3"
           },
           "foilstones": [
             {
@@ -5960,7 +5960,7 @@
           ],
           "prompt": {
             "PromptText": "র",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/র.mp3"
+            "PromptAudio": "lang/bangla/audios/র.mp3"
           },
           "foilstones": [
             {
@@ -6001,7 +6001,7 @@
           ],
           "prompt": {
             "PromptText": "ঈ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/ঈ.mp3"
+            "PromptAudio": "lang/bangla/audios/ঈ.mp3"
           },
           "foilstones": [
             {
@@ -6048,7 +6048,7 @@
           ],
           "prompt": {
             "PromptText": "শ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/শ.mp3"
+            "PromptAudio": "lang/bangla/audios/শ.mp3"
           },
           "foilstones": [
             {
@@ -6086,7 +6086,7 @@
           ],
           "prompt": {
             "PromptText": "ব",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/ব.mp3"
+            "PromptAudio": "lang/bangla/audios/ব.mp3"
           },
           "foilstones": [
             {
@@ -6124,7 +6124,7 @@
           ],
           "prompt": {
             "PromptText": "শ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/শ.mp3"
+            "PromptAudio": "lang/bangla/audios/শ.mp3"
           },
           "foilstones": [
             {
@@ -6162,7 +6162,7 @@
           ],
           "prompt": {
             "PromptText": "র",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/র.mp3"
+            "PromptAudio": "lang/bangla/audios/র.mp3"
           },
           "foilstones": [
             {
@@ -6203,7 +6203,7 @@
           ],
           "prompt": {
             "PromptText": "ণ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/ণ.mp3"
+            "PromptAudio": "lang/bangla/audios/ণ.mp3"
           },
           "foilstones": [
             {
@@ -6250,7 +6250,7 @@
           ],
           "prompt": {
             "PromptText": "শ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/শ.mp3"
+            "PromptAudio": "lang/bangla/audios/শ.mp3"
           },
           "foilstones": [
             {
@@ -6288,7 +6288,7 @@
           ],
           "prompt": {
             "PromptText": "ঈ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/ঈ.mp3"
+            "PromptAudio": "lang/bangla/audios/ঈ.mp3"
           },
           "foilstones": [
             {
@@ -6326,7 +6326,7 @@
           ],
           "prompt": {
             "PromptText": "ব",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/ব.mp3"
+            "PromptAudio": "lang/bangla/audios/ব.mp3"
           },
           "foilstones": [
             {
@@ -6364,7 +6364,7 @@
           ],
           "prompt": {
             "PromptText": "ণ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/ণ.mp3"
+            "PromptAudio": "lang/bangla/audios/ণ.mp3"
           },
           "foilstones": [
             {
@@ -6405,7 +6405,7 @@
           ],
           "prompt": {
             "PromptText": "ত",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/ত.mp3"
+            "PromptAudio": "lang/bangla/audios/ত.mp3"
           },
           "foilstones": [
             {
@@ -6452,7 +6452,7 @@
           ],
           "prompt": {
             "PromptText": "র",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/র.mp3"
+            "PromptAudio": "lang/bangla/audios/র.mp3"
           },
           "foilstones": [
             {
@@ -6490,7 +6490,7 @@
           ],
           "prompt": {
             "PromptText": "ঈ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/ঈ.mp3"
+            "PromptAudio": "lang/bangla/audios/ঈ.mp3"
           },
           "foilstones": [
             {
@@ -6528,7 +6528,7 @@
           ],
           "prompt": {
             "PromptText": "ত",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/ত.mp3"
+            "PromptAudio": "lang/bangla/audios/ত.mp3"
           },
           "foilstones": [
             {
@@ -6566,7 +6566,7 @@
           ],
           "prompt": {
             "PromptText": "ব",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/ব.mp3"
+            "PromptAudio": "lang/bangla/audios/ব.mp3"
           },
           "foilstones": [
             {
@@ -6601,7 +6601,7 @@
           ],
           "prompt": {
             "PromptText": "র",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/র.mp3"
+            "PromptAudio": "lang/bangla/audios/র.mp3"
           },
           "foilstones": [
             {
@@ -6654,7 +6654,7 @@
           ],
           "prompt": {
             "PromptText": "শ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/শ.mp3"
+            "PromptAudio": "lang/bangla/audios/শ.mp3"
           },
           "foilstones": [
             {
@@ -6692,7 +6692,7 @@
           ],
           "prompt": {
             "PromptText": "শ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/শ.mp3"
+            "PromptAudio": "lang/bangla/audios/শ.mp3"
           },
           "foilstones": [
             {
@@ -6730,7 +6730,7 @@
           ],
           "prompt": {
             "PromptText": "র",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/র.mp3"
+            "PromptAudio": "lang/bangla/audios/র.mp3"
           },
           "foilstones": [
             {
@@ -6768,7 +6768,7 @@
           ],
           "prompt": {
             "PromptText": "ণ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/ণ.mp3"
+            "PromptAudio": "lang/bangla/audios/ণ.mp3"
           },
           "foilstones": [
             {
@@ -6803,7 +6803,7 @@
           ],
           "prompt": {
             "PromptText": "শ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/শ.mp3"
+            "PromptAudio": "lang/bangla/audios/শ.mp3"
           },
           "foilstones": [
             {
@@ -6856,7 +6856,7 @@
           ],
           "prompt": {
             "PromptText": "তীর",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/তী.mp3"
+            "PromptAudio": "lang/bangla/audios/তী.mp3"
           },
           "foilstones": [
             {
@@ -6894,7 +6894,7 @@
           ],
           "prompt": {
             "PromptText": "শীত",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/শী.mp3"
+            "PromptAudio": "lang/bangla/audios/শী.mp3"
           },
           "foilstones": [
             {
@@ -6932,7 +6932,7 @@
           ],
           "prompt": {
             "PromptText": "তীর",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/তী.mp3"
+            "PromptAudio": "lang/bangla/audios/তী.mp3"
           },
           "foilstones": [
             {
@@ -6967,7 +6967,7 @@
           ],
           "prompt": {
             "PromptText": "শীত",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/শী.mp3"
+            "PromptAudio": "lang/bangla/audios/শী.mp3"
           },
           "foilstones": [
             {
@@ -7008,7 +7008,7 @@
           ],
           "prompt": {
             "PromptText": "শীত",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/শী.mp3"
+            "PromptAudio": "lang/bangla/audios/শী.mp3"
           },
           "foilstones": [
             {
@@ -7058,7 +7058,7 @@
           ],
           "prompt": {
             "PromptText": "বাণী",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/বা.mp3"
+            "PromptAudio": "lang/bangla/audios/বা.mp3"
           },
           "foilstones": [
             {
@@ -7096,7 +7096,7 @@
           ],
           "prompt": {
             "PromptText": "বীণ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/বী.mp3"
+            "PromptAudio": "lang/bangla/audios/বী.mp3"
           },
           "foilstones": [
             {
@@ -7134,7 +7134,7 @@
           ],
           "prompt": {
             "PromptText": "শীত",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/শী.mp3"
+            "PromptAudio": "lang/bangla/audios/শী.mp3"
           },
           "foilstones": [
             {
@@ -7172,7 +7172,7 @@
           ],
           "prompt": {
             "PromptText": "বীর",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/বী.mp3"
+            "PromptAudio": "lang/bangla/audios/বী.mp3"
           },
           "foilstones": [
             {
@@ -7207,7 +7207,7 @@
           ],
           "prompt": {
             "PromptText": "বীর",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/বী.mp3"
+            "PromptAudio": "lang/bangla/audios/বী.mp3"
           },
           "foilstones": [
             {
@@ -7260,7 +7260,7 @@
           ],
           "prompt": {
             "PromptText": "বীণ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/বী.mp3"
+            "PromptAudio": "lang/bangla/audios/বী.mp3"
           },
           "foilstones": [
             {
@@ -7298,7 +7298,7 @@
           ],
           "prompt": {
             "PromptText": "শীত",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/শী.mp3"
+            "PromptAudio": "lang/bangla/audios/শী.mp3"
           },
           "foilstones": [
             {
@@ -7336,7 +7336,7 @@
           ],
           "prompt": {
             "PromptText": "বীণ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/বী.mp3"
+            "PromptAudio": "lang/bangla/audios/বী.mp3"
           },
           "foilstones": [
             {
@@ -7374,7 +7374,7 @@
           ],
           "prompt": {
             "PromptText": "শীত",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/শী.mp3"
+            "PromptAudio": "lang/bangla/audios/শী.mp3"
           },
           "foilstones": [
             {
@@ -7409,7 +7409,7 @@
           ],
           "prompt": {
             "PromptText": "বীণ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/বী.mp3"
+            "PromptAudio": "lang/bangla/audios/বী.mp3"
           },
           "foilstones": [
             {
@@ -7462,7 +7462,7 @@
           ],
           "prompt": {
             "PromptText": "শীত",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/শী.mp3"
+            "PromptAudio": "lang/bangla/audios/শী.mp3"
           },
           "foilstones": [
             {
@@ -7485,7 +7485,7 @@
           ],
           "prompt": {
             "PromptText": "তীর",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/তী.mp3"
+            "PromptAudio": "lang/bangla/audios/তী.mp3"
           },
           "foilstones": [
             {
@@ -7508,7 +7508,7 @@
           ],
           "prompt": {
             "PromptText": "বীণ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/বী.mp3"
+            "PromptAudio": "lang/bangla/audios/বী.mp3"
           },
           "foilstones": [
             {
@@ -7531,7 +7531,7 @@
           ],
           "prompt": {
             "PromptText": "বীণ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/বী.mp3"
+            "PromptAudio": "lang/bangla/audios/বী.mp3"
           },
           "foilstones": [
             {
@@ -7557,7 +7557,7 @@
           ],
           "prompt": {
             "PromptText": "শীত",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/শী.mp3"
+            "PromptAudio": "lang/bangla/audios/শী.mp3"
           },
           "foilstones": [
             {
@@ -7595,7 +7595,7 @@
           ],
           "prompt": {
             "PromptText": "বাণী",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/বাণী.mp3"
+            "PromptAudio": "lang/bangla/audios/বাণী.mp3"
           },
           "foilstones": [
             {
@@ -7621,7 +7621,7 @@
           ],
           "prompt": {
             "PromptText": "শীত",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/শীত.mp3"
+            "PromptAudio": "lang/bangla/audios/শীত.mp3"
           },
           "foilstones": [
             {
@@ -7647,7 +7647,7 @@
           ],
           "prompt": {
             "PromptText": "শীত",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/শীত.mp3"
+            "PromptAudio": "lang/bangla/audios/শীত.mp3"
           },
           "foilstones": [
             {
@@ -7673,7 +7673,7 @@
           ],
           "prompt": {
             "PromptText": "তীর",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/তীর.mp3"
+            "PromptAudio": "lang/bangla/audios/তীর.mp3"
           },
           "foilstones": [
             {
@@ -7702,7 +7702,7 @@
           ],
           "prompt": {
             "PromptText": "শীত",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/শীত.mp3"
+            "PromptAudio": "lang/bangla/audios/শীত.mp3"
           },
           "foilstones": [
             {
@@ -7740,7 +7740,7 @@
           ],
           "prompt": {
             "PromptText": "বাণী",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/বাণী.mp3"
+            "PromptAudio": "lang/bangla/audios/বাণী.mp3"
           },
           "foilstones": [
             {
@@ -7781,7 +7781,7 @@
           ],
           "prompt": {
             "PromptText": "বাণী",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/বাণী.mp3"
+            "PromptAudio": "lang/bangla/audios/বাণী.mp3"
           },
           "foilstones": [
             {
@@ -7822,7 +7822,7 @@
           ],
           "prompt": {
             "PromptText": "তীর",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/তীর.mp3"
+            "PromptAudio": "lang/bangla/audios/তীর.mp3"
           },
           "foilstones": [
             {
@@ -7860,7 +7860,7 @@
           ],
           "prompt": {
             "PromptText": "বাণী",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/বাণী.mp3"
+            "PromptAudio": "lang/bangla/audios/বাণী.mp3"
           },
           "foilstones": [
             {
@@ -7904,7 +7904,7 @@
           ],
           "prompt": {
             "PromptText": "বীণ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/বীণ.mp3"
+            "PromptAudio": "lang/bangla/audios/বীণ.mp3"
           },
           "foilstones": [
             {
@@ -7957,7 +7957,7 @@
           ],
           "prompt": {
             "PromptText": "বাণী",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/বাণী.mp3"
+            "PromptAudio": "lang/bangla/audios/বাণী.mp3"
           },
           "foilstones": [
             {
@@ -7998,7 +7998,7 @@
           ],
           "prompt": {
             "PromptText": "তীর",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/তীর.mp3"
+            "PromptAudio": "lang/bangla/audios/তীর.mp3"
           },
           "foilstones": [
             {
@@ -8039,7 +8039,7 @@
           ],
           "prompt": {
             "PromptText": "তীর",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/তীর.mp3"
+            "PromptAudio": "lang/bangla/audios/তীর.mp3"
           },
           "foilstones": [
             {
@@ -8080,7 +8080,7 @@
           ],
           "prompt": {
             "PromptText": "শীত",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/শীত.mp3"
+            "PromptAudio": "lang/bangla/audios/শীত.mp3"
           },
           "foilstones": [
             {
@@ -8118,7 +8118,7 @@
           ],
           "prompt": {
             "PromptText": "শীত",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/শীত.mp3"
+            "PromptAudio": "lang/bangla/audios/শীত.mp3"
           },
           "foilstones": [
             {
@@ -8171,7 +8171,7 @@
           ],
           "prompt": {
             "PromptText": "ড",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/ড.mp3"
+            "PromptAudio": "lang/bangla/audios/ড.mp3"
           },
           "foilstones": [
             {
@@ -8209,7 +8209,7 @@
           ],
           "prompt": {
             "PromptText": "দ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/দ.mp3"
+            "PromptAudio": "lang/bangla/audios/দ.mp3"
           },
           "foilstones": [
             {
@@ -8247,7 +8247,7 @@
           ],
           "prompt": {
             "PromptText": "ধ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/ধ.mp3"
+            "PromptAudio": "lang/bangla/audios/ধ.mp3"
           },
           "foilstones": [
             {
@@ -8282,7 +8282,7 @@
           ],
           "prompt": {
             "PromptText": "শ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/শ.mp3"
+            "PromptAudio": "lang/bangla/audios/শ.mp3"
           },
           "foilstones": [
             {
@@ -8323,7 +8323,7 @@
           ],
           "prompt": {
             "PromptText": "র",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/র.mp3"
+            "PromptAudio": "lang/bangla/audios/র.mp3"
           },
           "foilstones": [
             {
@@ -8373,7 +8373,7 @@
           ],
           "prompt": {
             "PromptText": "ড",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/ড.mp3"
+            "PromptAudio": "lang/bangla/audios/ড.mp3"
           },
           "foilstones": [
             {
@@ -8411,7 +8411,7 @@
           ],
           "prompt": {
             "PromptText": "র",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/র.mp3"
+            "PromptAudio": "lang/bangla/audios/র.mp3"
           },
           "foilstones": [
             {
@@ -8452,7 +8452,7 @@
           ],
           "prompt": {
             "PromptText": "দ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/দ.mp3"
+            "PromptAudio": "lang/bangla/audios/দ.mp3"
           },
           "foilstones": [
             {
@@ -8490,7 +8490,7 @@
           ],
           "prompt": {
             "PromptText": "উ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/উ.mp3"
+            "PromptAudio": "lang/bangla/audios/উ.mp3"
           },
           "foilstones": [
             {
@@ -8525,7 +8525,7 @@
           ],
           "prompt": {
             "PromptText": "ড",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/ড.mp3"
+            "PromptAudio": "lang/bangla/audios/ড.mp3"
           },
           "foilstones": [
             {
@@ -8575,7 +8575,7 @@
           ],
           "prompt": {
             "PromptText": "শ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/শ.mp3"
+            "PromptAudio": "lang/bangla/audios/শ.mp3"
           },
           "foilstones": [
             {
@@ -8613,7 +8613,7 @@
           ],
           "prompt": {
             "PromptText": "ড",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/ড.mp3"
+            "PromptAudio": "lang/bangla/audios/ড.mp3"
           },
           "foilstones": [
             {
@@ -8651,7 +8651,7 @@
           ],
           "prompt": {
             "PromptText": "ধ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/ধ.mp3"
+            "PromptAudio": "lang/bangla/audios/ধ.mp3"
           },
           "foilstones": [
             {
@@ -8689,7 +8689,7 @@
           ],
           "prompt": {
             "PromptText": "ধ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/ধ.mp3"
+            "PromptAudio": "lang/bangla/audios/ধ.mp3"
           },
           "foilstones": [
             {
@@ -8724,7 +8724,7 @@
           ],
           "prompt": {
             "PromptText": "শ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/শ.mp3"
+            "PromptAudio": "lang/bangla/audios/শ.mp3"
           },
           "foilstones": [
             {
@@ -8777,7 +8777,7 @@
           ],
           "prompt": {
             "PromptText": "শ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/শ.mp3"
+            "PromptAudio": "lang/bangla/audios/শ.mp3"
           },
           "foilstones": [
             {
@@ -8815,7 +8815,7 @@
           ],
           "prompt": {
             "PromptText": "উ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/উ.mp3"
+            "PromptAudio": "lang/bangla/audios/উ.mp3"
           },
           "foilstones": [
             {
@@ -8853,7 +8853,7 @@
           ],
           "prompt": {
             "PromptText": "ড",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/ড.mp3"
+            "PromptAudio": "lang/bangla/audios/ড.mp3"
           },
           "foilstones": [
             {
@@ -8891,7 +8891,7 @@
           ],
           "prompt": {
             "PromptText": "শ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/শ.mp3"
+            "PromptAudio": "lang/bangla/audios/শ.mp3"
           },
           "foilstones": [
             {
@@ -8926,7 +8926,7 @@
           ],
           "prompt": {
             "PromptText": "শ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/শ.mp3"
+            "PromptAudio": "lang/bangla/audios/শ.mp3"
           },
           "foilstones": [
             {
@@ -8979,7 +8979,7 @@
           ],
           "prompt": {
             "PromptText": "ধ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/ধ.mp3"
+            "PromptAudio": "lang/bangla/audios/ধ.mp3"
           },
           "foilstones": [
             {
@@ -9017,7 +9017,7 @@
           ],
           "prompt": {
             "PromptText": "উ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/উ.mp3"
+            "PromptAudio": "lang/bangla/audios/উ.mp3"
           },
           "foilstones": [
             {
@@ -9058,7 +9058,7 @@
           ],
           "prompt": {
             "PromptText": "ধ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/ধ.mp3"
+            "PromptAudio": "lang/bangla/audios/ধ.mp3"
           },
           "foilstones": [
             {
@@ -9096,7 +9096,7 @@
           ],
           "prompt": {
             "PromptText": "শ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/শ.mp3"
+            "PromptAudio": "lang/bangla/audios/শ.mp3"
           },
           "foilstones": [
             {
@@ -9131,7 +9131,7 @@
           ],
           "prompt": {
             "PromptText": "ড",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/ড.mp3"
+            "PromptAudio": "lang/bangla/audios/ড.mp3"
           },
           "foilstones": [
             {
@@ -9181,7 +9181,7 @@
           ],
           "prompt": {
             "PromptText": "উ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/উ.mp3"
+            "PromptAudio": "lang/bangla/audios/উ.mp3"
           },
           "foilstones": [
             {
@@ -9219,7 +9219,7 @@
           ],
           "prompt": {
             "PromptText": "শ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/শ.mp3"
+            "PromptAudio": "lang/bangla/audios/শ.mp3"
           },
           "foilstones": [
             {
@@ -9257,7 +9257,7 @@
           ],
           "prompt": {
             "PromptText": "র",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/র.mp3"
+            "PromptAudio": "lang/bangla/audios/র.mp3"
           },
           "foilstones": [
             {
@@ -9295,7 +9295,7 @@
           ],
           "prompt": {
             "PromptText": "উ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/উ.mp3"
+            "PromptAudio": "lang/bangla/audios/উ.mp3"
           },
           "foilstones": [
             {
@@ -9330,7 +9330,7 @@
           ],
           "prompt": {
             "PromptText": "ড",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/ড.mp3"
+            "PromptAudio": "lang/bangla/audios/ড.mp3"
           },
           "foilstones": [
             {
@@ -9383,7 +9383,7 @@
           ],
           "prompt": {
             "PromptText": "ডুমুর",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/ডু.mp3"
+            "PromptAudio": "lang/bangla/audios/ডু.mp3"
           },
           "foilstones": [
             {
@@ -9421,7 +9421,7 @@
           ],
           "prompt": {
             "PromptText": "ধুর",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/ধু.mp3"
+            "PromptAudio": "lang/bangla/audios/ধু.mp3"
           },
           "foilstones": [
             {
@@ -9459,7 +9459,7 @@
           ],
           "prompt": {
             "PromptText": "দুরু",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/দু.mp3"
+            "PromptAudio": "lang/bangla/audios/দু.mp3"
           },
           "foilstones": [
             {
@@ -9497,7 +9497,7 @@
           ],
           "prompt": {
             "PromptText": "ধুর",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/ধু.mp3"
+            "PromptAudio": "lang/bangla/audios/ধু.mp3"
           },
           "foilstones": [
             {
@@ -9532,7 +9532,7 @@
           ],
           "prompt": {
             "PromptText": "ধুর",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/ধু.mp3"
+            "PromptAudio": "lang/bangla/audios/ধু.mp3"
           },
           "foilstones": [
             {
@@ -9585,7 +9585,7 @@
           ],
           "prompt": {
             "PromptText": "রুল",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/রু.mp3"
+            "PromptAudio": "lang/bangla/audios/রু.mp3"
           },
           "foilstones": [
             {
@@ -9623,7 +9623,7 @@
           ],
           "prompt": {
             "PromptText": "শুধু",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/শু.mp3"
+            "PromptAudio": "lang/bangla/audios/শু.mp3"
           },
           "foilstones": [
             {
@@ -9661,7 +9661,7 @@
           ],
           "prompt": {
             "PromptText": "শুরু",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/শু.mp3"
+            "PromptAudio": "lang/bangla/audios/শু.mp3"
           },
           "foilstones": [
             {
@@ -9696,7 +9696,7 @@
           ],
           "prompt": {
             "PromptText": "রুল",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/রু.mp3"
+            "PromptAudio": "lang/bangla/audios/রু.mp3"
           },
           "foilstones": [
             {
@@ -9734,7 +9734,7 @@
           ],
           "prompt": {
             "PromptText": "ধুর",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/ধু.mp3"
+            "PromptAudio": "lang/bangla/audios/ধু.mp3"
           },
           "foilstones": [
             {
@@ -9787,7 +9787,7 @@
           ],
           "prompt": {
             "PromptText": "রুল",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/রু.mp3"
+            "PromptAudio": "lang/bangla/audios/রু.mp3"
           },
           "foilstones": [
             {
@@ -9825,7 +9825,7 @@
           ],
           "prompt": {
             "PromptText": "ডুমুর",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/ডু.mp3"
+            "PromptAudio": "lang/bangla/audios/ডু.mp3"
           },
           "foilstones": [
             {
@@ -9863,7 +9863,7 @@
           ],
           "prompt": {
             "PromptText": "ডুমুর",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/ডু.mp3"
+            "PromptAudio": "lang/bangla/audios/ডু.mp3"
           },
           "foilstones": [
             {
@@ -9898,7 +9898,7 @@
           ],
           "prompt": {
             "PromptText": "ধুর",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/ধু.mp3"
+            "PromptAudio": "lang/bangla/audios/ধু.mp3"
           },
           "foilstones": [
             {
@@ -9936,7 +9936,7 @@
           ],
           "prompt": {
             "PromptText": "ধুর",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/ধু.mp3"
+            "PromptAudio": "lang/bangla/audios/ধু.mp3"
           },
           "foilstones": [
             {
@@ -9989,7 +9989,7 @@
           ],
           "prompt": {
             "PromptText": "রুল",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/রু.mp3"
+            "PromptAudio": "lang/bangla/audios/রু.mp3"
           },
           "foilstones": [
             {
@@ -10027,7 +10027,7 @@
           ],
           "prompt": {
             "PromptText": "ধুর",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/ধু.mp3"
+            "PromptAudio": "lang/bangla/audios/ধু.mp3"
           },
           "foilstones": [
             {
@@ -10065,7 +10065,7 @@
           ],
           "prompt": {
             "PromptText": "রুল",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/রু.mp3"
+            "PromptAudio": "lang/bangla/audios/রু.mp3"
           },
           "foilstones": [
             {
@@ -10100,7 +10100,7 @@
           ],
           "prompt": {
             "PromptText": "ধুর",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/ধু.mp3"
+            "PromptAudio": "lang/bangla/audios/ধু.mp3"
           },
           "foilstones": [
             {
@@ -10138,7 +10138,7 @@
           ],
           "prompt": {
             "PromptText": "ডুমুর",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/ডু.mp3"
+            "PromptAudio": "lang/bangla/audios/ডু.mp3"
           },
           "foilstones": [
             {
@@ -10194,7 +10194,7 @@
           ],
           "prompt": {
             "PromptText": "ধুর",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/ধুর.mp3"
+            "PromptAudio": "lang/bangla/audios/ধুর.mp3"
           },
           "foilstones": [
             {
@@ -10238,7 +10238,7 @@
           ],
           "prompt": {
             "PromptText": "ডুমুর",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/ডুমুর.mp3"
+            "PromptAudio": "lang/bangla/audios/ডুমুর.mp3"
           },
           "foilstones": [
             {
@@ -10279,7 +10279,7 @@
           ],
           "prompt": {
             "PromptText": "শুধু",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/শুধু.mp3"
+            "PromptAudio": "lang/bangla/audios/শুধু.mp3"
           },
           "foilstones": [
             {
@@ -10317,7 +10317,7 @@
           ],
           "prompt": {
             "PromptText": "শুরু",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/শুরু.mp3"
+            "PromptAudio": "lang/bangla/audios/শুরু.mp3"
           },
           "foilstones": [
             {
@@ -10361,7 +10361,7 @@
           ],
           "prompt": {
             "PromptText": "ডুমুর",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/ডুমুর.mp3"
+            "PromptAudio": "lang/bangla/audios/ডুমুর.mp3"
           },
           "foilstones": [
             {
@@ -10417,7 +10417,7 @@
           ],
           "prompt": {
             "PromptText": "রুল",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/রুল.mp3"
+            "PromptAudio": "lang/bangla/audios/রুল.mp3"
           },
           "foilstones": [
             {
@@ -10458,7 +10458,7 @@
           ],
           "prompt": {
             "PromptText": "দুধ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/দুধ.mp3"
+            "PromptAudio": "lang/bangla/audios/দুধ.mp3"
           },
           "foilstones": [
             {
@@ -10499,7 +10499,7 @@
           ],
           "prompt": {
             "PromptText": "দুরু",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/দুরু.mp3"
+            "PromptAudio": "lang/bangla/audios/দুরু.mp3"
           },
           "foilstones": [
             {
@@ -10537,7 +10537,7 @@
           ],
           "prompt": {
             "PromptText": "শুধু",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/শুধু.mp3"
+            "PromptAudio": "lang/bangla/audios/শুধু.mp3"
           },
           "foilstones": [
             {
@@ -10578,7 +10578,7 @@
           ],
           "prompt": {
             "PromptText": "শুধু",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/শুধু.mp3"
+            "PromptAudio": "lang/bangla/audios/শুধু.mp3"
           },
           "foilstones": [
             {
@@ -10634,7 +10634,7 @@
           ],
           "prompt": {
             "PromptText": "শুধু",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/শুধু.mp3"
+            "PromptAudio": "lang/bangla/audios/শুধু.mp3"
           },
           "foilstones": [
             {
@@ -10675,7 +10675,7 @@
           ],
           "prompt": {
             "PromptText": "শুরু",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/শুরু.mp3"
+            "PromptAudio": "lang/bangla/audios/শুরু.mp3"
           },
           "foilstones": [
             {
@@ -10716,7 +10716,7 @@
           ],
           "prompt": {
             "PromptText": "দুরু",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/দুরু.mp3"
+            "PromptAudio": "lang/bangla/audios/দুরু.mp3"
           },
           "foilstones": [
             {
@@ -10754,7 +10754,7 @@
           ],
           "prompt": {
             "PromptText": "শুধু",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/শুধু.mp3"
+            "PromptAudio": "lang/bangla/audios/শুধু.mp3"
           },
           "foilstones": [
             {
@@ -10795,7 +10795,7 @@
           ],
           "prompt": {
             "PromptText": "দুরু",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/দুরু.mp3"
+            "PromptAudio": "lang/bangla/audios/দুরু.mp3"
           },
           "foilstones": [
             {
@@ -10848,7 +10848,7 @@
           ],
           "prompt": {
             "PromptText": "ক",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/ক.mp3"
+            "PromptAudio": "lang/bangla/audios/ক.mp3"
           },
           "foilstones": [
             {
@@ -10886,7 +10886,7 @@
           ],
           "prompt": {
             "PromptText": "দ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/দ.mp3"
+            "PromptAudio": "lang/bangla/audios/দ.mp3"
           },
           "foilstones": [
             {
@@ -10924,7 +10924,7 @@
           ],
           "prompt": {
             "PromptText": "ক",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/ক.mp3"
+            "PromptAudio": "lang/bangla/audios/ক.mp3"
           },
           "foilstones": [
             {
@@ -10956,7 +10956,7 @@
           ],
           "prompt": {
             "PromptText": "ক",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/ক.mp3"
+            "PromptAudio": "lang/bangla/audios/ক.mp3"
           },
           "foilstones": [
             {
@@ -10991,7 +10991,7 @@
           ],
           "prompt": {
             "PromptText": "প",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/প.mp3"
+            "PromptAudio": "lang/bangla/audios/প.mp3"
           },
           "foilstones": [
             {
@@ -11044,7 +11044,7 @@
           ],
           "prompt": {
             "PromptText": "প",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/প.mp3"
+            "PromptAudio": "lang/bangla/audios/প.mp3"
           },
           "foilstones": [
             {
@@ -11082,7 +11082,7 @@
           ],
           "prompt": {
             "PromptText": "প",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/প.mp3"
+            "PromptAudio": "lang/bangla/audios/প.mp3"
           },
           "foilstones": [
             {
@@ -11120,7 +11120,7 @@
           ],
           "prompt": {
             "PromptText": "ভ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/ভ.mp3"
+            "PromptAudio": "lang/bangla/audios/ভ.mp3"
           },
           "foilstones": [
             {
@@ -11158,7 +11158,7 @@
           ],
           "prompt": {
             "PromptText": "প",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/প.mp3"
+            "PromptAudio": "lang/bangla/audios/প.mp3"
           },
           "foilstones": [
             {
@@ -11193,7 +11193,7 @@
           ],
           "prompt": {
             "PromptText": "প",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/প.mp3"
+            "PromptAudio": "lang/bangla/audios/প.mp3"
           },
           "foilstones": [
             {
@@ -11246,7 +11246,7 @@
           ],
           "prompt": {
             "PromptText": "র",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/র.mp3"
+            "PromptAudio": "lang/bangla/audios/র.mp3"
           },
           "foilstones": [
             {
@@ -11284,7 +11284,7 @@
           ],
           "prompt": {
             "PromptText": "দ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/দ.mp3"
+            "PromptAudio": "lang/bangla/audios/দ.mp3"
           },
           "foilstones": [
             {
@@ -11322,7 +11322,7 @@
           ],
           "prompt": {
             "PromptText": "র",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/র.mp3"
+            "PromptAudio": "lang/bangla/audios/র.mp3"
           },
           "foilstones": [
             {
@@ -11354,7 +11354,7 @@
           ],
           "prompt": {
             "PromptText": "ঊ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/ঊ.mp3"
+            "PromptAudio": "lang/bangla/audios/ঊ.mp3"
           },
           "foilstones": [
             {
@@ -11389,7 +11389,7 @@
           ],
           "prompt": {
             "PromptText": "ঊ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/ঊ.mp3"
+            "PromptAudio": "lang/bangla/audios/ঊ.mp3"
           },
           "foilstones": [
             {
@@ -11442,7 +11442,7 @@
           ],
           "prompt": {
             "PromptText": "ত",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/ত.mp3"
+            "PromptAudio": "lang/bangla/audios/ত.mp3"
           },
           "foilstones": [
             {
@@ -11480,7 +11480,7 @@
           ],
           "prompt": {
             "PromptText": "প",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/প.mp3"
+            "PromptAudio": "lang/bangla/audios/প.mp3"
           },
           "foilstones": [
             {
@@ -11518,7 +11518,7 @@
           ],
           "prompt": {
             "PromptText": "ভ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/ভ.mp3"
+            "PromptAudio": "lang/bangla/audios/ভ.mp3"
           },
           "foilstones": [
             {
@@ -11556,7 +11556,7 @@
           ],
           "prompt": {
             "PromptText": "ঊ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/ঊ.mp3"
+            "PromptAudio": "lang/bangla/audios/ঊ.mp3"
           },
           "foilstones": [
             {
@@ -11591,7 +11591,7 @@
           ],
           "prompt": {
             "PromptText": "ঊ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/ঊ.mp3"
+            "PromptAudio": "lang/bangla/audios/ঊ.mp3"
           },
           "foilstones": [
             {
@@ -11644,7 +11644,7 @@
           ],
           "prompt": {
             "PromptText": "ভ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/ভ.mp3"
+            "PromptAudio": "lang/bangla/audios/ভ.mp3"
           },
           "foilstones": [
             {
@@ -11682,7 +11682,7 @@
           ],
           "prompt": {
             "PromptText": "র",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/র.mp3"
+            "PromptAudio": "lang/bangla/audios/র.mp3"
           },
           "foilstones": [
             {
@@ -11720,7 +11720,7 @@
           ],
           "prompt": {
             "PromptText": "ঊ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/ঊ.mp3"
+            "PromptAudio": "lang/bangla/audios/ঊ.mp3"
           },
           "foilstones": [
             {
@@ -11752,7 +11752,7 @@
           ],
           "prompt": {
             "PromptText": "প",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/প.mp3"
+            "PromptAudio": "lang/bangla/audios/প.mp3"
           },
           "foilstones": [
             {
@@ -11787,7 +11787,7 @@
           ],
           "prompt": {
             "PromptText": "র",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/র.mp3"
+            "PromptAudio": "lang/bangla/audios/র.mp3"
           },
           "foilstones": [
             {
@@ -11840,7 +11840,7 @@
           ],
           "prompt": {
             "PromptText": "দ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/দ.mp3"
+            "PromptAudio": "lang/bangla/audios/দ.mp3"
           },
           "foilstones": [
             {
@@ -11878,7 +11878,7 @@
           ],
           "prompt": {
             "PromptText": "র",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/র.mp3"
+            "PromptAudio": "lang/bangla/audios/র.mp3"
           },
           "foilstones": [
             {
@@ -11916,7 +11916,7 @@
           ],
           "prompt": {
             "PromptText": "ক",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/ক.mp3"
+            "PromptAudio": "lang/bangla/audios/ক.mp3"
           },
           "foilstones": [
             {
@@ -11954,7 +11954,7 @@
           ],
           "prompt": {
             "PromptText": "ঊ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/ঊ.mp3"
+            "PromptAudio": "lang/bangla/audios/ঊ.mp3"
           },
           "foilstones": [
             {
@@ -11995,7 +11995,7 @@
           ],
           "prompt": {
             "PromptText": "ত",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/ত.mp3"
+            "PromptAudio": "lang/bangla/audios/ত.mp3"
           },
           "foilstones": [
             {
@@ -12042,7 +12042,7 @@
           ],
           "prompt": {
             "PromptText": "দূত",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/দূ.mp3"
+            "PromptAudio": "lang/bangla/audios/দূ.mp3"
           },
           "foilstones": [
             {
@@ -12080,7 +12080,7 @@
           ],
           "prompt": {
             "PromptText": "কূপ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/কূ.mp3"
+            "PromptAudio": "lang/bangla/audios/কূ.mp3"
           },
           "foilstones": [
             {
@@ -12118,7 +12118,7 @@
           ],
           "prompt": {
             "PromptText": "দূত",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/দূ.mp3"
+            "PromptAudio": "lang/bangla/audios/দূ.mp3"
           },
           "foilstones": [
             {
@@ -12150,7 +12150,7 @@
           ],
           "prompt": {
             "PromptText": "ভূত",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/ভূ.mp3"
+            "PromptAudio": "lang/bangla/audios/ভূ.mp3"
           },
           "foilstones": [
             {
@@ -12185,7 +12185,7 @@
           ],
           "prompt": {
             "PromptText": "দূত",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/দূ.mp3"
+            "PromptAudio": "lang/bangla/audios/দূ.mp3"
           },
           "foilstones": [
             {
@@ -12238,7 +12238,7 @@
           ],
           "prompt": {
             "PromptText": "ভূত",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/ভূ.mp3"
+            "PromptAudio": "lang/bangla/audios/ভূ.mp3"
           },
           "foilstones": [
             {
@@ -12276,7 +12276,7 @@
           ],
           "prompt": {
             "PromptText": "কূপ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/কূ.mp3"
+            "PromptAudio": "lang/bangla/audios/কূ.mp3"
           },
           "foilstones": [
             {
@@ -12314,7 +12314,7 @@
           ],
           "prompt": {
             "PromptText": "কূপ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/কূ.mp3"
+            "PromptAudio": "lang/bangla/audios/কূ.mp3"
           },
           "foilstones": [
             {
@@ -12352,7 +12352,7 @@
           ],
           "prompt": {
             "PromptText": "ভূত",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/ভূ.mp3"
+            "PromptAudio": "lang/bangla/audios/ভূ.mp3"
           },
           "foilstones": [
             {
@@ -12387,7 +12387,7 @@
           ],
           "prompt": {
             "PromptText": "ভূত",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/ভূ.mp3"
+            "PromptAudio": "lang/bangla/audios/ভূ.mp3"
           },
           "foilstones": [
             {
@@ -12440,7 +12440,7 @@
           ],
           "prompt": {
             "PromptText": "রূপ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/রূ.mp3"
+            "PromptAudio": "lang/bangla/audios/রূ.mp3"
           },
           "foilstones": [
             {
@@ -12478,7 +12478,7 @@
           ],
           "prompt": {
             "PromptText": "পূর",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/পূ.mp3"
+            "PromptAudio": "lang/bangla/audios/পূ.mp3"
           },
           "foilstones": [
             {
@@ -12516,7 +12516,7 @@
           ],
           "prompt": {
             "PromptText": "রূপ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/রূ.mp3"
+            "PromptAudio": "lang/bangla/audios/রূ.mp3"
           },
           "foilstones": [
             {
@@ -12554,7 +12554,7 @@
           ],
           "prompt": {
             "PromptText": "ঊপ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/ঊ.mp3"
+            "PromptAudio": "lang/bangla/audios/ঊ.mp3"
           },
           "foilstones": [
             {
@@ -12589,7 +12589,7 @@
           ],
           "prompt": {
             "PromptText": "পূর",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/পূ.mp3"
+            "PromptAudio": "lang/bangla/audios/পূ.mp3"
           },
           "foilstones": [
             {
@@ -12642,7 +12642,7 @@
           ],
           "prompt": {
             "PromptText": "পূর",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/পূ.mp3"
+            "PromptAudio": "lang/bangla/audios/পূ.mp3"
           },
           "foilstones": [
             {
@@ -12680,7 +12680,7 @@
           ],
           "prompt": {
             "PromptText": "পূর",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/পূ.mp3"
+            "PromptAudio": "lang/bangla/audios/পূ.mp3"
           },
           "foilstones": [
             {
@@ -12718,7 +12718,7 @@
           ],
           "prompt": {
             "PromptText": "রূপ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/রূ.mp3"
+            "PromptAudio": "lang/bangla/audios/রূ.mp3"
           },
           "foilstones": [
             {
@@ -12750,7 +12750,7 @@
           ],
           "prompt": {
             "PromptText": "রূপ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/রূ.mp3"
+            "PromptAudio": "lang/bangla/audios/রূ.mp3"
           },
           "foilstones": [
             {
@@ -12785,7 +12785,7 @@
           ],
           "prompt": {
             "PromptText": "ভূত",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/ভূ.mp3"
+            "PromptAudio": "lang/bangla/audios/ভূ.mp3"
           },
           "foilstones": [
             {
@@ -12841,7 +12841,7 @@
           ],
           "prompt": {
             "PromptText": "রূপ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/রূপ.mp3"
+            "PromptAudio": "lang/bangla/audios/রূপ.mp3"
           },
           "foilstones": [
             {
@@ -12882,7 +12882,7 @@
           ],
           "prompt": {
             "PromptText": "ভূত",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/ভূত.mp3"
+            "PromptAudio": "lang/bangla/audios/ভূত.mp3"
           },
           "foilstones": [
             {
@@ -12923,7 +12923,7 @@
           ],
           "prompt": {
             "PromptText": "কূপ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/কূপ.mp3"
+            "PromptAudio": "lang/bangla/audios/কূপ.mp3"
           },
           "foilstones": [
             {
@@ -12964,7 +12964,7 @@
           ],
           "prompt": {
             "PromptText": "পূর",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/পূর.mp3"
+            "PromptAudio": "lang/bangla/audios/পূর.mp3"
           },
           "foilstones": [
             {
@@ -13002,7 +13002,7 @@
           ],
           "prompt": {
             "PromptText": "ঊপ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/ঊপ.mp3"
+            "PromptAudio": "lang/bangla/audios/ঊপ.mp3"
           },
           "foilstones": [
             {
@@ -13058,7 +13058,7 @@
           ],
           "prompt": {
             "PromptText": "ভূত",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/ভূত.mp3"
+            "PromptAudio": "lang/bangla/audios/ভূত.mp3"
           },
           "foilstones": [
             {
@@ -13099,7 +13099,7 @@
           ],
           "prompt": {
             "PromptText": "ভূত",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/ভূত.mp3"
+            "PromptAudio": "lang/bangla/audios/ভূত.mp3"
           },
           "foilstones": [
             {
@@ -13140,7 +13140,7 @@
           ],
           "prompt": {
             "PromptText": "দূত",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/দূত.mp3"
+            "PromptAudio": "lang/bangla/audios/দূত.mp3"
           },
           "foilstones": [
             {
@@ -13181,7 +13181,7 @@
           ],
           "prompt": {
             "PromptText": "দূত",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/দূত.mp3"
+            "PromptAudio": "lang/bangla/audios/দূত.mp3"
           },
           "foilstones": [
             {
@@ -13225,7 +13225,7 @@
           ],
           "prompt": {
             "PromptText": "ভূত",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/ভূত.mp3"
+            "PromptAudio": "lang/bangla/audios/ভূত.mp3"
           },
           "foilstones": [
             {
@@ -13275,7 +13275,7 @@
           ],
           "prompt": {
             "PromptText": "দূত",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/দূত.mp3"
+            "PromptAudio": "lang/bangla/audios/দূত.mp3"
           },
           "foilstones": [
             {
@@ -13316,7 +13316,7 @@
           ],
           "prompt": {
             "PromptText": "দূর",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/দূর.mp3"
+            "PromptAudio": "lang/bangla/audios/দূর.mp3"
           },
           "foilstones": [
             {
@@ -13357,7 +13357,7 @@
           ],
           "prompt": {
             "PromptText": "দূত",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/দূত.mp3"
+            "PromptAudio": "lang/bangla/audios/দূত.mp3"
           },
           "foilstones": [
             {
@@ -13392,7 +13392,7 @@
           ],
           "prompt": {
             "PromptText": "রূপ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/রূপ.mp3"
+            "PromptAudio": "lang/bangla/audios/রূপ.mp3"
           },
           "foilstones": [
             {
@@ -13430,7 +13430,7 @@
           ],
           "prompt": {
             "PromptText": "রূপ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/bangla/audios/রূপ.mp3"
+            "PromptAudio": "lang/bangla/audios/রূপ.mp3"
           },
           "foilstones": [
             {

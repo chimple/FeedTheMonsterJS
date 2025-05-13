@@ -10,9 +10,9 @@
   "minversion": 4,
   "langname": "AZERBAIJANI",
   "FeedbackAudios": [
-    "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/fantastic.mp3",
-    "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/great.mp3",
-    "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/amazing.mp3"  
+    "lang/azerbaijani/audios/fantastic.mp3",
+    "lang/azerbaijani/audios/great.mp3",
+    "lang/azerbaijani/audios/amazing.mp3"
   ],
   "OtherAudios": {
     "Select your player": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/Select-your-player.mp3",
@@ -39,7 +39,7 @@
           ],
           "prompt": {
             "PromptText": "n",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/n.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/n.mp3"
           },
           "foilstones": [
             {
@@ -59,7 +59,7 @@
           ],
           "prompt": {
             "PromptText": "a",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/a.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/a.mp3"
           },
           "foilstones": [
             {
@@ -79,7 +79,7 @@
           ],
           "prompt": {
             "PromptText": "t",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/t.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/t.mp3"
           },
           "foilstones": [
             {
@@ -99,7 +99,7 @@
           ],
           "prompt": {
             "PromptText": "q",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/q.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/q.mp3"
           },
           "foilstones": [
             {
@@ -119,7 +119,7 @@
           ],
           "prompt": {
             "PromptText": "q",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/q.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/q.mp3"
           },
           "foilstones": [
             {
@@ -154,7 +154,7 @@
           ],
           "prompt": {
             "PromptText": "a",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/a.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/a.mp3"
           },
           "foilstones": [
             {
@@ -177,7 +177,7 @@
           ],
           "prompt": {
             "PromptText": "b",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/b.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/b.mp3"
           },
           "foilstones": [
             {
@@ -200,7 +200,7 @@
           ],
           "prompt": {
             "PromptText": "n",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/n.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/n.mp3"
           },
           "foilstones": [
             {
@@ -223,7 +223,7 @@
           ],
           "prompt": {
             "PromptText": "n",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/n.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/n.mp3"
           },
           "foilstones": [
             {
@@ -246,7 +246,7 @@
           ],
           "prompt": {
             "PromptText": "n",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/n.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/n.mp3"
           },
           "foilstones": [
             {
@@ -284,7 +284,7 @@
           ],
           "prompt": {
             "PromptText": "b",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/b.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/b.mp3"
           },
           "foilstones": [
             {
@@ -304,7 +304,7 @@
           ],
           "prompt": {
             "PromptText": "q",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/q.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/q.mp3"
           },
           "foilstones": [
             {
@@ -324,7 +324,7 @@
           ],
           "prompt": {
             "PromptText": "b",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/b.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/b.mp3"
           },
           "foilstones": [
             {
@@ -344,7 +344,7 @@
           ],
           "prompt": {
             "PromptText": "a",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/a.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/a.mp3"
           },
           "foilstones": [
             {
@@ -364,7 +364,7 @@
           ],
           "prompt": {
             "PromptText": "a",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/a.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/a.mp3"
           },
           "foilstones": [
             {
@@ -399,7 +399,7 @@
           ],
           "prompt": {
             "PromptText": "b",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/b.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/b.mp3"
           },
           "foilstones": [
             {
@@ -419,7 +419,7 @@
           ],
           "prompt": {
             "PromptText": "b",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/b.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/b.mp3"
           },
           "foilstones": [
             {
@@ -439,7 +439,7 @@
           ],
           "prompt": {
             "PromptText": "q",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/q.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/q.mp3"
           },
           "foilstones": [
             {
@@ -459,7 +459,7 @@
           ],
           "prompt": {
             "PromptText": "t",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/t.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/t.mp3"
           },
           "foilstones": [
             {
@@ -479,7 +479,7 @@
           ],
           "prompt": {
             "PromptText": "a",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/a.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/a.mp3"
           },
           "foilstones": [
             {
@@ -514,7 +514,7 @@
           ],
           "prompt": {
             "PromptText": "a",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/a.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/a.mp3"
           },
           "foilstones": [
             {
@@ -537,7 +537,7 @@
           ],
           "prompt": {
             "PromptText": "b",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/b.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/b.mp3"
           },
           "foilstones": [
             {
@@ -560,7 +560,7 @@
           ],
           "prompt": {
             "PromptText": "q",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/q.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/q.mp3"
           },
           "foilstones": [
             {
@@ -583,7 +583,7 @@
           ],
           "prompt": {
             "PromptText": "a",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/a.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/a.mp3"
           },
           "foilstones": [
             {
@@ -606,7 +606,7 @@
           ],
           "prompt": {
             "PromptText": "q",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/q.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/q.mp3"
           },
           "foilstones": [
             {
@@ -644,7 +644,7 @@
           ],
           "prompt": {
             "PromptText": "t",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/t.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/t.mp3"
           },
           "foilstones": [
             {
@@ -667,7 +667,7 @@
           ],
           "prompt": {
             "PromptText": "b",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/b.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/b.mp3"
           },
           "foilstones": [
             {
@@ -690,7 +690,7 @@
           ],
           "prompt": {
             "PromptText": "t",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/t.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/t.mp3"
           },
           "foilstones": [
             {
@@ -713,7 +713,7 @@
           ],
           "prompt": {
             "PromptText": "b",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/b.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/b.mp3"
           },
           "foilstones": [
             {
@@ -736,7 +736,7 @@
           ],
           "prompt": {
             "PromptText": "a",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/a.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/a.mp3"
           },
           "foilstones": [
             {
@@ -774,7 +774,7 @@
           ],
           "prompt": {
             "PromptText": "ata",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/a.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/a.mp3"
           },
           "foilstones": [
             {
@@ -797,7 +797,7 @@
           ],
           "prompt": {
             "PromptText": "ata",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/a.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/a.mp3"
           },
           "foilstones": [
             {
@@ -820,7 +820,7 @@
           ],
           "prompt": {
             "PromptText": "at",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/a.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/a.mp3"
           },
           "foilstones": [
             {
@@ -843,7 +843,7 @@
           ],
           "prompt": {
             "PromptText": "ata",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/a.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/a.mp3"
           },
           "foilstones": [
             {
@@ -866,7 +866,7 @@
           ],
           "prompt": {
             "PromptText": "qat",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/q.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/q.mp3"
           },
           "foilstones": [
             {
@@ -904,7 +904,7 @@
           ],
           "prompt": {
             "PromptText": "nabat",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/n.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/n.mp3"
           },
           "foilstones": [
             {
@@ -927,7 +927,7 @@
           ],
           "prompt": {
             "PromptText": "banan",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/b.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/b.mp3"
           },
           "foilstones": [
             {
@@ -950,7 +950,7 @@
           ],
           "prompt": {
             "PromptText": "qab",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/q.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/q.mp3"
           },
           "foilstones": [
             {
@@ -973,7 +973,7 @@
           ],
           "prompt": {
             "PromptText": "baba",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/b.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/b.mp3"
           },
           "foilstones": [
             {
@@ -996,7 +996,7 @@
           ],
           "prompt": {
             "PromptText": "nabat",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/n.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/n.mp3"
           },
           "foilstones": [
             {
@@ -1034,7 +1034,7 @@
           ],
           "prompt": {
             "PromptText": "ana",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/a.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/a.mp3"
           },
           "foilstones": [
             {
@@ -1057,7 +1057,7 @@
           ],
           "prompt": {
             "PromptText": "nabat",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/n.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/n.mp3"
           },
           "foilstones": [
             {
@@ -1080,7 +1080,7 @@
           ],
           "prompt": {
             "PromptText": "banan",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/b.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/b.mp3"
           },
           "foilstones": [
             {
@@ -1103,7 +1103,7 @@
           ],
           "prompt": {
             "PromptText": "qab",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/q.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/q.mp3"
           },
           "foilstones": [
             {
@@ -1126,7 +1126,7 @@
           ],
           "prompt": {
             "PromptText": "qat",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/q.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/q.mp3"
           },
           "foilstones": [
             {
@@ -1170,7 +1170,7 @@
           ],
           "prompt": {
             "PromptText": "ata",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/ata.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/ata.mp3"
           },
           "foilstones": [
             {
@@ -1205,7 +1205,7 @@
           ],
           "prompt": {
             "PromptText": "banan",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/banan.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/banan.mp3"
           },
           "foilstones": [
             {
@@ -1240,7 +1240,7 @@
           ],
           "prompt": {
             "PromptText": "baba",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/baba.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/baba.mp3"
           },
           "foilstones": [
             {
@@ -1269,7 +1269,7 @@
           ],
           "prompt": {
             "PromptText": "qat",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/qat.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/qat.mp3"
           },
           "foilstones": [
             {
@@ -1304,7 +1304,7 @@
           ],
           "prompt": {
             "PromptText": "banan",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/banan.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/banan.mp3"
           },
           "foilstones": [
             {
@@ -1348,7 +1348,7 @@
           ],
           "prompt": {
             "PromptText": "baba",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/baba.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/baba.mp3"
           },
           "foilstones": [
             {
@@ -1377,7 +1377,7 @@
           ],
           "prompt": {
             "PromptText": "qab",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/qab.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/qab.mp3"
           },
           "foilstones": [
             {
@@ -1412,7 +1412,7 @@
           ],
           "prompt": {
             "PromptText": "banan",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/banan.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/banan.mp3"
           },
           "foilstones": [
             {
@@ -1441,7 +1441,7 @@
           ],
           "prompt": {
             "PromptText": "ana",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/ana.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/ana.mp3"
           },
           "foilstones": [
             {
@@ -1473,7 +1473,7 @@
           ],
           "prompt": {
             "PromptText": "ata",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/ata.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/ata.mp3"
           },
           "foilstones": [
             {
@@ -1520,7 +1520,7 @@
           ],
           "prompt": {
             "PromptText": "banan",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/banan.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/banan.mp3"
           },
           "foilstones": [
             {
@@ -1549,7 +1549,7 @@
           ],
           "prompt": {
             "PromptText": "ata",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/ata.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/ata.mp3"
           },
           "foilstones": [
             {
@@ -1584,7 +1584,7 @@
           ],
           "prompt": {
             "PromptText": "banan",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/banan.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/banan.mp3"
           },
           "foilstones": [
             {
@@ -1613,7 +1613,7 @@
           ],
           "prompt": {
             "PromptText": "qat",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/qat.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/qat.mp3"
           },
           "foilstones": [
             {
@@ -1648,7 +1648,7 @@
           ],
           "prompt": {
             "PromptText": "nabat",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/nabat.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/nabat.mp3"
           },
           "foilstones": [
             {
@@ -1686,7 +1686,7 @@
           ],
           "prompt": {
             "PromptText": "m",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/m.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/m.mp3"
           },
           "foilstones": [
             {
@@ -1709,7 +1709,7 @@
           ],
           "prompt": {
             "PromptText": "m",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/m.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/m.mp3"
           },
           "foilstones": [
             {
@@ -1732,7 +1732,7 @@
           ],
           "prompt": {
             "PromptText": "l",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/l.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/l.mp3"
           },
           "foilstones": [
             {
@@ -1755,7 +1755,7 @@
           ],
           "prompt": {
             "PromptText": "t",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/t.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/t.mp3"
           },
           "foilstones": [
             {
@@ -1778,7 +1778,7 @@
           ],
           "prompt": {
             "PromptText": "t",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/t.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/t.mp3"
           },
           "foilstones": [
             {
@@ -1816,7 +1816,7 @@
           ],
           "prompt": {
             "PromptText": "m",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/m.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/m.mp3"
           },
           "foilstones": [
             {
@@ -1839,7 +1839,7 @@
           ],
           "prompt": {
             "PromptText": "l",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/l.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/l.mp3"
           },
           "foilstones": [
             {
@@ -1862,7 +1862,7 @@
           ],
           "prompt": {
             "PromptText": "ə",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/ə.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/ə.mp3"
           },
           "foilstones": [
             {
@@ -1885,7 +1885,7 @@
           ],
           "prompt": {
             "PromptText": "l",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/l.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/l.mp3"
           },
           "foilstones": [
             {
@@ -1908,7 +1908,7 @@
           ],
           "prompt": {
             "PromptText": "ə",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/ə.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/ə.mp3"
           },
           "foilstones": [
             {
@@ -1946,7 +1946,7 @@
           ],
           "prompt": {
             "PromptText": "k",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/k.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/k.mp3"
           },
           "foilstones": [
             {
@@ -1966,7 +1966,7 @@
           ],
           "prompt": {
             "PromptText": "k",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/k.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/k.mp3"
           },
           "foilstones": [
             {
@@ -1986,7 +1986,7 @@
           ],
           "prompt": {
             "PromptText": "k",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/k.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/k.mp3"
           },
           "foilstones": [
             {
@@ -2006,7 +2006,7 @@
           ],
           "prompt": {
             "PromptText": "k",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/k.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/k.mp3"
           },
           "foilstones": [
             {
@@ -2026,7 +2026,7 @@
           ],
           "prompt": {
             "PromptText": "k",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/k.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/k.mp3"
           },
           "foilstones": [
             {
@@ -2061,7 +2061,7 @@
           ],
           "prompt": {
             "PromptText": "t",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/t.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/t.mp3"
           },
           "foilstones": [
             {
@@ -2084,7 +2084,7 @@
           ],
           "prompt": {
             "PromptText": "k",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/k.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/k.mp3"
           },
           "foilstones": [
             {
@@ -2107,7 +2107,7 @@
           ],
           "prompt": {
             "PromptText": "k",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/k.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/k.mp3"
           },
           "foilstones": [
             {
@@ -2130,7 +2130,7 @@
           ],
           "prompt": {
             "PromptText": "l",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/l.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/l.mp3"
           },
           "foilstones": [
             {
@@ -2153,7 +2153,7 @@
           ],
           "prompt": {
             "PromptText": "ə",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/ə.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/ə.mp3"
           },
           "foilstones": [
             {
@@ -2191,7 +2191,7 @@
           ],
           "prompt": {
             "PromptText": "m",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/m.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/m.mp3"
           },
           "foilstones": [
             {
@@ -2220,7 +2220,7 @@
           ],
           "prompt": {
             "PromptText": "l",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/l.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/l.mp3"
           },
           "foilstones": [
             {
@@ -2246,7 +2246,7 @@
           ],
           "prompt": {
             "PromptText": "l",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/l.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/l.mp3"
           },
           "foilstones": [
             {
@@ -2269,7 +2269,7 @@
           ],
           "prompt": {
             "PromptText": "k",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/k.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/k.mp3"
           },
           "foilstones": [
             {
@@ -2295,7 +2295,7 @@
           ],
           "prompt": {
             "PromptText": "ə",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/ə.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/ə.mp3"
           },
           "foilstones": [
             {
@@ -2333,7 +2333,7 @@
           ],
           "prompt": {
             "PromptText": "k",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/k.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/k.mp3"
           },
           "foilstones": [
             {
@@ -2359,7 +2359,7 @@
           ],
           "prompt": {
             "PromptText": "k",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/k.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/k.mp3"
           },
           "foilstones": [
             {
@@ -2385,7 +2385,7 @@
           ],
           "prompt": {
             "PromptText": "m",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/m.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/m.mp3"
           },
           "foilstones": [
             {
@@ -2411,7 +2411,7 @@
           ],
           "prompt": {
             "PromptText": "ə",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/ə.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/ə.mp3"
           },
           "foilstones": [
             {
@@ -2437,7 +2437,7 @@
           ],
           "prompt": {
             "PromptText": "ə",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/ə.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/ə.mp3"
           },
           "foilstones": [
             {
@@ -2481,7 +2481,7 @@
           ],
           "prompt": {
             "PromptText": "kəl",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/k.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/k.mp3"
           },
           "foilstones": [
             {
@@ -2507,7 +2507,7 @@
           ],
           "prompt": {
             "PromptText": "kəl",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/k.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/k.mp3"
           },
           "foilstones": [
             {
@@ -2533,7 +2533,7 @@
           ],
           "prompt": {
             "PromptText": "kətə",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/k.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/k.mp3"
           },
           "foilstones": [
             {
@@ -2559,7 +2559,7 @@
           ],
           "prompt": {
             "PromptText": "ət",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/ə.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/ə.mp3"
           },
           "foilstones": [
             {
@@ -2585,7 +2585,7 @@
           ],
           "prompt": {
             "PromptText": "lələk",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/l.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/l.mp3"
           },
           "foilstones": [
             {
@@ -2629,7 +2629,7 @@
           ],
           "prompt": {
             "PromptText": "kəl",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/k.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/k.mp3"
           },
           "foilstones": [
             {
@@ -2655,7 +2655,7 @@
           ],
           "prompt": {
             "PromptText": "kəl",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/k.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/k.mp3"
           },
           "foilstones": [
             {
@@ -2681,7 +2681,7 @@
           ],
           "prompt": {
             "PromptText": "lələk",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/l.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/l.mp3"
           },
           "foilstones": [
             {
@@ -2707,7 +2707,7 @@
           ],
           "prompt": {
             "PromptText": "əmək",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/ə.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/ə.mp3"
           },
           "foilstones": [
             {
@@ -2733,7 +2733,7 @@
           ],
           "prompt": {
             "PromptText": "ləkə",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/l.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/l.mp3"
           },
           "foilstones": [
             {
@@ -2777,7 +2777,7 @@
           ],
           "prompt": {
             "PromptText": "əmək",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/ə.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/ə.mp3"
           },
           "foilstones": [
             {
@@ -2803,7 +2803,7 @@
           ],
           "prompt": {
             "PromptText": "ləkə",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/l.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/l.mp3"
           },
           "foilstones": [
             {
@@ -2829,7 +2829,7 @@
           ],
           "prompt": {
             "PromptText": "əmək",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/ə.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/ə.mp3"
           },
           "foilstones": [
             {
@@ -2855,7 +2855,7 @@
           ],
           "prompt": {
             "PromptText": "ətək",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/ə.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/ə.mp3"
           },
           "foilstones": [
             {
@@ -2881,7 +2881,7 @@
           ],
           "prompt": {
             "PromptText": "lələk",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/l.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/l.mp3"
           },
           "foilstones": [
             {
@@ -2925,7 +2925,7 @@
           ],
           "prompt": {
             "PromptText": "ləkə",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/l.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/l.mp3"
           },
           "foilstones": [
             {
@@ -2948,7 +2948,7 @@
           ],
           "prompt": {
             "PromptText": "kəl",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/k.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/k.mp3"
           },
           "foilstones": [
             {
@@ -2971,7 +2971,7 @@
           ],
           "prompt": {
             "PromptText": "ətək",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/ə.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/ə.mp3"
           },
           "foilstones": [
             {
@@ -2994,7 +2994,7 @@
           ],
           "prompt": {
             "PromptText": "ətək",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/ə.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/ə.mp3"
           },
           "foilstones": [
             {
@@ -3017,7 +3017,7 @@
           ],
           "prompt": {
             "PromptText": "əl",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/ə.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/ə.mp3"
           },
           "foilstones": [
             {
@@ -3067,7 +3067,7 @@
           ],
           "prompt": {
             "PromptText": "lələk",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/lələk.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/lələk.mp3"
           },
           "foilstones": [
             {
@@ -3099,7 +3099,7 @@
           ],
           "prompt": {
             "PromptText": "ləkə",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/ləkə.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/ləkə.mp3"
           },
           "foilstones": [
             {
@@ -3128,7 +3128,7 @@
           ],
           "prompt": {
             "PromptText": "kəl",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/kəl.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/kəl.mp3"
           },
           "foilstones": [
             {
@@ -3154,7 +3154,7 @@
           ],
           "prompt": {
             "PromptText": "ət",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/ət.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/ət.mp3"
           },
           "foilstones": [
             {
@@ -3186,7 +3186,7 @@
           ],
           "prompt": {
             "PromptText": "ələk",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/ələk.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/ələk.mp3"
           },
           "foilstones": [
             {
@@ -3233,7 +3233,7 @@
           ],
           "prompt": {
             "PromptText": "lələk",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/lələk.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/lələk.mp3"
           },
           "foilstones": [
             {
@@ -3265,7 +3265,7 @@
           ],
           "prompt": {
             "PromptText": "ətək",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/ətək.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/ətək.mp3"
           },
           "foilstones": [
             {
@@ -3291,7 +3291,7 @@
           ],
           "prompt": {
             "PromptText": "əl",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/əl.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/əl.mp3"
           },
           "foilstones": [
             {
@@ -3320,7 +3320,7 @@
           ],
           "prompt": {
             "PromptText": "əl",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/əl.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/əl.mp3"
           },
           "foilstones": [
             {
@@ -3355,7 +3355,7 @@
           ],
           "prompt": {
             "PromptText": "lələk",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/lələk.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/lələk.mp3"
           },
           "foilstones": [
             {
@@ -3393,7 +3393,7 @@
           ],
           "prompt": {
             "PromptText": "ət",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/ət.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/ət.mp3"
           },
           "foilstones": [
             {
@@ -3428,7 +3428,7 @@
           ],
           "prompt": {
             "PromptText": "lələk",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/lələk.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/lələk.mp3"
           },
           "foilstones": [
             {
@@ -3460,7 +3460,7 @@
           ],
           "prompt": {
             "PromptText": "kətə",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/kətə.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/kətə.mp3"
           },
           "foilstones": [
             {
@@ -3489,7 +3489,7 @@
           ],
           "prompt": {
             "PromptText": "kəl",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/kəl.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/kəl.mp3"
           },
           "foilstones": [
             {
@@ -3521,7 +3521,7 @@
           ],
           "prompt": {
             "PromptText": "ləkə",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/ləkə.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/ləkə.mp3"
           },
           "foilstones": [
             {
@@ -3559,7 +3559,7 @@
           ],
           "prompt": {
             "PromptText": "m",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/m.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/m.mp3"
           },
           "foilstones": [
             {
@@ -3582,7 +3582,7 @@
           ],
           "prompt": {
             "PromptText": "t",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/t.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/t.mp3"
           },
           "foilstones": [
             {
@@ -3605,7 +3605,7 @@
           ],
           "prompt": {
             "PromptText": "r",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/r.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/r.mp3"
           },
           "foilstones": [
             {
@@ -3631,7 +3631,7 @@
           ],
           "prompt": {
             "PromptText": "t",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/t.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/t.mp3"
           },
           "foilstones": [
             {
@@ -3654,7 +3654,7 @@
           ],
           "prompt": {
             "PromptText": "d",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/d.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/d.mp3"
           },
           "foilstones": [
             {
@@ -3689,7 +3689,7 @@
           ],
           "prompt": {
             "PromptText": "t",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/t.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/t.mp3"
           },
           "foilstones": [
             {
@@ -3712,7 +3712,7 @@
           ],
           "prompt": {
             "PromptText": "r",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/r.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/r.mp3"
           },
           "foilstones": [
             {
@@ -3735,7 +3735,7 @@
           ],
           "prompt": {
             "PromptText": "t",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/t.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/t.mp3"
           },
           "foilstones": [
             {
@@ -3761,7 +3761,7 @@
           ],
           "prompt": {
             "PromptText": "m",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/m.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/m.mp3"
           },
           "foilstones": [
             {
@@ -3784,7 +3784,7 @@
           ],
           "prompt": {
             "PromptText": "d",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/d.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/d.mp3"
           },
           "foilstones": [
             {
@@ -3819,7 +3819,7 @@
           ],
           "prompt": {
             "PromptText": "l",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/l.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/l.mp3"
           },
           "foilstones": [
             {
@@ -3842,7 +3842,7 @@
           ],
           "prompt": {
             "PromptText": "d",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/d.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/d.mp3"
           },
           "foilstones": [
             {
@@ -3865,7 +3865,7 @@
           ],
           "prompt": {
             "PromptText": "e",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/e.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/e.mp3"
           },
           "foilstones": [
             {
@@ -3891,7 +3891,7 @@
           ],
           "prompt": {
             "PromptText": "t",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/t.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/t.mp3"
           },
           "foilstones": [
             {
@@ -3914,7 +3914,7 @@
           ],
           "prompt": {
             "PromptText": "m",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/m.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/m.mp3"
           },
           "foilstones": [
             {
@@ -3949,7 +3949,7 @@
           ],
           "prompt": {
             "PromptText": "n",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/n.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/n.mp3"
           },
           "foilstones": [
             {
@@ -3981,7 +3981,7 @@
           ],
           "prompt": {
             "PromptText": "n",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/n.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/n.mp3"
           },
           "foilstones": [
             {
@@ -4010,7 +4010,7 @@
           ],
           "prompt": {
             "PromptText": "e",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/e.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/e.mp3"
           },
           "foilstones": [
             {
@@ -4042,7 +4042,7 @@
           ],
           "prompt": {
             "PromptText": "r",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/r.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/r.mp3"
           },
           "foilstones": [
             {
@@ -4071,7 +4071,7 @@
           ],
           "prompt": {
             "PromptText": "m",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/m.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/m.mp3"
           },
           "foilstones": [
             {
@@ -4115,7 +4115,7 @@
           ],
           "prompt": {
             "PromptText": "r",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/r.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/r.mp3"
           },
           "foilstones": [
             {
@@ -4147,7 +4147,7 @@
           ],
           "prompt": {
             "PromptText": "l",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/l.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/l.mp3"
           },
           "foilstones": [
             {
@@ -4179,7 +4179,7 @@
           ],
           "prompt": {
             "PromptText": "n",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/n.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/n.mp3"
           },
           "foilstones": [
             {
@@ -4208,7 +4208,7 @@
           ],
           "prompt": {
             "PromptText": "l",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/l.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/l.mp3"
           },
           "foilstones": [
             {
@@ -4237,7 +4237,7 @@
           ],
           "prompt": {
             "PromptText": "r",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/r.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/r.mp3"
           },
           "foilstones": [
             {
@@ -4281,7 +4281,7 @@
           ],
           "prompt": {
             "PromptText": "e",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/e.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/e.mp3"
           },
           "foilstones": [
             {
@@ -4313,7 +4313,7 @@
           ],
           "prompt": {
             "PromptText": "d",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/d.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/d.mp3"
           },
           "foilstones": [
             {
@@ -4345,7 +4345,7 @@
           ],
           "prompt": {
             "PromptText": "n",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/n.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/n.mp3"
           },
           "foilstones": [
             {
@@ -4374,7 +4374,7 @@
           ],
           "prompt": {
             "PromptText": "t",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/t.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/t.mp3"
           },
           "foilstones": [
             {
@@ -4403,7 +4403,7 @@
           ],
           "prompt": {
             "PromptText": "n",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/n.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/n.mp3"
           },
           "foilstones": [
             {
@@ -4447,7 +4447,7 @@
           ],
           "prompt": {
             "PromptText": "metr",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/m.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/m.mp3"
           },
           "foilstones": [
             {
@@ -4476,7 +4476,7 @@
           ],
           "prompt": {
             "PromptText": "tel",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/t.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/t.mp3"
           },
           "foilstones": [
             {
@@ -4508,7 +4508,7 @@
           ],
           "prompt": {
             "PromptText": "metr",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/m.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/m.mp3"
           },
           "foilstones": [
             {
@@ -4540,7 +4540,7 @@
           ],
           "prompt": {
             "PromptText": "teatr",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/t.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/t.mp3"
           },
           "foilstones": [
             {
@@ -4569,7 +4569,7 @@
           ],
           "prompt": {
             "PromptText": "el",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/e.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/e.mp3"
           },
           "foilstones": [
             {
@@ -4613,7 +4613,7 @@
           ],
           "prompt": {
             "PromptText": "lent",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/l.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/l.mp3"
           },
           "foilstones": [
             {
@@ -4645,7 +4645,7 @@
           ],
           "prompt": {
             "PromptText": "en",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/e.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/e.mp3"
           },
           "foilstones": [
             {
@@ -4677,7 +4677,7 @@
           ],
           "prompt": {
             "PromptText": "lent",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/l.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/l.mp3"
           },
           "foilstones": [
             {
@@ -4706,7 +4706,7 @@
           ],
           "prompt": {
             "PromptText": "el",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/e.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/e.mp3"
           },
           "foilstones": [
             {
@@ -4738,7 +4738,7 @@
           ],
           "prompt": {
             "PromptText": "lent",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/l.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/l.mp3"
           },
           "foilstones": [
             {
@@ -4779,7 +4779,7 @@
           ],
           "prompt": {
             "PromptText": "elan",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/e.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/e.mp3"
           },
           "foilstones": [
             {
@@ -4811,7 +4811,7 @@
           ],
           "prompt": {
             "PromptText": "metr",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/m.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/m.mp3"
           },
           "foilstones": [
             {
@@ -4843,7 +4843,7 @@
           ],
           "prompt": {
             "PromptText": "teatr",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/t.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/t.mp3"
           },
           "foilstones": [
             {
@@ -4872,7 +4872,7 @@
           ],
           "prompt": {
             "PromptText": "tel",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/t.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/t.mp3"
           },
           "foilstones": [
             {
@@ -4904,7 +4904,7 @@
           ],
           "prompt": {
             "PromptText": "lent",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/l.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/l.mp3"
           },
           "foilstones": [
             {
@@ -4945,7 +4945,7 @@
           ],
           "prompt": {
             "PromptText": "el",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/e.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/e.mp3"
           },
           "foilstones": [
             {
@@ -4977,7 +4977,7 @@
           ],
           "prompt": {
             "PromptText": "lent",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/l.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/l.mp3"
           },
           "foilstones": [
             {
@@ -5009,7 +5009,7 @@
           ],
           "prompt": {
             "PromptText": "lent",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/l.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/l.mp3"
           },
           "foilstones": [
             {
@@ -5038,7 +5038,7 @@
           ],
           "prompt": {
             "PromptText": "en",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/e.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/e.mp3"
           },
           "foilstones": [
             {
@@ -5070,7 +5070,7 @@
           ],
           "prompt": {
             "PromptText": "metal",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/m.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/m.mp3"
           },
           "foilstones": [
             {
@@ -5120,7 +5120,7 @@
           ],
           "prompt": {
             "PromptText": "lent",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/lent.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/lent.mp3"
           },
           "foilstones": [
             {
@@ -5170,7 +5170,7 @@
           ],
           "prompt": {
             "PromptText": "teatr",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/teatr.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/teatr.mp3"
           },
           "foilstones": [
             {
@@ -5214,7 +5214,7 @@
           ],
           "prompt": {
             "PromptText": "metr",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/metr.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/metr.mp3"
           },
           "foilstones": [
             {
@@ -5261,7 +5261,7 @@
           ],
           "prompt": {
             "PromptText": "elan",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/elan.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/elan.mp3"
           },
           "foilstones": [
             {
@@ -5302,7 +5302,7 @@
           ],
           "prompt": {
             "PromptText": "lent",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/lent.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/lent.mp3"
           },
           "foilstones": [
             {
@@ -5364,7 +5364,7 @@
           ],
           "prompt": {
             "PromptText": "metr",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/metr.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/metr.mp3"
           },
           "foilstones": [
             {
@@ -5405,7 +5405,7 @@
           ],
           "prompt": {
             "PromptText": "elm",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/elm.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/elm.mp3"
           },
           "foilstones": [
             {
@@ -5446,7 +5446,7 @@
           ],
           "prompt": {
             "PromptText": "en",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/en.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/en.mp3"
           },
           "foilstones": [
             {
@@ -5490,7 +5490,7 @@
           ],
           "prompt": {
             "PromptText": "tel",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/tel.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/tel.mp3"
           },
           "foilstones": [
             {
@@ -5534,7 +5534,7 @@
           ],
           "prompt": {
             "PromptText": "el",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/el.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/el.mp3"
           },
           "foilstones": [
             {
@@ -5590,7 +5590,7 @@
           ],
           "prompt": {
             "PromptText": "medal",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/medal.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/medal.mp3"
           },
           "foilstones": [
             {
@@ -5634,7 +5634,7 @@
           ],
           "prompt": {
             "PromptText": "elm",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/elm.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/elm.mp3"
           },
           "foilstones": [
             {
@@ -5681,7 +5681,7 @@
           ],
           "prompt": {
             "PromptText": "tel",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/tel.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/tel.mp3"
           },
           "foilstones": [
             {
@@ -5725,7 +5725,7 @@
           ],
           "prompt": {
             "PromptText": "elm",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/elm.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/elm.mp3"
           },
           "foilstones": [
             {
@@ -5763,7 +5763,7 @@
           ],
           "prompt": {
             "PromptText": "el",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/el.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/el.mp3"
           },
           "foilstones": [
             {
@@ -5813,7 +5813,7 @@
           ],
           "prompt": {
             "PromptText": "d",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/d.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/d.mp3"
           },
           "foilstones": [
             {
@@ -5851,7 +5851,7 @@
           ],
           "prompt": {
             "PromptText": "b",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/b.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/b.mp3"
           },
           "foilstones": [
             {
@@ -5889,7 +5889,7 @@
           ],
           "prompt": {
             "PromptText": "d",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/d.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/d.mp3"
           },
           "foilstones": [
             {
@@ -5927,7 +5927,7 @@
           ],
           "prompt": {
             "PromptText": "d",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/d.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/d.mp3"
           },
           "foilstones": [
             {
@@ -5962,7 +5962,7 @@
           ],
           "prompt": {
             "PromptText": "o",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/o.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/o.mp3"
           },
           "foilstones": [
             {
@@ -6015,7 +6015,7 @@
           ],
           "prompt": {
             "PromptText": "l",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/l.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/l.mp3"
           },
           "foilstones": [
             {
@@ -6053,7 +6053,7 @@
           ],
           "prompt": {
             "PromptText": "o",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/o.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/o.mp3"
           },
           "foilstones": [
             {
@@ -6091,7 +6091,7 @@
           ],
           "prompt": {
             "PromptText": "b",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/b.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/b.mp3"
           },
           "foilstones": [
             {
@@ -6129,7 +6129,7 @@
           ],
           "prompt": {
             "PromptText": "b",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/b.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/b.mp3"
           },
           "foilstones": [
             {
@@ -6170,7 +6170,7 @@
           ],
           "prompt": {
             "PromptText": "l",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/l.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/l.mp3"
           },
           "foilstones": [
             {
@@ -6217,7 +6217,7 @@
           ],
           "prompt": {
             "PromptText": "l",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/l.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/l.mp3"
           },
           "foilstones": [
             {
@@ -6255,7 +6255,7 @@
           ],
           "prompt": {
             "PromptText": "o",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/o.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/o.mp3"
           },
           "foilstones": [
             {
@@ -6293,7 +6293,7 @@
           ],
           "prompt": {
             "PromptText": "b",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/b.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/b.mp3"
           },
           "foilstones": [
             {
@@ -6331,7 +6331,7 @@
           ],
           "prompt": {
             "PromptText": "b",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/b.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/b.mp3"
           },
           "foilstones": [
             {
@@ -6372,7 +6372,7 @@
           ],
           "prompt": {
             "PromptText": "y",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/y.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/y.mp3"
           },
           "foilstones": [
             {
@@ -6419,7 +6419,7 @@
           ],
           "prompt": {
             "PromptText": "o",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/o.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/o.mp3"
           },
           "foilstones": [
             {
@@ -6457,7 +6457,7 @@
           ],
           "prompt": {
             "PromptText": "l",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/l.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/l.mp3"
           },
           "foilstones": [
             {
@@ -6495,7 +6495,7 @@
           ],
           "prompt": {
             "PromptText": "n",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/n.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/n.mp3"
           },
           "foilstones": [
             {
@@ -6533,7 +6533,7 @@
           ],
           "prompt": {
             "PromptText": "n",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/n.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/n.mp3"
           },
           "foilstones": [
             {
@@ -6574,7 +6574,7 @@
           ],
           "prompt": {
             "PromptText": "l",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/l.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/l.mp3"
           },
           "foilstones": [
             {
@@ -6621,7 +6621,7 @@
           ],
           "prompt": {
             "PromptText": "b",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/b.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/b.mp3"
           },
           "foilstones": [
             {
@@ -6659,7 +6659,7 @@
           ],
           "prompt": {
             "PromptText": "l",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/l.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/l.mp3"
           },
           "foilstones": [
             {
@@ -6697,7 +6697,7 @@
           ],
           "prompt": {
             "PromptText": "d",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/d.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/d.mp3"
           },
           "foilstones": [
             {
@@ -6735,7 +6735,7 @@
           ],
           "prompt": {
             "PromptText": "l",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/l.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/l.mp3"
           },
           "foilstones": [
             {
@@ -6770,7 +6770,7 @@
           ],
           "prompt": {
             "PromptText": "d",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/d.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/d.mp3"
           },
           "foilstones": [
             {
@@ -6823,7 +6823,7 @@
           ],
           "prompt": {
             "PromptText": "l",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/l.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/l.mp3"
           },
           "foilstones": [
             {
@@ -6861,7 +6861,7 @@
           ],
           "prompt": {
             "PromptText": "l",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/l.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/l.mp3"
           },
           "foilstones": [
             {
@@ -6899,7 +6899,7 @@
           ],
           "prompt": {
             "PromptText": "b",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/b.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/b.mp3"
           },
           "foilstones": [
             {
@@ -6937,7 +6937,7 @@
           ],
           "prompt": {
             "PromptText": "n",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/n.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/n.mp3"
           },
           "foilstones": [
             {
@@ -6972,7 +6972,7 @@
           ],
           "prompt": {
             "PromptText": "n",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/n.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/n.mp3"
           },
           "foilstones": [
             {
@@ -7025,7 +7025,7 @@
           ],
           "prompt": {
             "PromptText": "lobya",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/l.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/l.mp3"
           },
           "foilstones": [
             {
@@ -7063,7 +7063,7 @@
           ],
           "prompt": {
             "PromptText": "boya",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/b.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/b.mp3"
           },
           "foilstones": [
             {
@@ -7101,7 +7101,7 @@
           ],
           "prompt": {
             "PromptText": "don",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/d.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/d.mp3"
           },
           "foilstones": [
             {
@@ -7136,7 +7136,7 @@
           ],
           "prompt": {
             "PromptText": "lobya",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/l.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/l.mp3"
           },
           "foilstones": [
             {
@@ -7177,7 +7177,7 @@
           ],
           "prompt": {
             "PromptText": "oba",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/o.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/o.mp3"
           },
           "foilstones": [
             {
@@ -7227,7 +7227,7 @@
           ],
           "prompt": {
             "PromptText": "lobya",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/l.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/l.mp3"
           },
           "foilstones": [
             {
@@ -7265,7 +7265,7 @@
           ],
           "prompt": {
             "PromptText": "lobya",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/l.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/l.mp3"
           },
           "foilstones": [
             {
@@ -7303,7 +7303,7 @@
           ],
           "prompt": {
             "PromptText": "lobya",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/l.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/l.mp3"
           },
           "foilstones": [
             {
@@ -7341,7 +7341,7 @@
           ],
           "prompt": {
             "PromptText": "lobya",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/l.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/l.mp3"
           },
           "foilstones": [
             {
@@ -7376,7 +7376,7 @@
           ],
           "prompt": {
             "PromptText": "dollar",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/d.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/d.mp3"
           },
           "foilstones": [
             {
@@ -7429,7 +7429,7 @@
           ],
           "prompt": {
             "PromptText": "yol",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/y.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/y.mp3"
           },
           "foilstones": [
             {
@@ -7467,7 +7467,7 @@
           ],
           "prompt": {
             "PromptText": "oba",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/o.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/o.mp3"
           },
           "foilstones": [
             {
@@ -7505,7 +7505,7 @@
           ],
           "prompt": {
             "PromptText": "odun",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/o.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/o.mp3"
           },
           "foilstones": [
             {
@@ -7543,7 +7543,7 @@
           ],
           "prompt": {
             "PromptText": "odun",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/o.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/o.mp3"
           },
           "foilstones": [
             {
@@ -7578,7 +7578,7 @@
           ],
           "prompt": {
             "PromptText": "dolab",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/d.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/d.mp3"
           },
           "foilstones": [
             {
@@ -7631,7 +7631,7 @@
           ],
           "prompt": {
             "PromptText": "yod",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/y.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/y.mp3"
           },
           "foilstones": [
             {
@@ -7654,7 +7654,7 @@
           ],
           "prompt": {
             "PromptText": "don",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/d.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/d.mp3"
           },
           "foilstones": [
             {
@@ -7677,7 +7677,7 @@
           ],
           "prompt": {
             "PromptText": "yod",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/y.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/y.mp3"
           },
           "foilstones": [
             {
@@ -7700,7 +7700,7 @@
           ],
           "prompt": {
             "PromptText": "dolab",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/d.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/d.mp3"
           },
           "foilstones": [
             {
@@ -7726,7 +7726,7 @@
           ],
           "prompt": {
             "PromptText": "dollar",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/d.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/d.mp3"
           },
           "foilstones": [
             {
@@ -7767,7 +7767,7 @@
           ],
           "prompt": {
             "PromptText": "yol",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/yol.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/yol.mp3"
           },
           "foilstones": [
             {
@@ -7799,7 +7799,7 @@
           ],
           "prompt": {
             "PromptText": "odun",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/odun.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/odun.mp3"
           },
           "foilstones": [
             {
@@ -7828,7 +7828,7 @@
           ],
           "prompt": {
             "PromptText": "don",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/don.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/don.mp3"
           },
           "foilstones": [
             {
@@ -7860,7 +7860,7 @@
           ],
           "prompt": {
             "PromptText": "boya",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/boya.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/boya.mp3"
           },
           "foilstones": [
             {
@@ -7895,7 +7895,7 @@
           ],
           "prompt": {
             "PromptText": "boya",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/boya.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/boya.mp3"
           },
           "foilstones": [
             {
@@ -7942,7 +7942,7 @@
           ],
           "prompt": {
             "PromptText": "dolab",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/dolab.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/dolab.mp3"
           },
           "foilstones": [
             {
@@ -7986,7 +7986,7 @@
           ],
           "prompt": {
             "PromptText": "yod",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/yod.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/yod.mp3"
           },
           "foilstones": [
             {
@@ -8039,7 +8039,7 @@
           ],
           "prompt": {
             "PromptText": "dollar",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/dollar.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/dollar.mp3"
           },
           "foilstones": [
             {
@@ -8089,7 +8089,7 @@
           ],
           "prompt": {
             "PromptText": "dollar",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/dollar.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/dollar.mp3"
           },
           "foilstones": [
             {
@@ -8142,7 +8142,7 @@
           ],
           "prompt": {
             "PromptText": "lobya",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/lobya.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/lobya.mp3"
           },
           "foilstones": [
             {
@@ -8195,7 +8195,7 @@
           ],
           "prompt": {
             "PromptText": "od",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/od.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/od.mp3"
           },
           "foilstones": [
             {
@@ -8242,7 +8242,7 @@
           ],
           "prompt": {
             "PromptText": "boya",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/boya.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/boya.mp3"
           },
           "foilstones": [
             {
@@ -8292,7 +8292,7 @@
           ],
           "prompt": {
             "PromptText": "lobya",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/lobya.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/lobya.mp3"
           },
           "foilstones": [
             {
@@ -8342,7 +8342,7 @@
           ],
           "prompt": {
             "PromptText": "lobya",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/lobya.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/lobya.mp3"
           },
           "foilstones": [
             {
@@ -8389,7 +8389,7 @@
           ],
           "prompt": {
             "PromptText": "lobya",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/lobya.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/lobya.mp3"
           },
           "foilstones": [
             {
@@ -8442,7 +8442,7 @@
           ],
           "prompt": {
             "PromptText": "l",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/l.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/l.mp3"
           },
           "foilstones": [
             {
@@ -8480,7 +8480,7 @@
           ],
           "prompt": {
             "PromptText": "n",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/n.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/n.mp3"
           },
           "foilstones": [
             {
@@ -8518,7 +8518,7 @@
           ],
           "prompt": {
             "PromptText": "c",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/c.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/c.mp3"
           },
           "foilstones": [
             {
@@ -8553,7 +8553,7 @@
           ],
           "prompt": {
             "PromptText": "d",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/d.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/d.mp3"
           },
           "foilstones": [
             {
@@ -8594,7 +8594,7 @@
           ],
           "prompt": {
             "PromptText": "c",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/c.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/c.mp3"
           },
           "foilstones": [
             {
@@ -8644,7 +8644,7 @@
           ],
           "prompt": {
             "PromptText": "d",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/d.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/d.mp3"
           },
           "foilstones": [
             {
@@ -8682,7 +8682,7 @@
           ],
           "prompt": {
             "PromptText": "i",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/i.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/i.mp3"
           },
           "foilstones": [
             {
@@ -8723,7 +8723,7 @@
           ],
           "prompt": {
             "PromptText": "l",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/l.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/l.mp3"
           },
           "foilstones": [
             {
@@ -8761,7 +8761,7 @@
           ],
           "prompt": {
             "PromptText": "n",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/n.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/n.mp3"
           },
           "foilstones": [
             {
@@ -8796,7 +8796,7 @@
           ],
           "prompt": {
             "PromptText": "c",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/c.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/c.mp3"
           },
           "foilstones": [
             {
@@ -8846,7 +8846,7 @@
           ],
           "prompt": {
             "PromptText": "l",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/l.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/l.mp3"
           },
           "foilstones": [
             {
@@ -8884,7 +8884,7 @@
           ],
           "prompt": {
             "PromptText": "n",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/n.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/n.mp3"
           },
           "foilstones": [
             {
@@ -8922,7 +8922,7 @@
           ],
           "prompt": {
             "PromptText": "c",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/c.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/c.mp3"
           },
           "foilstones": [
             {
@@ -8960,7 +8960,7 @@
           ],
           "prompt": {
             "PromptText": "l",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/l.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/l.mp3"
           },
           "foilstones": [
             {
@@ -8995,7 +8995,7 @@
           ],
           "prompt": {
             "PromptText": "i",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/i.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/i.mp3"
           },
           "foilstones": [
             {
@@ -9048,7 +9048,7 @@
           ],
           "prompt": {
             "PromptText": "i",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/i.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/i.mp3"
           },
           "foilstones": [
             {
@@ -9086,7 +9086,7 @@
           ],
           "prompt": {
             "PromptText": "i",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/i.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/i.mp3"
           },
           "foilstones": [
             {
@@ -9124,7 +9124,7 @@
           ],
           "prompt": {
             "PromptText": "c",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/c.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/c.mp3"
           },
           "foilstones": [
             {
@@ -9162,7 +9162,7 @@
           ],
           "prompt": {
             "PromptText": "n",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/n.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/n.mp3"
           },
           "foilstones": [
             {
@@ -9197,7 +9197,7 @@
           ],
           "prompt": {
             "PromptText": "n",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/n.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/n.mp3"
           },
           "foilstones": [
             {
@@ -9250,7 +9250,7 @@
           ],
           "prompt": {
             "PromptText": "c",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/c.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/c.mp3"
           },
           "foilstones": [
             {
@@ -9288,7 +9288,7 @@
           ],
           "prompt": {
             "PromptText": "d",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/d.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/d.mp3"
           },
           "foilstones": [
             {
@@ -9329,7 +9329,7 @@
           ],
           "prompt": {
             "PromptText": "l",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/l.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/l.mp3"
           },
           "foilstones": [
             {
@@ -9367,7 +9367,7 @@
           ],
           "prompt": {
             "PromptText": "d",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/d.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/d.mp3"
           },
           "foilstones": [
             {
@@ -9402,7 +9402,7 @@
           ],
           "prompt": {
             "PromptText": "d",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/d.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/d.mp3"
           },
           "foilstones": [
             {
@@ -9452,7 +9452,7 @@
           ],
           "prompt": {
             "PromptText": "l",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/l.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/l.mp3"
           },
           "foilstones": [
             {
@@ -9490,7 +9490,7 @@
           ],
           "prompt": {
             "PromptText": "d",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/d.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/d.mp3"
           },
           "foilstones": [
             {
@@ -9528,7 +9528,7 @@
           ],
           "prompt": {
             "PromptText": "n",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/n.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/n.mp3"
           },
           "foilstones": [
             {
@@ -9566,7 +9566,7 @@
           ],
           "prompt": {
             "PromptText": "d",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/d.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/d.mp3"
           },
           "foilstones": [
             {
@@ -9601,7 +9601,7 @@
           ],
           "prompt": {
             "PromptText": "d",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/d.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/d.mp3"
           },
           "foilstones": [
             {
@@ -9654,7 +9654,7 @@
           ],
           "prompt": {
             "PromptText": "cin",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/c.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/c.mp3"
           },
           "foilstones": [
             {
@@ -9692,7 +9692,7 @@
           ],
           "prompt": {
             "PromptText": "din",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/d.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/d.mp3"
           },
           "foilstones": [
             {
@@ -9730,7 +9730,7 @@
           ],
           "prompt": {
             "PromptText": "cin",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/c.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/c.mp3"
           },
           "foilstones": [
             {
@@ -9768,7 +9768,7 @@
           ],
           "prompt": {
             "PromptText": "lil",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/l.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/l.mp3"
           },
           "foilstones": [
             {
@@ -9803,7 +9803,7 @@
           ],
           "prompt": {
             "PromptText": "nida",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/n.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/n.mp3"
           },
           "foilstones": [
             {
@@ -9856,7 +9856,7 @@
           ],
           "prompt": {
             "PromptText": "dil",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/d.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/d.mp3"
           },
           "foilstones": [
             {
@@ -9894,7 +9894,7 @@
           ],
           "prompt": {
             "PromptText": "din",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/d.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/d.mp3"
           },
           "foilstones": [
             {
@@ -9932,7 +9932,7 @@
           ],
           "prompt": {
             "PromptText": "din",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/d.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/d.mp3"
           },
           "foilstones": [
             {
@@ -9967,7 +9967,7 @@
           ],
           "prompt": {
             "PromptText": "lil",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/l.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/l.mp3"
           },
           "foilstones": [
             {
@@ -10005,7 +10005,7 @@
           ],
           "prompt": {
             "PromptText": "din",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/d.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/d.mp3"
           },
           "foilstones": [
             {
@@ -10058,7 +10058,7 @@
           ],
           "prompt": {
             "PromptText": "din",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/d.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/d.mp3"
           },
           "foilstones": [
             {
@@ -10096,7 +10096,7 @@
           ],
           "prompt": {
             "PromptText": "nadinc",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/n.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/n.mp3"
           },
           "foilstones": [
             {
@@ -10134,7 +10134,7 @@
           ],
           "prompt": {
             "PromptText": "din",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/d.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/d.mp3"
           },
           "foilstones": [
             {
@@ -10169,7 +10169,7 @@
           ],
           "prompt": {
             "PromptText": "nadinc",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/n.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/n.mp3"
           },
           "foilstones": [
             {
@@ -10207,7 +10207,7 @@
           ],
           "prompt": {
             "PromptText": "nadinc",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/n.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/n.mp3"
           },
           "foilstones": [
             {
@@ -10260,7 +10260,7 @@
           ],
           "prompt": {
             "PromptText": "nida",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/n.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/n.mp3"
           },
           "foilstones": [
             {
@@ -10298,7 +10298,7 @@
           ],
           "prompt": {
             "PromptText": "cild",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/c.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/c.mp3"
           },
           "foilstones": [
             {
@@ -10336,7 +10336,7 @@
           ],
           "prompt": {
             "PromptText": "din",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/d.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/d.mp3"
           },
           "foilstones": [
             {
@@ -10371,7 +10371,7 @@
           ],
           "prompt": {
             "PromptText": "lil",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/l.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/l.mp3"
           },
           "foilstones": [
             {
@@ -10409,7 +10409,7 @@
           ],
           "prompt": {
             "PromptText": "nadinc",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/n.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/n.mp3"
           },
           "foilstones": [
             {
@@ -10468,7 +10468,7 @@
           ],
           "prompt": {
             "PromptText": "cin",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/cin.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/cin.mp3"
           },
           "foilstones": [
             {
@@ -10521,7 +10521,7 @@
           ],
           "prompt": {
             "PromptText": "nadinc",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/nadinc.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/nadinc.mp3"
           },
           "foilstones": [
             {
@@ -10568,7 +10568,7 @@
           ],
           "prompt": {
             "PromptText": "nida",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/nida.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/nida.mp3"
           },
           "foilstones": [
             {
@@ -10609,7 +10609,7 @@
           ],
           "prompt": {
             "PromptText": "dil",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/dil.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/dil.mp3"
           },
           "foilstones": [
             {
@@ -10656,7 +10656,7 @@
           ],
           "prompt": {
             "PromptText": "cild",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/cild.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/cild.mp3"
           },
           "foilstones": [
             {
@@ -10718,7 +10718,7 @@
           ],
           "prompt": {
             "PromptText": "nida",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/nida.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/nida.mp3"
           },
           "foilstones": [
             {
@@ -10762,7 +10762,7 @@
           ],
           "prompt": {
             "PromptText": "din",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/din.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/din.mp3"
           },
           "foilstones": [
             {
@@ -10806,7 +10806,7 @@
           ],
           "prompt": {
             "PromptText": "dil",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/dil.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/dil.mp3"
           },
           "foilstones": [
             {
@@ -10850,7 +10850,7 @@
           ],
           "prompt": {
             "PromptText": "nida",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/nida.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/nida.mp3"
           },
           "foilstones": [
             {
@@ -10897,7 +10897,7 @@
           ],
           "prompt": {
             "PromptText": "nida",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/nida.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/nida.mp3"
           },
           "foilstones": [
             {
@@ -10959,7 +10959,7 @@
           ],
           "prompt": {
             "PromptText": "cild",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/cild.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/cild.mp3"
           },
           "foilstones": [
             {
@@ -11003,7 +11003,7 @@
           ],
           "prompt": {
             "PromptText": "cin",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/cin.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/cin.mp3"
           },
           "foilstones": [
             {
@@ -11047,7 +11047,7 @@
           ],
           "prompt": {
             "PromptText": "din",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/din.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/din.mp3"
           },
           "foilstones": [
             {
@@ -11088,7 +11088,7 @@
           ],
           "prompt": {
             "PromptText": "lil",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/lil.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/lil.mp3"
           },
           "foilstones": [
             {
@@ -11132,7 +11132,7 @@
           ],
           "prompt": {
             "PromptText": "din",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/din.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/din.mp3"
           },
           "foilstones": [
             {
@@ -11185,7 +11185,7 @@
           ],
           "prompt": {
             "PromptText": "g",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/g.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/g.mp3"
           },
           "foilstones": [
             {
@@ -11223,7 +11223,7 @@
           ],
           "prompt": {
             "PromptText": "k",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/k.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/k.mp3"
           },
           "foilstones": [
             {
@@ -11261,7 +11261,7 @@
           ],
           "prompt": {
             "PromptText": "k",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/k.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/k.mp3"
           },
           "foilstones": [
             {
@@ -11293,7 +11293,7 @@
           ],
           "prompt": {
             "PromptText": "l",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/l.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/l.mp3"
           },
           "foilstones": [
             {
@@ -11328,7 +11328,7 @@
           ],
           "prompt": {
             "PromptText": "k",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/k.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/k.mp3"
           },
           "foilstones": [
             {
@@ -11381,7 +11381,7 @@
           ],
           "prompt": {
             "PromptText": "z",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/z.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/z.mp3"
           },
           "foilstones": [
             {
@@ -11419,7 +11419,7 @@
           ],
           "prompt": {
             "PromptText": "m",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/m.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/m.mp3"
           },
           "foilstones": [
             {
@@ -11457,7 +11457,7 @@
           ],
           "prompt": {
             "PromptText": "l",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/l.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/l.mp3"
           },
           "foilstones": [
             {
@@ -11495,7 +11495,7 @@
           ],
           "prompt": {
             "PromptText": "g",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/g.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/g.mp3"
           },
           "foilstones": [
             {
@@ -11530,7 +11530,7 @@
           ],
           "prompt": {
             "PromptText": "ö",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/ö.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/ö.mp3"
           },
           "foilstones": [
             {
@@ -11583,7 +11583,7 @@
           ],
           "prompt": {
             "PromptText": "k",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/k.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/k.mp3"
           },
           "foilstones": [
             {
@@ -11621,7 +11621,7 @@
           ],
           "prompt": {
             "PromptText": "k",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/k.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/k.mp3"
           },
           "foilstones": [
             {
@@ -11659,7 +11659,7 @@
           ],
           "prompt": {
             "PromptText": "k",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/k.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/k.mp3"
           },
           "foilstones": [
             {
@@ -11691,7 +11691,7 @@
           ],
           "prompt": {
             "PromptText": "l",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/l.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/l.mp3"
           },
           "foilstones": [
             {
@@ -11726,7 +11726,7 @@
           ],
           "prompt": {
             "PromptText": "m",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/m.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/m.mp3"
           },
           "foilstones": [
             {
@@ -11779,7 +11779,7 @@
           ],
           "prompt": {
             "PromptText": "ö",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/ö.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/ö.mp3"
           },
           "foilstones": [
             {
@@ -11817,7 +11817,7 @@
           ],
           "prompt": {
             "PromptText": "z",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/z.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/z.mp3"
           },
           "foilstones": [
             {
@@ -11855,7 +11855,7 @@
           ],
           "prompt": {
             "PromptText": "k",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/k.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/k.mp3"
           },
           "foilstones": [
             {
@@ -11893,7 +11893,7 @@
           ],
           "prompt": {
             "PromptText": "z",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/z.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/z.mp3"
           },
           "foilstones": [
             {
@@ -11928,7 +11928,7 @@
           ],
           "prompt": {
             "PromptText": "g",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/g.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/g.mp3"
           },
           "foilstones": [
             {
@@ -11981,7 +11981,7 @@
           ],
           "prompt": {
             "PromptText": "k",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/k.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/k.mp3"
           },
           "foilstones": [
             {
@@ -12019,7 +12019,7 @@
           ],
           "prompt": {
             "PromptText": "ö",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/ö.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/ö.mp3"
           },
           "foilstones": [
             {
@@ -12057,7 +12057,7 @@
           ],
           "prompt": {
             "PromptText": "ö",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/ö.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/ö.mp3"
           },
           "foilstones": [
             {
@@ -12089,7 +12089,7 @@
           ],
           "prompt": {
             "PromptText": "k",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/k.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/k.mp3"
           },
           "foilstones": [
             {
@@ -12124,7 +12124,7 @@
           ],
           "prompt": {
             "PromptText": "m",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/m.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/m.mp3"
           },
           "foilstones": [
             {
@@ -12177,7 +12177,7 @@
           ],
           "prompt": {
             "PromptText": "m",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/m.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/m.mp3"
           },
           "foilstones": [
             {
@@ -12215,7 +12215,7 @@
           ],
           "prompt": {
             "PromptText": "k",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/k.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/k.mp3"
           },
           "foilstones": [
             {
@@ -12253,7 +12253,7 @@
           ],
           "prompt": {
             "PromptText": "z",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/z.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/z.mp3"
           },
           "foilstones": [
             {
@@ -12291,7 +12291,7 @@
           ],
           "prompt": {
             "PromptText": "k",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/k.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/k.mp3"
           },
           "foilstones": [
             {
@@ -12332,7 +12332,7 @@
           ],
           "prompt": {
             "PromptText": "g",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/g.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/g.mp3"
           },
           "foilstones": [
             {
@@ -12379,7 +12379,7 @@
           ],
           "prompt": {
             "PromptText": "zökəm",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/z.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/z.mp3"
           },
           "foilstones": [
             {
@@ -12417,7 +12417,7 @@
           ],
           "prompt": {
             "PromptText": "ölkə",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/ö.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/ö.mp3"
           },
           "foilstones": [
             {
@@ -12455,7 +12455,7 @@
           ],
           "prompt": {
             "PromptText": "göz",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/g.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/g.mp3"
           },
           "foilstones": [
             {
@@ -12487,7 +12487,7 @@
           ],
           "prompt": {
             "PromptText": "zökəm",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/z.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/z.mp3"
           },
           "foilstones": [
             {
@@ -12522,7 +12522,7 @@
           ],
           "prompt": {
             "PromptText": "kölgə",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/k.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/k.mp3"
           },
           "foilstones": [
             {
@@ -12575,7 +12575,7 @@
           ],
           "prompt": {
             "PromptText": "zökəm",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/z.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/z.mp3"
           },
           "foilstones": [
             {
@@ -12613,7 +12613,7 @@
           ],
           "prompt": {
             "PromptText": "göl",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/g.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/g.mp3"
           },
           "foilstones": [
             {
@@ -12651,7 +12651,7 @@
           ],
           "prompt": {
             "PromptText": "göz",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/g.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/g.mp3"
           },
           "foilstones": [
             {
@@ -12689,7 +12689,7 @@
           ],
           "prompt": {
             "PromptText": "köz",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/k.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/k.mp3"
           },
           "foilstones": [
             {
@@ -12724,7 +12724,7 @@
           ],
           "prompt": {
             "PromptText": "zökəm",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/z.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/z.mp3"
           },
           "foilstones": [
             {
@@ -12777,7 +12777,7 @@
           ],
           "prompt": {
             "PromptText": "zökəm",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/z.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/z.mp3"
           },
           "foilstones": [
             {
@@ -12815,7 +12815,7 @@
           ],
           "prompt": {
             "PromptText": "göz",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/g.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/g.mp3"
           },
           "foilstones": [
             {
@@ -12853,7 +12853,7 @@
           ],
           "prompt": {
             "PromptText": "kölgə",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/k.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/k.mp3"
           },
           "foilstones": [
             {
@@ -12891,7 +12891,7 @@
           ],
           "prompt": {
             "PromptText": "öküz",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/ö.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/ö.mp3"
           },
           "foilstones": [
             {
@@ -12926,7 +12926,7 @@
           ],
           "prompt": {
             "PromptText": "ölkə",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/ö.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/ö.mp3"
           },
           "foilstones": [
             {
@@ -12979,7 +12979,7 @@
           ],
           "prompt": {
             "PromptText": "ölkə",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/ö.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/ö.mp3"
           },
           "foilstones": [
             {
@@ -13017,7 +13017,7 @@
           ],
           "prompt": {
             "PromptText": "köz",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/k.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/k.mp3"
           },
           "foilstones": [
             {
@@ -13055,7 +13055,7 @@
           ],
           "prompt": {
             "PromptText": "öküz",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/ö.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/ö.mp3"
           },
           "foilstones": [
             {
@@ -13087,7 +13087,7 @@
           ],
           "prompt": {
             "PromptText": "göz",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/g.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/g.mp3"
           },
           "foilstones": [
             {
@@ -13122,7 +13122,7 @@
           ],
           "prompt": {
             "PromptText": "göl",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/g.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/g.mp3"
           },
           "foilstones": [
             {
@@ -13184,7 +13184,7 @@
           ],
           "prompt": {
             "PromptText": "ölkə",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/ölkə.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/ölkə.mp3"
           },
           "foilstones": [
             {
@@ -13228,7 +13228,7 @@
           ],
           "prompt": {
             "PromptText": "kök",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/kök.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/kök.mp3"
           },
           "foilstones": [
             {
@@ -13272,7 +13272,7 @@
           ],
           "prompt": {
             "PromptText": "göz",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/göz.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/göz.mp3"
           },
           "foilstones": [
             {
@@ -13319,7 +13319,7 @@
           ],
           "prompt": {
             "PromptText": "öküz",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/öküz.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/öküz.mp3"
           },
           "foilstones": [
             {
@@ -13360,7 +13360,7 @@
           ],
           "prompt": {
             "PromptText": "göl",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/göl.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/göl.mp3"
           },
           "foilstones": [
             {
@@ -13419,7 +13419,7 @@
           ],
           "prompt": {
             "PromptText": "göz",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/göz.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/göz.mp3"
           },
           "foilstones": [
             {
@@ -13463,7 +13463,7 @@
           ],
           "prompt": {
             "PromptText": "köz",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/köz.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/köz.mp3"
           },
           "foilstones": [
             {
@@ -13510,7 +13510,7 @@
           ],
           "prompt": {
             "PromptText": "öküz",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/öküz.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/öküz.mp3"
           },
           "foilstones": [
             {
@@ -13557,7 +13557,7 @@
           ],
           "prompt": {
             "PromptText": "öküz",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/öküz.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/öküz.mp3"
           },
           "foilstones": [
             {
@@ -13604,7 +13604,7 @@
           ],
           "prompt": {
             "PromptText": "göl",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/göl.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/göl.mp3"
           },
           "foilstones": [
             {
@@ -13663,7 +13663,7 @@
           ],
           "prompt": {
             "PromptText": "kölgə",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/kölgə.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/kölgə.mp3"
           },
           "foilstones": [
             {
@@ -13707,7 +13707,7 @@
           ],
           "prompt": {
             "PromptText": "göz",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/göz.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/göz.mp3"
           },
           "foilstones": [
             {
@@ -13757,7 +13757,7 @@
           ],
           "prompt": {
             "PromptText": "kölgə",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/kölgə.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/kölgə.mp3"
           },
           "foilstones": [
             {
@@ -13795,7 +13795,7 @@
           ],
           "prompt": {
             "PromptText": "göz",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/göz.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/göz.mp3"
           },
           "foilstones": [
             {
@@ -13836,7 +13836,7 @@
           ],
           "prompt": {
             "PromptText": "göz",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/azerbaijani/audios/göz.mp3"
+            "PromptAudio": "lang/azerbaijani/audios/göz.mp3"
           },
           "foilstones": [
             {

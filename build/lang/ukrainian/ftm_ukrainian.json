@@ -10,9 +10,9 @@
   "minversion": 3,
   "langname": "UKRAINIAN",
   "FeedbackAudios": [
-    "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/fantastic.mp3",
-    "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/great.mp3",
-    "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/amazing.mp3"
+    "lang/ukrainian/audios/fantastic.mp3",
+    "lang/ukrainian/audios/great.mp3",
+    "lang/ukrainian/audios/amazing.mp3"
   ],
   "OtherAudios": {
     "Select your player": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/Select-your-player.mp3",
@@ -39,7 +39,7 @@
           ],
           "prompt": {
             "PromptText": "а",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/а.mp3"
+            "PromptAudio": "lang/ukrainian/audios/а.mp3"
           },
           "foilstones": [
             {
@@ -59,7 +59,7 @@
           ],
           "prompt": {
             "PromptText": "б",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/б.mp3"
+            "PromptAudio": "lang/ukrainian/audios/б.mp3"
           },
           "foilstones": [
             {
@@ -79,7 +79,7 @@
           ],
           "prompt": {
             "PromptText": "ж",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/ж.mp3"
+            "PromptAudio": "lang/ukrainian/audios/ж.mp3"
           },
           "foilstones": [
             {
@@ -99,7 +99,7 @@
           ],
           "prompt": {
             "PromptText": "т",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/т.mp3"
+            "PromptAudio": "lang/ukrainian/audios/т.mp3"
           },
           "foilstones": [
             {
@@ -119,7 +119,7 @@
           ],
           "prompt": {
             "PromptText": "м",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/м.mp3"
+            "PromptAudio": "lang/ukrainian/audios/м.mp3"
           },
           "foilstones": [
             {
@@ -154,7 +154,7 @@
           ],
           "prompt": {
             "PromptText": "т",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/т.mp3"
+            "PromptAudio": "lang/ukrainian/audios/т.mp3"
           },
           "foilstones": [
             {
@@ -177,7 +177,7 @@
           ],
           "prompt": {
             "PromptText": "ж",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/ж.mp3"
+            "PromptAudio": "lang/ukrainian/audios/ж.mp3"
           },
           "foilstones": [
             {
@@ -200,7 +200,7 @@
           ],
           "prompt": {
             "PromptText": "б",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/б.mp3"
+            "PromptAudio": "lang/ukrainian/audios/б.mp3"
           },
           "foilstones": [
             {
@@ -223,7 +223,7 @@
           ],
           "prompt": {
             "PromptText": "м",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/м.mp3"
+            "PromptAudio": "lang/ukrainian/audios/м.mp3"
           },
           "foilstones": [
             {
@@ -246,7 +246,7 @@
           ],
           "prompt": {
             "PromptText": "а",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/а.mp3"
+            "PromptAudio": "lang/ukrainian/audios/а.mp3"
           },
           "foilstones": [
             {
@@ -284,7 +284,7 @@
           ],
           "prompt": {
             "PromptText": "а",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/а.mp3"
+            "PromptAudio": "lang/ukrainian/audios/а.mp3"
           },
           "foilstones": [
             {
@@ -304,7 +304,7 @@
           ],
           "prompt": {
             "PromptText": "м",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/м.mp3"
+            "PromptAudio": "lang/ukrainian/audios/м.mp3"
           },
           "foilstones": [
             {
@@ -324,7 +324,7 @@
           ],
           "prompt": {
             "PromptText": "б",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/б.mp3"
+            "PromptAudio": "lang/ukrainian/audios/б.mp3"
           },
           "foilstones": [
             {
@@ -344,7 +344,7 @@
           ],
           "prompt": {
             "PromptText": "ж",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/ж.mp3"
+            "PromptAudio": "lang/ukrainian/audios/ж.mp3"
           },
           "foilstones": [
             {
@@ -364,7 +364,7 @@
           ],
           "prompt": {
             "PromptText": "т",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/т.mp3"
+            "PromptAudio": "lang/ukrainian/audios/т.mp3"
           },
           "foilstones": [
             {
@@ -399,7 +399,7 @@
           ],
           "prompt": {
             "PromptText": "ж",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/ж.mp3"
+            "PromptAudio": "lang/ukrainian/audios/ж.mp3"
           },
           "foilstones": [
             {
@@ -419,7 +419,7 @@
           ],
           "prompt": {
             "PromptText": "м",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/м.mp3"
+            "PromptAudio": "lang/ukrainian/audios/м.mp3"
           },
           "foilstones": [
             {
@@ -439,7 +439,7 @@
           ],
           "prompt": {
             "PromptText": "т",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/т.mp3"
+            "PromptAudio": "lang/ukrainian/audios/т.mp3"
           },
           "foilstones": [
             {
@@ -459,7 +459,7 @@
           ],
           "prompt": {
             "PromptText": "б",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/б.mp3"
+            "PromptAudio": "lang/ukrainian/audios/б.mp3"
           },
           "foilstones": [
             {
@@ -479,7 +479,7 @@
           ],
           "prompt": {
             "PromptText": "а",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/а.mp3"
+            "PromptAudio": "lang/ukrainian/audios/а.mp3"
           },
           "foilstones": [
             {
@@ -514,7 +514,7 @@
           ],
           "prompt": {
             "PromptText": "баба",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/б.mp3"
+            "PromptAudio": "lang/ukrainian/audios/б.mp3"
           },
           "foilstones": [
             {
@@ -537,7 +537,7 @@
           ],
           "prompt": {
             "PromptText": "жаба",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/ж.mp3"
+            "PromptAudio": "lang/ukrainian/audios/ж.mp3"
           },
           "foilstones": [
             {
@@ -560,7 +560,7 @@
           ],
           "prompt": {
             "PromptText": "батат",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/б.mp3"
+            "PromptAudio": "lang/ukrainian/audios/б.mp3"
           },
           "foilstones": [
             {
@@ -583,7 +583,7 @@
           ],
           "prompt": {
             "PromptText": "аж",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/а.mp3"
+            "PromptAudio": "lang/ukrainian/audios/а.mp3"
           },
           "foilstones": [
             {
@@ -606,7 +606,7 @@
           ],
           "prompt": {
             "PromptText": "жаба",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/ж.mp3"
+            "PromptAudio": "lang/ukrainian/audios/ж.mp3"
           },
           "foilstones": [
             {
@@ -644,7 +644,7 @@
           ],
           "prompt": {
             "PromptText": "та",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/т.mp3"
+            "PromptAudio": "lang/ukrainian/audios/т.mp3"
           },
           "foilstones": [
             {
@@ -667,7 +667,7 @@
           ],
           "prompt": {
             "PromptText": "бат",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/б.mp3"
+            "PromptAudio": "lang/ukrainian/audios/б.mp3"
           },
           "foilstones": [
             {
@@ -690,7 +690,7 @@
           ],
           "prompt": {
             "PromptText": "мама",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/м.mp3"
+            "PromptAudio": "lang/ukrainian/audios/м.mp3"
           },
           "foilstones": [
             {
@@ -713,7 +713,7 @@
           ],
           "prompt": {
             "PromptText": "аж",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/а.mp3"
+            "PromptAudio": "lang/ukrainian/audios/а.mp3"
           },
           "foilstones": [
             {
@@ -736,7 +736,7 @@
           ],
           "prompt": {
             "PromptText": "баба",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/б.mp3"
+            "PromptAudio": "lang/ukrainian/audios/б.mp3"
           },
           "foilstones": [
             {
@@ -774,7 +774,7 @@
           ],
           "prompt": {
             "PromptText": "батат",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/б.mp3"
+            "PromptAudio": "lang/ukrainian/audios/б.mp3"
           },
           "foilstones": [
             {
@@ -797,7 +797,7 @@
           ],
           "prompt": {
             "PromptText": "бат",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/б.mp3"
+            "PromptAudio": "lang/ukrainian/audios/б.mp3"
           },
           "foilstones": [
             {
@@ -820,7 +820,7 @@
           ],
           "prompt": {
             "PromptText": "аж",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/а.mp3"
+            "PromptAudio": "lang/ukrainian/audios/а.mp3"
           },
           "foilstones": [
             {
@@ -843,7 +843,7 @@
           ],
           "prompt": {
             "PromptText": "баба",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/б.mp3"
+            "PromptAudio": "lang/ukrainian/audios/б.mp3"
           },
           "foilstones": [
             {
@@ -866,7 +866,7 @@
           ],
           "prompt": {
             "PromptText": "мама",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/м.mp3"
+            "PromptAudio": "lang/ukrainian/audios/м.mp3"
           },
           "foilstones": [
             {
@@ -907,7 +907,7 @@
           ],
           "prompt": {
             "PromptText": "аж",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/аж.mp3"
+            "PromptAudio": "lang/ukrainian/audios/аж.mp3"
           },
           "foilstones": [
             {
@@ -939,7 +939,7 @@
           ],
           "prompt": {
             "PromptText": "баба",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/баба.mp3"
+            "PromptAudio": "lang/ukrainian/audios/баба.mp3"
           },
           "foilstones": [
             {
@@ -971,7 +971,7 @@
           ],
           "prompt": {
             "PromptText": "жаба",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/жаба.mp3"
+            "PromptAudio": "lang/ukrainian/audios/жаба.mp3"
           },
           "foilstones": [
             {
@@ -997,7 +997,7 @@
           ],
           "prompt": {
             "PromptText": "та",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/та.mp3"
+            "PromptAudio": "lang/ukrainian/audios/та.mp3"
           },
           "foilstones": [
             {
@@ -1029,7 +1029,7 @@
           ],
           "prompt": {
             "PromptText": "жаба",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/жаба.mp3"
+            "PromptAudio": "lang/ukrainian/audios/жаба.mp3"
           },
           "foilstones": [
             {
@@ -1076,7 +1076,7 @@
           ],
           "prompt": {
             "PromptText": "жаба",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/жаба.mp3"
+            "PromptAudio": "lang/ukrainian/audios/жаба.mp3"
           },
           "foilstones": [
             {
@@ -1111,7 +1111,7 @@
           ],
           "prompt": {
             "PromptText": "батат",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/батат.mp3"
+            "PromptAudio": "lang/ukrainian/audios/батат.mp3"
           },
           "foilstones": [
             {
@@ -1137,7 +1137,7 @@
           ],
           "prompt": {
             "PromptText": "аж",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/аж.mp3"
+            "PromptAudio": "lang/ukrainian/audios/аж.mp3"
           },
           "foilstones": [
             {
@@ -1169,7 +1169,7 @@
           ],
           "prompt": {
             "PromptText": "баба",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/баба.mp3"
+            "PromptAudio": "lang/ukrainian/audios/баба.mp3"
           },
           "foilstones": [
             {
@@ -1195,7 +1195,7 @@
           ],
           "prompt": {
             "PromptText": "та",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/та.mp3"
+            "PromptAudio": "lang/ukrainian/audios/та.mp3"
           },
           "foilstones": [
             {
@@ -1233,7 +1233,7 @@
           ],
           "prompt": {
             "PromptText": "е",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/е.mp3"
+            "PromptAudio": "lang/ukrainian/audios/е.mp3"
           },
           "foilstones": [
             {
@@ -1256,7 +1256,7 @@
           ],
           "prompt": {
             "PromptText": "в",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/в.mp3"
+            "PromptAudio": "lang/ukrainian/audios/в.mp3"
           },
           "foilstones": [
             {
@@ -1282,7 +1282,7 @@
           ],
           "prompt": {
             "PromptText": "ш",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/ш.mp3"
+            "PromptAudio": "lang/ukrainian/audios/ш.mp3"
           },
           "foilstones": [
             {
@@ -1305,7 +1305,7 @@
           ],
           "prompt": {
             "PromptText": "н",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/н.mp3"
+            "PromptAudio": "lang/ukrainian/audios/н.mp3"
           },
           "foilstones": [
             {
@@ -1328,7 +1328,7 @@
           ],
           "prompt": {
             "PromptText": "р",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/р.mp3"
+            "PromptAudio": "lang/ukrainian/audios/р.mp3"
           },
           "foilstones": [
             {
@@ -1363,7 +1363,7 @@
           ],
           "prompt": {
             "PromptText": "р",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/р.mp3"
+            "PromptAudio": "lang/ukrainian/audios/р.mp3"
           },
           "foilstones": [
             {
@@ -1386,7 +1386,7 @@
           ],
           "prompt": {
             "PromptText": "ф",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/ф.mp3"
+            "PromptAudio": "lang/ukrainian/audios/ф.mp3"
           },
           "foilstones": [
             {
@@ -1409,7 +1409,7 @@
           ],
           "prompt": {
             "PromptText": "ш",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/ш.mp3"
+            "PromptAudio": "lang/ukrainian/audios/ш.mp3"
           },
           "foilstones": [
             {
@@ -1432,7 +1432,7 @@
           ],
           "prompt": {
             "PromptText": "в",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/в.mp3"
+            "PromptAudio": "lang/ukrainian/audios/в.mp3"
           },
           "foilstones": [
             {
@@ -1458,7 +1458,7 @@
           ],
           "prompt": {
             "PromptText": "н",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/н.mp3"
+            "PromptAudio": "lang/ukrainian/audios/н.mp3"
           },
           "foilstones": [
             {
@@ -1493,7 +1493,7 @@
           ],
           "prompt": {
             "PromptText": "ш",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/ш.mp3"
+            "PromptAudio": "lang/ukrainian/audios/ш.mp3"
           },
           "foilstones": [
             {
@@ -1516,7 +1516,7 @@
           ],
           "prompt": {
             "PromptText": "е",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/е.mp3"
+            "PromptAudio": "lang/ukrainian/audios/е.mp3"
           },
           "foilstones": [
             {
@@ -1539,7 +1539,7 @@
           ],
           "prompt": {
             "PromptText": "в",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/в.mp3"
+            "PromptAudio": "lang/ukrainian/audios/в.mp3"
           },
           "foilstones": [
             {
@@ -1562,7 +1562,7 @@
           ],
           "prompt": {
             "PromptText": "р",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/р.mp3"
+            "PromptAudio": "lang/ukrainian/audios/р.mp3"
           },
           "foilstones": [
             {
@@ -1585,7 +1585,7 @@
           ],
           "prompt": {
             "PromptText": "ф",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/ф.mp3"
+            "PromptAudio": "lang/ukrainian/audios/ф.mp3"
           },
           "foilstones": [
             {
@@ -1623,7 +1623,7 @@
           ],
           "prompt": {
             "PromptText": "в",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/в.mp3"
+            "PromptAudio": "lang/ukrainian/audios/в.mp3"
           },
           "foilstones": [
             {
@@ -1646,7 +1646,7 @@
           ],
           "prompt": {
             "PromptText": "н",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/н.mp3"
+            "PromptAudio": "lang/ukrainian/audios/н.mp3"
           },
           "foilstones": [
             {
@@ -1669,7 +1669,7 @@
           ],
           "prompt": {
             "PromptText": "ф",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/ф.mp3"
+            "PromptAudio": "lang/ukrainian/audios/ф.mp3"
           },
           "foilstones": [
             {
@@ -1692,7 +1692,7 @@
           ],
           "prompt": {
             "PromptText": "е",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/е.mp3"
+            "PromptAudio": "lang/ukrainian/audios/е.mp3"
           },
           "foilstones": [
             {
@@ -1715,7 +1715,7 @@
           ],
           "prompt": {
             "PromptText": "р",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/р.mp3"
+            "PromptAudio": "lang/ukrainian/audios/р.mp3"
           },
           "foilstones": [
             {
@@ -1753,7 +1753,7 @@
           ],
           "prompt": {
             "PromptText": "н",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/н.mp3"
+            "PromptAudio": "lang/ukrainian/audios/н.mp3"
           },
           "foilstones": [
             {
@@ -1776,7 +1776,7 @@
           ],
           "prompt": {
             "PromptText": "в",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/в.mp3"
+            "PromptAudio": "lang/ukrainian/audios/в.mp3"
           },
           "foilstones": [
             {
@@ -1799,7 +1799,7 @@
           ],
           "prompt": {
             "PromptText": "ф",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/ф.mp3"
+            "PromptAudio": "lang/ukrainian/audios/ф.mp3"
           },
           "foilstones": [
             {
@@ -1822,7 +1822,7 @@
           ],
           "prompt": {
             "PromptText": "е",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/е.mp3"
+            "PromptAudio": "lang/ukrainian/audios/е.mp3"
           },
           "foilstones": [
             {
@@ -1845,7 +1845,7 @@
           ],
           "prompt": {
             "PromptText": "р",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/р.mp3"
+            "PromptAudio": "lang/ukrainian/audios/р.mp3"
           },
           "foilstones": [
             {
@@ -1883,7 +1883,7 @@
           ],
           "prompt": {
             "PromptText": "нерв",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/н.mp3"
+            "PromptAudio": "lang/ukrainian/audios/н.mp3"
           },
           "foilstones": [
             {
@@ -1903,7 +1903,7 @@
           ],
           "prompt": {
             "PromptText": "рев",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/р.mp3"
+            "PromptAudio": "lang/ukrainian/audios/р.mp3"
           },
           "foilstones": [
             {
@@ -1923,7 +1923,7 @@
           ],
           "prompt": {
             "PromptText": "не",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/н.mp3"
+            "PromptAudio": "lang/ukrainian/audios/н.mp3"
           },
           "foilstones": [
             {
@@ -1943,7 +1943,7 @@
           ],
           "prompt": {
             "PromptText": "рве",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/р.mp3"
+            "PromptAudio": "lang/ukrainian/audios/р.mp3"
           },
           "foilstones": [
             {
@@ -1963,7 +1963,7 @@
           ],
           "prompt": {
             "PromptText": "шеф",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/ш.mp3"
+            "PromptAudio": "lang/ukrainian/audios/ш.mp3"
           },
           "foilstones": [
             {
@@ -1998,7 +1998,7 @@
           ],
           "prompt": {
             "PromptText": "шеф",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/ш.mp3"
+            "PromptAudio": "lang/ukrainian/audios/ш.mp3"
           },
           "foilstones": [
             {
@@ -2021,7 +2021,7 @@
           ],
           "prompt": {
             "PromptText": "рев",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/р.mp3"
+            "PromptAudio": "lang/ukrainian/audios/р.mp3"
           },
           "foilstones": [
             {
@@ -2044,7 +2044,7 @@
           ],
           "prompt": {
             "PromptText": "нерв",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/н.mp3"
+            "PromptAudio": "lang/ukrainian/audios/н.mp3"
           },
           "foilstones": [
             {
@@ -2067,7 +2067,7 @@
           ],
           "prompt": {
             "PromptText": "не",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/н.mp3"
+            "PromptAudio": "lang/ukrainian/audios/н.mp3"
           },
           "foilstones": [
             {
@@ -2090,7 +2090,7 @@
           ],
           "prompt": {
             "PromptText": "рве",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/р.mp3"
+            "PromptAudio": "lang/ukrainian/audios/р.mp3"
           },
           "foilstones": [
             {
@@ -2128,7 +2128,7 @@
           ],
           "prompt": {
             "PromptText": "рев",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/р.mp3"
+            "PromptAudio": "lang/ukrainian/audios/р.mp3"
           },
           "foilstones": [
             {
@@ -2157,7 +2157,7 @@
           ],
           "prompt": {
             "PromptText": "не",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/н.mp3"
+            "PromptAudio": "lang/ukrainian/audios/н.mp3"
           },
           "foilstones": [
             {
@@ -2183,7 +2183,7 @@
           ],
           "prompt": {
             "PromptText": "рве",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/р.mp3"
+            "PromptAudio": "lang/ukrainian/audios/р.mp3"
           },
           "foilstones": [
             {
@@ -2206,7 +2206,7 @@
           ],
           "prompt": {
             "PromptText": "нерв",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/н.mp3"
+            "PromptAudio": "lang/ukrainian/audios/н.mp3"
           },
           "foilstones": [
             {
@@ -2232,7 +2232,7 @@
           ],
           "prompt": {
             "PromptText": "шеф",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/ш.mp3"
+            "PromptAudio": "lang/ukrainian/audios/ш.mp3"
           },
           "foilstones": [
             {
@@ -2276,7 +2276,7 @@
           ],
           "prompt": {
             "PromptText": "рев",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/рев.mp3"
+            "PromptAudio": "lang/ukrainian/audios/рев.mp3"
           },
           "foilstones": [
             {
@@ -2305,7 +2305,7 @@
           ],
           "prompt": {
             "PromptText": "не",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/не.mp3"
+            "PromptAudio": "lang/ukrainian/audios/не.mp3"
           },
           "foilstones": [
             {
@@ -2337,7 +2337,7 @@
           ],
           "prompt": {
             "PromptText": "рве",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/рве.mp3"
+            "PromptAudio": "lang/ukrainian/audios/рве.mp3"
           },
           "foilstones": [
             {
@@ -2372,7 +2372,7 @@
           ],
           "prompt": {
             "PromptText": "нерв",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/нерв.mp3"
+            "PromptAudio": "lang/ukrainian/audios/нерв.mp3"
           },
           "foilstones": [
             {
@@ -2404,7 +2404,7 @@
           ],
           "prompt": {
             "PromptText": "шеф",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/шеф.mp3"
+            "PromptAudio": "lang/ukrainian/audios/шеф.mp3"
           },
           "foilstones": [
             {
@@ -2454,7 +2454,7 @@
           ],
           "prompt": {
             "PromptText": "шеф",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/шеф.mp3"
+            "PromptAudio": "lang/ukrainian/audios/шеф.mp3"
           },
           "foilstones": [
             {
@@ -2486,7 +2486,7 @@
           ],
           "prompt": {
             "PromptText": "рев",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/рев.mp3"
+            "PromptAudio": "lang/ukrainian/audios/рев.mp3"
           },
           "foilstones": [
             {
@@ -2521,7 +2521,7 @@
           ],
           "prompt": {
             "PromptText": "нерв",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/нерв.mp3"
+            "PromptAudio": "lang/ukrainian/audios/нерв.mp3"
           },
           "foilstones": [
             {
@@ -2550,7 +2550,7 @@
           ],
           "prompt": {
             "PromptText": "не",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/не.mp3"
+            "PromptAudio": "lang/ukrainian/audios/не.mp3"
           },
           "foilstones": [
             {
@@ -2582,7 +2582,7 @@
           ],
           "prompt": {
             "PromptText": "рве",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/рве.mp3"
+            "PromptAudio": "lang/ukrainian/audios/рве.mp3"
           },
           "foilstones": [
             {
@@ -2626,7 +2626,7 @@
           ],
           "prompt": {
             "PromptText": "і",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/і.mp3"
+            "PromptAudio": "lang/ukrainian/audios/і.mp3"
           },
           "foilstones": [
             {
@@ -2652,7 +2652,7 @@
           ],
           "prompt": {
             "PromptText": "к",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/к.mp3"
+            "PromptAudio": "lang/ukrainian/audios/к.mp3"
           },
           "foilstones": [
             {
@@ -2678,7 +2678,7 @@
           ],
           "prompt": {
             "PromptText": "п",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/п.mp3"
+            "PromptAudio": "lang/ukrainian/audios/п.mp3"
           },
           "foilstones": [
             {
@@ -2704,7 +2704,7 @@
           ],
           "prompt": {
             "PromptText": "ц",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/ц.mp3"
+            "PromptAudio": "lang/ukrainian/audios/ц.mp3"
           },
           "foilstones": [
             {
@@ -2730,7 +2730,7 @@
           ],
           "prompt": {
             "PromptText": "д",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/д.mp3"
+            "PromptAudio": "lang/ukrainian/audios/д.mp3"
           },
           "foilstones": [
             {
@@ -2774,7 +2774,7 @@
           ],
           "prompt": {
             "PromptText": "ц",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/ц.mp3"
+            "PromptAudio": "lang/ukrainian/audios/ц.mp3"
           },
           "foilstones": [
             {
@@ -2800,7 +2800,7 @@
           ],
           "prompt": {
             "PromptText": "к",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/к.mp3"
+            "PromptAudio": "lang/ukrainian/audios/к.mp3"
           },
           "foilstones": [
             {
@@ -2826,7 +2826,7 @@
           ],
           "prompt": {
             "PromptText": "і",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/і.mp3"
+            "PromptAudio": "lang/ukrainian/audios/і.mp3"
           },
           "foilstones": [
             {
@@ -2852,7 +2852,7 @@
           ],
           "prompt": {
             "PromptText": "д",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/д.mp3"
+            "PromptAudio": "lang/ukrainian/audios/д.mp3"
           },
           "foilstones": [
             {
@@ -2878,7 +2878,7 @@
           ],
           "prompt": {
             "PromptText": "п",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/п.mp3"
+            "PromptAudio": "lang/ukrainian/audios/п.mp3"
           },
           "foilstones": [
             {
@@ -2922,7 +2922,7 @@
           ],
           "prompt": {
             "PromptText": "і",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/і.mp3"
+            "PromptAudio": "lang/ukrainian/audios/і.mp3"
           },
           "foilstones": [
             {
@@ -2945,7 +2945,7 @@
           ],
           "prompt": {
             "PromptText": "д",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/д.mp3"
+            "PromptAudio": "lang/ukrainian/audios/д.mp3"
           },
           "foilstones": [
             {
@@ -2968,7 +2968,7 @@
           ],
           "prompt": {
             "PromptText": "ц",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/ц.mp3"
+            "PromptAudio": "lang/ukrainian/audios/ц.mp3"
           },
           "foilstones": [
             {
@@ -2991,7 +2991,7 @@
           ],
           "prompt": {
             "PromptText": "к",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/к.mp3"
+            "PromptAudio": "lang/ukrainian/audios/к.mp3"
           },
           "foilstones": [
             {
@@ -3014,7 +3014,7 @@
           ],
           "prompt": {
             "PromptText": "п",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/п.mp3"
+            "PromptAudio": "lang/ukrainian/audios/п.mp3"
           },
           "foilstones": [
             {
@@ -3052,7 +3052,7 @@
           ],
           "prompt": {
             "PromptText": "д",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/д.mp3"
+            "PromptAudio": "lang/ukrainian/audios/д.mp3"
           },
           "foilstones": [
             {
@@ -3075,7 +3075,7 @@
           ],
           "prompt": {
             "PromptText": "к",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/к.mp3"
+            "PromptAudio": "lang/ukrainian/audios/к.mp3"
           },
           "foilstones": [
             {
@@ -3098,7 +3098,7 @@
           ],
           "prompt": {
             "PromptText": "п",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/п.mp3"
+            "PromptAudio": "lang/ukrainian/audios/п.mp3"
           },
           "foilstones": [
             {
@@ -3121,7 +3121,7 @@
           ],
           "prompt": {
             "PromptText": "і",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/і.mp3"
+            "PromptAudio": "lang/ukrainian/audios/і.mp3"
           },
           "foilstones": [
             {
@@ -3144,7 +3144,7 @@
           ],
           "prompt": {
             "PromptText": "ц",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/ц.mp3"
+            "PromptAudio": "lang/ukrainian/audios/ц.mp3"
           },
           "foilstones": [
             {
@@ -3179,7 +3179,7 @@
           ],
           "prompt": {
             "PromptText": "і",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/і.mp3"
+            "PromptAudio": "lang/ukrainian/audios/і.mp3"
           },
           "foilstones": [
             {
@@ -3202,7 +3202,7 @@
           ],
           "prompt": {
             "PromptText": "п",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/п.mp3"
+            "PromptAudio": "lang/ukrainian/audios/п.mp3"
           },
           "foilstones": [
             {
@@ -3225,7 +3225,7 @@
           ],
           "prompt": {
             "PromptText": "ц",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/ц.mp3"
+            "PromptAudio": "lang/ukrainian/audios/ц.mp3"
           },
           "foilstones": [
             {
@@ -3251,7 +3251,7 @@
           ],
           "prompt": {
             "PromptText": "д",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/д.mp3"
+            "PromptAudio": "lang/ukrainian/audios/д.mp3"
           },
           "foilstones": [
             {
@@ -3274,7 +3274,7 @@
           ],
           "prompt": {
             "PromptText": "к",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/к.mp3"
+            "PromptAudio": "lang/ukrainian/audios/к.mp3"
           },
           "foilstones": [
             {
@@ -3309,7 +3309,7 @@
           ],
           "prompt": {
             "PromptText": "пік",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/п.mp3"
+            "PromptAudio": "lang/ukrainian/audios/п.mp3"
           },
           "foilstones": [
             {
@@ -3332,7 +3332,7 @@
           ],
           "prompt": {
             "PromptText": "піп",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/п.mp3"
+            "PromptAudio": "lang/ukrainian/audios/п.mp3"
           },
           "foilstones": [
             {
@@ -3355,7 +3355,7 @@
           ],
           "prompt": {
             "PromptText": "ці",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/ц.mp3"
+            "PromptAudio": "lang/ukrainian/audios/ц.mp3"
           },
           "foilstones": [
             {
@@ -3378,7 +3378,7 @@
           ],
           "prompt": {
             "PromptText": "ціп",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/ц.mp3"
+            "PromptAudio": "lang/ukrainian/audios/ц.mp3"
           },
           "foilstones": [
             {
@@ -3401,7 +3401,7 @@
           ],
           "prompt": {
             "PromptText": "під",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/п.mp3"
+            "PromptAudio": "lang/ukrainian/audios/п.mp3"
           },
           "foilstones": [
             {
@@ -3439,7 +3439,7 @@
           ],
           "prompt": {
             "PromptText": "під",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/п.mp3"
+            "PromptAudio": "lang/ukrainian/audios/п.mp3"
           },
           "foilstones": [
             {
@@ -3462,7 +3462,7 @@
           ],
           "prompt": {
             "PromptText": "ці",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/ц.mp3"
+            "PromptAudio": "lang/ukrainian/audios/ц.mp3"
           },
           "foilstones": [
             {
@@ -3485,7 +3485,7 @@
           ],
           "prompt": {
             "PromptText": "ціп",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/ц.mp3"
+            "PromptAudio": "lang/ukrainian/audios/ц.mp3"
           },
           "foilstones": [
             {
@@ -3511,7 +3511,7 @@
           ],
           "prompt": {
             "PromptText": "піп",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/п.mp3"
+            "PromptAudio": "lang/ukrainian/audios/п.mp3"
           },
           "foilstones": [
             {
@@ -3534,7 +3534,7 @@
           ],
           "prompt": {
             "PromptText": "пік",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/п.mp3"
+            "PromptAudio": "lang/ukrainian/audios/п.mp3"
           },
           "foilstones": [
             {
@@ -3569,7 +3569,7 @@
           ],
           "prompt": {
             "PromptText": "ціп",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/ц.mp3"
+            "PromptAudio": "lang/ukrainian/audios/ц.mp3"
           },
           "foilstones": [
             {
@@ -3592,7 +3592,7 @@
           ],
           "prompt": {
             "PromptText": "ці",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/ц.mp3"
+            "PromptAudio": "lang/ukrainian/audios/ц.mp3"
           },
           "foilstones": [
             {
@@ -3615,7 +3615,7 @@
           ],
           "prompt": {
             "PromptText": "піп",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/п.mp3"
+            "PromptAudio": "lang/ukrainian/audios/п.mp3"
           },
           "foilstones": [
             {
@@ -3641,7 +3641,7 @@
           ],
           "prompt": {
             "PromptText": "під",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/п.mp3"
+            "PromptAudio": "lang/ukrainian/audios/п.mp3"
           },
           "foilstones": [
             {
@@ -3664,7 +3664,7 @@
           ],
           "prompt": {
             "PromptText": "пік",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/п.mp3"
+            "PromptAudio": "lang/ukrainian/audios/п.mp3"
           },
           "foilstones": [
             {
@@ -3705,7 +3705,7 @@
           ],
           "prompt": {
             "PromptText": "під",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/під.mp3"
+            "PromptAudio": "lang/ukrainian/audios/під.mp3"
           },
           "foilstones": [
             {
@@ -3734,7 +3734,7 @@
           ],
           "prompt": {
             "PromptText": "ціп",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/ціп.mp3"
+            "PromptAudio": "lang/ukrainian/audios/ціп.mp3"
           },
           "foilstones": [
             {
@@ -3763,7 +3763,7 @@
           ],
           "prompt": {
             "PromptText": "піп",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/піп.mp3"
+            "PromptAudio": "lang/ukrainian/audios/піп.mp3"
           },
           "foilstones": [
             {
@@ -3795,7 +3795,7 @@
           ],
           "prompt": {
             "PromptText": "пік",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/пік.mp3"
+            "PromptAudio": "lang/ukrainian/audios/пік.mp3"
           },
           "foilstones": [
             {
@@ -3821,7 +3821,7 @@
           ],
           "prompt": {
             "PromptText": "ці",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/ці.mp3"
+            "PromptAudio": "lang/ukrainian/audios/ці.mp3"
           },
           "foilstones": [
             {
@@ -3862,7 +3862,7 @@
           ],
           "prompt": {
             "PromptText": "пік",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/пік.mp3"
+            "PromptAudio": "lang/ukrainian/audios/пік.mp3"
           },
           "foilstones": [
             {
@@ -3900,7 +3900,7 @@
           ],
           "prompt": {
             "PromptText": "піп",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/піп.mp3"
+            "PromptAudio": "lang/ukrainian/audios/піп.mp3"
           },
           "foilstones": [
             {
@@ -3932,7 +3932,7 @@
           ],
           "prompt": {
             "PromptText": "ці",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/ці.mp3"
+            "PromptAudio": "lang/ukrainian/audios/ці.mp3"
           },
           "foilstones": [
             {
@@ -3970,7 +3970,7 @@
           ],
           "prompt": {
             "PromptText": "ціп",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/ціп.mp3"
+            "PromptAudio": "lang/ukrainian/audios/ціп.mp3"
           },
           "foilstones": [
             {
@@ -4005,7 +4005,7 @@
           ],
           "prompt": {
             "PromptText": "під",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/під.mp3"
+            "PromptAudio": "lang/ukrainian/audios/під.mp3"
           },
           "foilstones": [
             {
@@ -4049,7 +4049,7 @@
           ],
           "prompt": {
             "PromptText": "о",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/о.mp3"
+            "PromptAudio": "lang/ukrainian/audios/о.mp3"
           },
           "foilstones": [
             {
@@ -4081,7 +4081,7 @@
           ],
           "prompt": {
             "PromptText": "г",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/г.mp3"
+            "PromptAudio": "lang/ukrainian/audios/г.mp3"
           },
           "foilstones": [
             {
@@ -4113,7 +4113,7 @@
           ],
           "prompt": {
             "PromptText": "д",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/д.mp3"
+            "PromptAudio": "lang/ukrainian/audios/д.mp3"
           },
           "foilstones": [
             {
@@ -4142,7 +4142,7 @@
           ],
           "prompt": {
             "PromptText": "л",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/л.mp3"
+            "PromptAudio": "lang/ukrainian/audios/л.mp3"
           },
           "foilstones": [
             {
@@ -4171,7 +4171,7 @@
           ],
           "prompt": {
             "PromptText": "щ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/щ.mp3"
+            "PromptAudio": "lang/ukrainian/audios/щ.mp3"
           },
           "foilstones": [
             {
@@ -4215,7 +4215,7 @@
           ],
           "prompt": {
             "PromptText": "т",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/т.mp3"
+            "PromptAudio": "lang/ukrainian/audios/т.mp3"
           },
           "foilstones": [
             {
@@ -4247,7 +4247,7 @@
           ],
           "prompt": {
             "PromptText": "г",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/г.mp3"
+            "PromptAudio": "lang/ukrainian/audios/г.mp3"
           },
           "foilstones": [
             {
@@ -4279,7 +4279,7 @@
           ],
           "prompt": {
             "PromptText": "р",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/р.mp3"
+            "PromptAudio": "lang/ukrainian/audios/р.mp3"
           },
           "foilstones": [
             {
@@ -4308,7 +4308,7 @@
           ],
           "prompt": {
             "PromptText": "л",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/л.mp3"
+            "PromptAudio": "lang/ukrainian/audios/л.mp3"
           },
           "foilstones": [
             {
@@ -4337,7 +4337,7 @@
           ],
           "prompt": {
             "PromptText": "щ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/щ.mp3"
+            "PromptAudio": "lang/ukrainian/audios/щ.mp3"
           },
           "foilstones": [
             {
@@ -4381,7 +4381,7 @@
           ],
           "prompt": {
             "PromptText": "л",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/л.mp3"
+            "PromptAudio": "lang/ukrainian/audios/л.mp3"
           },
           "foilstones": [
             {
@@ -4410,7 +4410,7 @@
           ],
           "prompt": {
             "PromptText": "р",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/р.mp3"
+            "PromptAudio": "lang/ukrainian/audios/р.mp3"
           },
           "foilstones": [
             {
@@ -4442,7 +4442,7 @@
           ],
           "prompt": {
             "PromptText": "о",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/о.mp3"
+            "PromptAudio": "lang/ukrainian/audios/о.mp3"
           },
           "foilstones": [
             {
@@ -4474,7 +4474,7 @@
           ],
           "prompt": {
             "PromptText": "д",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/д.mp3"
+            "PromptAudio": "lang/ukrainian/audios/д.mp3"
           },
           "foilstones": [
             {
@@ -4503,7 +4503,7 @@
           ],
           "prompt": {
             "PromptText": "г",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/г.mp3"
+            "PromptAudio": "lang/ukrainian/audios/г.mp3"
           },
           "foilstones": [
             {
@@ -4547,7 +4547,7 @@
           ],
           "prompt": {
             "PromptText": "г",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/г.mp3"
+            "PromptAudio": "lang/ukrainian/audios/г.mp3"
           },
           "foilstones": [
             {
@@ -4579,7 +4579,7 @@
           ],
           "prompt": {
             "PromptText": "р",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/р.mp3"
+            "PromptAudio": "lang/ukrainian/audios/р.mp3"
           },
           "foilstones": [
             {
@@ -4611,7 +4611,7 @@
           ],
           "prompt": {
             "PromptText": "л",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/л.mp3"
+            "PromptAudio": "lang/ukrainian/audios/л.mp3"
           },
           "foilstones": [
             {
@@ -4640,7 +4640,7 @@
           ],
           "prompt": {
             "PromptText": "т",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/т.mp3"
+            "PromptAudio": "lang/ukrainian/audios/т.mp3"
           },
           "foilstones": [
             {
@@ -4672,7 +4672,7 @@
           ],
           "prompt": {
             "PromptText": "о",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/о.mp3"
+            "PromptAudio": "lang/ukrainian/audios/о.mp3"
           },
           "foilstones": [
             {
@@ -4713,7 +4713,7 @@
           ],
           "prompt": {
             "PromptText": "т",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/т.mp3"
+            "PromptAudio": "lang/ukrainian/audios/т.mp3"
           },
           "foilstones": [
             {
@@ -4745,7 +4745,7 @@
           ],
           "prompt": {
             "PromptText": "г",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/г.mp3"
+            "PromptAudio": "lang/ukrainian/audios/г.mp3"
           },
           "foilstones": [
             {
@@ -4777,7 +4777,7 @@
           ],
           "prompt": {
             "PromptText": "щ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/щ.mp3"
+            "PromptAudio": "lang/ukrainian/audios/щ.mp3"
           },
           "foilstones": [
             {
@@ -4806,7 +4806,7 @@
           ],
           "prompt": {
             "PromptText": "о",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/о.mp3"
+            "PromptAudio": "lang/ukrainian/audios/о.mp3"
           },
           "foilstones": [
             {
@@ -4838,7 +4838,7 @@
           ],
           "prompt": {
             "PromptText": "л",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/л.mp3"
+            "PromptAudio": "lang/ukrainian/audios/л.mp3"
           },
           "foilstones": [
             {
@@ -4879,7 +4879,7 @@
           ],
           "prompt": {
             "PromptText": "гол",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/г.mp3"
+            "PromptAudio": "lang/ukrainian/audios/г.mp3"
           },
           "foilstones": [
             {
@@ -4911,7 +4911,7 @@
           ],
           "prompt": {
             "PromptText": "рот",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/р.mp3"
+            "PromptAudio": "lang/ukrainian/audios/р.mp3"
           },
           "foilstones": [
             {
@@ -4943,7 +4943,7 @@
           ],
           "prompt": {
             "PromptText": "дог",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/д.mp3"
+            "PromptAudio": "lang/ukrainian/audios/д.mp3"
           },
           "foilstones": [
             {
@@ -4972,7 +4972,7 @@
           ],
           "prompt": {
             "PromptText": "до",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/д.mp3"
+            "PromptAudio": "lang/ukrainian/audios/д.mp3"
           },
           "foilstones": [
             {
@@ -5004,7 +5004,7 @@
           ],
           "prompt": {
             "PromptText": "що",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/щ.mp3"
+            "PromptAudio": "lang/ukrainian/audios/щ.mp3"
           },
           "foilstones": [
             {
@@ -5045,7 +5045,7 @@
           ],
           "prompt": {
             "PromptText": "дог",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/д.mp3"
+            "PromptAudio": "lang/ukrainian/audios/д.mp3"
           },
           "foilstones": [
             {
@@ -5083,7 +5083,7 @@
           ],
           "prompt": {
             "PromptText": "гол",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/г.mp3"
+            "PromptAudio": "lang/ukrainian/audios/г.mp3"
           },
           "foilstones": [
             {
@@ -5118,7 +5118,7 @@
           ],
           "prompt": {
             "PromptText": "що",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/щ.mp3"
+            "PromptAudio": "lang/ukrainian/audios/щ.mp3"
           },
           "foilstones": [
             {
@@ -5156,7 +5156,7 @@
           ],
           "prompt": {
             "PromptText": "ого",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/о.mp3"
+            "PromptAudio": "lang/ukrainian/audios/о.mp3"
           },
           "foilstones": [
             {
@@ -5188,7 +5188,7 @@
           ],
           "prompt": {
             "PromptText": "рот",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/р.mp3"
+            "PromptAudio": "lang/ukrainian/audios/р.mp3"
           },
           "foilstones": [
             {
@@ -5241,7 +5241,7 @@
           ],
           "prompt": {
             "PromptText": "до",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/д.mp3"
+            "PromptAudio": "lang/ukrainian/audios/д.mp3"
           },
           "foilstones": [
             {
@@ -5276,7 +5276,7 @@
           ],
           "prompt": {
             "PromptText": "рот",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/р.mp3"
+            "PromptAudio": "lang/ukrainian/audios/р.mp3"
           },
           "foilstones": [
             {
@@ -5314,7 +5314,7 @@
           ],
           "prompt": {
             "PromptText": "дог",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/д.mp3"
+            "PromptAudio": "lang/ukrainian/audios/д.mp3"
           },
           "foilstones": [
             {
@@ -5352,7 +5352,7 @@
           ],
           "prompt": {
             "PromptText": "гол",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/г.mp3"
+            "PromptAudio": "lang/ukrainian/audios/г.mp3"
           },
           "foilstones": [
             {
@@ -5393,7 +5393,7 @@
           ],
           "prompt": {
             "PromptText": "що",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/щ.mp3"
+            "PromptAudio": "lang/ukrainian/audios/щ.mp3"
           },
           "foilstones": [
             {
@@ -5443,7 +5443,7 @@
           ],
           "prompt": {
             "PromptText": "дог",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/дог.mp3"
+            "PromptAudio": "lang/ukrainian/audios/дог.mp3"
           },
           "foilstones": [
             {
@@ -5484,7 +5484,7 @@
           ],
           "prompt": {
             "PromptText": "до",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/до.mp3"
+            "PromptAudio": "lang/ukrainian/audios/до.mp3"
           },
           "foilstones": [
             {
@@ -5531,7 +5531,7 @@
           ],
           "prompt": {
             "PromptText": "ого",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/ого.mp3"
+            "PromptAudio": "lang/ukrainian/audios/ого.mp3"
           },
           "foilstones": [
             {
@@ -5572,7 +5572,7 @@
           ],
           "prompt": {
             "PromptText": "що",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/що.mp3"
+            "PromptAudio": "lang/ukrainian/audios/що.mp3"
           },
           "foilstones": [
             {
@@ -5613,7 +5613,7 @@
           ],
           "prompt": {
             "PromptText": "гол",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/гол.mp3"
+            "PromptAudio": "lang/ukrainian/audios/гол.mp3"
           },
           "foilstones": [
             {
@@ -5669,7 +5669,7 @@
           ],
           "prompt": {
             "PromptText": "ого",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/ого.mp3"
+            "PromptAudio": "lang/ukrainian/audios/ого.mp3"
           },
           "foilstones": [
             {
@@ -5713,7 +5713,7 @@
           ],
           "prompt": {
             "PromptText": "гол",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/гол.mp3"
+            "PromptAudio": "lang/ukrainian/audios/гол.mp3"
           },
           "foilstones": [
             {
@@ -5757,7 +5757,7 @@
           ],
           "prompt": {
             "PromptText": "рот",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/рот.mp3"
+            "PromptAudio": "lang/ukrainian/audios/рот.mp3"
           },
           "foilstones": [
             {
@@ -5801,7 +5801,7 @@
           ],
           "prompt": {
             "PromptText": "дог",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/дог.mp3"
+            "PromptAudio": "lang/ukrainian/audios/дог.mp3"
           },
           "foilstones": [
             {
@@ -5839,7 +5839,7 @@
           ],
           "prompt": {
             "PromptText": "що",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/що.mp3"
+            "PromptAudio": "lang/ukrainian/audios/що.mp3"
           },
           "foilstones": [
             {
@@ -5892,7 +5892,7 @@
           ],
           "prompt": {
             "PromptText": "у",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/у.mp3"
+            "PromptAudio": "lang/ukrainian/audios/у.mp3"
           },
           "foilstones": [
             {
@@ -5930,7 +5930,7 @@
           ],
           "prompt": {
             "PromptText": "ґ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/ґ.mp3"
+            "PromptAudio": "lang/ukrainian/audios/ґ.mp3"
           },
           "foilstones": [
             {
@@ -5968,7 +5968,7 @@
           ],
           "prompt": {
             "PromptText": "л",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/л.mp3"
+            "PromptAudio": "lang/ukrainian/audios/л.mp3"
           },
           "foilstones": [
             {
@@ -6006,7 +6006,7 @@
           ],
           "prompt": {
             "PromptText": "с",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/с.mp3"
+            "PromptAudio": "lang/ukrainian/audios/с.mp3"
           },
           "foilstones": [
             {
@@ -6047,7 +6047,7 @@
           ],
           "prompt": {
             "PromptText": "ч",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/ч.mp3"
+            "PromptAudio": "lang/ukrainian/audios/ч.mp3"
           },
           "foilstones": [
             {
@@ -6094,7 +6094,7 @@
           ],
           "prompt": {
             "PromptText": "ч",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/ч.mp3"
+            "PromptAudio": "lang/ukrainian/audios/ч.mp3"
           },
           "foilstones": [
             {
@@ -6132,7 +6132,7 @@
           ],
           "prompt": {
             "PromptText": "к",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/к.mp3"
+            "PromptAudio": "lang/ukrainian/audios/к.mp3"
           },
           "foilstones": [
             {
@@ -6170,7 +6170,7 @@
           ],
           "prompt": {
             "PromptText": "с",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/с.mp3"
+            "PromptAudio": "lang/ukrainian/audios/с.mp3"
           },
           "foilstones": [
             {
@@ -6208,7 +6208,7 @@
           ],
           "prompt": {
             "PromptText": "ж",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/ж.mp3"
+            "PromptAudio": "lang/ukrainian/audios/ж.mp3"
           },
           "foilstones": [
             {
@@ -6249,7 +6249,7 @@
           ],
           "prompt": {
             "PromptText": "у",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/у.mp3"
+            "PromptAudio": "lang/ukrainian/audios/у.mp3"
           },
           "foilstones": [
             {
@@ -6296,7 +6296,7 @@
           ],
           "prompt": {
             "PromptText": "л",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/л.mp3"
+            "PromptAudio": "lang/ukrainian/audios/л.mp3"
           },
           "foilstones": [
             {
@@ -6334,7 +6334,7 @@
           ],
           "prompt": {
             "PromptText": "к",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/к.mp3"
+            "PromptAudio": "lang/ukrainian/audios/к.mp3"
           },
           "foilstones": [
             {
@@ -6372,7 +6372,7 @@
           ],
           "prompt": {
             "PromptText": "у",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/у.mp3"
+            "PromptAudio": "lang/ukrainian/audios/у.mp3"
           },
           "foilstones": [
             {
@@ -6410,7 +6410,7 @@
           ],
           "prompt": {
             "PromptText": "ж",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/ж.mp3"
+            "PromptAudio": "lang/ukrainian/audios/ж.mp3"
           },
           "foilstones": [
             {
@@ -6451,7 +6451,7 @@
           ],
           "prompt": {
             "PromptText": "ґ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/ґ.mp3"
+            "PromptAudio": "lang/ukrainian/audios/ґ.mp3"
           },
           "foilstones": [
             {
@@ -6498,7 +6498,7 @@
           ],
           "prompt": {
             "PromptText": "к",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/к.mp3"
+            "PromptAudio": "lang/ukrainian/audios/к.mp3"
           },
           "foilstones": [
             {
@@ -6536,7 +6536,7 @@
           ],
           "prompt": {
             "PromptText": "с",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/с.mp3"
+            "PromptAudio": "lang/ukrainian/audios/с.mp3"
           },
           "foilstones": [
             {
@@ -6574,7 +6574,7 @@
           ],
           "prompt": {
             "PromptText": "у",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/у.mp3"
+            "PromptAudio": "lang/ukrainian/audios/у.mp3"
           },
           "foilstones": [
             {
@@ -6612,7 +6612,7 @@
           ],
           "prompt": {
             "PromptText": "ґ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/ґ.mp3"
+            "PromptAudio": "lang/ukrainian/audios/ґ.mp3"
           },
           "foilstones": [
             {
@@ -6647,7 +6647,7 @@
           ],
           "prompt": {
             "PromptText": "л",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/л.mp3"
+            "PromptAudio": "lang/ukrainian/audios/л.mp3"
           },
           "foilstones": [
             {
@@ -6700,7 +6700,7 @@
           ],
           "prompt": {
             "PromptText": "л",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/л.mp3"
+            "PromptAudio": "lang/ukrainian/audios/л.mp3"
           },
           "foilstones": [
             {
@@ -6738,7 +6738,7 @@
           ],
           "prompt": {
             "PromptText": "к",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/к.mp3"
+            "PromptAudio": "lang/ukrainian/audios/к.mp3"
           },
           "foilstones": [
             {
@@ -6776,7 +6776,7 @@
           ],
           "prompt": {
             "PromptText": "с",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/с.mp3"
+            "PromptAudio": "lang/ukrainian/audios/с.mp3"
           },
           "foilstones": [
             {
@@ -6814,7 +6814,7 @@
           ],
           "prompt": {
             "PromptText": "ґ",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/ґ.mp3"
+            "PromptAudio": "lang/ukrainian/audios/ґ.mp3"
           },
           "foilstones": [
             {
@@ -6849,7 +6849,7 @@
           ],
           "prompt": {
             "PromptText": "ч",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/ч.mp3"
+            "PromptAudio": "lang/ukrainian/audios/ч.mp3"
           },
           "foilstones": [
             {
@@ -6902,7 +6902,7 @@
           ],
           "prompt": {
             "PromptText": "луг",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/л.mp3"
+            "PromptAudio": "lang/ukrainian/audios/л.mp3"
           },
           "foilstones": [
             {
@@ -6940,7 +6940,7 @@
           ],
           "prompt": {
             "PromptText": "гул",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/г.mp3"
+            "PromptAudio": "lang/ukrainian/audios/г.mp3"
           },
           "foilstones": [
             {
@@ -6978,7 +6978,7 @@
           ],
           "prompt": {
             "PromptText": "ус",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/у.mp3"
+            "PromptAudio": "lang/ukrainian/audios/у.mp3"
           },
           "foilstones": [
             {
@@ -7013,7 +7013,7 @@
           ],
           "prompt": {
             "PromptText": "жук",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/ж.mp3"
+            "PromptAudio": "lang/ukrainian/audios/ж.mp3"
           },
           "foilstones": [
             {
@@ -7054,7 +7054,7 @@
           ],
           "prompt": {
             "PromptText": "улус",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/у.mp3"
+            "PromptAudio": "lang/ukrainian/audios/у.mp3"
           },
           "foilstones": [
             {
@@ -7104,7 +7104,7 @@
           ],
           "prompt": {
             "PromptText": "ус",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/у.mp3"
+            "PromptAudio": "lang/ukrainian/audios/у.mp3"
           },
           "foilstones": [
             {
@@ -7142,7 +7142,7 @@
           ],
           "prompt": {
             "PromptText": "улус",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/у.mp3"
+            "PromptAudio": "lang/ukrainian/audios/у.mp3"
           },
           "foilstones": [
             {
@@ -7180,7 +7180,7 @@
           ],
           "prompt": {
             "PromptText": "гул",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/г.mp3"
+            "PromptAudio": "lang/ukrainian/audios/г.mp3"
           },
           "foilstones": [
             {
@@ -7218,7 +7218,7 @@
           ],
           "prompt": {
             "PromptText": "жук",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/ж.mp3"
+            "PromptAudio": "lang/ukrainian/audios/ж.mp3"
           },
           "foilstones": [
             {
@@ -7253,7 +7253,7 @@
           ],
           "prompt": {
             "PromptText": "луг",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/л.mp3"
+            "PromptAudio": "lang/ukrainian/audios/л.mp3"
           },
           "foilstones": [
             {
@@ -7306,7 +7306,7 @@
           ],
           "prompt": {
             "PromptText": "луг",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/л.mp3"
+            "PromptAudio": "lang/ukrainian/audios/л.mp3"
           },
           "foilstones": [
             {
@@ -7344,7 +7344,7 @@
           ],
           "prompt": {
             "PromptText": "гул",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/г.mp3"
+            "PromptAudio": "lang/ukrainian/audios/г.mp3"
           },
           "foilstones": [
             {
@@ -7382,7 +7382,7 @@
           ],
           "prompt": {
             "PromptText": "жук",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/ж.mp3"
+            "PromptAudio": "lang/ukrainian/audios/ж.mp3"
           },
           "foilstones": [
             {
@@ -7420,7 +7420,7 @@
           ],
           "prompt": {
             "PromptText": "ус",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/у.mp3"
+            "PromptAudio": "lang/ukrainian/audios/у.mp3"
           },
           "foilstones": [
             {
@@ -7455,7 +7455,7 @@
           ],
           "prompt": {
             "PromptText": "улус",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/у.mp3"
+            "PromptAudio": "lang/ukrainian/audios/у.mp3"
           },
           "foilstones": [
             {
@@ -7514,7 +7514,7 @@
           ],
           "prompt": {
             "PromptText": "гул",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/гул.mp3"
+            "PromptAudio": "lang/ukrainian/audios/гул.mp3"
           },
           "foilstones": [
             {
@@ -7543,7 +7543,7 @@
           ],
           "prompt": {
             "PromptText": "луг",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/луг.mp3"
+            "PromptAudio": "lang/ukrainian/audios/луг.mp3"
           },
           "foilstones": [
             {
@@ -7575,7 +7575,7 @@
           ],
           "prompt": {
             "PromptText": "улус",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/улус.mp3"
+            "PromptAudio": "lang/ukrainian/audios/улус.mp3"
           },
           "foilstones": [
             {
@@ -7601,7 +7601,7 @@
           ],
           "prompt": {
             "PromptText": "ус",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/ус.mp3"
+            "PromptAudio": "lang/ukrainian/audios/ус.mp3"
           },
           "foilstones": [
             {
@@ -7633,7 +7633,7 @@
           ],
           "prompt": {
             "PromptText": "жук",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/жук.mp3"
+            "PromptAudio": "lang/ukrainian/audios/жук.mp3"
           },
           "foilstones": [
             {
@@ -7674,7 +7674,7 @@
           ],
           "prompt": {
             "PromptText": "луг",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/луг.mp3"
+            "PromptAudio": "lang/ukrainian/audios/луг.mp3"
           },
           "foilstones": [
             {
@@ -7703,7 +7703,7 @@
           ],
           "prompt": {
             "PromptText": "гул",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/гул.mp3"
+            "PromptAudio": "lang/ukrainian/audios/гул.mp3"
           },
           "foilstones": [
             {
@@ -7729,7 +7729,7 @@
           ],
           "prompt": {
             "PromptText": "ус",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/ус.mp3"
+            "PromptAudio": "lang/ukrainian/audios/ус.mp3"
           },
           "foilstones": [
             {
@@ -7758,7 +7758,7 @@
           ],
           "prompt": {
             "PromptText": "жук",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/жук.mp3"
+            "PromptAudio": "lang/ukrainian/audios/жук.mp3"
           },
           "foilstones": [
             {
@@ -7793,7 +7793,7 @@
           ],
           "prompt": {
             "PromptText": "улус",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/улус.mp3"
+            "PromptAudio": "lang/ukrainian/audios/улус.mp3"
           },
           "foilstones": [
             {
@@ -7828,7 +7828,7 @@
           ],
           "prompt": {
             "PromptText": "и",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/и.mp3"
+            "PromptAudio": "lang/ukrainian/audios/и.mp3"
           },
           "foilstones": [
             {
@@ -7866,7 +7866,7 @@
           ],
           "prompt": {
             "PromptText": "м",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/м.mp3"
+            "PromptAudio": "lang/ukrainian/audios/м.mp3"
           },
           "foilstones": [
             {
@@ -7904,7 +7904,7 @@
           ],
           "prompt": {
             "PromptText": "х",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/х.mp3"
+            "PromptAudio": "lang/ukrainian/audios/х.mp3"
           },
           "foilstones": [
             {
@@ -7939,7 +7939,7 @@
           ],
           "prompt": {
             "PromptText": "ф",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/ф.mp3"
+            "PromptAudio": "lang/ukrainian/audios/ф.mp3"
           },
           "foilstones": [
             {
@@ -7980,7 +7980,7 @@
           ],
           "prompt": {
             "PromptText": "з",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/з.mp3"
+            "PromptAudio": "lang/ukrainian/audios/з.mp3"
           },
           "foilstones": [
             {
@@ -8030,7 +8030,7 @@
           ],
           "prompt": {
             "PromptText": "ф",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/ф.mp3"
+            "PromptAudio": "lang/ukrainian/audios/ф.mp3"
           },
           "foilstones": [
             {
@@ -8068,7 +8068,7 @@
           ],
           "prompt": {
             "PromptText": "м",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/м.mp3"
+            "PromptAudio": "lang/ukrainian/audios/м.mp3"
           },
           "foilstones": [
             {
@@ -8106,7 +8106,7 @@
           ],
           "prompt": {
             "PromptText": "с",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/с.mp3"
+            "PromptAudio": "lang/ukrainian/audios/с.mp3"
           },
           "foilstones": [
             {
@@ -8144,7 +8144,7 @@
           ],
           "prompt": {
             "PromptText": "и",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/и.mp3"
+            "PromptAudio": "lang/ukrainian/audios/и.mp3"
           },
           "foilstones": [
             {
@@ -8179,7 +8179,7 @@
           ],
           "prompt": {
             "PromptText": "х",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/х.mp3"
+            "PromptAudio": "lang/ukrainian/audios/х.mp3"
           },
           "foilstones": [
             {
@@ -8232,7 +8232,7 @@
           ],
           "prompt": {
             "PromptText": "к",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/к.mp3"
+            "PromptAudio": "lang/ukrainian/audios/к.mp3"
           },
           "foilstones": [
             {
@@ -8270,7 +8270,7 @@
           ],
           "prompt": {
             "PromptText": "м",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/м.mp3"
+            "PromptAudio": "lang/ukrainian/audios/м.mp3"
           },
           "foilstones": [
             {
@@ -8308,7 +8308,7 @@
           ],
           "prompt": {
             "PromptText": "ф",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/ф.mp3"
+            "PromptAudio": "lang/ukrainian/audios/ф.mp3"
           },
           "foilstones": [
             {
@@ -8343,7 +8343,7 @@
           ],
           "prompt": {
             "PromptText": "с",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/с.mp3"
+            "PromptAudio": "lang/ukrainian/audios/с.mp3"
           },
           "foilstones": [
             {
@@ -8384,7 +8384,7 @@
           ],
           "prompt": {
             "PromptText": "х",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/х.mp3"
+            "PromptAudio": "lang/ukrainian/audios/х.mp3"
           },
           "foilstones": [
             {
@@ -8434,7 +8434,7 @@
           ],
           "prompt": {
             "PromptText": "ф",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/ф.mp3"
+            "PromptAudio": "lang/ukrainian/audios/ф.mp3"
           },
           "foilstones": [
             {
@@ -8472,7 +8472,7 @@
           ],
           "prompt": {
             "PromptText": "и",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/и.mp3"
+            "PromptAudio": "lang/ukrainian/audios/и.mp3"
           },
           "foilstones": [
             {
@@ -8513,7 +8513,7 @@
           ],
           "prompt": {
             "PromptText": "м",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/м.mp3"
+            "PromptAudio": "lang/ukrainian/audios/м.mp3"
           },
           "foilstones": [
             {
@@ -8551,7 +8551,7 @@
           ],
           "prompt": {
             "PromptText": "с",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/с.mp3"
+            "PromptAudio": "lang/ukrainian/audios/с.mp3"
           },
           "foilstones": [
             {
@@ -8586,7 +8586,7 @@
           ],
           "prompt": {
             "PromptText": "з",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/з.mp3"
+            "PromptAudio": "lang/ukrainian/audios/з.mp3"
           },
           "foilstones": [
             {
@@ -8636,7 +8636,7 @@
           ],
           "prompt": {
             "PromptText": "ф",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/ф.mp3"
+            "PromptAudio": "lang/ukrainian/audios/ф.mp3"
           },
           "foilstones": [
             {
@@ -8674,7 +8674,7 @@
           ],
           "prompt": {
             "PromptText": "к",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/к.mp3"
+            "PromptAudio": "lang/ukrainian/audios/к.mp3"
           },
           "foilstones": [
             {
@@ -8712,7 +8712,7 @@
           ],
           "prompt": {
             "PromptText": "с",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/с.mp3"
+            "PromptAudio": "lang/ukrainian/audios/с.mp3"
           },
           "foilstones": [
             {
@@ -8750,7 +8750,7 @@
           ],
           "prompt": {
             "PromptText": "м",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/м.mp3"
+            "PromptAudio": "lang/ukrainian/audios/м.mp3"
           },
           "foilstones": [
             {
@@ -8785,7 +8785,7 @@
           ],
           "prompt": {
             "PromptText": "х",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/х.mp3"
+            "PromptAudio": "lang/ukrainian/audios/х.mp3"
           },
           "foilstones": [
             {
@@ -8838,7 +8838,7 @@
           ],
           "prompt": {
             "PromptText": "м",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/м.mp3"
+            "PromptAudio": "lang/ukrainian/audios/м.mp3"
           },
           "foilstones": [
             {
@@ -8876,7 +8876,7 @@
           ],
           "prompt": {
             "PromptText": "и",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/и.mp3"
+            "PromptAudio": "lang/ukrainian/audios/и.mp3"
           },
           "foilstones": [
             {
@@ -8914,7 +8914,7 @@
           ],
           "prompt": {
             "PromptText": "з",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/з.mp3"
+            "PromptAudio": "lang/ukrainian/audios/з.mp3"
           },
           "foilstones": [
             {
@@ -8952,7 +8952,7 @@
           ],
           "prompt": {
             "PromptText": "ф",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/ф.mp3"
+            "PromptAudio": "lang/ukrainian/audios/ф.mp3"
           },
           "foilstones": [
             {
@@ -8987,7 +8987,7 @@
           ],
           "prompt": {
             "PromptText": "к",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/к.mp3"
+            "PromptAudio": "lang/ukrainian/audios/к.mp3"
           },
           "foilstones": [
             {
@@ -9040,7 +9040,7 @@
           ],
           "prompt": {
             "PromptText": "шафи",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/ш.mp3"
+            "PromptAudio": "lang/ukrainian/audios/ш.mp3"
           },
           "foilstones": [
             {
@@ -9078,7 +9078,7 @@
           ],
           "prompt": {
             "PromptText": "зими",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/з.mp3"
+            "PromptAudio": "lang/ukrainian/audios/з.mp3"
           },
           "foilstones": [
             {
@@ -9119,7 +9119,7 @@
           ],
           "prompt": {
             "PromptText": "хмиз",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/х.mp3"
+            "PromptAudio": "lang/ukrainian/audios/х.mp3"
           },
           "foilstones": [
             {
@@ -9157,7 +9157,7 @@
           ],
           "prompt": {
             "PromptText": "ми",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/м.mp3"
+            "PromptAudio": "lang/ukrainian/audios/м.mp3"
           },
           "foilstones": [
             {
@@ -9192,7 +9192,7 @@
           ],
           "prompt": {
             "PromptText": "сік",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/с.mp3"
+            "PromptAudio": "lang/ukrainian/audios/с.mp3"
           },
           "foilstones": [
             {
@@ -9242,7 +9242,7 @@
           ],
           "prompt": {
             "PromptText": "ми",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/м.mp3"
+            "PromptAudio": "lang/ukrainian/audios/м.mp3"
           },
           "foilstones": [
             {
@@ -9280,7 +9280,7 @@
           ],
           "prompt": {
             "PromptText": "зими",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/з.mp3"
+            "PromptAudio": "lang/ukrainian/audios/з.mp3"
           },
           "foilstones": [
             {
@@ -9318,7 +9318,7 @@
           ],
           "prompt": {
             "PromptText": "сік",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/с.mp3"
+            "PromptAudio": "lang/ukrainian/audios/с.mp3"
           },
           "foilstones": [
             {
@@ -9356,7 +9356,7 @@
           ],
           "prompt": {
             "PromptText": "хмиз",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/х.mp3"
+            "PromptAudio": "lang/ukrainian/audios/х.mp3"
           },
           "foilstones": [
             {
@@ -9391,7 +9391,7 @@
           ],
           "prompt": {
             "PromptText": "шафи",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/ш.mp3"
+            "PromptAudio": "lang/ukrainian/audios/ш.mp3"
           },
           "foilstones": [
             {
@@ -9444,7 +9444,7 @@
           ],
           "prompt": {
             "PromptText": "зими",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/з.mp3"
+            "PromptAudio": "lang/ukrainian/audios/з.mp3"
           },
           "foilstones": [
             {
@@ -9482,7 +9482,7 @@
           ],
           "prompt": {
             "PromptText": "ми",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/м.mp3"
+            "PromptAudio": "lang/ukrainian/audios/м.mp3"
           },
           "foilstones": [
             {
@@ -9520,7 +9520,7 @@
           ],
           "prompt": {
             "PromptText": "сік",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/с.mp3"
+            "PromptAudio": "lang/ukrainian/audios/с.mp3"
           },
           "foilstones": [
             {
@@ -9558,7 +9558,7 @@
           ],
           "prompt": {
             "PromptText": "шафи",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/ш.mp3"
+            "PromptAudio": "lang/ukrainian/audios/ш.mp3"
           },
           "foilstones": [
             {
@@ -9593,7 +9593,7 @@
           ],
           "prompt": {
             "PromptText": "хмиз",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/х.mp3"
+            "PromptAudio": "lang/ukrainian/audios/х.mp3"
           },
           "foilstones": [
             {
@@ -9649,7 +9649,7 @@
           ],
           "prompt": {
             "PromptText": "ми",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/ми.mp3"
+            "PromptAudio": "lang/ukrainian/audios/ми.mp3"
           },
           "foilstones": [
             {
@@ -9696,7 +9696,7 @@
           ],
           "prompt": {
             "PromptText": "хмиз",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/хмиз.mp3"
+            "PromptAudio": "lang/ukrainian/audios/хмиз.mp3"
           },
           "foilstones": [
             {
@@ -9743,7 +9743,7 @@
           ],
           "prompt": {
             "PromptText": "зими",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/зими.mp3"
+            "PromptAudio": "lang/ukrainian/audios/зими.mp3"
           },
           "foilstones": [
             {
@@ -9784,7 +9784,7 @@
           ],
           "prompt": {
             "PromptText": "сік",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/сік.mp3"
+            "PromptAudio": "lang/ukrainian/audios/сік.mp3"
           },
           "foilstones": [
             {
@@ -9831,7 +9831,7 @@
           ],
           "prompt": {
             "PromptText": "шафи",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/шафи.mp3"
+            "PromptAudio": "lang/ukrainian/audios/шафи.mp3"
           },
           "foilstones": [
             {
@@ -9893,7 +9893,7 @@
           ],
           "prompt": {
             "PromptText": "шафи",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/шафи.mp3"
+            "PromptAudio": "lang/ukrainian/audios/шафи.mp3"
           },
           "foilstones": [
             {
@@ -9940,7 +9940,7 @@
           ],
           "prompt": {
             "PromptText": "зими",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/зими.mp3"
+            "PromptAudio": "lang/ukrainian/audios/зими.mp3"
           },
           "foilstones": [
             {
@@ -9987,7 +9987,7 @@
           ],
           "prompt": {
             "PromptText": "хмиз",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/хмиз.mp3"
+            "PromptAudio": "lang/ukrainian/audios/хмиз.mp3"
           },
           "foilstones": [
             {
@@ -10025,7 +10025,7 @@
           ],
           "prompt": {
             "PromptText": "ми",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/ми.mp3"
+            "PromptAudio": "lang/ukrainian/audios/ми.mp3"
           },
           "foilstones": [
             {
@@ -10069,7 +10069,7 @@
           ],
           "prompt": {
             "PromptText": "сік",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/сік.mp3"
+            "PromptAudio": "lang/ukrainian/audios/сік.mp3"
           },
           "foilstones": [
             {
@@ -10122,7 +10122,7 @@
           ],
           "prompt": {
             "PromptText": "я",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/я.mp3"
+            "PromptAudio": "lang/ukrainian/audios/я.mp3"
           },
           "foilstones": [
             {
@@ -10160,7 +10160,7 @@
           ],
           "prompt": {
             "PromptText": "з",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/з.mp3"
+            "PromptAudio": "lang/ukrainian/audios/з.mp3"
           },
           "foilstones": [
             {
@@ -10198,7 +10198,7 @@
           ],
           "prompt": {
             "PromptText": "д",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/д.mp3"
+            "PromptAudio": "lang/ukrainian/audios/д.mp3"
           },
           "foilstones": [
             {
@@ -10233,7 +10233,7 @@
           ],
           "prompt": {
             "PromptText": "р",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/р.mp3"
+            "PromptAudio": "lang/ukrainian/audios/р.mp3"
           },
           "foilstones": [
             {
@@ -10271,7 +10271,7 @@
           ],
           "prompt": {
             "PromptText": "к",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/к.mp3"
+            "PromptAudio": "lang/ukrainian/audios/к.mp3"
           },
           "foilstones": [
             {
@@ -10324,7 +10324,7 @@
           ],
           "prompt": {
             "PromptText": "н",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/н.mp3"
+            "PromptAudio": "lang/ukrainian/audios/н.mp3"
           },
           "foilstones": [
             {
@@ -10362,7 +10362,7 @@
           ],
           "prompt": {
             "PromptText": "р",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/р.mp3"
+            "PromptAudio": "lang/ukrainian/audios/р.mp3"
           },
           "foilstones": [
             {
@@ -10400,7 +10400,7 @@
           ],
           "prompt": {
             "PromptText": "я",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/я.mp3"
+            "PromptAudio": "lang/ukrainian/audios/я.mp3"
           },
           "foilstones": [
             {
@@ -10435,7 +10435,7 @@
           ],
           "prompt": {
             "PromptText": "г",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/г.mp3"
+            "PromptAudio": "lang/ukrainian/audios/г.mp3"
           },
           "foilstones": [
             {
@@ -10473,7 +10473,7 @@
           ],
           "prompt": {
             "PromptText": "з",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/з.mp3"
+            "PromptAudio": "lang/ukrainian/audios/з.mp3"
           },
           "foilstones": [
             {
@@ -10526,7 +10526,7 @@
           ],
           "prompt": {
             "PromptText": "я",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/я.mp3"
+            "PromptAudio": "lang/ukrainian/audios/я.mp3"
           },
           "foilstones": [
             {
@@ -10564,7 +10564,7 @@
           ],
           "prompt": {
             "PromptText": "д",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/д.mp3"
+            "PromptAudio": "lang/ukrainian/audios/д.mp3"
           },
           "foilstones": [
             {
@@ -10602,7 +10602,7 @@
           ],
           "prompt": {
             "PromptText": "н",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/н.mp3"
+            "PromptAudio": "lang/ukrainian/audios/н.mp3"
           },
           "foilstones": [
             {
@@ -10637,7 +10637,7 @@
           ],
           "prompt": {
             "PromptText": "р",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/р.mp3"
+            "PromptAudio": "lang/ukrainian/audios/р.mp3"
           },
           "foilstones": [
             {
@@ -10675,7 +10675,7 @@
           ],
           "prompt": {
             "PromptText": "з",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/з.mp3"
+            "PromptAudio": "lang/ukrainian/audios/з.mp3"
           },
           "foilstones": [
             {
@@ -10728,7 +10728,7 @@
           ],
           "prompt": {
             "PromptText": "з",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/з.mp3"
+            "PromptAudio": "lang/ukrainian/audios/з.mp3"
           },
           "foilstones": [
             {
@@ -10766,7 +10766,7 @@
           ],
           "prompt": {
             "PromptText": "н",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/н.mp3"
+            "PromptAudio": "lang/ukrainian/audios/н.mp3"
           },
           "foilstones": [
             {
@@ -10804,7 +10804,7 @@
           ],
           "prompt": {
             "PromptText": "д",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/д.mp3"
+            "PromptAudio": "lang/ukrainian/audios/д.mp3"
           },
           "foilstones": [
             {
@@ -10839,7 +10839,7 @@
           ],
           "prompt": {
             "PromptText": "к",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/к.mp3"
+            "PromptAudio": "lang/ukrainian/audios/к.mp3"
           },
           "foilstones": [
             {
@@ -10877,7 +10877,7 @@
           ],
           "prompt": {
             "PromptText": "я",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/я.mp3"
+            "PromptAudio": "lang/ukrainian/audios/я.mp3"
           },
           "foilstones": [
             {
@@ -10930,7 +10930,7 @@
           ],
           "prompt": {
             "PromptText": "р",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/р.mp3"
+            "PromptAudio": "lang/ukrainian/audios/р.mp3"
           },
           "foilstones": [
             {
@@ -10968,7 +10968,7 @@
           ],
           "prompt": {
             "PromptText": "н",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/н.mp3"
+            "PromptAudio": "lang/ukrainian/audios/н.mp3"
           },
           "foilstones": [
             {
@@ -11006,7 +11006,7 @@
           ],
           "prompt": {
             "PromptText": "к",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/к.mp3"
+            "PromptAudio": "lang/ukrainian/audios/к.mp3"
           },
           "foilstones": [
             {
@@ -11038,7 +11038,7 @@
           ],
           "prompt": {
             "PromptText": "г",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/г.mp3"
+            "PromptAudio": "lang/ukrainian/audios/г.mp3"
           },
           "foilstones": [
             {
@@ -11073,7 +11073,7 @@
           ],
           "prompt": {
             "PromptText": "я",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/я.mp3"
+            "PromptAudio": "lang/ukrainian/audios/я.mp3"
           },
           "foilstones": [
             {
@@ -11126,7 +11126,7 @@
           ],
           "prompt": {
             "PromptText": "язик",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/я.mp3"
+            "PromptAudio": "lang/ukrainian/audios/я.mp3"
           },
           "foilstones": [
             {
@@ -11164,7 +11164,7 @@
           ],
           "prompt": {
             "PromptText": "якір",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/я.mp3"
+            "PromptAudio": "lang/ukrainian/audios/я.mp3"
           },
           "foilstones": [
             {
@@ -11202,7 +11202,7 @@
           ],
           "prompt": {
             "PromptText": "ряд",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/р.mp3"
+            "PromptAudio": "lang/ukrainian/audios/р.mp3"
           },
           "foilstones": [
             {
@@ -11240,7 +11240,7 @@
           ],
           "prompt": {
             "PromptText": "одяг",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/о.mp3"
+            "PromptAudio": "lang/ukrainian/audios/о.mp3"
           },
           "foilstones": [
             {
@@ -11275,7 +11275,7 @@
           ],
           "prompt": {
             "PromptText": "дня",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/д.mp3"
+            "PromptAudio": "lang/ukrainian/audios/д.mp3"
           },
           "foilstones": [
             {
@@ -11328,7 +11328,7 @@
           ],
           "prompt": {
             "PromptText": "дня",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/д.mp3"
+            "PromptAudio": "lang/ukrainian/audios/д.mp3"
           },
           "foilstones": [
             {
@@ -11366,7 +11366,7 @@
           ],
           "prompt": {
             "PromptText": "язик",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/я.mp3"
+            "PromptAudio": "lang/ukrainian/audios/я.mp3"
           },
           "foilstones": [
             {
@@ -11404,7 +11404,7 @@
           ],
           "prompt": {
             "PromptText": "якір",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/я.mp3"
+            "PromptAudio": "lang/ukrainian/audios/я.mp3"
           },
           "foilstones": [
             {
@@ -11436,7 +11436,7 @@
           ],
           "prompt": {
             "PromptText": "одяг",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/о.mp3"
+            "PromptAudio": "lang/ukrainian/audios/о.mp3"
           },
           "foilstones": [
             {
@@ -11471,7 +11471,7 @@
           ],
           "prompt": {
             "PromptText": "ряд",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/р.mp3"
+            "PromptAudio": "lang/ukrainian/audios/р.mp3"
           },
           "foilstones": [
             {
@@ -11524,7 +11524,7 @@
           ],
           "prompt": {
             "PromptText": "одяг",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/о.mp3"
+            "PromptAudio": "lang/ukrainian/audios/о.mp3"
           },
           "foilstones": [
             {
@@ -11562,7 +11562,7 @@
           ],
           "prompt": {
             "PromptText": "ряд",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/р.mp3"
+            "PromptAudio": "lang/ukrainian/audios/р.mp3"
           },
           "foilstones": [
             {
@@ -11600,7 +11600,7 @@
           ],
           "prompt": {
             "PromptText": "якір",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/я.mp3"
+            "PromptAudio": "lang/ukrainian/audios/я.mp3"
           },
           "foilstones": [
             {
@@ -11638,7 +11638,7 @@
           ],
           "prompt": {
             "PromptText": "язик",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/я.mp3"
+            "PromptAudio": "lang/ukrainian/audios/я.mp3"
           },
           "foilstones": [
             {
@@ -11673,7 +11673,7 @@
           ],
           "prompt": {
             "PromptText": "одяг",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/о.mp3"
+            "PromptAudio": "lang/ukrainian/audios/о.mp3"
           },
           "foilstones": [
             {
@@ -11735,7 +11735,7 @@
           ],
           "prompt": {
             "PromptText": "язик",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/язик.mp3"
+            "PromptAudio": "lang/ukrainian/audios/язик.mp3"
           },
           "foilstones": [
             {
@@ -11779,7 +11779,7 @@
           ],
           "prompt": {
             "PromptText": "ряд",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/ряд.mp3"
+            "PromptAudio": "lang/ukrainian/audios/ряд.mp3"
           },
           "foilstones": [
             {
@@ -11826,7 +11826,7 @@
           ],
           "prompt": {
             "PromptText": "якір",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/якір.mp3"
+            "PromptAudio": "lang/ukrainian/audios/якір.mp3"
           },
           "foilstones": [
             {
@@ -11867,7 +11867,7 @@
           ],
           "prompt": {
             "PromptText": "язик",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/язик.mp3"
+            "PromptAudio": "lang/ukrainian/audios/язик.mp3"
           },
           "foilstones": [
             {
@@ -11911,7 +11911,7 @@
           ],
           "prompt": {
             "PromptText": "одяг",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/одяг.mp3"
+            "PromptAudio": "lang/ukrainian/audios/одяг.mp3"
           },
           "foilstones": [
             {
@@ -11973,7 +11973,7 @@
           ],
           "prompt": {
             "PromptText": "язик",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/язик.mp3"
+            "PromptAudio": "lang/ukrainian/audios/язик.mp3"
           },
           "foilstones": [
             {
@@ -12020,7 +12020,7 @@
           ],
           "prompt": {
             "PromptText": "якір",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/якір.mp3"
+            "PromptAudio": "lang/ukrainian/audios/якір.mp3"
           },
           "foilstones": [
             {
@@ -12064,7 +12064,7 @@
           ],
           "prompt": {
             "PromptText": "ряд",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/ряд.mp3"
+            "PromptAudio": "lang/ukrainian/audios/ряд.mp3"
           },
           "foilstones": [
             {
@@ -12111,7 +12111,7 @@
           ],
           "prompt": {
             "PromptText": "язик",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/язик.mp3"
+            "PromptAudio": "lang/ukrainian/audios/язик.mp3"
           },
           "foilstones": [
             {
@@ -12161,7 +12161,7 @@
           ],
           "prompt": {
             "PromptText": "одяг",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/одяг.mp3"
+            "PromptAudio": "lang/ukrainian/audios/одяг.mp3"
           },
           "foilstones": [
             {
@@ -12208,7 +12208,7 @@
           ],
           "prompt": {
             "PromptText": "ю",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/ю.mp3"
+            "PromptAudio": "lang/ukrainian/audios/ю.mp3"
           },
           "foilstones": [
             {
@@ -12246,7 +12246,7 @@
           ],
           "prompt": {
             "PromptText": "ч",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/ч.mp3"
+            "PromptAudio": "lang/ukrainian/audios/ч.mp3"
           },
           "foilstones": [
             {
@@ -12284,7 +12284,7 @@
           ],
           "prompt": {
             "PromptText": "в",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/в.mp3"
+            "PromptAudio": "lang/ukrainian/audios/в.mp3"
           },
           "foilstones": [
             {
@@ -12316,7 +12316,7 @@
           ],
           "prompt": {
             "PromptText": "с",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/с.mp3"
+            "PromptAudio": "lang/ukrainian/audios/с.mp3"
           },
           "foilstones": [
             {
@@ -12351,7 +12351,7 @@
           ],
           "prompt": {
             "PromptText": "н",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/н.mp3"
+            "PromptAudio": "lang/ukrainian/audios/н.mp3"
           },
           "foilstones": [
             {
@@ -12404,7 +12404,7 @@
           ],
           "prompt": {
             "PromptText": "н",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/н.mp3"
+            "PromptAudio": "lang/ukrainian/audios/н.mp3"
           },
           "foilstones": [
             {
@@ -12442,7 +12442,7 @@
           ],
           "prompt": {
             "PromptText": "ю",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/ю.mp3"
+            "PromptAudio": "lang/ukrainian/audios/ю.mp3"
           },
           "foilstones": [
             {
@@ -12480,7 +12480,7 @@
           ],
           "prompt": {
             "PromptText": "ч",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/ч.mp3"
+            "PromptAudio": "lang/ukrainian/audios/ч.mp3"
           },
           "foilstones": [
             {
@@ -12518,7 +12518,7 @@
           ],
           "prompt": {
             "PromptText": "с",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/с.mp3"
+            "PromptAudio": "lang/ukrainian/audios/с.mp3"
           },
           "foilstones": [
             {
@@ -12553,7 +12553,7 @@
           ],
           "prompt": {
             "PromptText": "х",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/х.mp3"
+            "PromptAudio": "lang/ukrainian/audios/х.mp3"
           },
           "foilstones": [
             {
@@ -12606,7 +12606,7 @@
           ],
           "prompt": {
             "PromptText": "ш",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/ш.mp3"
+            "PromptAudio": "lang/ukrainian/audios/ш.mp3"
           },
           "foilstones": [
             {
@@ -12644,7 +12644,7 @@
           ],
           "prompt": {
             "PromptText": "н",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/н.mp3"
+            "PromptAudio": "lang/ukrainian/audios/н.mp3"
           },
           "foilstones": [
             {
@@ -12682,7 +12682,7 @@
           ],
           "prompt": {
             "PromptText": "ю",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/ю.mp3"
+            "PromptAudio": "lang/ukrainian/audios/ю.mp3"
           },
           "foilstones": [
             {
@@ -12720,7 +12720,7 @@
           ],
           "prompt": {
             "PromptText": "в",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/в.mp3"
+            "PromptAudio": "lang/ukrainian/audios/в.mp3"
           },
           "foilstones": [
             {
@@ -12755,7 +12755,7 @@
           ],
           "prompt": {
             "PromptText": "х",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/х.mp3"
+            "PromptAudio": "lang/ukrainian/audios/х.mp3"
           },
           "foilstones": [
             {
@@ -12808,7 +12808,7 @@
           ],
           "prompt": {
             "PromptText": "ю",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/ю.mp3"
+            "PromptAudio": "lang/ukrainian/audios/ю.mp3"
           },
           "foilstones": [
             {
@@ -12846,7 +12846,7 @@
           ],
           "prompt": {
             "PromptText": "ш",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/ш.mp3"
+            "PromptAudio": "lang/ukrainian/audios/ш.mp3"
           },
           "foilstones": [
             {
@@ -12884,7 +12884,7 @@
           ],
           "prompt": {
             "PromptText": "х",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/х.mp3"
+            "PromptAudio": "lang/ukrainian/audios/х.mp3"
           },
           "foilstones": [
             {
@@ -12916,7 +12916,7 @@
           ],
           "prompt": {
             "PromptText": "н",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/н.mp3"
+            "PromptAudio": "lang/ukrainian/audios/н.mp3"
           },
           "foilstones": [
             {
@@ -12951,7 +12951,7 @@
           ],
           "prompt": {
             "PromptText": "ч",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/ч.mp3"
+            "PromptAudio": "lang/ukrainian/audios/ч.mp3"
           },
           "foilstones": [
             {
@@ -13004,7 +13004,7 @@
           ],
           "prompt": {
             "PromptText": "ш",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/ш.mp3"
+            "PromptAudio": "lang/ukrainian/audios/ш.mp3"
           },
           "foilstones": [
             {
@@ -13042,7 +13042,7 @@
           ],
           "prompt": {
             "PromptText": "с",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/с.mp3"
+            "PromptAudio": "lang/ukrainian/audios/с.mp3"
           },
           "foilstones": [
             {
@@ -13080,7 +13080,7 @@
           ],
           "prompt": {
             "PromptText": "ч",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/ч.mp3"
+            "PromptAudio": "lang/ukrainian/audios/ч.mp3"
           },
           "foilstones": [
             {
@@ -13118,7 +13118,7 @@
           ],
           "prompt": {
             "PromptText": "н",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/н.mp3"
+            "PromptAudio": "lang/ukrainian/audios/н.mp3"
           },
           "foilstones": [
             {
@@ -13153,7 +13153,7 @@
           ],
           "prompt": {
             "PromptText": "ю",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/ю.mp3"
+            "PromptAudio": "lang/ukrainian/audios/ю.mp3"
           },
           "foilstones": [
             {
@@ -13206,7 +13206,7 @@
           ],
           "prompt": {
             "PromptText": "шию",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/ш.mp3"
+            "PromptAudio": "lang/ukrainian/audios/ш.mp3"
           },
           "foilstones": [
             {
@@ -13244,7 +13244,7 @@
           ],
           "prompt": {
             "PromptText": "чую",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/ч.mp3"
+            "PromptAudio": "lang/ukrainian/audios/ч.mp3"
           },
           "foilstones": [
             {
@@ -13282,7 +13282,7 @@
           ],
           "prompt": {
             "PromptText": "нюх",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/н.mp3"
+            "PromptAudio": "lang/ukrainian/audios/н.mp3"
           },
           "foilstones": [
             {
@@ -13320,7 +13320,7 @@
           ],
           "prompt": {
             "PromptText": "всю",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/в.mp3"
+            "PromptAudio": "lang/ukrainian/audios/в.mp3"
           },
           "foilstones": [
             {
@@ -13361,7 +13361,7 @@
           ],
           "prompt": {
             "PromptText": "чаю",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/ч.mp3"
+            "PromptAudio": "lang/ukrainian/audios/ч.mp3"
           },
           "foilstones": [
             {
@@ -13408,7 +13408,7 @@
           ],
           "prompt": {
             "PromptText": "чую",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/ч.mp3"
+            "PromptAudio": "lang/ukrainian/audios/ч.mp3"
           },
           "foilstones": [
             {
@@ -13446,7 +13446,7 @@
           ],
           "prompt": {
             "PromptText": "нюх",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/н.mp3"
+            "PromptAudio": "lang/ukrainian/audios/н.mp3"
           },
           "foilstones": [
             {
@@ -13484,7 +13484,7 @@
           ],
           "prompt": {
             "PromptText": "шию",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/ш.mp3"
+            "PromptAudio": "lang/ukrainian/audios/ш.mp3"
           },
           "foilstones": [
             {
@@ -13516,7 +13516,7 @@
           ],
           "prompt": {
             "PromptText": "чую",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/ч.mp3"
+            "PromptAudio": "lang/ukrainian/audios/ч.mp3"
           },
           "foilstones": [
             {
@@ -13551,7 +13551,7 @@
           ],
           "prompt": {
             "PromptText": "нюх",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/н.mp3"
+            "PromptAudio": "lang/ukrainian/audios/н.mp3"
           },
           "foilstones": [
             {
@@ -13604,7 +13604,7 @@
           ],
           "prompt": {
             "PromptText": "шию",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/ш.mp3"
+            "PromptAudio": "lang/ukrainian/audios/ш.mp3"
           },
           "foilstones": [
             {
@@ -13642,7 +13642,7 @@
           ],
           "prompt": {
             "PromptText": "чую",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/ч.mp3"
+            "PromptAudio": "lang/ukrainian/audios/ч.mp3"
           },
           "foilstones": [
             {
@@ -13680,7 +13680,7 @@
           ],
           "prompt": {
             "PromptText": "нюх",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/н.mp3"
+            "PromptAudio": "lang/ukrainian/audios/н.mp3"
           },
           "foilstones": [
             {
@@ -13718,7 +13718,7 @@
           ],
           "prompt": {
             "PromptText": "шию",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/ш.mp3"
+            "PromptAudio": "lang/ukrainian/audios/ш.mp3"
           },
           "foilstones": [
             {
@@ -13753,7 +13753,7 @@
           ],
           "prompt": {
             "PromptText": "чую",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/ч.mp3"
+            "PromptAudio": "lang/ukrainian/audios/ч.mp3"
           },
           "foilstones": [
             {
@@ -13812,7 +13812,7 @@
           ],
           "prompt": {
             "PromptText": "чую",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/чую.mp3"
+            "PromptAudio": "lang/ukrainian/audios/чую.mp3"
           },
           "foilstones": [
             {
@@ -13856,7 +13856,7 @@
           ],
           "prompt": {
             "PromptText": "шию",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/шию.mp3"
+            "PromptAudio": "lang/ukrainian/audios/шию.mp3"
           },
           "foilstones": [
             {
@@ -13900,7 +13900,7 @@
           ],
           "prompt": {
             "PromptText": "нюх",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/нюх.mp3"
+            "PromptAudio": "lang/ukrainian/audios/нюх.mp3"
           },
           "foilstones": [
             {
@@ -13941,7 +13941,7 @@
           ],
           "prompt": {
             "PromptText": "чую",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/чую.mp3"
+            "PromptAudio": "lang/ukrainian/audios/чую.mp3"
           },
           "foilstones": [
             {
@@ -13985,7 +13985,7 @@
           ],
           "prompt": {
             "PromptText": "шию",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/шию.mp3"
+            "PromptAudio": "lang/ukrainian/audios/шию.mp3"
           },
           "foilstones": [
             {
@@ -14044,7 +14044,7 @@
           ],
           "prompt": {
             "PromptText": "чую",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/чую.mp3"
+            "PromptAudio": "lang/ukrainian/audios/чую.mp3"
           },
           "foilstones": [
             {
@@ -14088,7 +14088,7 @@
           ],
           "prompt": {
             "PromptText": "нюх",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/нюх.mp3"
+            "PromptAudio": "lang/ukrainian/audios/нюх.mp3"
           },
           "foilstones": [
             {
@@ -14132,7 +14132,7 @@
           ],
           "prompt": {
             "PromptText": "шию",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/шию.mp3"
+            "PromptAudio": "lang/ukrainian/audios/шию.mp3"
           },
           "foilstones": [
             {
@@ -14173,7 +14173,7 @@
           ],
           "prompt": {
             "PromptText": "чую",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/чую.mp3"
+            "PromptAudio": "lang/ukrainian/audios/чую.mp3"
           },
           "foilstones": [
             {
@@ -14217,7 +14217,7 @@
           ],
           "prompt": {
             "PromptText": "шию",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/шию.mp3"
+            "PromptAudio": "lang/ukrainian/audios/шию.mp3"
           },
           "foilstones": [
             {
@@ -14270,7 +14270,7 @@
           ],
           "prompt": {
             "PromptText": "є",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/є.mp3"
+            "PromptAudio": "lang/ukrainian/audios/є.mp3"
           },
           "foilstones": [
             {
@@ -14308,7 +14308,7 @@
           ],
           "prompt": {
             "PromptText": "с",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/с.mp3"
+            "PromptAudio": "lang/ukrainian/audios/с.mp3"
           },
           "foilstones": [
             {
@@ -14346,7 +14346,7 @@
           ],
           "prompt": {
             "PromptText": "н",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/н.mp3"
+            "PromptAudio": "lang/ukrainian/audios/н.mp3"
           },
           "foilstones": [
             {
@@ -14381,7 +14381,7 @@
           ],
           "prompt": {
             "PromptText": "д",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/д.mp3"
+            "PromptAudio": "lang/ukrainian/audios/д.mp3"
           },
           "foilstones": [
             {
@@ -14419,7 +14419,7 @@
           ],
           "prompt": {
             "PromptText": "м",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/м.mp3"
+            "PromptAudio": "lang/ukrainian/audios/м.mp3"
           },
           "foilstones": [
             {
@@ -14472,7 +14472,7 @@
           ],
           "prompt": {
             "PromptText": "в",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/в.mp3"
+            "PromptAudio": "lang/ukrainian/audios/в.mp3"
           },
           "foilstones": [
             {
@@ -14510,7 +14510,7 @@
           ],
           "prompt": {
             "PromptText": "н",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/н.mp3"
+            "PromptAudio": "lang/ukrainian/audios/н.mp3"
           },
           "foilstones": [
             {
@@ -14548,7 +14548,7 @@
           ],
           "prompt": {
             "PromptText": "д",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/д.mp3"
+            "PromptAudio": "lang/ukrainian/audios/д.mp3"
           },
           "foilstones": [
             {
@@ -14583,7 +14583,7 @@
           ],
           "prompt": {
             "PromptText": "м",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/м.mp3"
+            "PromptAudio": "lang/ukrainian/audios/м.mp3"
           },
           "foilstones": [
             {
@@ -14621,7 +14621,7 @@
           ],
           "prompt": {
             "PromptText": "є",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/є.mp3"
+            "PromptAudio": "lang/ukrainian/audios/є.mp3"
           },
           "foilstones": [
             {
@@ -14674,7 +14674,7 @@
           ],
           "prompt": {
             "PromptText": "с",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/с.mp3"
+            "PromptAudio": "lang/ukrainian/audios/с.mp3"
           },
           "foilstones": [
             {
@@ -14712,7 +14712,7 @@
           ],
           "prompt": {
             "PromptText": "є",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/є.mp3"
+            "PromptAudio": "lang/ukrainian/audios/є.mp3"
           },
           "foilstones": [
             {
@@ -14750,7 +14750,7 @@
           ],
           "prompt": {
             "PromptText": "д",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/д.mp3"
+            "PromptAudio": "lang/ukrainian/audios/д.mp3"
           },
           "foilstones": [
             {
@@ -14785,7 +14785,7 @@
           ],
           "prompt": {
             "PromptText": "н",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/н.mp3"
+            "PromptAudio": "lang/ukrainian/audios/н.mp3"
           },
           "foilstones": [
             {
@@ -14823,7 +14823,7 @@
           ],
           "prompt": {
             "PromptText": "в",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/в.mp3"
+            "PromptAudio": "lang/ukrainian/audios/в.mp3"
           },
           "foilstones": [
             {
@@ -14876,7 +14876,7 @@
           ],
           "prompt": {
             "PromptText": "н",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/н.mp3"
+            "PromptAudio": "lang/ukrainian/audios/н.mp3"
           },
           "foilstones": [
             {
@@ -14914,7 +14914,7 @@
           ],
           "prompt": {
             "PromptText": "м",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/м.mp3"
+            "PromptAudio": "lang/ukrainian/audios/м.mp3"
           },
           "foilstones": [
             {
@@ -14952,7 +14952,7 @@
           ],
           "prompt": {
             "PromptText": "в",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/в.mp3"
+            "PromptAudio": "lang/ukrainian/audios/в.mp3"
           },
           "foilstones": [
             {
@@ -14987,7 +14987,7 @@
           ],
           "prompt": {
             "PromptText": "с",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/с.mp3"
+            "PromptAudio": "lang/ukrainian/audios/с.mp3"
           },
           "foilstones": [
             {
@@ -15025,7 +15025,7 @@
           ],
           "prompt": {
             "PromptText": "є",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/є.mp3"
+            "PromptAudio": "lang/ukrainian/audios/є.mp3"
           },
           "foilstones": [
             {
@@ -15078,7 +15078,7 @@
           ],
           "prompt": {
             "PromptText": "м",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/м.mp3"
+            "PromptAudio": "lang/ukrainian/audios/м.mp3"
           },
           "foilstones": [
             {
@@ -15116,7 +15116,7 @@
           ],
           "prompt": {
             "PromptText": "с",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/с.mp3"
+            "PromptAudio": "lang/ukrainian/audios/с.mp3"
           },
           "foilstones": [
             {
@@ -15154,7 +15154,7 @@
           ],
           "prompt": {
             "PromptText": "д",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/д.mp3"
+            "PromptAudio": "lang/ukrainian/audios/д.mp3"
           },
           "foilstones": [
             {
@@ -15186,7 +15186,7 @@
           ],
           "prompt": {
             "PromptText": "є",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/є.mp3"
+            "PromptAudio": "lang/ukrainian/audios/є.mp3"
           },
           "foilstones": [
             {
@@ -15221,7 +15221,7 @@
           ],
           "prompt": {
             "PromptText": "в",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/в.mp3"
+            "PromptAudio": "lang/ukrainian/audios/в.mp3"
           },
           "foilstones": [
             {
@@ -15274,7 +15274,7 @@
           ],
           "prompt": {
             "PromptText": "синє",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/с.mp3"
+            "PromptAudio": "lang/ukrainian/audios/с.mp3"
           },
           "foilstones": [
             {
@@ -15312,7 +15312,7 @@
           ],
           "prompt": {
             "PromptText": "дає",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/д.mp3"
+            "PromptAudio": "lang/ukrainian/audios/д.mp3"
           },
           "foilstones": [
             {
@@ -15350,7 +15350,7 @@
           ],
           "prompt": {
             "PromptText": "моє",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/м.mp3"
+            "PromptAudio": "lang/ukrainian/audios/м.mp3"
           },
           "foilstones": [
             {
@@ -15388,7 +15388,7 @@
           ],
           "prompt": {
             "PromptText": "має",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/м.mp3"
+            "PromptAudio": "lang/ukrainian/audios/м.mp3"
           },
           "foilstones": [
             {
@@ -15423,7 +15423,7 @@
           ],
           "prompt": {
             "PromptText": "двоє",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/д.mp3"
+            "PromptAudio": "lang/ukrainian/audios/д.mp3"
           },
           "foilstones": [
             {
@@ -15476,7 +15476,7 @@
           ],
           "prompt": {
             "PromptText": "дає",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/д.mp3"
+            "PromptAudio": "lang/ukrainian/audios/д.mp3"
           },
           "foilstones": [
             {
@@ -15514,7 +15514,7 @@
           ],
           "prompt": {
             "PromptText": "двоє",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/д.mp3"
+            "PromptAudio": "lang/ukrainian/audios/д.mp3"
           },
           "foilstones": [
             {
@@ -15552,7 +15552,7 @@
           ],
           "prompt": {
             "PromptText": "має",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/м.mp3"
+            "PromptAudio": "lang/ukrainian/audios/м.mp3"
           },
           "foilstones": [
             {
@@ -15584,7 +15584,7 @@
           ],
           "prompt": {
             "PromptText": "синє",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/с.mp3"
+            "PromptAudio": "lang/ukrainian/audios/с.mp3"
           },
           "foilstones": [
             {
@@ -15619,7 +15619,7 @@
           ],
           "prompt": {
             "PromptText": "моє",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/м.mp3"
+            "PromptAudio": "lang/ukrainian/audios/м.mp3"
           },
           "foilstones": [
             {
@@ -15672,7 +15672,7 @@
           ],
           "prompt": {
             "PromptText": "має",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/м.mp3"
+            "PromptAudio": "lang/ukrainian/audios/м.mp3"
           },
           "foilstones": [
             {
@@ -15710,7 +15710,7 @@
           ],
           "prompt": {
             "PromptText": "синє",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/с.mp3"
+            "PromptAudio": "lang/ukrainian/audios/с.mp3"
           },
           "foilstones": [
             {
@@ -15748,7 +15748,7 @@
           ],
           "prompt": {
             "PromptText": "двоє",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/д.mp3"
+            "PromptAudio": "lang/ukrainian/audios/д.mp3"
           },
           "foilstones": [
             {
@@ -15786,7 +15786,7 @@
           ],
           "prompt": {
             "PromptText": "дає",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/д.mp3"
+            "PromptAudio": "lang/ukrainian/audios/д.mp3"
           },
           "foilstones": [
             {
@@ -15821,7 +15821,7 @@
           ],
           "prompt": {
             "PromptText": "моє",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/м.mp3"
+            "PromptAudio": "lang/ukrainian/audios/м.mp3"
           },
           "foilstones": [
             {
@@ -15883,7 +15883,7 @@
           ],
           "prompt": {
             "PromptText": "синє",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/синє.mp3"
+            "PromptAudio": "lang/ukrainian/audios/синє.mp3"
           },
           "foilstones": [
             {
@@ -15927,7 +15927,7 @@
           ],
           "prompt": {
             "PromptText": "дає",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/дає.mp3"
+            "PromptAudio": "lang/ukrainian/audios/дає.mp3"
           },
           "foilstones": [
             {
@@ -15971,7 +15971,7 @@
           ],
           "prompt": {
             "PromptText": "моє",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/моє.mp3"
+            "PromptAudio": "lang/ukrainian/audios/моє.mp3"
           },
           "foilstones": [
             {
@@ -16009,7 +16009,7 @@
           ],
           "prompt": {
             "PromptText": "має",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/має.mp3"
+            "PromptAudio": "lang/ukrainian/audios/має.mp3"
           },
           "foilstones": [
             {
@@ -16053,7 +16053,7 @@
           ],
           "prompt": {
             "PromptText": "двоє",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/двоє.mp3"
+            "PromptAudio": "lang/ukrainian/audios/двоє.mp3"
           },
           "foilstones": [
             {
@@ -16112,7 +16112,7 @@
           ],
           "prompt": {
             "PromptText": "має",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/має.mp3"
+            "PromptAudio": "lang/ukrainian/audios/має.mp3"
           },
           "foilstones": [
             {
@@ -16159,7 +16159,7 @@
           ],
           "prompt": {
             "PromptText": "синє",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/синє.mp3"
+            "PromptAudio": "lang/ukrainian/audios/синє.mp3"
           },
           "foilstones": [
             {
@@ -16206,7 +16206,7 @@
           ],
           "prompt": {
             "PromptText": "двоє",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/двоє.mp3"
+            "PromptAudio": "lang/ukrainian/audios/двоє.mp3"
           },
           "foilstones": [
             {
@@ -16250,7 +16250,7 @@
           ],
           "prompt": {
             "PromptText": "дає",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/дає.mp3"
+            "PromptAudio": "lang/ukrainian/audios/дає.mp3"
           },
           "foilstones": [
             {
@@ -16297,7 +16297,7 @@
           ],
           "prompt": {
             "PromptText": "моє",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/моє.mp3"
+            "PromptAudio": "lang/ukrainian/audios/моє.mp3"
           },
           "foilstones": [
             {
@@ -16344,7 +16344,7 @@
           ],
           "prompt": {
             "PromptText": "ї",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/ї.mp3"
+            "PromptAudio": "lang/ukrainian/audios/ї.mp3"
           },
           "foilstones": [
             {
@@ -16382,7 +16382,7 @@
           ],
           "prompt": {
             "PromptText": "ж",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/ж.mp3"
+            "PromptAudio": "lang/ukrainian/audios/ж.mp3"
           },
           "foilstones": [
             {
@@ -16420,7 +16420,7 @@
           ],
           "prompt": {
             "PromptText": "к",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/к.mp3"
+            "PromptAudio": "lang/ukrainian/audios/к.mp3"
           },
           "foilstones": [
             {
@@ -16452,7 +16452,7 @@
           ],
           "prompt": {
             "PromptText": "д",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/д.mp3"
+            "PromptAudio": "lang/ukrainian/audios/д.mp3"
           },
           "foilstones": [
             {
@@ -16487,7 +16487,7 @@
           ],
           "prompt": {
             "PromptText": "м",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/м.mp3"
+            "PromptAudio": "lang/ukrainian/audios/м.mp3"
           },
           "foilstones": [
             {
@@ -16540,7 +16540,7 @@
           ],
           "prompt": {
             "PromptText": "м",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/м.mp3"
+            "PromptAudio": "lang/ukrainian/audios/м.mp3"
           },
           "foilstones": [
             {
@@ -16578,7 +16578,7 @@
           ],
           "prompt": {
             "PromptText": "к",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/к.mp3"
+            "PromptAudio": "lang/ukrainian/audios/к.mp3"
           },
           "foilstones": [
             {
@@ -16616,7 +16616,7 @@
           ],
           "prompt": {
             "PromptText": "ї",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/ї.mp3"
+            "PromptAudio": "lang/ukrainian/audios/ї.mp3"
           },
           "foilstones": [
             {
@@ -16654,7 +16654,7 @@
           ],
           "prompt": {
             "PromptText": "ж",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/ж.mp3"
+            "PromptAudio": "lang/ukrainian/audios/ж.mp3"
           },
           "foilstones": [
             {
@@ -16689,7 +16689,7 @@
           ],
           "prompt": {
             "PromptText": "д",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/д.mp3"
+            "PromptAudio": "lang/ukrainian/audios/д.mp3"
           },
           "foilstones": [
             {
@@ -16742,7 +16742,7 @@
           ],
           "prompt": {
             "PromptText": "д",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/д.mp3"
+            "PromptAudio": "lang/ukrainian/audios/д.mp3"
           },
           "foilstones": [
             {
@@ -16780,7 +16780,7 @@
           ],
           "prompt": {
             "PromptText": "ї",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/ї.mp3"
+            "PromptAudio": "lang/ukrainian/audios/ї.mp3"
           },
           "foilstones": [
             {
@@ -16818,7 +16818,7 @@
           ],
           "prompt": {
             "PromptText": "ж",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/ж.mp3"
+            "PromptAudio": "lang/ukrainian/audios/ж.mp3"
           },
           "foilstones": [
             {
@@ -16856,7 +16856,7 @@
           ],
           "prompt": {
             "PromptText": "к",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/к.mp3"
+            "PromptAudio": "lang/ukrainian/audios/к.mp3"
           },
           "foilstones": [
             {
@@ -16891,7 +16891,7 @@
           ],
           "prompt": {
             "PromptText": "ф",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/ф.mp3"
+            "PromptAudio": "lang/ukrainian/audios/ф.mp3"
           },
           "foilstones": [
             {
@@ -16944,7 +16944,7 @@
           ],
           "prompt": {
             "PromptText": "к",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/к.mp3"
+            "PromptAudio": "lang/ukrainian/audios/к.mp3"
           },
           "foilstones": [
             {
@@ -16982,7 +16982,7 @@
           ],
           "prompt": {
             "PromptText": "ї",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/ї.mp3"
+            "PromptAudio": "lang/ukrainian/audios/ї.mp3"
           },
           "foilstones": [
             {
@@ -17020,7 +17020,7 @@
           ],
           "prompt": {
             "PromptText": "м",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/м.mp3"
+            "PromptAudio": "lang/ukrainian/audios/м.mp3"
           },
           "foilstones": [
             {
@@ -17052,7 +17052,7 @@
           ],
           "prompt": {
             "PromptText": "д",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/д.mp3"
+            "PromptAudio": "lang/ukrainian/audios/д.mp3"
           },
           "foilstones": [
             {
@@ -17087,7 +17087,7 @@
           ],
           "prompt": {
             "PromptText": "ф",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/ф.mp3"
+            "PromptAudio": "lang/ukrainian/audios/ф.mp3"
           },
           "foilstones": [
             {
@@ -17140,7 +17140,7 @@
           ],
           "prompt": {
             "PromptText": "м",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/м.mp3"
+            "PromptAudio": "lang/ukrainian/audios/м.mp3"
           },
           "foilstones": [
             {
@@ -17178,7 +17178,7 @@
           ],
           "prompt": {
             "PromptText": "ф",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/ф.mp3"
+            "PromptAudio": "lang/ukrainian/audios/ф.mp3"
           },
           "foilstones": [
             {
@@ -17216,7 +17216,7 @@
           ],
           "prompt": {
             "PromptText": "ж",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/ж.mp3"
+            "PromptAudio": "lang/ukrainian/audios/ж.mp3"
           },
           "foilstones": [
             {
@@ -17254,7 +17254,7 @@
           ],
           "prompt": {
             "PromptText": "ї",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/ї.mp3"
+            "PromptAudio": "lang/ukrainian/audios/ї.mp3"
           },
           "foilstones": [
             {
@@ -17289,7 +17289,7 @@
           ],
           "prompt": {
             "PromptText": "д",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/д.mp3"
+            "PromptAudio": "lang/ukrainian/audios/д.mp3"
           },
           "foilstones": [
             {
@@ -17342,7 +17342,7 @@
           ],
           "prompt": {
             "PromptText": "їжак",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/ї.mp3"
+            "PromptAudio": "lang/ukrainian/audios/ї.mp3"
           },
           "foilstones": [
             {
@@ -17380,7 +17380,7 @@
           ],
           "prompt": {
             "PromptText": "дії",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/д.mp3"
+            "PromptAudio": "lang/ukrainian/audios/д.mp3"
           },
           "foilstones": [
             {
@@ -17418,7 +17418,7 @@
           ],
           "prompt": {
             "PromptText": "мої",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/м.mp3"
+            "PromptAudio": "lang/ukrainian/audios/м.mp3"
           },
           "foilstones": [
             {
@@ -17456,7 +17456,7 @@
           ],
           "prompt": {
             "PromptText": "феї",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/ф.mp3"
+            "PromptAudio": "lang/ukrainian/audios/ф.mp3"
           },
           "foilstones": [
             {
@@ -17497,7 +17497,7 @@
           ],
           "prompt": {
             "PromptText": "їжа",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/ї.mp3"
+            "PromptAudio": "lang/ukrainian/audios/ї.mp3"
           },
           "foilstones": [
             {
@@ -17544,7 +17544,7 @@
           ],
           "prompt": {
             "PromptText": "феї",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/ф.mp3"
+            "PromptAudio": "lang/ukrainian/audios/ф.mp3"
           },
           "foilstones": [
             {
@@ -17582,7 +17582,7 @@
           ],
           "prompt": {
             "PromptText": "мої",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/м.mp3"
+            "PromptAudio": "lang/ukrainian/audios/м.mp3"
           },
           "foilstones": [
             {
@@ -17620,7 +17620,7 @@
           ],
           "prompt": {
             "PromptText": "їжак",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/ї.mp3"
+            "PromptAudio": "lang/ukrainian/audios/ї.mp3"
           },
           "foilstones": [
             {
@@ -17652,7 +17652,7 @@
           ],
           "prompt": {
             "PromptText": "дії",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/д.mp3"
+            "PromptAudio": "lang/ukrainian/audios/д.mp3"
           },
           "foilstones": [
             {
@@ -17687,7 +17687,7 @@
           ],
           "prompt": {
             "PromptText": "їжа",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/ї.mp3"
+            "PromptAudio": "lang/ukrainian/audios/ї.mp3"
           },
           "foilstones": [
             {
@@ -17740,7 +17740,7 @@
           ],
           "prompt": {
             "PromptText": "дії",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/д.mp3"
+            "PromptAudio": "lang/ukrainian/audios/д.mp3"
           },
           "foilstones": [
             {
@@ -17778,7 +17778,7 @@
           ],
           "prompt": {
             "PromptText": "їжа",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/ї.mp3"
+            "PromptAudio": "lang/ukrainian/audios/ї.mp3"
           },
           "foilstones": [
             {
@@ -17816,7 +17816,7 @@
           ],
           "prompt": {
             "PromptText": "феї",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/ф.mp3"
+            "PromptAudio": "lang/ukrainian/audios/ф.mp3"
           },
           "foilstones": [
             {
@@ -17854,7 +17854,7 @@
           ],
           "prompt": {
             "PromptText": "мої",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/м.mp3"
+            "PromptAudio": "lang/ukrainian/audios/м.mp3"
           },
           "foilstones": [
             {
@@ -17889,7 +17889,7 @@
           ],
           "prompt": {
             "PromptText": "їжак",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/ї.mp3"
+            "PromptAudio": "lang/ukrainian/audios/ї.mp3"
           },
           "foilstones": [
             {
@@ -17945,7 +17945,7 @@
           ],
           "prompt": {
             "PromptText": "її",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/її.mp3"
+            "PromptAudio": "lang/ukrainian/audios/її.mp3"
           },
           "foilstones": [
             {
@@ -17992,7 +17992,7 @@
           ],
           "prompt": {
             "PromptText": "їжак",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/їжак.mp3"
+            "PromptAudio": "lang/ukrainian/audios/їжак.mp3"
           },
           "foilstones": [
             {
@@ -18036,7 +18036,7 @@
           ],
           "prompt": {
             "PromptText": "дії",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/дії.mp3"
+            "PromptAudio": "lang/ukrainian/audios/дії.mp3"
           },
           "foilstones": [
             {
@@ -18077,7 +18077,7 @@
           ],
           "prompt": {
             "PromptText": "мої",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/мої.mp3"
+            "PromptAudio": "lang/ukrainian/audios/мої.mp3"
           },
           "foilstones": [
             {
@@ -18121,7 +18121,7 @@
           ],
           "prompt": {
             "PromptText": "феї",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/феї.mp3"
+            "PromptAudio": "lang/ukrainian/audios/феї.mp3"
           },
           "foilstones": [
             {
@@ -18180,7 +18180,7 @@
           ],
           "prompt": {
             "PromptText": "феї",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/феї.mp3"
+            "PromptAudio": "lang/ukrainian/audios/феї.mp3"
           },
           "foilstones": [
             {
@@ -18224,7 +18224,7 @@
           ],
           "prompt": {
             "PromptText": "дії",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/дії.mp3"
+            "PromptAudio": "lang/ukrainian/audios/дії.mp3"
           },
           "foilstones": [
             {
@@ -18268,7 +18268,7 @@
           ],
           "prompt": {
             "PromptText": "їжа",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/їжа.mp3"
+            "PromptAudio": "lang/ukrainian/audios/їжа.mp3"
           },
           "foilstones": [
             {
@@ -18309,7 +18309,7 @@
           ],
           "prompt": {
             "PromptText": "мої",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/мої.mp3"
+            "PromptAudio": "lang/ukrainian/audios/мої.mp3"
           },
           "foilstones": [
             {
@@ -18356,7 +18356,7 @@
           ],
           "prompt": {
             "PromptText": "їжак",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/їжак.mp3"
+            "PromptAudio": "lang/ukrainian/audios/їжак.mp3"
           },
           "foilstones": [
             {
@@ -18409,7 +18409,7 @@
           ],
           "prompt": {
             "PromptText": "й",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/й.mp3"
+            "PromptAudio": "lang/ukrainian/audios/й.mp3"
           },
           "foilstones": [
             {
@@ -18447,7 +18447,7 @@
           ],
           "prompt": {
             "PromptText": "ь",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/ь.mp3"
+            "PromptAudio": "lang/ukrainian/audios/ь.mp3"
           },
           "foilstones": [
             {
@@ -18485,7 +18485,7 @@
           ],
           "prompt": {
             "PromptText": "д",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/д.mp3"
+            "PromptAudio": "lang/ukrainian/audios/д.mp3"
           },
           "foilstones": [
             {
@@ -18520,7 +18520,7 @@
           ],
           "prompt": {
             "PromptText": "г",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/г.mp3"
+            "PromptAudio": "lang/ukrainian/audios/г.mp3"
           },
           "foilstones": [
             {
@@ -18558,7 +18558,7 @@
           ],
           "prompt": {
             "PromptText": "о",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/о.mp3"
+            "PromptAudio": "lang/ukrainian/audios/о.mp3"
           },
           "foilstones": [
             {
@@ -18611,7 +18611,7 @@
           ],
           "prompt": {
             "PromptText": "б",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/б.mp3"
+            "PromptAudio": "lang/ukrainian/audios/б.mp3"
           },
           "foilstones": [
             {
@@ -18649,7 +18649,7 @@
           ],
           "prompt": {
             "PromptText": "у",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/у.mp3"
+            "PromptAudio": "lang/ukrainian/audios/у.mp3"
           },
           "foilstones": [
             {
@@ -18687,7 +18687,7 @@
           ],
           "prompt": {
             "PromptText": "в",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/в.mp3"
+            "PromptAudio": "lang/ukrainian/audios/в.mp3"
           },
           "foilstones": [
             {
@@ -18722,7 +18722,7 @@
           ],
           "prompt": {
             "PromptText": "е",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/е.mp3"
+            "PromptAudio": "lang/ukrainian/audios/е.mp3"
           },
           "foilstones": [
             {
@@ -18760,7 +18760,7 @@
           ],
           "prompt": {
             "PromptText": "с",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/с.mp3"
+            "PromptAudio": "lang/ukrainian/audios/с.mp3"
           },
           "foilstones": [
             {
@@ -18813,7 +18813,7 @@
           ],
           "prompt": {
             "PromptText": "б",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/б.mp3"
+            "PromptAudio": "lang/ukrainian/audios/б.mp3"
           },
           "foilstones": [
             {
@@ -18851,7 +18851,7 @@
           ],
           "prompt": {
             "PromptText": "с",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/с.mp3"
+            "PromptAudio": "lang/ukrainian/audios/с.mp3"
           },
           "foilstones": [
             {
@@ -18889,7 +18889,7 @@
           ],
           "prompt": {
             "PromptText": "в",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/в.mp3"
+            "PromptAudio": "lang/ukrainian/audios/в.mp3"
           },
           "foilstones": [
             {
@@ -18924,7 +18924,7 @@
           ],
           "prompt": {
             "PromptText": "у",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/у.mp3"
+            "PromptAudio": "lang/ukrainian/audios/у.mp3"
           },
           "foilstones": [
             {
@@ -18962,7 +18962,7 @@
           ],
           "prompt": {
             "PromptText": "й",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/й.mp3"
+            "PromptAudio": "lang/ukrainian/audios/й.mp3"
           },
           "foilstones": [
             {
@@ -19015,7 +19015,7 @@
           ],
           "prompt": {
             "PromptText": "г",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/г.mp3"
+            "PromptAudio": "lang/ukrainian/audios/г.mp3"
           },
           "foilstones": [
             {
@@ -19053,7 +19053,7 @@
           ],
           "prompt": {
             "PromptText": "ь",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/ь.mp3"
+            "PromptAudio": "lang/ukrainian/audios/ь.mp3"
           },
           "foilstones": [
             {
@@ -19091,7 +19091,7 @@
           ],
           "prompt": {
             "PromptText": "о",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/о.mp3"
+            "PromptAudio": "lang/ukrainian/audios/о.mp3"
           },
           "foilstones": [
             {
@@ -19126,7 +19126,7 @@
           ],
           "prompt": {
             "PromptText": "д",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/д.mp3"
+            "PromptAudio": "lang/ukrainian/audios/д.mp3"
           },
           "foilstones": [
             {
@@ -19164,7 +19164,7 @@
           ],
           "prompt": {
             "PromptText": "е",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/е.mp3"
+            "PromptAudio": "lang/ukrainian/audios/е.mp3"
           },
           "foilstones": [
             {
@@ -19217,7 +19217,7 @@
           ],
           "prompt": {
             "PromptText": "е",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/е.mp3"
+            "PromptAudio": "lang/ukrainian/audios/е.mp3"
           },
           "foilstones": [
             {
@@ -19255,7 +19255,7 @@
           ],
           "prompt": {
             "PromptText": "й",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/й.mp3"
+            "PromptAudio": "lang/ukrainian/audios/й.mp3"
           },
           "foilstones": [
             {
@@ -19293,7 +19293,7 @@
           ],
           "prompt": {
             "PromptText": "б",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/б.mp3"
+            "PromptAudio": "lang/ukrainian/audios/б.mp3"
           },
           "foilstones": [
             {
@@ -19325,7 +19325,7 @@
           ],
           "prompt": {
             "PromptText": "в",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/в.mp3"
+            "PromptAudio": "lang/ukrainian/audios/в.mp3"
           },
           "foilstones": [
             {
@@ -19360,7 +19360,7 @@
           ],
           "prompt": {
             "PromptText": "г",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/г.mp3"
+            "PromptAudio": "lang/ukrainian/audios/г.mp3"
           },
           "foilstones": [
             {
@@ -19413,7 +19413,7 @@
           ],
           "prompt": {
             "PromptText": "йод",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/й.mp3"
+            "PromptAudio": "lang/ukrainian/audios/й.mp3"
           },
           "foilstones": [
             {
@@ -19451,7 +19451,7 @@
           ],
           "prompt": {
             "PromptText": "йог",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/й.mp3"
+            "PromptAudio": "lang/ukrainian/audios/й.mp3"
           },
           "foilstones": [
             {
@@ -19489,7 +19489,7 @@
           ],
           "prompt": {
             "PromptText": "ой",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/о.mp3"
+            "PromptAudio": "lang/ukrainian/audios/о.mp3"
           },
           "foilstones": [
             {
@@ -19527,7 +19527,7 @@
           ],
           "prompt": {
             "PromptText": "будь",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/б.mp3"
+            "PromptAudio": "lang/ukrainian/audios/б.mp3"
           },
           "foilstones": [
             {
@@ -19562,7 +19562,7 @@
           ],
           "prompt": {
             "PromptText": "весь",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/в.mp3"
+            "PromptAudio": "lang/ukrainian/audios/в.mp3"
           },
           "foilstones": [
             {
@@ -19615,7 +19615,7 @@
           ],
           "prompt": {
             "PromptText": "ой",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/о.mp3"
+            "PromptAudio": "lang/ukrainian/audios/о.mp3"
           },
           "foilstones": [
             {
@@ -19653,7 +19653,7 @@
           ],
           "prompt": {
             "PromptText": "весь",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/в.mp3"
+            "PromptAudio": "lang/ukrainian/audios/в.mp3"
           },
           "foilstones": [
             {
@@ -19691,7 +19691,7 @@
           ],
           "prompt": {
             "PromptText": "йод",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/й.mp3"
+            "PromptAudio": "lang/ukrainian/audios/й.mp3"
           },
           "foilstones": [
             {
@@ -19723,7 +19723,7 @@
           ],
           "prompt": {
             "PromptText": "йог",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/й.mp3"
+            "PromptAudio": "lang/ukrainian/audios/й.mp3"
           },
           "foilstones": [
             {
@@ -19758,7 +19758,7 @@
           ],
           "prompt": {
             "PromptText": "будь",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/б.mp3"
+            "PromptAudio": "lang/ukrainian/audios/б.mp3"
           },
           "foilstones": [
             {
@@ -19811,7 +19811,7 @@
           ],
           "prompt": {
             "PromptText": "будь",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/б.mp3"
+            "PromptAudio": "lang/ukrainian/audios/б.mp3"
           },
           "foilstones": [
             {
@@ -19849,7 +19849,7 @@
           ],
           "prompt": {
             "PromptText": "ой",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/о.mp3"
+            "PromptAudio": "lang/ukrainian/audios/о.mp3"
           },
           "foilstones": [
             {
@@ -19887,7 +19887,7 @@
           ],
           "prompt": {
             "PromptText": "йод",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/й.mp3"
+            "PromptAudio": "lang/ukrainian/audios/й.mp3"
           },
           "foilstones": [
             {
@@ -19925,7 +19925,7 @@
           ],
           "prompt": {
             "PromptText": "весь",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/в.mp3"
+            "PromptAudio": "lang/ukrainian/audios/в.mp3"
           },
           "foilstones": [
             {
@@ -19960,7 +19960,7 @@
           ],
           "prompt": {
             "PromptText": "йог",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/й.mp3"
+            "PromptAudio": "lang/ukrainian/audios/й.mp3"
           },
           "foilstones": [
             {
@@ -20019,7 +20019,7 @@
           ],
           "prompt": {
             "PromptText": "йод",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/йод.mp3"
+            "PromptAudio": "lang/ukrainian/audios/йод.mp3"
           },
           "foilstones": [
             {
@@ -20063,7 +20063,7 @@
           ],
           "prompt": {
             "PromptText": "йог",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/йог.mp3"
+            "PromptAudio": "lang/ukrainian/audios/йог.mp3"
           },
           "foilstones": [
             {
@@ -20104,7 +20104,7 @@
           ],
           "prompt": {
             "PromptText": "ой",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/ой.mp3"
+            "PromptAudio": "lang/ukrainian/audios/ой.mp3"
           },
           "foilstones": [
             {
@@ -20145,7 +20145,7 @@
           ],
           "prompt": {
             "PromptText": "будь",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/будь.mp3"
+            "PromptAudio": "lang/ukrainian/audios/будь.mp3"
           },
           "foilstones": [
             {
@@ -20189,7 +20189,7 @@
           ],
           "prompt": {
             "PromptText": "весь",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/весь.mp3"
+            "PromptAudio": "lang/ukrainian/audios/весь.mp3"
           },
           "foilstones": [
             {
@@ -20248,7 +20248,7 @@
           ],
           "prompt": {
             "PromptText": "йод",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/йод.mp3"
+            "PromptAudio": "lang/ukrainian/audios/йод.mp3"
           },
           "foilstones": [
             {
@@ -20289,7 +20289,7 @@
           ],
           "prompt": {
             "PromptText": "ой",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/ой.mp3"
+            "PromptAudio": "lang/ukrainian/audios/ой.mp3"
           },
           "foilstones": [
             {
@@ -20336,7 +20336,7 @@
           ],
           "prompt": {
             "PromptText": "будь",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/будь.mp3"
+            "PromptAudio": "lang/ukrainian/audios/будь.mp3"
           },
           "foilstones": [
             {
@@ -20383,7 +20383,7 @@
           ],
           "prompt": {
             "PromptText": "весь",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/весь.mp3"
+            "PromptAudio": "lang/ukrainian/audios/весь.mp3"
           },
           "foilstones": [
             {
@@ -20430,7 +20430,7 @@
           ],
           "prompt": {
             "PromptText": "йог",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/йог.mp3"
+            "PromptAudio": "lang/ukrainian/audios/йог.mp3"
           },
           "foilstones": [
             {

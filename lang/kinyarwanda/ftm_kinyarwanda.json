@@ -10,9 +10,9 @@
   "minversion": 6,
   "langname": "KINYARWANDA",
   "FeedbackAudios": [
-    "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/fantastic.mp3",
-    "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/great.mp3",
-    "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/amazing.mp3"
+    "lang/kinyarwanda/audios/fantastic.mp3",
+    "lang/kinyarwanda/audios/great.mp3",
+    "lang/kinyarwanda/audios/amazing.mp3"
   ],
   "OtherAudios": {
     "Select your player": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/Select-your-player.mp3",
@@ -39,7 +39,7 @@
           ],
           "prompt": {
             "PromptText": "l",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/l.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/l.mp3"
           },
           "foilstones": [
             {
@@ -59,7 +59,7 @@
           ],
           "prompt": {
             "PromptText": "k",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/k.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/k.mp3"
           },
           "foilstones": [
             {
@@ -79,7 +79,7 @@
           ],
           "prompt": {
             "PromptText": "f",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/f.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/f.mp3"
           },
           "foilstones": [
             {
@@ -99,7 +99,7 @@
           ],
           "prompt": {
             "PromptText": "f",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/f.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/f.mp3"
           },
           "foilstones": [
             {
@@ -119,7 +119,7 @@
           ],
           "prompt": {
             "PromptText": "k",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/k.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/k.mp3"
           },
           "foilstones": [
             {
@@ -154,7 +154,7 @@
           ],
           "prompt": {
             "PromptText": "k",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/k.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/k.mp3"
           },
           "foilstones": [
             {
@@ -177,7 +177,7 @@
           ],
           "prompt": {
             "PromptText": "s",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/s.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/s.mp3"
           },
           "foilstones": [
             {
@@ -200,7 +200,7 @@
           ],
           "prompt": {
             "PromptText": "l",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/l.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/l.mp3"
           },
           "foilstones": [
             {
@@ -223,7 +223,7 @@
           ],
           "prompt": {
             "PromptText": "b",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/b.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/b.mp3"
           },
           "foilstones": [
             {
@@ -246,7 +246,7 @@
           ],
           "prompt": {
             "PromptText": "f",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/f.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/f.mp3"
           },
           "foilstones": [
             {
@@ -284,7 +284,7 @@
           ],
           "prompt": {
             "PromptText": "f",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/f.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/f.mp3"
           },
           "foilstones": [
             {
@@ -304,7 +304,7 @@
           ],
           "prompt": {
             "PromptText": "i",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/i.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/i.mp3"
           },
           "foilstones": [
             {
@@ -324,7 +324,7 @@
           ],
           "prompt": {
             "PromptText": "f",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/f.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/f.mp3"
           },
           "foilstones": [
             {
@@ -344,7 +344,7 @@
           ],
           "prompt": {
             "PromptText": "k",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/k.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/k.mp3"
           },
           "foilstones": [
             {
@@ -364,7 +364,7 @@
           ],
           "prompt": {
             "PromptText": "b",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/b.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/b.mp3"
           },
           "foilstones": [
             {
@@ -399,7 +399,7 @@
           ],
           "prompt": {
             "PromptText": "g",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/g.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/g.mp3"
           },
           "foilstones": [
             {
@@ -419,7 +419,7 @@
           ],
           "prompt": {
             "PromptText": "s",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/s.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/s.mp3"
           },
           "foilstones": [
             {
@@ -439,7 +439,7 @@
           ],
           "prompt": {
             "PromptText": "i",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/i.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/i.mp3"
           },
           "foilstones": [
             {
@@ -459,7 +459,7 @@
           ],
           "prompt": {
             "PromptText": "g",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/g.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/g.mp3"
           },
           "foilstones": [
             {
@@ -479,7 +479,7 @@
           ],
           "prompt": {
             "PromptText": "l",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/l.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/l.mp3"
           },
           "foilstones": [
             {
@@ -514,7 +514,7 @@
           ],
           "prompt": {
             "PromptText": "b",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/b.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/b.mp3"
           },
           "foilstones": [
             {
@@ -537,7 +537,7 @@
           ],
           "prompt": {
             "PromptText": "f",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/f.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/f.mp3"
           },
           "foilstones": [
             {
@@ -560,7 +560,7 @@
           ],
           "prompt": {
             "PromptText": "f",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/f.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/f.mp3"
           },
           "foilstones": [
             {
@@ -583,7 +583,7 @@
           ],
           "prompt": {
             "PromptText": "f",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/f.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/f.mp3"
           },
           "foilstones": [
             {
@@ -606,7 +606,7 @@
           ],
           "prompt": {
             "PromptText": "b",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/b.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/b.mp3"
           },
           "foilstones": [
             {
@@ -644,7 +644,7 @@
           ],
           "prompt": {
             "PromptText": "s",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/s.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/s.mp3"
           },
           "foilstones": [
             {
@@ -667,7 +667,7 @@
           ],
           "prompt": {
             "PromptText": "k",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/k.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/k.mp3"
           },
           "foilstones": [
             {
@@ -690,7 +690,7 @@
           ],
           "prompt": {
             "PromptText": "s",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/s.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/s.mp3"
           },
           "foilstones": [
             {
@@ -713,7 +713,7 @@
           ],
           "prompt": {
             "PromptText": "v",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/v.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/v.mp3"
           },
           "foilstones": [
             {
@@ -736,7 +736,7 @@
           ],
           "prompt": {
             "PromptText": "f",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/f.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/f.mp3"
           },
           "foilstones": [
             {
@@ -774,7 +774,7 @@
           ],
           "prompt": {
             "PromptText": "isi",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/i.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/i.mp3"
           },
           "foilstones": [
             {
@@ -797,7 +797,7 @@
           ],
           "prompt": {
             "PromptText": "igi",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/i.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/i.mp3"
           },
           "foilstones": [
             {
@@ -820,7 +820,7 @@
           ],
           "prompt": {
             "PromptText": "vi",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/v.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/v.mp3"
           },
           "foilstones": [
             {
@@ -843,7 +843,7 @@
           ],
           "prompt": {
             "PromptText": "ki",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/k.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/k.mp3"
           },
           "foilstones": [
             {
@@ -866,7 +866,7 @@
           ],
           "prompt": {
             "PromptText": "li",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/l.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/l.mp3"
           },
           "foilstones": [
             {
@@ -904,7 +904,7 @@
           ],
           "prompt": {
             "PromptText": "vi",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/v.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/v.mp3"
           },
           "foilstones": [
             {
@@ -927,7 +927,7 @@
           ],
           "prompt": {
             "PromptText": "igi",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/i.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/i.mp3"
           },
           "foilstones": [
             {
@@ -950,7 +950,7 @@
           ],
           "prompt": {
             "PromptText": "isi",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/i.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/i.mp3"
           },
           "foilstones": [
             {
@@ -973,7 +973,7 @@
           ],
           "prompt": {
             "PromptText": "bi",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/b.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/b.mp3"
           },
           "foilstones": [
             {
@@ -996,7 +996,7 @@
           ],
           "prompt": {
             "PromptText": "fi",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/f.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/f.mp3"
           },
           "foilstones": [
             {
@@ -1034,7 +1034,7 @@
           ],
           "prompt": {
             "PromptText": "si",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/s.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/s.mp3"
           },
           "foilstones": [
             {
@@ -1057,7 +1057,7 @@
           ],
           "prompt": {
             "PromptText": "fi",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/f.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/f.mp3"
           },
           "foilstones": [
             {
@@ -1080,7 +1080,7 @@
           ],
           "prompt": {
             "PromptText": "ivi",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/i.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/i.mp3"
           },
           "foilstones": [
             {
@@ -1103,7 +1103,7 @@
           ],
           "prompt": {
             "PromptText": "bi",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/b.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/b.mp3"
           },
           "foilstones": [
             {
@@ -1126,7 +1126,7 @@
           ],
           "prompt": {
             "PromptText": "bibi",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/b.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/b.mp3"
           },
           "foilstones": [
             {
@@ -1173,7 +1173,7 @@
           ],
           "prompt": {
             "PromptText": "bibi",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/bibi.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/bibi.mp3"
           },
           "foilstones": [
             {
@@ -1205,7 +1205,7 @@
           ],
           "prompt": {
             "PromptText": "bibi",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/bibi.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/bibi.mp3"
           },
           "foilstones": [
             {
@@ -1237,7 +1237,7 @@
           ],
           "prompt": {
             "PromptText": "ifi",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/ifi.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/ifi.mp3"
           },
           "foilstones": [
             {
@@ -1263,7 +1263,7 @@
           ],
           "prompt": {
             "PromptText": "gi",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/gi.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/gi.mp3"
           },
           "foilstones": [
             {
@@ -1289,7 +1289,7 @@
           ],
           "prompt": {
             "PromptText": "gi",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/gi.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/gi.mp3"
           },
           "foilstones": [
             {
@@ -1330,7 +1330,7 @@
           ],
           "prompt": {
             "PromptText": "ifi",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/ifi.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/ifi.mp3"
           },
           "foilstones": [
             {
@@ -1356,7 +1356,7 @@
           ],
           "prompt": {
             "PromptText": "si",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/si.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/si.mp3"
           },
           "foilstones": [
             {
@@ -1382,7 +1382,7 @@
           ],
           "prompt": {
             "PromptText": "ki",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/ki.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/ki.mp3"
           },
           "foilstones": [
             {
@@ -1411,7 +1411,7 @@
           ],
           "prompt": {
             "PromptText": "isi",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/isi.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/isi.mp3"
           },
           "foilstones": [
             {
@@ -1440,7 +1440,7 @@
           ],
           "prompt": {
             "PromptText": "vi",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/vi.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/vi.mp3"
           },
           "foilstones": [
             {
@@ -1478,7 +1478,7 @@
           ],
           "prompt": {
             "PromptText": "vi",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/vi.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/vi.mp3"
           },
           "foilstones": [
             {
@@ -1504,7 +1504,7 @@
           ],
           "prompt": {
             "PromptText": "si",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/si.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/si.mp3"
           },
           "foilstones": [
             {
@@ -1530,7 +1530,7 @@
           ],
           "prompt": {
             "PromptText": "bi",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/bi.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/bi.mp3"
           },
           "foilstones": [
             {
@@ -1556,7 +1556,7 @@
           ],
           "prompt": {
             "PromptText": "ki",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/ki.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/ki.mp3"
           },
           "foilstones": [
             {
@@ -1582,7 +1582,7 @@
           ],
           "prompt": {
             "PromptText": "gi",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/gi.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/gi.mp3"
           },
           "foilstones": [
             {
@@ -1620,7 +1620,7 @@
           ],
           "prompt": {
             "PromptText": "r",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/r.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/r.mp3"
           },
           "foilstones": [
             {
@@ -1643,7 +1643,7 @@
           ],
           "prompt": {
             "PromptText": "z",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/z.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/z.mp3"
           },
           "foilstones": [
             {
@@ -1666,7 +1666,7 @@
           ],
           "prompt": {
             "PromptText": "u",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/u.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/u.mp3"
           },
           "foilstones": [
             {
@@ -1689,7 +1689,7 @@
           ],
           "prompt": {
             "PromptText": "h",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/h.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/h.mp3"
           },
           "foilstones": [
             {
@@ -1712,7 +1712,7 @@
           ],
           "prompt": {
             "PromptText": "u",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/u.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/u.mp3"
           },
           "foilstones": [
             {
@@ -1750,7 +1750,7 @@
           ],
           "prompt": {
             "PromptText": "z",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/z.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/z.mp3"
           },
           "foilstones": [
             {
@@ -1773,7 +1773,7 @@
           ],
           "prompt": {
             "PromptText": "b",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/b.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/b.mp3"
           },
           "foilstones": [
             {
@@ -1796,7 +1796,7 @@
           ],
           "prompt": {
             "PromptText": "z",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/z.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/z.mp3"
           },
           "foilstones": [
             {
@@ -1819,7 +1819,7 @@
           ],
           "prompt": {
             "PromptText": "g",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/g.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/g.mp3"
           },
           "foilstones": [
             {
@@ -1842,7 +1842,7 @@
           ],
           "prompt": {
             "PromptText": "u",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/u.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/u.mp3"
           },
           "foilstones": [
             {
@@ -1880,7 +1880,7 @@
           ],
           "prompt": {
             "PromptText": "z",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/z.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/z.mp3"
           },
           "foilstones": [
             {
@@ -1900,7 +1900,7 @@
           ],
           "prompt": {
             "PromptText": "z",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/z.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/z.mp3"
           },
           "foilstones": [
             {
@@ -1920,7 +1920,7 @@
           ],
           "prompt": {
             "PromptText": "u",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/u.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/u.mp3"
           },
           "foilstones": [
             {
@@ -1940,7 +1940,7 @@
           ],
           "prompt": {
             "PromptText": "y",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/y.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/y.mp3"
           },
           "foilstones": [
             {
@@ -1960,7 +1960,7 @@
           ],
           "prompt": {
             "PromptText": "r",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/r.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/r.mp3"
           },
           "foilstones": [
             {
@@ -1995,7 +1995,7 @@
           ],
           "prompt": {
             "PromptText": "b",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/b.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/b.mp3"
           },
           "foilstones": [
             {
@@ -2018,7 +2018,7 @@
           ],
           "prompt": {
             "PromptText": "u",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/u.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/u.mp3"
           },
           "foilstones": [
             {
@@ -2041,7 +2041,7 @@
           ],
           "prompt": {
             "PromptText": "z",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/z.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/z.mp3"
           },
           "foilstones": [
             {
@@ -2064,7 +2064,7 @@
           ],
           "prompt": {
             "PromptText": "r",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/r.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/r.mp3"
           },
           "foilstones": [
             {
@@ -2087,7 +2087,7 @@
           ],
           "prompt": {
             "PromptText": "r",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/r.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/r.mp3"
           },
           "foilstones": [
             {
@@ -2125,7 +2125,7 @@
           ],
           "prompt": {
             "PromptText": "h",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/h.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/h.mp3"
           },
           "foilstones": [
             {
@@ -2154,7 +2154,7 @@
           ],
           "prompt": {
             "PromptText": "z",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/z.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/z.mp3"
           },
           "foilstones": [
             {
@@ -2180,7 +2180,7 @@
           ],
           "prompt": {
             "PromptText": "h",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/h.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/h.mp3"
           },
           "foilstones": [
             {
@@ -2203,7 +2203,7 @@
           ],
           "prompt": {
             "PromptText": "y",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/y.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/y.mp3"
           },
           "foilstones": [
             {
@@ -2229,7 +2229,7 @@
           ],
           "prompt": {
             "PromptText": "y",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/y.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/y.mp3"
           },
           "foilstones": [
             {
@@ -2267,7 +2267,7 @@
           ],
           "prompt": {
             "PromptText": "h",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/h.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/h.mp3"
           },
           "foilstones": [
             {
@@ -2293,7 +2293,7 @@
           ],
           "prompt": {
             "PromptText": "h",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/h.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/h.mp3"
           },
           "foilstones": [
             {
@@ -2319,7 +2319,7 @@
           ],
           "prompt": {
             "PromptText": "b",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/b.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/b.mp3"
           },
           "foilstones": [
             {
@@ -2345,7 +2345,7 @@
           ],
           "prompt": {
             "PromptText": "z",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/z.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/z.mp3"
           },
           "foilstones": [
             {
@@ -2371,7 +2371,7 @@
           ],
           "prompt": {
             "PromptText": "y",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/y.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/y.mp3"
           },
           "foilstones": [
             {
@@ -2415,7 +2415,7 @@
           ],
           "prompt": {
             "PromptText": "ru",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/r.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/r.mp3"
           },
           "foilstones": [
             {
@@ -2441,7 +2441,7 @@
           ],
           "prompt": {
             "PromptText": "zu",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/z.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/z.mp3"
           },
           "foilstones": [
             {
@@ -2467,7 +2467,7 @@
           ],
           "prompt": {
             "PromptText": "hu",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/h.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/h.mp3"
           },
           "foilstones": [
             {
@@ -2493,7 +2493,7 @@
           ],
           "prompt": {
             "PromptText": "yu",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/y.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/y.mp3"
           },
           "foilstones": [
             {
@@ -2519,7 +2519,7 @@
           ],
           "prompt": {
             "PromptText": "bu",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/b.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/b.mp3"
           },
           "foilstones": [
             {
@@ -2563,7 +2563,7 @@
           ],
           "prompt": {
             "PromptText": "yu",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/y.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/y.mp3"
           },
           "foilstones": [
             {
@@ -2589,7 +2589,7 @@
           ],
           "prompt": {
             "PromptText": "bu",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/b.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/b.mp3"
           },
           "foilstones": [
             {
@@ -2615,7 +2615,7 @@
           ],
           "prompt": {
             "PromptText": "ru",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/r.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/r.mp3"
           },
           "foilstones": [
             {
@@ -2641,7 +2641,7 @@
           ],
           "prompt": {
             "PromptText": "yu",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/y.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/y.mp3"
           },
           "foilstones": [
             {
@@ -2667,7 +2667,7 @@
           ],
           "prompt": {
             "PromptText": "zu",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/z.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/z.mp3"
           },
           "foilstones": [
             {
@@ -2711,7 +2711,7 @@
           ],
           "prompt": {
             "PromptText": "ubu",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/u.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/u.mp3"
           },
           "foilstones": [
             {
@@ -2737,7 +2737,7 @@
           ],
           "prompt": {
             "PromptText": "gu",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/g.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/g.mp3"
           },
           "foilstones": [
             {
@@ -2763,7 +2763,7 @@
           ],
           "prompt": {
             "PromptText": "ru",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/r.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/r.mp3"
           },
           "foilstones": [
             {
@@ -2789,7 +2789,7 @@
           ],
           "prompt": {
             "PromptText": "ru",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/r.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/r.mp3"
           },
           "foilstones": [
             {
@@ -2815,7 +2815,7 @@
           ],
           "prompt": {
             "PromptText": "uru",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/u.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/u.mp3"
           },
           "foilstones": [
             {
@@ -2859,7 +2859,7 @@
           ],
           "prompt": {
             "PromptText": "gu",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/g.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/g.mp3"
           },
           "foilstones": [
             {
@@ -2882,7 +2882,7 @@
           ],
           "prompt": {
             "PromptText": "uruhu",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/u.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/u.mp3"
           },
           "foilstones": [
             {
@@ -2905,7 +2905,7 @@
           ],
           "prompt": {
             "PromptText": "hu",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/h.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/h.mp3"
           },
           "foilstones": [
             {
@@ -2928,7 +2928,7 @@
           ],
           "prompt": {
             "PromptText": "gu",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/g.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/g.mp3"
           },
           "foilstones": [
             {
@@ -2951,7 +2951,7 @@
           ],
           "prompt": {
             "PromptText": "hu",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/h.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/h.mp3"
           },
           "foilstones": [
             {
@@ -2992,7 +2992,7 @@
           ],
           "prompt": {
             "PromptText": "gu",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/gu.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/gu.mp3"
           },
           "foilstones": [
             {
@@ -3018,7 +3018,7 @@
           ],
           "prompt": {
             "PromptText": "yu",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/yu.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/yu.mp3"
           },
           "foilstones": [
             {
@@ -3044,7 +3044,7 @@
           ],
           "prompt": {
             "PromptText": "hu",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/hu.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/hu.mp3"
           },
           "foilstones": [
             {
@@ -3070,7 +3070,7 @@
           ],
           "prompt": {
             "PromptText": "ru",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/ru.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/ru.mp3"
           },
           "foilstones": [
             {
@@ -3111,7 +3111,7 @@
           ],
           "prompt": {
             "PromptText": "ubururu",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/ubururu.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/ubururu.mp3"
           },
           "foilstones": [
             {
@@ -3149,7 +3149,7 @@
           ],
           "prompt": {
             "PromptText": "ru",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/ru.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/ru.mp3"
           },
           "foilstones": [
             {
@@ -3175,7 +3175,7 @@
           ],
           "prompt": {
             "PromptText": "yu",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/yu.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/yu.mp3"
           },
           "foilstones": [
             {
@@ -3201,7 +3201,7 @@
           ],
           "prompt": {
             "PromptText": "zu",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/zu.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/zu.mp3"
           },
           "foilstones": [
             {
@@ -3230,7 +3230,7 @@
           ],
           "prompt": {
             "PromptText": "gu",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/gu.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/gu.mp3"
           },
           "foilstones": [
             {
@@ -3256,7 +3256,7 @@
           ],
           "prompt": {
             "PromptText": "hu",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/hu.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/hu.mp3"
           },
           "foilstones": [
             {
@@ -3294,7 +3294,7 @@
           ],
           "prompt": {
             "PromptText": "ru",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/ru.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/ru.mp3"
           },
           "foilstones": [
             {
@@ -3320,7 +3320,7 @@
           ],
           "prompt": {
             "PromptText": "gu",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/gu.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/gu.mp3"
           },
           "foilstones": [
             {
@@ -3361,7 +3361,7 @@
           ],
           "prompt": {
             "PromptText": "ubururu",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/ubururu.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/ubururu.mp3"
           },
           "foilstones": [
             {
@@ -3390,7 +3390,7 @@
           ],
           "prompt": {
             "PromptText": "uru",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/uru.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/uru.mp3"
           },
           "foilstones": [
             {
@@ -3416,7 +3416,7 @@
           ],
           "prompt": {
             "PromptText": "gu",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/gu.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/gu.mp3"
           },
           "foilstones": [
             {
@@ -3454,7 +3454,7 @@
           ],
           "prompt": {
             "PromptText": "n",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/n.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/n.mp3"
           },
           "foilstones": [
             {
@@ -3477,7 +3477,7 @@
           ],
           "prompt": {
             "PromptText": "m",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/m.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/m.mp3"
           },
           "foilstones": [
             {
@@ -3500,7 +3500,7 @@
           ],
           "prompt": {
             "PromptText": "h",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/h.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/h.mp3"
           },
           "foilstones": [
             {
@@ -3526,7 +3526,7 @@
           ],
           "prompt": {
             "PromptText": "w",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/w.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/w.mp3"
           },
           "foilstones": [
             {
@@ -3549,7 +3549,7 @@
           ],
           "prompt": {
             "PromptText": "w",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/w.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/w.mp3"
           },
           "foilstones": [
             {
@@ -3584,7 +3584,7 @@
           ],
           "prompt": {
             "PromptText": "m",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/m.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/m.mp3"
           },
           "foilstones": [
             {
@@ -3607,7 +3607,7 @@
           ],
           "prompt": {
             "PromptText": "w",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/w.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/w.mp3"
           },
           "foilstones": [
             {
@@ -3630,7 +3630,7 @@
           ],
           "prompt": {
             "PromptText": "n",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/n.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/n.mp3"
           },
           "foilstones": [
             {
@@ -3656,7 +3656,7 @@
           ],
           "prompt": {
             "PromptText": "m",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/m.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/m.mp3"
           },
           "foilstones": [
             {
@@ -3679,7 +3679,7 @@
           ],
           "prompt": {
             "PromptText": "h",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/h.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/h.mp3"
           },
           "foilstones": [
             {
@@ -3714,7 +3714,7 @@
           ],
           "prompt": {
             "PromptText": "d",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/d.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/d.mp3"
           },
           "foilstones": [
             {
@@ -3737,7 +3737,7 @@
           ],
           "prompt": {
             "PromptText": "n",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/n.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/n.mp3"
           },
           "foilstones": [
             {
@@ -3760,7 +3760,7 @@
           ],
           "prompt": {
             "PromptText": "h",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/h.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/h.mp3"
           },
           "foilstones": [
             {
@@ -3786,7 +3786,7 @@
           ],
           "prompt": {
             "PromptText": "m",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/m.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/m.mp3"
           },
           "foilstones": [
             {
@@ -3809,7 +3809,7 @@
           ],
           "prompt": {
             "PromptText": "h",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/h.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/h.mp3"
           },
           "foilstones": [
             {
@@ -3844,7 +3844,7 @@
           ],
           "prompt": {
             "PromptText": "n",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/n.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/n.mp3"
           },
           "foilstones": [
             {
@@ -3876,7 +3876,7 @@
           ],
           "prompt": {
             "PromptText": "w",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/w.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/w.mp3"
           },
           "foilstones": [
             {
@@ -3905,7 +3905,7 @@
           ],
           "prompt": {
             "PromptText": "m",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/m.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/m.mp3"
           },
           "foilstones": [
             {
@@ -3937,7 +3937,7 @@
           ],
           "prompt": {
             "PromptText": "w",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/w.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/w.mp3"
           },
           "foilstones": [
             {
@@ -3966,7 +3966,7 @@
           ],
           "prompt": {
             "PromptText": "d",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/d.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/d.mp3"
           },
           "foilstones": [
             {
@@ -4010,7 +4010,7 @@
           ],
           "prompt": {
             "PromptText": "h",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/h.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/h.mp3"
           },
           "foilstones": [
             {
@@ -4042,7 +4042,7 @@
           ],
           "prompt": {
             "PromptText": "m",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/m.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/m.mp3"
           },
           "foilstones": [
             {
@@ -4074,7 +4074,7 @@
           ],
           "prompt": {
             "PromptText": "h",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/h.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/h.mp3"
           },
           "foilstones": [
             {
@@ -4103,7 +4103,7 @@
           ],
           "prompt": {
             "PromptText": "h",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/h.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/h.mp3"
           },
           "foilstones": [
             {
@@ -4132,7 +4132,7 @@
           ],
           "prompt": {
             "PromptText": "n",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/n.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/n.mp3"
           },
           "foilstones": [
             {
@@ -4176,7 +4176,7 @@
           ],
           "prompt": {
             "PromptText": "w",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/w.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/w.mp3"
           },
           "foilstones": [
             {
@@ -4208,7 +4208,7 @@
           ],
           "prompt": {
             "PromptText": "d",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/d.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/d.mp3"
           },
           "foilstones": [
             {
@@ -4240,7 +4240,7 @@
           ],
           "prompt": {
             "PromptText": "h",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/h.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/h.mp3"
           },
           "foilstones": [
             {
@@ -4269,7 +4269,7 @@
           ],
           "prompt": {
             "PromptText": "h",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/h.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/h.mp3"
           },
           "foilstones": [
             {
@@ -4298,7 +4298,7 @@
           ],
           "prompt": {
             "PromptText": "o",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/o.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/o.mp3"
           },
           "foilstones": [
             {
@@ -4342,7 +4342,7 @@
           ],
           "prompt": {
             "PromptText": "no",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/n.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/n.mp3"
           },
           "foilstones": [
             {
@@ -4371,7 +4371,7 @@
           ],
           "prompt": {
             "PromptText": "ho",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/h.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/h.mp3"
           },
           "foilstones": [
             {
@@ -4403,7 +4403,7 @@
           ],
           "prompt": {
             "PromptText": "omo",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/o.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/o.mp3"
           },
           "foilstones": [
             {
@@ -4435,7 +4435,7 @@
           ],
           "prompt": {
             "PromptText": "no",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/n.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/n.mp3"
           },
           "foilstones": [
             {
@@ -4464,7 +4464,7 @@
           ],
           "prompt": {
             "PromptText": "do",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/d.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/d.mp3"
           },
           "foilstones": [
             {
@@ -4508,7 +4508,7 @@
           ],
           "prompt": {
             "PromptText": "wino",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/w.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/w.mp3"
           },
           "foilstones": [
             {
@@ -4540,7 +4540,7 @@
           ],
           "prompt": {
             "PromptText": "omo",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/o.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/o.mp3"
           },
           "foilstones": [
             {
@@ -4572,7 +4572,7 @@
           ],
           "prompt": {
             "PromptText": "wo",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/w.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/w.mp3"
           },
           "foilstones": [
             {
@@ -4601,7 +4601,7 @@
           ],
           "prompt": {
             "PromptText": "omo",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/o.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/o.mp3"
           },
           "foilstones": [
             {
@@ -4633,7 +4633,7 @@
           ],
           "prompt": {
             "PromptText": "mo",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/m.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/m.mp3"
           },
           "foilstones": [
             {
@@ -4674,7 +4674,7 @@
           ],
           "prompt": {
             "PromptText": "ho",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/h.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/h.mp3"
           },
           "foilstones": [
             {
@@ -4706,7 +4706,7 @@
           ],
           "prompt": {
             "PromptText": "ho",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/h.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/h.mp3"
           },
           "foilstones": [
             {
@@ -4738,7 +4738,7 @@
           ],
           "prompt": {
             "PromptText": "ho",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/h.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/h.mp3"
           },
           "foilstones": [
             {
@@ -4767,7 +4767,7 @@
           ],
           "prompt": {
             "PromptText": "do",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/d.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/d.mp3"
           },
           "foilstones": [
             {
@@ -4799,7 +4799,7 @@
           ],
           "prompt": {
             "PromptText": "mo",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/m.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/m.mp3"
           },
           "foilstones": [
             {
@@ -4840,7 +4840,7 @@
           ],
           "prompt": {
             "PromptText": "do",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/d.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/d.mp3"
           },
           "foilstones": [
             {
@@ -4872,7 +4872,7 @@
           ],
           "prompt": {
             "PromptText": "no",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/n.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/n.mp3"
           },
           "foilstones": [
             {
@@ -4904,7 +4904,7 @@
           ],
           "prompt": {
             "PromptText": "omo",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/o.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/o.mp3"
           },
           "foilstones": [
             {
@@ -4933,7 +4933,7 @@
           ],
           "prompt": {
             "PromptText": "wo",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/w.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/w.mp3"
           },
           "foilstones": [
             {
@@ -4965,7 +4965,7 @@
           ],
           "prompt": {
             "PromptText": "no",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/n.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/n.mp3"
           },
           "foilstones": [
             {
@@ -5012,7 +5012,7 @@
           ],
           "prompt": {
             "PromptText": "ino",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/ino.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/ino.mp3"
           },
           "foilstones": [
             {
@@ -5062,7 +5062,7 @@
           ],
           "prompt": {
             "PromptText": "ikawa",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/ikawa.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/ikawa.mp3"
           },
           "foilstones": [
             {
@@ -5100,7 +5100,7 @@
           ],
           "prompt": {
             "PromptText": "ho",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/ho.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/ho.mp3"
           },
           "foilstones": [
             {
@@ -5141,7 +5141,7 @@
           ],
           "prompt": {
             "PromptText": "mo",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/mo.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/mo.mp3"
           },
           "foilstones": [
             {
@@ -5176,7 +5176,7 @@
           ],
           "prompt": {
             "PromptText": "ho",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/ho.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/ho.mp3"
           },
           "foilstones": [
             {
@@ -5232,7 +5232,7 @@
           ],
           "prompt": {
             "PromptText": "mo",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/mo.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/mo.mp3"
           },
           "foilstones": [
             {
@@ -5273,7 +5273,7 @@
           ],
           "prompt": {
             "PromptText": "ino",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/ino.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/ino.mp3"
           },
           "foilstones": [
             {
@@ -5323,7 +5323,7 @@
           ],
           "prompt": {
             "PromptText": "ihaho",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/ihaho.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/ihaho.mp3"
           },
           "foilstones": [
             {
@@ -5364,7 +5364,7 @@
           ],
           "prompt": {
             "PromptText": "do",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/do.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/do.mp3"
           },
           "foilstones": [
             {
@@ -5408,7 +5408,7 @@
           ],
           "prompt": {
             "PromptText": "mo",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/mo.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/mo.mp3"
           },
           "foilstones": [
             {
@@ -5455,7 +5455,7 @@
           ],
           "prompt": {
             "PromptText": "ho",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/ho.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/ho.mp3"
           },
           "foilstones": [
             {
@@ -5502,7 +5502,7 @@
           ],
           "prompt": {
             "PromptText": "wino",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/wino.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/wino.mp3"
           },
           "foilstones": [
             {
@@ -5555,7 +5555,7 @@
           ],
           "prompt": {
             "PromptText": "ihaho",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/ihaho.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/ihaho.mp3"
           },
           "foilstones": [
             {
@@ -5602,7 +5602,7 @@
           ],
           "prompt": {
             "PromptText": "wino",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/wino.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/wino.mp3"
           },
           "foilstones": [
             {
@@ -5646,7 +5646,7 @@
           ],
           "prompt": {
             "PromptText": "wino",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/wino.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/wino.mp3"
           },
           "foilstones": [
             {
@@ -5696,7 +5696,7 @@
           ],
           "prompt": {
             "PromptText": "a",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/a.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/a.mp3"
           },
           "foilstones": [
             {
@@ -5734,7 +5734,7 @@
           ],
           "prompt": {
             "PromptText": "s",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/s.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/s.mp3"
           },
           "foilstones": [
             {
@@ -5772,7 +5772,7 @@
           ],
           "prompt": {
             "PromptText": "p",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/p.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/p.mp3"
           },
           "foilstones": [
             {
@@ -5810,7 +5810,7 @@
           ],
           "prompt": {
             "PromptText": "k",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/k.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/k.mp3"
           },
           "foilstones": [
             {
@@ -5845,7 +5845,7 @@
           ],
           "prompt": {
             "PromptText": "p",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/p.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/p.mp3"
           },
           "foilstones": [
             {
@@ -5898,7 +5898,7 @@
           ],
           "prompt": {
             "PromptText": "t",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/t.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/t.mp3"
           },
           "foilstones": [
             {
@@ -5936,7 +5936,7 @@
           ],
           "prompt": {
             "PromptText": "n",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/n.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/n.mp3"
           },
           "foilstones": [
             {
@@ -5974,7 +5974,7 @@
           ],
           "prompt": {
             "PromptText": "p",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/p.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/p.mp3"
           },
           "foilstones": [
             {
@@ -6012,7 +6012,7 @@
           ],
           "prompt": {
             "PromptText": "r",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/r.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/r.mp3"
           },
           "foilstones": [
             {
@@ -6053,7 +6053,7 @@
           ],
           "prompt": {
             "PromptText": "r",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/r.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/r.mp3"
           },
           "foilstones": [
             {
@@ -6100,7 +6100,7 @@
           ],
           "prompt": {
             "PromptText": "k",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/k.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/k.mp3"
           },
           "foilstones": [
             {
@@ -6138,7 +6138,7 @@
           ],
           "prompt": {
             "PromptText": "p",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/p.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/p.mp3"
           },
           "foilstones": [
             {
@@ -6176,7 +6176,7 @@
           ],
           "prompt": {
             "PromptText": "a",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/a.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/a.mp3"
           },
           "foilstones": [
             {
@@ -6214,7 +6214,7 @@
           ],
           "prompt": {
             "PromptText": "k",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/k.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/k.mp3"
           },
           "foilstones": [
             {
@@ -6255,7 +6255,7 @@
           ],
           "prompt": {
             "PromptText": "a",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/a.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/a.mp3"
           },
           "foilstones": [
             {
@@ -6302,7 +6302,7 @@
           ],
           "prompt": {
             "PromptText": "p",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/p.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/p.mp3"
           },
           "foilstones": [
             {
@@ -6340,7 +6340,7 @@
           ],
           "prompt": {
             "PromptText": "s",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/s.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/s.mp3"
           },
           "foilstones": [
             {
@@ -6378,7 +6378,7 @@
           ],
           "prompt": {
             "PromptText": "t",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/t.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/t.mp3"
           },
           "foilstones": [
             {
@@ -6416,7 +6416,7 @@
           ],
           "prompt": {
             "PromptText": "t",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/t.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/t.mp3"
           },
           "foilstones": [
             {
@@ -6457,7 +6457,7 @@
           ],
           "prompt": {
             "PromptText": "s",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/s.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/s.mp3"
           },
           "foilstones": [
             {
@@ -6504,7 +6504,7 @@
           ],
           "prompt": {
             "PromptText": "n",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/n.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/n.mp3"
           },
           "foilstones": [
             {
@@ -6542,7 +6542,7 @@
           ],
           "prompt": {
             "PromptText": "p",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/p.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/p.mp3"
           },
           "foilstones": [
             {
@@ -6580,7 +6580,7 @@
           ],
           "prompt": {
             "PromptText": "r",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/r.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/r.mp3"
           },
           "foilstones": [
             {
@@ -6618,7 +6618,7 @@
           ],
           "prompt": {
             "PromptText": "s",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/s.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/s.mp3"
           },
           "foilstones": [
             {
@@ -6653,7 +6653,7 @@
           ],
           "prompt": {
             "PromptText": "a",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/a.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/a.mp3"
           },
           "foilstones": [
             {
@@ -6706,7 +6706,7 @@
           ],
           "prompt": {
             "PromptText": "r",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/r.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/r.mp3"
           },
           "foilstones": [
             {
@@ -6744,7 +6744,7 @@
           ],
           "prompt": {
             "PromptText": "m",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/m.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/m.mp3"
           },
           "foilstones": [
             {
@@ -6782,7 +6782,7 @@
           ],
           "prompt": {
             "PromptText": "k",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/k.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/k.mp3"
           },
           "foilstones": [
             {
@@ -6820,7 +6820,7 @@
           ],
           "prompt": {
             "PromptText": "s",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/s.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/s.mp3"
           },
           "foilstones": [
             {
@@ -6855,7 +6855,7 @@
           ],
           "prompt": {
             "PromptText": "r",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/r.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/r.mp3"
           },
           "foilstones": [
             {
@@ -6908,7 +6908,7 @@
           ],
           "prompt": {
             "PromptText": "ta",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/t.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/t.mp3"
           },
           "foilstones": [
             {
@@ -6946,7 +6946,7 @@
           ],
           "prompt": {
             "PromptText": "ka",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/k.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/k.mp3"
           },
           "foilstones": [
             {
@@ -6984,7 +6984,7 @@
           ],
           "prompt": {
             "PromptText": "ta",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/t.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/t.mp3"
           },
           "foilstones": [
             {
@@ -7019,7 +7019,7 @@
           ],
           "prompt": {
             "PromptText": "ka",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/k.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/k.mp3"
           },
           "foilstones": [
             {
@@ -7060,7 +7060,7 @@
           ],
           "prompt": {
             "PromptText": "ta",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/t.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/t.mp3"
           },
           "foilstones": [
             {
@@ -7110,7 +7110,7 @@
           ],
           "prompt": {
             "PromptText": "sa",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/s.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/s.mp3"
           },
           "foilstones": [
             {
@@ -7148,7 +7148,7 @@
           ],
           "prompt": {
             "PromptText": "ta",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/t.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/t.mp3"
           },
           "foilstones": [
             {
@@ -7186,7 +7186,7 @@
           ],
           "prompt": {
             "PromptText": "sa",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/s.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/s.mp3"
           },
           "foilstones": [
             {
@@ -7224,7 +7224,7 @@
           ],
           "prompt": {
             "PromptText": "amatara",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/a.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/a.mp3"
           },
           "foilstones": [
             {
@@ -7259,7 +7259,7 @@
           ],
           "prompt": {
             "PromptText": "ka",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/k.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/k.mp3"
           },
           "foilstones": [
             {
@@ -7312,7 +7312,7 @@
           ],
           "prompt": {
             "PromptText": "ka",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/k.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/k.mp3"
           },
           "foilstones": [
             {
@@ -7350,7 +7350,7 @@
           ],
           "prompt": {
             "PromptText": "mama",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/m.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/m.mp3"
           },
           "foilstones": [
             {
@@ -7388,7 +7388,7 @@
           ],
           "prompt": {
             "PromptText": "sa",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/s.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/s.mp3"
           },
           "foilstones": [
             {
@@ -7426,7 +7426,7 @@
           ],
           "prompt": {
             "PromptText": "ra",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/r.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/r.mp3"
           },
           "foilstones": [
             {
@@ -7461,7 +7461,7 @@
           ],
           "prompt": {
             "PromptText": "ra",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/r.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/r.mp3"
           },
           "foilstones": [
             {
@@ -7514,7 +7514,7 @@
           ],
           "prompt": {
             "PromptText": "pa",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/p.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/p.mp3"
           },
           "foilstones": [
             {
@@ -7537,7 +7537,7 @@
           ],
           "prompt": {
             "PromptText": "ra",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/r.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/r.mp3"
           },
           "foilstones": [
             {
@@ -7560,7 +7560,7 @@
           ],
           "prompt": {
             "PromptText": "ra",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/r.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/r.mp3"
           },
           "foilstones": [
             {
@@ -7583,7 +7583,7 @@
           ],
           "prompt": {
             "PromptText": "ta",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/t.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/t.mp3"
           },
           "foilstones": [
             {
@@ -7609,7 +7609,7 @@
           ],
           "prompt": {
             "PromptText": "na",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/n.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/n.mp3"
           },
           "foilstones": [
             {
@@ -7653,7 +7653,7 @@
           ],
           "prompt": {
             "PromptText": "papa",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/papa.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/papa.mp3"
           },
           "foilstones": [
             {
@@ -7694,7 +7694,7 @@
           ],
           "prompt": {
             "PromptText": "amasaka",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/amasaka.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/amasaka.mp3"
           },
           "foilstones": [
             {
@@ -7720,7 +7720,7 @@
           ],
           "prompt": {
             "PromptText": "ka",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/ka.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/ka.mp3"
           },
           "foilstones": [
             {
@@ -7746,7 +7746,7 @@
           ],
           "prompt": {
             "PromptText": "ta",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/ta.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/ta.mp3"
           },
           "foilstones": [
             {
@@ -7790,7 +7790,7 @@
           ],
           "prompt": {
             "PromptText": "amasaka",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/amasaka.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/amasaka.mp3"
           },
           "foilstones": [
             {
@@ -7828,7 +7828,7 @@
           ],
           "prompt": {
             "PromptText": "sa",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/sa.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/sa.mp3"
           },
           "foilstones": [
             {
@@ -7869,7 +7869,7 @@
           ],
           "prompt": {
             "PromptText": "ra",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/ra.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/ra.mp3"
           },
           "foilstones": [
             {
@@ -7916,7 +7916,7 @@
           ],
           "prompt": {
             "PromptText": "mama",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/mama.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/mama.mp3"
           },
           "foilstones": [
             {
@@ -7954,7 +7954,7 @@
           ],
           "prompt": {
             "PromptText": "ra",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/ra.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/ra.mp3"
           },
           "foilstones": [
             {
@@ -7998,7 +7998,7 @@
           ],
           "prompt": {
             "PromptText": "ma",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/ma.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/ma.mp3"
           },
           "foilstones": [
             {
@@ -8051,7 +8051,7 @@
           ],
           "prompt": {
             "PromptText": "sa",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/sa.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/sa.mp3"
           },
           "foilstones": [
             {
@@ -8092,7 +8092,7 @@
           ],
           "prompt": {
             "PromptText": "ra",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/ra.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/ra.mp3"
           },
           "foilstones": [
             {
@@ -8148,7 +8148,7 @@
           ],
           "prompt": {
             "PromptText": "amasaka",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/amasaka.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/amasaka.mp3"
           },
           "foilstones": [
             {
@@ -8189,7 +8189,7 @@
           ],
           "prompt": {
             "PromptText": "pa",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/pa.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/pa.mp3"
           },
           "foilstones": [
             {
@@ -8242,7 +8242,7 @@
           ],
           "prompt": {
             "PromptText": "amasaka",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/amasaka.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/amasaka.mp3"
           },
           "foilstones": [
             {
@@ -8295,7 +8295,7 @@
           ],
           "prompt": {
             "PromptText": "e",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/e.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/e.mp3"
           },
           "foilstones": [
             {
@@ -8333,7 +8333,7 @@
           ],
           "prompt": {
             "PromptText": "e",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/e.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/e.mp3"
           },
           "foilstones": [
             {
@@ -8371,7 +8371,7 @@
           ],
           "prompt": {
             "PromptText": "r",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/r.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/r.mp3"
           },
           "foilstones": [
             {
@@ -8406,7 +8406,7 @@
           ],
           "prompt": {
             "PromptText": "e",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/e.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/e.mp3"
           },
           "foilstones": [
             {
@@ -8447,7 +8447,7 @@
           ],
           "prompt": {
             "PromptText": "e",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/e.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/e.mp3"
           },
           "foilstones": [
             {
@@ -8497,7 +8497,7 @@
           ],
           "prompt": {
             "PromptText": "r",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/r.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/r.mp3"
           },
           "foilstones": [
             {
@@ -8535,7 +8535,7 @@
           ],
           "prompt": {
             "PromptText": "j",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/j.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/j.mp3"
           },
           "foilstones": [
             {
@@ -8576,7 +8576,7 @@
           ],
           "prompt": {
             "PromptText": "e",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/e.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/e.mp3"
           },
           "foilstones": [
             {
@@ -8614,7 +8614,7 @@
           ],
           "prompt": {
             "PromptText": "m",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/m.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/m.mp3"
           },
           "foilstones": [
             {
@@ -8649,7 +8649,7 @@
           ],
           "prompt": {
             "PromptText": "g",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/g.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/g.mp3"
           },
           "foilstones": [
             {
@@ -8699,7 +8699,7 @@
           ],
           "prompt": {
             "PromptText": "j",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/j.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/j.mp3"
           },
           "foilstones": [
             {
@@ -8737,7 +8737,7 @@
           ],
           "prompt": {
             "PromptText": "r",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/r.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/r.mp3"
           },
           "foilstones": [
             {
@@ -8775,7 +8775,7 @@
           ],
           "prompt": {
             "PromptText": "j",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/j.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/j.mp3"
           },
           "foilstones": [
             {
@@ -8813,7 +8813,7 @@
           ],
           "prompt": {
             "PromptText": "e",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/e.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/e.mp3"
           },
           "foilstones": [
             {
@@ -8848,7 +8848,7 @@
           ],
           "prompt": {
             "PromptText": "c",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/c.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/c.mp3"
           },
           "foilstones": [
             {
@@ -8901,7 +8901,7 @@
           ],
           "prompt": {
             "PromptText": "j",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/j.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/j.mp3"
           },
           "foilstones": [
             {
@@ -8939,7 +8939,7 @@
           ],
           "prompt": {
             "PromptText": "c",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/c.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/c.mp3"
           },
           "foilstones": [
             {
@@ -8977,7 +8977,7 @@
           ],
           "prompt": {
             "PromptText": "b",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/b.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/b.mp3"
           },
           "foilstones": [
             {
@@ -9015,7 +9015,7 @@
           ],
           "prompt": {
             "PromptText": "e",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/e.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/e.mp3"
           },
           "foilstones": [
             {
@@ -9050,7 +9050,7 @@
           ],
           "prompt": {
             "PromptText": "b",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/b.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/b.mp3"
           },
           "foilstones": [
             {
@@ -9103,7 +9103,7 @@
           ],
           "prompt": {
             "PromptText": "j",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/j.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/j.mp3"
           },
           "foilstones": [
             {
@@ -9141,7 +9141,7 @@
           ],
           "prompt": {
             "PromptText": "b",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/b.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/b.mp3"
           },
           "foilstones": [
             {
@@ -9182,7 +9182,7 @@
           ],
           "prompt": {
             "PromptText": "g",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/g.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/g.mp3"
           },
           "foilstones": [
             {
@@ -9220,7 +9220,7 @@
           ],
           "prompt": {
             "PromptText": "g",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/g.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/g.mp3"
           },
           "foilstones": [
             {
@@ -9255,7 +9255,7 @@
           ],
           "prompt": {
             "PromptText": "g",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/g.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/g.mp3"
           },
           "foilstones": [
             {
@@ -9305,7 +9305,7 @@
           ],
           "prompt": {
             "PromptText": "g",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/g.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/g.mp3"
           },
           "foilstones": [
             {
@@ -9343,7 +9343,7 @@
           ],
           "prompt": {
             "PromptText": "j",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/j.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/j.mp3"
           },
           "foilstones": [
             {
@@ -9381,7 +9381,7 @@
           ],
           "prompt": {
             "PromptText": "j",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/j.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/j.mp3"
           },
           "foilstones": [
             {
@@ -9419,7 +9419,7 @@
           ],
           "prompt": {
             "PromptText": "e",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/e.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/e.mp3"
           },
           "foilstones": [
             {
@@ -9454,7 +9454,7 @@
           ],
           "prompt": {
             "PromptText": "c",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/c.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/c.mp3"
           },
           "foilstones": [
             {
@@ -9507,7 +9507,7 @@
           ],
           "prompt": {
             "PromptText": "meme",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/m.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/m.mp3"
           },
           "foilstones": [
             {
@@ -9545,7 +9545,7 @@
           ],
           "prompt": {
             "PromptText": "re",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/r.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/r.mp3"
           },
           "foilstones": [
             {
@@ -9583,7 +9583,7 @@
           ],
           "prompt": {
             "PromptText": "je",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/j.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/j.mp3"
           },
           "foilstones": [
             {
@@ -9621,7 +9621,7 @@
           ],
           "prompt": {
             "PromptText": "meme",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/m.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/m.mp3"
           },
           "foilstones": [
             {
@@ -9656,7 +9656,7 @@
           ],
           "prompt": {
             "PromptText": "meme",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/m.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/m.mp3"
           },
           "foilstones": [
             {
@@ -9709,7 +9709,7 @@
           ],
           "prompt": {
             "PromptText": "ge",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/g.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/g.mp3"
           },
           "foilstones": [
             {
@@ -9747,7 +9747,7 @@
           ],
           "prompt": {
             "PromptText": "ge",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/g.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/g.mp3"
           },
           "foilstones": [
             {
@@ -9785,7 +9785,7 @@
           ],
           "prompt": {
             "PromptText": "ce",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/c.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/c.mp3"
           },
           "foilstones": [
             {
@@ -9820,7 +9820,7 @@
           ],
           "prompt": {
             "PromptText": "be",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/b.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/b.mp3"
           },
           "foilstones": [
             {
@@ -9858,7 +9858,7 @@
           ],
           "prompt": {
             "PromptText": "ce",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/c.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/c.mp3"
           },
           "foilstones": [
             {
@@ -9911,7 +9911,7 @@
           ],
           "prompt": {
             "PromptText": "me",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/m.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/m.mp3"
           },
           "foilstones": [
             {
@@ -9949,7 +9949,7 @@
           ],
           "prompt": {
             "PromptText": "je",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/j.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/j.mp3"
           },
           "foilstones": [
             {
@@ -9987,7 +9987,7 @@
           ],
           "prompt": {
             "PromptText": "je",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/j.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/j.mp3"
           },
           "foilstones": [
             {
@@ -10022,7 +10022,7 @@
           ],
           "prompt": {
             "PromptText": "ge",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/g.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/g.mp3"
           },
           "foilstones": [
             {
@@ -10060,7 +10060,7 @@
           ],
           "prompt": {
             "PromptText": "meme",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/m.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/m.mp3"
           },
           "foilstones": [
             {
@@ -10113,7 +10113,7 @@
           ],
           "prompt": {
             "PromptText": "ce",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/c.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/c.mp3"
           },
           "foilstones": [
             {
@@ -10151,7 +10151,7 @@
           ],
           "prompt": {
             "PromptText": "be",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/b.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/b.mp3"
           },
           "foilstones": [
             {
@@ -10189,7 +10189,7 @@
           ],
           "prompt": {
             "PromptText": "re",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/r.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/r.mp3"
           },
           "foilstones": [
             {
@@ -10224,7 +10224,7 @@
           ],
           "prompt": {
             "PromptText": "ge",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/g.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/g.mp3"
           },
           "foilstones": [
             {
@@ -10262,7 +10262,7 @@
           ],
           "prompt": {
             "PromptText": "re",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/r.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/r.mp3"
           },
           "foilstones": [
             {
@@ -10318,7 +10318,7 @@
           ],
           "prompt": {
             "PromptText": "ce",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/ce.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/ce.mp3"
           },
           "foilstones": [
             {
@@ -10359,7 +10359,7 @@
           ],
           "prompt": {
             "PromptText": "ce",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/ce.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/ce.mp3"
           },
           "foilstones": [
             {
@@ -10403,7 +10403,7 @@
           ],
           "prompt": {
             "PromptText": "ico",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/ico.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/ico.mp3"
           },
           "foilstones": [
             {
@@ -10444,7 +10444,7 @@
           ],
           "prompt": {
             "PromptText": "ico",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/ico.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/ico.mp3"
           },
           "foilstones": [
             {
@@ -10485,7 +10485,7 @@
           ],
           "prompt": {
             "PromptText": "ce",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/ce.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/ce.mp3"
           },
           "foilstones": [
             {
@@ -10547,7 +10547,7 @@
           ],
           "prompt": {
             "PromptText": "meme",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/meme.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/meme.mp3"
           },
           "foilstones": [
             {
@@ -10591,7 +10591,7 @@
           ],
           "prompt": {
             "PromptText": "ico",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/ico.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/ico.mp3"
           },
           "foilstones": [
             {
@@ -10632,7 +10632,7 @@
           ],
           "prompt": {
             "PromptText": "je",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/je.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/je.mp3"
           },
           "foilstones": [
             {
@@ -10676,7 +10676,7 @@
           ],
           "prompt": {
             "PromptText": "meme",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/meme.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/meme.mp3"
           },
           "foilstones": [
             {
@@ -10717,7 +10717,7 @@
           ],
           "prompt": {
             "PromptText": "je",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/je.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/je.mp3"
           },
           "foilstones": [
             {
@@ -10773,7 +10773,7 @@
           ],
           "prompt": {
             "PromptText": "re",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/re.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/re.mp3"
           },
           "foilstones": [
             {
@@ -10814,7 +10814,7 @@
           ],
           "prompt": {
             "PromptText": "be",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/be.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/be.mp3"
           },
           "foilstones": [
             {
@@ -10864,7 +10864,7 @@
           ],
           "prompt": {
             "PromptText": "ibaba",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/ibaba.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/ibaba.mp3"
           },
           "foilstones": [
             {
@@ -10905,7 +10905,7 @@
           ],
           "prompt": {
             "PromptText": "ico",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/ico.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/ico.mp3"
           },
           "foilstones": [
             {
@@ -10955,7 +10955,7 @@
           ],
           "prompt": {
             "PromptText": "ibaba",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/ibaba.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/ibaba.mp3"
           },
           "foilstones": [
             {
@@ -11008,7 +11008,7 @@
           ],
           "prompt": {
             "PromptText": "m",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/m.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/m.mp3"
           },
           "foilstones": [
             {
@@ -11046,7 +11046,7 @@
           ],
           "prompt": {
             "PromptText": "b",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/b.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/b.mp3"
           },
           "foilstones": [
             {
@@ -11084,7 +11084,7 @@
           ],
           "prompt": {
             "PromptText": "r",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/r.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/r.mp3"
           },
           "foilstones": [
             {
@@ -11116,7 +11116,7 @@
           ],
           "prompt": {
             "PromptText": "j",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/j.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/j.mp3"
           },
           "foilstones": [
             {
@@ -11151,7 +11151,7 @@
           ],
           "prompt": {
             "PromptText": "c",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/c.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/c.mp3"
           },
           "foilstones": [
             {
@@ -11204,7 +11204,7 @@
           ],
           "prompt": {
             "PromptText": "m",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/m.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/m.mp3"
           },
           "foilstones": [
             {
@@ -11242,7 +11242,7 @@
           ],
           "prompt": {
             "PromptText": "r",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/r.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/r.mp3"
           },
           "foilstones": [
             {
@@ -11280,7 +11280,7 @@
           ],
           "prompt": {
             "PromptText": "j",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/j.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/j.mp3"
           },
           "foilstones": [
             {
@@ -11318,7 +11318,7 @@
           ],
           "prompt": {
             "PromptText": "c",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/c.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/c.mp3"
           },
           "foilstones": [
             {
@@ -11353,7 +11353,7 @@
           ],
           "prompt": {
             "PromptText": "r",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/r.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/r.mp3"
           },
           "foilstones": [
             {
@@ -11406,7 +11406,7 @@
           ],
           "prompt": {
             "PromptText": "c",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/c.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/c.mp3"
           },
           "foilstones": [
             {
@@ -11444,7 +11444,7 @@
           ],
           "prompt": {
             "PromptText": "r",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/r.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/r.mp3"
           },
           "foilstones": [
             {
@@ -11482,7 +11482,7 @@
           ],
           "prompt": {
             "PromptText": "r",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/r.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/r.mp3"
           },
           "foilstones": [
             {
@@ -11514,7 +11514,7 @@
           ],
           "prompt": {
             "PromptText": "m",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/m.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/m.mp3"
           },
           "foilstones": [
             {
@@ -11549,7 +11549,7 @@
           ],
           "prompt": {
             "PromptText": "j",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/j.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/j.mp3"
           },
           "foilstones": [
             {
@@ -11602,7 +11602,7 @@
           ],
           "prompt": {
             "PromptText": "c",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/c.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/c.mp3"
           },
           "foilstones": [
             {
@@ -11640,7 +11640,7 @@
           ],
           "prompt": {
             "PromptText": "b",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/b.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/b.mp3"
           },
           "foilstones": [
             {
@@ -11678,7 +11678,7 @@
           ],
           "prompt": {
             "PromptText": "r",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/r.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/r.mp3"
           },
           "foilstones": [
             {
@@ -11716,7 +11716,7 @@
           ],
           "prompt": {
             "PromptText": "g",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/g.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/g.mp3"
           },
           "foilstones": [
             {
@@ -11751,7 +11751,7 @@
           ],
           "prompt": {
             "PromptText": "e",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/e.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/e.mp3"
           },
           "foilstones": [
             {
@@ -11804,7 +11804,7 @@
           ],
           "prompt": {
             "PromptText": "e",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/e.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/e.mp3"
           },
           "foilstones": [
             {
@@ -11842,7 +11842,7 @@
           ],
           "prompt": {
             "PromptText": "b",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/b.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/b.mp3"
           },
           "foilstones": [
             {
@@ -11880,7 +11880,7 @@
           ],
           "prompt": {
             "PromptText": "g",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/g.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/g.mp3"
           },
           "foilstones": [
             {
@@ -11912,7 +11912,7 @@
           ],
           "prompt": {
             "PromptText": "m",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/m.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/m.mp3"
           },
           "foilstones": [
             {
@@ -11947,7 +11947,7 @@
           ],
           "prompt": {
             "PromptText": "m",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/m.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/m.mp3"
           },
           "foilstones": [
             {
@@ -12000,7 +12000,7 @@
           ],
           "prompt": {
             "PromptText": "m",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/m.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/m.mp3"
           },
           "foilstones": [
             {
@@ -12038,7 +12038,7 @@
           ],
           "prompt": {
             "PromptText": "e",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/e.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/e.mp3"
           },
           "foilstones": [
             {
@@ -12076,7 +12076,7 @@
           ],
           "prompt": {
             "PromptText": "c",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/c.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/c.mp3"
           },
           "foilstones": [
             {
@@ -12114,7 +12114,7 @@
           ],
           "prompt": {
             "PromptText": "b",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/b.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/b.mp3"
           },
           "foilstones": [
             {
@@ -12155,7 +12155,7 @@
           ],
           "prompt": {
             "PromptText": "m",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/m.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/m.mp3"
           },
           "foilstones": [
             {
@@ -12202,7 +12202,7 @@
           ],
           "prompt": {
             "PromptText": "ge",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/g.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/g.mp3"
           },
           "foilstones": [
             {
@@ -12240,7 +12240,7 @@
           ],
           "prompt": {
             "PromptText": "ce",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/c.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/c.mp3"
           },
           "foilstones": [
             {
@@ -12278,7 +12278,7 @@
           ],
           "prompt": {
             "PromptText": "je",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/j.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/j.mp3"
           },
           "foilstones": [
             {
@@ -12310,7 +12310,7 @@
           ],
           "prompt": {
             "PromptText": "re",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/r.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/r.mp3"
           },
           "foilstones": [
             {
@@ -12345,7 +12345,7 @@
           ],
           "prompt": {
             "PromptText": "je",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/j.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/j.mp3"
           },
           "foilstones": [
             {
@@ -12398,7 +12398,7 @@
           ],
           "prompt": {
             "PromptText": "be",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/b.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/b.mp3"
           },
           "foilstones": [
             {
@@ -12436,7 +12436,7 @@
           ],
           "prompt": {
             "PromptText": "ce",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/c.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/c.mp3"
           },
           "foilstones": [
             {
@@ -12474,7 +12474,7 @@
           ],
           "prompt": {
             "PromptText": "me",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/m.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/m.mp3"
           },
           "foilstones": [
             {
@@ -12512,7 +12512,7 @@
           ],
           "prompt": {
             "PromptText": "ge",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/g.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/g.mp3"
           },
           "foilstones": [
             {
@@ -12547,7 +12547,7 @@
           ],
           "prompt": {
             "PromptText": "re",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/r.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/r.mp3"
           },
           "foilstones": [
             {
@@ -12600,7 +12600,7 @@
           ],
           "prompt": {
             "PromptText": "je",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/j.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/j.mp3"
           },
           "foilstones": [
             {
@@ -12638,7 +12638,7 @@
           ],
           "prompt": {
             "PromptText": "re",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/r.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/r.mp3"
           },
           "foilstones": [
             {
@@ -12676,7 +12676,7 @@
           ],
           "prompt": {
             "PromptText": "je",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/j.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/j.mp3"
           },
           "foilstones": [
             {
@@ -12714,7 +12714,7 @@
           ],
           "prompt": {
             "PromptText": "re",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/r.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/r.mp3"
           },
           "foilstones": [
             {
@@ -12749,7 +12749,7 @@
           ],
           "prompt": {
             "PromptText": "je",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/j.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/j.mp3"
           },
           "foilstones": [
             {
@@ -12802,7 +12802,7 @@
           ],
           "prompt": {
             "PromptText": "ce",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/c.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/c.mp3"
           },
           "foilstones": [
             {
@@ -12840,7 +12840,7 @@
           ],
           "prompt": {
             "PromptText": "re",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/r.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/r.mp3"
           },
           "foilstones": [
             {
@@ -12878,7 +12878,7 @@
           ],
           "prompt": {
             "PromptText": "re",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/r.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/r.mp3"
           },
           "foilstones": [
             {
@@ -12910,7 +12910,7 @@
           ],
           "prompt": {
             "PromptText": "meme",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/m.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/m.mp3"
           },
           "foilstones": [
             {
@@ -12945,7 +12945,7 @@
           ],
           "prompt": {
             "PromptText": "be",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/b.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/b.mp3"
           },
           "foilstones": [
             {
@@ -13004,7 +13004,7 @@
           ],
           "prompt": {
             "PromptText": "ico",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/ico.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/ico.mp3"
           },
           "foilstones": [
             {
@@ -13048,7 +13048,7 @@
           ],
           "prompt": {
             "PromptText": "ico",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/ico.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/ico.mp3"
           },
           "foilstones": [
             {
@@ -13095,7 +13095,7 @@
           ],
           "prompt": {
             "PromptText": "meme",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/meme.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/meme.mp3"
           },
           "foilstones": [
             {
@@ -13136,7 +13136,7 @@
           ],
           "prompt": {
             "PromptText": "ge",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/ge.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/ge.mp3"
           },
           "foilstones": [
             {
@@ -13174,7 +13174,7 @@
           ],
           "prompt": {
             "PromptText": "ge",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/ge.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/ge.mp3"
           },
           "foilstones": [
             {
@@ -13230,7 +13230,7 @@
           ],
           "prompt": {
             "PromptText": "ge",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/ge.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/ge.mp3"
           },
           "foilstones": [
             {
@@ -13280,7 +13280,7 @@
           ],
           "prompt": {
             "PromptText": "igare",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/igare.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/igare.mp3"
           },
           "foilstones": [
             {
@@ -13321,7 +13321,7 @@
           ],
           "prompt": {
             "PromptText": "me",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/me.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/me.mp3"
           },
           "foilstones": [
             {
@@ -13362,7 +13362,7 @@
           ],
           "prompt": {
             "PromptText": "ge",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/ge.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/ge.mp3"
           },
           "foilstones": [
             {
@@ -13415,7 +13415,7 @@
           ],
           "prompt": {
             "PromptText": "igare",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/igare.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/igare.mp3"
           },
           "foilstones": [
             {
@@ -13465,7 +13465,7 @@
           ],
           "prompt": {
             "PromptText": "be",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/be.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/be.mp3"
           },
           "foilstones": [
             {
@@ -13506,7 +13506,7 @@
           ],
           "prompt": {
             "PromptText": "ce",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/ce.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/ce.mp3"
           },
           "foilstones": [
             {
@@ -13556,7 +13556,7 @@
           ],
           "prompt": {
             "PromptText": "ibaba",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/ibaba.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/ibaba.mp3"
           },
           "foilstones": [
             {
@@ -13597,7 +13597,7 @@
           ],
           "prompt": {
             "PromptText": "meme",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/meme.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/meme.mp3"
           },
           "foilstones": [
             {
@@ -13644,7 +13644,7 @@
           ],
           "prompt": {
             "PromptText": "icebe",
-            "PromptAudio": "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/icebe.mp3"
+            "PromptAudio": "lang/kinyarwanda/audios/icebe.mp3"
           },
           "foilstones": [
             {
