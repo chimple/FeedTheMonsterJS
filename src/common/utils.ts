@@ -6,6 +6,8 @@ export class Utils {
   public static UrlSubstring: string = "/feedthemonster";
   public static subdomain: string = "https://feedthemonster.curiouscontent.org";
   public static isDeepLink: boolean;
+  public static levelNum: number;
+  public static isRespect: boolean = false;
 
   /*
    * TODO: - update level gen script so that it uses relative urls
@@ -196,13 +198,16 @@ export const hideElement = (isHide: boolean = false, element: HTMLElement) => {
 interface AndroidBridge {
   sendDataToContainer: (key: string, data: any) => void; // this is the method name from android
   requestDataFromContainer: (data: any) => any;
+  sendInstalledAppInfoToJS: () => void; //New Method to request InstalledApppInfo
   sendGameLevelInfoToJS: () => void; // New method to request game level data from Android
   // add another method here if needed for the javascript interface from android
 }
 
+// Declare globally on Window object
 declare global {
   interface Window {
     Android?: AndroidBridge;
+    _callbacks: CallbackMap;
   }
 }
 
@@ -210,7 +215,9 @@ type CallbackMap = {
   [key: string]: (data: any) => void;
 };
 
-const _callbacks: CallbackMap = {};
+// Assigning with type safety
+window._callbacks = window._callbacks || {};
+const _callbacks: CallbackMap = window._callbacks;
 
 export const AndroidBridge = {
   sendDataToContainer(key: string, data: any) {
@@ -220,7 +227,7 @@ export const AndroidBridge = {
         const jsonData = typeof data === "object" ? JSON.stringify(data) : data;
         window.Android.sendDataToContainer(key, jsonData);
       } else {
-        console.warn("Android bridge not available: sendDataToContainer");
+        console.warn("Android bridge not available:  In sendDataToContainer");
       }
     } catch (error) {
       console.error("Error sending data to container:", error);
@@ -229,11 +236,33 @@ export const AndroidBridge = {
 
   requestDataFromContainer(type: string): Promise<any> {
     return new Promise((resolve, reject) => {
-      if (window.Android?.requestDataFromContainer) {
-        _callbacks[type] = resolve; // store callback by type
-        window.Android.requestDataFromContainer(type);
-      } else {
-        reject("Android bridge not available");
+      try {
+        console.log(`requesting ${type}`);
+        if (window.Android !== undefined) {
+          _callbacks[type] = resolve; // store callback by type
+          window.Android.requestDataFromContainer(type);
+        } else {
+          reject("Android bridge not available: In requestDataFromContainer");
+        }
+      } catch (error) {
+        reject(error);
+      }
+    });
+  },
+
+  requestInstalledAppInfo(): Promise<any> {
+    return new Promise((resolve, reject) => {
+      try {
+        console.log("Requesting InstalledAppInfo");
+        if (window.Android !== undefined) {
+          _callbacks["installedAppInfo"] = resolve;
+
+          window.Android.sendInstalledAppInfoToJS();
+        } else {
+          reject("Android bridge not available: In requestInstalledAppInfo");
+        }
+      } catch (error) {
+        reject(error);
       }
     });
   },
@@ -253,14 +282,14 @@ export const AndroidBridge = {
   requestGameLevelInfo(): Promise<any> {
     return new Promise((resolve, reject) => {
       try {
-        if (window.Android?.sendGameLevelInfoToJS) {
+        if (window.Android !== undefined) {
           // Store the callback in the _callbacks map with a specific type
           _callbacks["gameLevelInfo"] = resolve;
 
           // Request the game level info from Android
           window.Android.sendGameLevelInfoToJS();
         } else {
-          reject("Android bridge not available: sendGameLevelInfoToJS");
+          reject("Android bridge not available: In requestGameLevelInfoToJS");
         }
       } catch (error) {
         reject(error);
