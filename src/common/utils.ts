@@ -301,6 +301,7 @@ export const AndroidBridge = {
   _handleDataFromAndroid(responseJson: string) {
     try {
       const data = JSON.parse(responseJson);
+      console.log("Data received from Android:", responseJson);
       const type = data?.type;
 
       // Handle game level info specifically

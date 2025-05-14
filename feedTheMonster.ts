@@ -98,19 +98,20 @@ class App {
           this.startGameWithLevel(lessonId);
         }
       }, 3000);
-      // Make sure to listen for the response globally
+
+      // Set up Android-to-JS bridge listener
       window.onDataFromAndroid = function (responseJson: string) {
         AndroidBridge._handleDataFromAndroid(responseJson);
       };
+
       console.log(
         "Android available: requestDataFromContainer",
         !!window.Android?.requestDataFromContainer
       );
-      window.onDataFromAndroid = function (responseJson: string) {
-        AndroidBridge._handleDataFromAndroid(responseJson);
-      };
+
       console.log("hello world from FTM");
       console.log("hello ftm");
+      console.log("checking hosting");
 
       AndroidBridge.requestDataFromContainer("score")
         .then((data) => {
