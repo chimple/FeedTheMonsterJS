@@ -222,7 +222,8 @@ const _callbacks: CallbackMap = window._callbacks;
 export const AndroidBridge = {
   sendDataToContainer(key: string, data: any) {
     try {
-      if (window.Android?.sendDataToContainer) {
+      console.log(`Attempting to send ${key} to container:`, JSON.stringify(data));
+      if (window.Android !== undefined) {
         // Stringify the data before sending to avoid [object Object] issues
         const jsonData = typeof data === "object" ? JSON.stringify(data) : data;
         window.Android.sendDataToContainer(key, jsonData);

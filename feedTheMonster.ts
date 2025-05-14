@@ -28,6 +28,11 @@ import { AndroidBridge } from "./src/common/utils";
 import { getOPDSData } from "@data/opds-api-data";
 declare const window: any;
 
+// Set up Android-to-JS bridge listener at top level
+window.onDataFromAndroid = function (responseJson: string) {
+  AndroidBridge._handleDataFromAndroid(responseJson);
+};
+
 class App {
   private canvas: HTMLCanvasElement;
   private versionInfoElement: HTMLElement;
@@ -108,16 +113,25 @@ class App {
       console.log("hello world from FTM");
       console.log("hello ftm");
 
-      if (AndroidBridge !== undefined) {
-        AndroidBridge.requestDataFromContainer("score").then((data) => {
+      AndroidBridge.requestDataFromContainer("score")
+        .then((data) => {
           console.log(
             "Received score data from Container:",
             JSON.stringify(data)
           );
+        })
+        .catch((err) => {
+          console.error("Error in requestDataFromContainer promise:", err);
         });
-      } else {
-        console.log("AndroidBridge not available");
-      }
+
+      AndroidBridge.requestInstalledAppInfo()
+        .then((data) => {
+          console.log("isAppInstalled:", data.isAppInstalled);
+        })
+        .catch((err) => {
+          console.error("Error in installedAppInfo promise:", err);
+        });
+
 
       const font = await Utils.getLanguageSpecificFont(this.lang);
       await this.loadAndCacheFont(font, `./assets/fonts/${font}.ttf`);
