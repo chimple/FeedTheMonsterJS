@@ -28,10 +28,6 @@ import { AndroidBridge } from "./src/common/utils";
 import { getOPDSData } from "@data/opds-api-data";
 declare const window: any;
 
-// Set up Android-to-JS bridge listener at top level
-window.onDataFromAndroid = function (responseJson: string) {
-  AndroidBridge._handleDataFromAndroid(responseJson);
-};
 
 class App {
   private canvas: HTMLCanvasElement;
@@ -103,6 +99,9 @@ class App {
         }
       }, 3000);
       // Make sure to listen for the response globally
+      window.onDataFromAndroid = function (responseJson: string) {
+        AndroidBridge._handleDataFromAndroid(responseJson);
+      };
       console.log(
         "Android available: requestDataFromContainer",
         !!window.Android?.requestDataFromContainer
