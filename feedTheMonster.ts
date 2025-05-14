@@ -126,7 +126,9 @@ class App {
 
       AndroidBridge.requestInstalledAppInfo()
         .then((data) => {
-          console.log("isAppInstalled:", data.isAppInstalled);
+          console.log("inside requestInstalledAppInfo promise");
+          console.log("Here the data is ", data);
+          console.log("Here isAppInstalled is:", data.isAppInstalled);
         })
         .catch((err) => {
           console.error("Error in installedAppInfo promise:", err);
