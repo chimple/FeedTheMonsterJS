@@ -104,36 +104,22 @@ class App {
         AndroidBridge._handleDataFromAndroid(responseJson);
       };
 
-      console.log(
-        "Android available: requestDataFromContainer",
-        !!window.Android?.requestDataFromContainer
-      );
-
       console.log("hello world from FTM");
-      console.log("hello ftm");
-      console.log("checking hosting");
 
-      AndroidBridge.requestDataFromContainer("score")
-        .then((data) => {
-          console.log(
-            "Received score data from Container:",
-            JSON.stringify(data)
-          );
-        })
-        .catch((err) => {
-          console.error("Error in requestDataFromContainer promise:", err);
-        });
+      try {
+        const data = await AndroidBridge.requestDataFromContainer("score");
+        console.log("Received score data from Container:", JSON.stringify(data));
+      } catch (err) {
+        console.error("Error in requestDataFromContainer promise:", err);
+      }
 
-      AndroidBridge.requestInstalledAppInfo()
-        .then((data) => {
-          console.log("inside requestInstalledAppInfo promise");
-          console.log("Here the data is ", data);
-          console.log("Here isAppInstalled is:", data.isAppInstalled);
-        })
-        .catch((err) => {
-          console.error("Error in installedAppInfo promise:", err);
-        });
-
+      try {
+        const data = await AndroidBridge.requestInstalledAppInfo();
+        console.log("Got response from Promise, isAppInstalled is:", data.isAppInstalled);
+        Utils.isRespect = data.isAppInstalled;
+      } catch (err) {
+        console.error("Error in installedAppInfo promise:", err);
+      }
 
       const font = await Utils.getLanguageSpecificFont(this.lang);
       await this.loadAndCacheFont(font, `./assets/fonts/${font}.ttf`);

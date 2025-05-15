@@ -198,8 +198,8 @@ export const hideElement = (isHide: boolean = false, element: HTMLElement) => {
 interface AndroidBridge {
   sendDataToContainer: (key: string, data: any) => void; // this is the method name from android
   requestDataFromContainer: (data: any) => any;
-  sendInstalledAppInfoToJS: () => void; //New Method to request InstalledApppInfo
-  sendGameLevelInfoToJS: () => void; // New method to request game level data from Android
+  sendInstalledAppInfoToJS: () => void; //New Method for sending InstalledApppInfo from android
+  sendGameLevelInfoToJS: () => void; // New method for sending game level data from Android
   // add another method here if needed for the javascript interface from android
 }
 
@@ -222,7 +222,7 @@ const _callbacks: CallbackMap = window._callbacks;
 export const AndroidBridge = {
   sendDataToContainer(key: string, data: any) {
     try {
-      console.log(`Attempting to send ${key} to container:`, JSON.stringify(data));
+      // console.log(`Attempting to send ${key} to container:`, JSON.stringify(data));
       if (window.Android !== undefined) {
         // Stringify the data before sending to avoid [object Object] issues
         const jsonData = typeof data === "object" ? JSON.stringify(data) : data;
@@ -238,7 +238,6 @@ export const AndroidBridge = {
   requestDataFromContainer(type: string): Promise<any> {
     return new Promise((resolve, reject) => {
       try {
-        console.log(`requesting ${type}`);
         if (window.Android !== undefined) {
           _callbacks[type] = resolve; // store callback by type
           window.Android.requestDataFromContainer(type);
@@ -254,7 +253,6 @@ export const AndroidBridge = {
   requestInstalledAppInfo(): Promise<any> {
     return new Promise((resolve, reject) => {
       try {
-        console.log("Requesting InstalledAppInfo");
         if (window.Android !== undefined) {
           _callbacks["installedAppInfo"] = resolve;
 
@@ -300,11 +298,8 @@ export const AndroidBridge = {
 
   _handleDataFromAndroid(responseJson: string) {
     try {
-      console.log("ResponseJson is", responseJson);
       const data = JSON.parse(responseJson);
-      console.log("Parsed data is:", data);
       const type = data?.type;
-      console.log("Type is", type);
 
       // Handle game level info specifically
       if (type === "gameLevelInfo" && data.data) {
