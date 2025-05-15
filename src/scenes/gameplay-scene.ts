@@ -689,16 +689,18 @@ export class GameplayScene {
   }
 
   private calculateScore(): void {
-    const totalMoves = this.rightMoves + this.wrongMoves;
-    // Calculate score based on accuracy (0-100 scale)
-    this.score = totalMoves > 0 
-      ? Math.round((this.rightMoves / totalMoves) * 100)
-      : 0;
+  const totalQuestions = this.levelData.puzzles.length; // Total number of questions
+  const unansweredQuestions = totalQuestions - (this.rightMoves + this.wrongMoves);
+  const totalMoves = this.rightMoves + this.wrongMoves + unansweredQuestions;
 
-    if (isNaN(this.score)) {
-        this.score = 0;
-    }
+  this.score = totalMoves > 0 
+    ? Math.round((this.rightMoves / totalMoves) * 100)
+    : 0;
+
+  if (isNaN(this.score)) {
+    this.score = 0;
   }
+}
 
   private handleCorrectStoneDrop = (feedbackIndex: number): void => {
     this.rightMoves++
@@ -762,7 +764,9 @@ export class GameplayScene {
   public logLevelEndFirebaseEvent() {
     let endTime = Date.now();
     
-    const successfulPuzzles = this.rightMoves; // Direct count of correct puzzles
+    const totalQuestions = this.levelData.puzzles.length;
+    const unansweredQuestions = totalQuestions - (this.rightMoves + this.wrongMoves);
+    const successfulPuzzles = this.rightMoves;
 
     const levelCompletedData: LevelCompletedEvent = {
       cr_user_id: pseudoId,
@@ -774,6 +778,7 @@ export class GameplayScene {
       number_of_successful_puzzles: successfulPuzzles, // More accurate
       right_moves: this.rightMoves,
       wrong_moves: this.wrongMoves,
+      unanswered_questions: unansweredQuestions,
       level_number: this.levelData.levelMeta.levelNumber,
       duration: (endTime - this.startTime) / 1000,
       score: this.score,
