@@ -115,7 +115,7 @@ class App {
 
       try {
         const data = await AndroidBridge.requestInstalledAppInfo();
-        console.log("Got response from Promise, isAppInstalled is:", data.isAppInstalled);
+        // console.log("Got response from Promise, isAppInstalled is:", data.isAppInstalled);
         Utils.isRespect = data.isAppInstalled;
       } catch (err) {
         console.error("Error in installedAppInfo promise:", err);
@@ -152,8 +152,8 @@ class App {
         this.handleCachedScenario(this.dataModal);
       }
 
-      // Check if the user is online
-      if (navigator.onLine) {
+      // Check if the user is respect integrated
+      if (!Utils.isRespect) {
         console.log("Internet is available. Registering Workbox...");
         await this.registerWorkbox();
       } else {
