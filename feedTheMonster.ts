@@ -97,26 +97,27 @@ class App {
           this.startGameWithLevel(lessonId);
         }
       }, 3000);
-      // Make sure to listen for the response globally
-      console.log(
-        "Android available: requestDataFromContainer",
-        !!window.Android?.requestDataFromContainer
-      );
+      
+      // Set up Android-to-JS bridge listener
       window.onDataFromAndroid = function (responseJson: string) {
         AndroidBridge._handleDataFromAndroid(responseJson);
       };
-      console.log("hello world from FTM");
-      console.log("hello ftm");
 
-      if (AndroidBridge !== undefined) {
-        AndroidBridge.requestDataFromContainer("score").then((data) => {
-          console.log(
-            "Received score data from Container:",
-            JSON.stringify(data)
-          );
-        });
-      } else {
-        console.log("AndroidBridge not available");
+      console.log("hello world from FTM");
+
+      try {
+        const data = await AndroidBridge.requestDataFromContainer("score");
+        console.log("Received score data from Container:", JSON.stringify(data));
+      } catch (err) {
+        console.error("Error in requestDataFromContainer promise:", err);
+      }
+
+      try {
+        const data = await AndroidBridge.requestInstalledAppInfo();
+        // console.log("Got response from Promise, isAppInstalled is:", data.isAppInstalled);
+        Utils.isRespect = data.isAppInstalled;
+      } catch (err) {
+        console.error("Error in installedAppInfo promise:", err);
       }
 
       const font = await Utils.getLanguageSpecificFont(this.lang);
@@ -163,6 +164,7 @@ class App {
       console.error("Error in init:", err);
     }
   }
+
   private simulateFakeCachingProgress(lang: string) {
     const steps = [25, 50, 75, 100];
     steps.forEach((val, i) => {
