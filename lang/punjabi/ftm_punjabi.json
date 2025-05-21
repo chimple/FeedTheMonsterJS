@@ -9,6 +9,7 @@
    "majversion": 3,
    "minversion": 26,
    "langname": "PUNJABI",
+   "langCode":"pa",
    "FeedbackAudios": [
       "https://feedthemonster.curiouscontent.org/lang/punjabi/audios/fantastic.mp3",
       "https://feedthemonster.curiouscontent.org/lang/punjabi/audios/great.mp3",

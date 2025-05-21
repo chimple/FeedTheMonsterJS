@@ -9,6 +9,7 @@
   "majversion": 3,
   "minversion": 23,
   "langname": "INDIANENGLISH",
+  "langCode":"en",
   "FeedbackAudios": [
     "https://feedthemonster.curiouscontent.org/lang/indianenglish/audios/fantastic.mp3",
     "https://feedthemonster.curiouscontent.org/lang/indianenglish/audios/great.mp3",

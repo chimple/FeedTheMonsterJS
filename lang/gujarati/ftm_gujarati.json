@@ -9,6 +9,7 @@
   "majversion": 3,
   "minversion": 17,
   "langname": "GUJARATI",
+  "langCode":"gu",
   "FeedbackAudios": [
     "https://feedthemonster.curiouscontent.org/lang/gujarati/audios/fantastic.mp3",
     "https://feedthemonster.curiouscontent.org/lang/gujarati/audios/great.mp3",

@@ -9,6 +9,7 @@
     "majversion": 3,
     "minversion": 102,
     "langname": "ARABIC",
+    "langCode":"ar",
     "FeedbackAudios": [
         "https://feedthemonster.curiouscontent.org/lang/arabic/audios/fantastic.mp3",
         "https://feedthemonster.curiouscontent.org/lang/arabic/audios/great.mp3",

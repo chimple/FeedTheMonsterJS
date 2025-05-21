@@ -9,6 +9,7 @@
   "majversion": 3,
   "minversion": 18,
   "langname": "FRENCH",
+  "langCode":"fr",
   "FeedbackAudios": [
     "https://feedthemonster.curiouscontent.org/lang/french/audios/fantastic.mp3",
     "https://feedthemonster.curiouscontent.org/lang/french/audios/great.mp3",

@@ -9,6 +9,7 @@
   "majversion": 3,
   "minversion": 29,
   "langname": "AUSTRALIANENGLISH",
+  "langCode":"en",
   "FeedbackAudios": [
     "https://feedthemonster.curiouscontent.org/lang/austrailianenglish/audios/fantastic.mp3",
     "https://feedthemonster.curiouscontent.org/lang/austrailianenglish/audios/great.mp3",

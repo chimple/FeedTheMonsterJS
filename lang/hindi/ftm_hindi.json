@@ -9,6 +9,7 @@
   "majversion": 3,
   "minversion": 19,
   "langname": "HINDI",
+  "langCode":"hi",
   "FeedbackAudios": [
     "https://feedthemonster.curiouscontent.org/lang/hindi/audios/fantastic.mp3",
     "https://feedthemonster.curiouscontent.org/lang/hindi/audios/great.mp3",

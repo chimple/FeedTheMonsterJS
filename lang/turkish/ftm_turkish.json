@@ -9,6 +9,7 @@
   "majversion": 3,
   "minversion": 18,
   "langname": "TURKISH",
+  "langCode":"tr",
   "FeedbackAudios": [
     "https://feedthemonster.curiouscontent.org/lang/turkish/audios/fantastic.mp3",
     "https://feedthemonster.curiouscontent.org/lang/turkish/audios/great.mp3",

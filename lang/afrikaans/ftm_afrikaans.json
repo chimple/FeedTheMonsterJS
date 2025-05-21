@@ -9,6 +9,7 @@
   "majversion": 3,
   "minversion": 5,
   "langname": "AFRIKAANS",
+  "langCode":"af",
   "FeedbackAudios": [
     "https://feedthemonster.curiouscontent.org/lang/afrikaans/audios/fantastic.mp3",
     "https://feedthemonster.curiouscontent.org/lang/afrikaans/audios/great.mp3",

@@ -9,6 +9,7 @@
   "majversion": 3,
   "minversion": 6,
   "langname": "KINYARWANDA",
+  "langCode":"rw",
   "FeedbackAudios": [
     "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/fantastic.mp3",
     "https://feedthemonster.curiouscontent.org/lang/kinyarwanda/audios/great.mp3",

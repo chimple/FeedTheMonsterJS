@@ -9,6 +9,7 @@
   "majversion": 3,
   "minversion": 49,
   "langname": "SPANISH",
+  "langCode":"es",
   "FeedbackAudios": [
     "https://feedthemonster.curiouscontent.org/lang/spanish/audios/fantastic.mp3",
     "https://feedthemonster.curiouscontent.org/lang/spanish/audios/great.mp3",

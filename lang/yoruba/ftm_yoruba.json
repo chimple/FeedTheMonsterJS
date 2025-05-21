@@ -9,6 +9,7 @@
   "majversion": 3,
   "minversion": 4,
   "langname": "YORUBA",
+  "langCode":"yor",
   "FeedbackAudios": [
     "https://feedthemonster.curiouscontent.org/lang/yoruba/audios/fantastic.mp3",
     "https://feedthemonster.curiouscontent.org/lang/yoruba/audios/great.mp3",

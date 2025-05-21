@@ -9,6 +9,7 @@
     "majversion": 3,
     "minversion": 10,
     "langname": "SISWATI",
+    "langCode":"ss",
     "FeedbackAudios": [
     "https://feedthemonster.curiouscontent.org/lang/siswati/audios/fantastic.mp3",
     "https://feedthemonster.curiouscontent.org/lang/siswati/audios/great.mp3",

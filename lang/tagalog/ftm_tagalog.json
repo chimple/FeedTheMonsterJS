@@ -9,6 +9,7 @@
   "majversion": 3,
   "minversion": 4,
   "langname": "TAGALOG",
+  "langCode":"tl",
   "FeedbackAudios": [
     "https://feedthemonster.curiouscontent.org/lang/tagalog/audios/fantastic.mp3",
     "https://feedthemonster.curiouscontent.org/lang/tagalog/audios/great.mp3",
