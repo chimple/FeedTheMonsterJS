@@ -48,6 +48,7 @@ class App {
   private logged25: boolean = false;
   private logged50: boolean = false;
   private logged75: boolean = false;
+  private isCachingComplete: boolean = false;
 
   firebaseIntegration: FirebaseIntegration;
   constructor(lang: string) {
@@ -72,6 +73,7 @@ class App {
     this.is_cached = this.initializeCachedData();
     this.firebaseIntegration = new FirebaseIntegration();
     this.startSessionTime = 0;
+    this.isCachingComplete = this.is_cached.get(this.lang) === true;
     this.init();
     this.channel.addEventListener("message", this.handleServiceWorkerMessage);
     window.addEventListener("beforeunload", this.handleBeforeUnload);
@@ -89,14 +91,10 @@ class App {
         }
         console.log("Lesson ID from Android:", lessonId);
       }
-      setTimeout(() => {
-        if (Utils.isDeepLink) {
-          Utils.isDeepLink = false;
-          console.log("Lesson ID from Android:", lessonId);
-          Utils.levelNum = lessonId;
-          this.startGameWithLevel(lessonId);
-        }
-      }, 3000);
+      
+      if (Utils.isDeepLink && lessonId != "") {
+        this.handleDeepLinkWithCaching(lessonId);
+      }
       
       // Set up Android-to-JS bridge listener
       window.onDataFromAndroid = function (responseJson: string) {
@@ -543,6 +541,7 @@ class App {
         IsCached,
         JSON.stringify(Array.from(this.is_cached.entries()))
       );
+      this.isCachingComplete = true;
     } catch (error) {
       console.error("Error caching language:", error);
     }
@@ -624,6 +623,36 @@ class App {
     }
     // Perform additional cleanup if necessary
   }
+
+  private handleDeepLinkStart(lessonId: string | number) {
+    Utils.isDeepLink = false;
+    const levelNumber = Number(lessonId);
+    console.log("Lesson ID from Android:", levelNumber);
+    Utils.levelNum = levelNumber;
+    this.startGameWithLevel(levelNumber);
+  }
+
+  private handleDeepLinkWithCaching(lessonId: string | number) {
+    const proceed = () => {
+      setTimeout(() => {
+        this.handleDeepLinkStart(lessonId);
+      }, 10000);
+    };
+
+    if (!this.isCachingComplete) {
+      const waitForCaching = () => {
+        if (this.isCachingComplete) {
+          proceed();
+        } else {
+          setTimeout(waitForCaching, 200);
+        }
+      };
+      waitForCaching();
+    } else {
+      proceed();
+    }
+  }
+
 }
 
 const app = new App(lang);
