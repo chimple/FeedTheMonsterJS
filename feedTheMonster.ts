@@ -636,7 +636,7 @@ class App {
     const proceed = () => {
       setTimeout(() => {
         this.handleDeepLinkStart(lessonId);
-      }, 10000);
+      }, 2000);
     };
 
     if (!this.isCachingComplete) {
