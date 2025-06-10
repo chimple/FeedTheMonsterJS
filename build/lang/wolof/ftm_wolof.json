@@ -9,6 +9,7 @@
   "majversion": 3,
   "minversion": 3,
   "langname": "WOLOF",
+  "langCode":"wo",
   "FeedbackAudios": [
     "https://feedthemonster.curiouscontent.org/lang/wolof/audios/fantastic.mp3",
     "https://feedthemonster.curiouscontent.org/lang/wolof/audios/great.mp3",

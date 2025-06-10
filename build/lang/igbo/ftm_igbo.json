@@ -9,6 +9,7 @@
   "majversion": 3,
   "minversion": 9,
   "langname": "IGBO",
+  "langCode":"ig",
   "FeedbackAudios": [
     "https://feedthemonster.curiouscontent.org/lang/igbo/audios/fantastic.mp3",
     "https://feedthemonster.curiouscontent.org/lang/igbo/audios/great.mp3",

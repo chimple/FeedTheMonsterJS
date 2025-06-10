@@ -9,6 +9,7 @@
   "majversion": 3,
   "minversion": 18,
   "langname": "SWAHILI",
+  "langCode":"sw",
   "FeedbackAudios": [
     "https://feedthemonster.curiouscontent.org/lang/swahili/audios/fantastic.mp3",
     "https://feedthemonster.curiouscontent.org/lang/swahili/audios/great.mp3",

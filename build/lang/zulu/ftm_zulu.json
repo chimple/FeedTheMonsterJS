@@ -9,6 +9,7 @@
   "majversion": 3,
   "minversion": 28,
   "langname": "ZULU",
+  "langCode":"zu",
   "FeedbackAudios": [
     "https://feedthemonster.curiouscontent.org/lang/zulu/audios/fantastic.mp3",
     "https://feedthemonster.curiouscontent.org/lang/zulu/audios/great.mp3",

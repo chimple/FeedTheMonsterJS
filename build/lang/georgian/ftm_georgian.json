@@ -9,6 +9,7 @@
   "majversion": 3,
   "minversion": 10,
   "langname": "GEORGIAN",
+  "langCode":"ka",
   "FeedbackAudios": [
     "https://feedthemonster.curiouscontent.org/lang/georgian/audios/fantastic.mp3",
     "https://feedthemonster.curiouscontent.org/lang/georgian/audios/great.mp3",

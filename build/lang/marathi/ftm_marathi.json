@@ -7,6 +7,7 @@
   "majversion": 3,
   "minversion": 40,
   "langname": "MARATHI",
+  "langCode":"mr",
   "FeedbackAudios": [
     "https://feedthemonster.curiouscontent.org/lang/marathi/audios/fantastic.mp3"
   ],

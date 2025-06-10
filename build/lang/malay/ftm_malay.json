@@ -9,6 +9,7 @@
   "majversion": 3,
   "minversion": 9,
   "langname": "MALAY",
+  "langCode":"ms",
   "FeedbackAudios": [
     "https://feedthemonster.curiouscontent.org/lang/malay/audios/fantastic.mp3",
     "https://feedthemonster.curiouscontent.org/lang/malay/audios/great.mp3",

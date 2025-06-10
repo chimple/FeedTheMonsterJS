@@ -9,6 +9,7 @@
   "majversion": 3,
   "minversion": 7,
   "langname": "PASHTO",
+  "langCode":"ps",
   "FeedbackAudios": [
     "https://feedthemonster.curiouscontent.org/lang/pashto/audios/fantastic.mp3",
     "https://feedthemonster.curiouscontent.org/lang/pashto/audios/great.mp3",

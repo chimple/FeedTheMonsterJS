@@ -9,6 +9,7 @@
   "majversion": 3,
   "minversion": 136,
   "langname": "AMHARIC",
+  "langCode":"am",
   "FeedbackAudios": [
     "https://feedthemonster.curiouscontent.org/lang/amharic/audios/fantastic.mp3",
     "https://feedthemonster.curiouscontent.org/lang/amharic/audios/great.mp3",

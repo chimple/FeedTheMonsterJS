@@ -9,6 +9,7 @@
   "majversion": 3,
   "minversion": 13,
   "langname": "OROMO",
+  "langCode":"om",
   "FeedbackAudios": [
     "https://feedthemonster.curiouscontent.org/lang/oromo/audios/fantastic.mp3",
     "https://feedthemonster.curiouscontent.org/lang/oromo/audios/great.mp3",

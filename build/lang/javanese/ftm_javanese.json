@@ -9,6 +9,7 @@
   "majversion": 3,
   "minversion": 22,
   "langname": "JAVANESE",
+  "langCode":"jv",
   "FeedbackAudios": [
     "https://feedthemonster.curiouscontent.org/lang/javanese/audios/fantastic.mp3",
     "https://feedthemonster.curiouscontent.org/lang/javanese/audios/great.mp3",

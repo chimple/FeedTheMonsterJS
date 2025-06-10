@@ -73,12 +73,12 @@ export class LevelSelectionScreen {
     this.gameLevelData = GameScore.getAllGameLevelInfo();
     this.audioPlayer = new AudioPlayer();
     this.unlockLevelIndex = -1;
+    const storedLevelStr = Debugger.DebugMode
+      ? localStorage.getItem(PreviousPlayedLevel + lang + "Debug")
+      : localStorage.getItem(PreviousPlayedLevel + lang);
+    const storedLevel = parseInt(storedLevelStr ?? "0");
     this.previousPlayedLevelNumber =
-      parseInt(
-        Debugger.DebugMode
-          ? localStorage.getItem(PreviousPlayedLevel + lang + "Debug")
-          : localStorage.getItem(PreviousPlayedLevel + lang)
-      ) | 0;
+      isNaN(storedLevel) || (storedLevel < 0) ? 0 : storedLevel; 
     if (this.previousPlayedLevelNumber != null) {
       this.levelSelectionPageIndex =
         10 * Math.floor(this.previousPlayedLevelNumber / 10);

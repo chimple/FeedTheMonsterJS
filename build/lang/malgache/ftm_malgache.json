@@ -9,6 +9,7 @@
   "majversion": 3,
   "minversion": 5,
   "langname": "MALAGASY",
+  "langCode":"mg",
   "FeedbackAudios": [
     "https://feedthemonster.curiouscontent.org/lang/malgache/audios/fantastic.mp3",
     "https://feedthemonster.curiouscontent.org/lang/malgache/audios/great.mp3",

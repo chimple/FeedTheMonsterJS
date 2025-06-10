@@ -9,6 +9,7 @@
     "majversion": 3,
     "minversion": 26,
     "langname": "KANNADA",
+    "langCode":"kn",
     "FeedbackAudios": [
         "https://feedthemonster.curiouscontent.org/lang/kannada/audios/fantastic.mp3",
         "https://feedthemonster.curiouscontent.org/lang/kannada/audios/great.mp3",
