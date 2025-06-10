@@ -9,6 +9,7 @@
   "majversion": 3,
   "minversion": 3,
   "langname": "UKRAINIAN",
+  "langCode":"uk",
   "FeedbackAudios": [
     "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/fantastic.mp3",
     "https://feedthemonster.curiouscontent.org/lang/ukrainian/audios/great.mp3",

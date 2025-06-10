@@ -9,6 +9,7 @@
   "majversion": 3,
   "minversion": 15,
   "langname": "VIETNAMESE",
+  "langCode":"vi",
   "FeedbackAudios": [
     "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/fantastic.mp3",
     "https://feedthemonster.curiouscontent.org/lang/vietnamese/audios/great.mp3",

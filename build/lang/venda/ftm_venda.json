@@ -9,6 +9,7 @@
   "majversion": 3,
   "minversion": 4,
   "langname": "VENDA",
+  "langCode":"ve",
   "FeedbackAudios": [
     "https://feedthemonster.curiouscontent.org/lang/venda/audios/fantastic.mp3",
     "https://feedthemonster.curiouscontent.org/lang/venda/audios/great.mp3",

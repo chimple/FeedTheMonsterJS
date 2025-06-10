@@ -9,6 +9,7 @@
   "majversion": 3,
   "minversion": 5,
   "langname": "TWI",
+  "langCode":"tw",
   "FeedbackAudios": [
     "https://feedthemonster.curiouscontent.org/lang/twi/audios/fantastic.mp3",
     "https://feedthemonster.curiouscontent.org/lang/twi/audios/great.mp3",

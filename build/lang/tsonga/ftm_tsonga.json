@@ -8,6 +8,7 @@
   "majversion": 3,
   "minversion": 64,
   "langname": "TSONGA",
+  "langCode":"ts",
   "FeedbackAudios": [
     "https://feedthemonster.curiouscontent.org/lang/tsonga/audios/fantastic.mp3",
     "https://feedthemonster.curiouscontent.org/lang/tsonga/audios/great.mp3"

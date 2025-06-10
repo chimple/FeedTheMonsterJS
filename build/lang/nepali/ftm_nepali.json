@@ -9,6 +9,7 @@
   "majversion": 3,
   "minversion": 4,
   "langname": "NEPALI",
+  "langCode":"ne",
   "FeedbackAudios": [
     "https://feedthemonster.curiouscontent.org/lang/nepali/audios/fantastic.mp3",
     "https://feedthemonster.curiouscontent.org/lang/nepali/audios/great.mp3",

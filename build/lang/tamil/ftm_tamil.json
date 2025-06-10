@@ -8,7 +8,8 @@
     ],
     "majversion": 3,
     "minversion": 5,
-    "langname": "",
+    "langname": "TAMIL",
+    "langCode":"ta",
     "FeedbackAudios": [
       "https://feedthemonster.curiouscontent.org/lang/telugu/audios/fantastic.mp3",
       "https://feedthemonster.curiouscontent.org/lang/telugu/audios/great.mp3",

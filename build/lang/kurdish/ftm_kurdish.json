@@ -9,6 +9,7 @@
   "majversion": 3,
   "minversion": 13,
   "langname": "KURDISH",
+  "langCode":"ku",
   "FeedbackAudios": [
     "https://feedthemonster.curiouscontent.org/lang/kurdish/audios/fantastic.mp3",
     "https://feedthemonster.curiouscontent.org/lang/kurdish/audios/great.mp3",

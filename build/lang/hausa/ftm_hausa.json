@@ -9,6 +9,7 @@
   "majversion": 3,
   "minversion": 29,
   "langname": "HAUSA",
+  "langCode":"ha",
   "FeedbackAudios": [
     "https://feedthemonster.curiouscontent.org/lang/hausa/audios/fantastic.mp3",
     "https://feedthemonster.curiouscontent.org/lang/hausa/audios/great.mp3",

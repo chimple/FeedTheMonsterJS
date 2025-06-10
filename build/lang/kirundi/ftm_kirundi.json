@@ -8,6 +8,7 @@
     "majversion": 3,
     "minversion": 15,
     "langname": "KIRUNDI",
+    "langCode":"rn",
     "FeedbackAudios": [
     "https://feedthemonster.curiouscontent.org/lang/kirundi/audios/fantastic.mp3",
     "https://feedthemonster.curiouscontent.org/lang/kirundi/audios/amazing.mp3"

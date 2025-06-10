@@ -9,6 +9,7 @@
   "majversion": 3,
   "minversion": 15,
   "langname": "LUGANDAN",
+  "langCode":"lg",
   "FeedbackAudios": [
     "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/fantastic.mp3",
     "https://feedthemonster.curiouscontent.org/lang/lugandan/audios/great.mp3",

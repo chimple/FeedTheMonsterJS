@@ -9,6 +9,7 @@
   "majversion": 3,
   "minversion": 8,
   "langname": "THAI",
+  "langCode":"th",
   "FeedbackAudios": [
     "https://feedthemonster.curiouscontent.org/lang/thai/audios/fantastic.mp3",
     "https://feedthemonster.curiouscontent.org/lang/thai/audios/great.mp3",
