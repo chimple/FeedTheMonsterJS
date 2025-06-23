@@ -38,27 +38,68 @@ export class SceneHandler {
   private toggleBtn: HTMLElement;
   private titleTextElement: HTMLElement;
 
-  constructor(canvas: HTMLCanvasElement, data: DataModal) {
-    this.canvas = canvas;
+  private static lastStartScene: StartScene | undefined;
+
+  constructor(canvas: HTMLCanvasElement, data: DataModal, initialSceneName?: string, gamePlayData?: any) {
+    // Hard reset the canvas element to remove all event listeners
+    const oldCanvas = document.getElementById("canvas");
+    if (oldCanvas) {
+      const newCanvas = oldCanvas.cloneNode(true);
+      oldCanvas.parentNode.replaceChild(newCanvas, oldCanvas);
+      this.canavsElement = newCanvas as HTMLCanvasElement;
+      this.canvas = newCanvas as HTMLCanvasElement;
+      this.context = this.canavsElement.getContext("2d");
+    } else {
+      this.canavsElement = document.getElementById("canvas") as HTMLCanvasElement;
+      this.canvas = this.canavsElement;
+      this.context = this.canavsElement.getContext("2d");
+    }
     this.data = data;
-    this.width = canvas.width;
-    this.height = canvas.height;
-    this.canavsElement = document.getElementById("canvas") as HTMLCanvasElement;
+    this.width = this.canvas.width;
+    this.height = this.canvas.height;
     this.toggleBtn = document.getElementById("toggle-btn") as HTMLElement;
     this.titleTextElement = document.getElementById("title") as HTMLElement;
     window.addEventListener("beforeinstallprompt", this.handleInstallPrompt);
-    this.context = this.canavsElement.getContext("2d");
-    this.startScene = new StartScene(
-      canvas,
-      data,
-      this.switchSceneToLevelSelection
-    );
-    SceneHandler.SceneName = StartScene1;
     this.loadingScreen = new LoadingScene(
       this.width,
       this.height,
       this.removeLoading
     );
+    // Dispose previous StartScene if it exists
+    if (SceneHandler.lastStartScene) {
+      SceneHandler.lastStartScene.dispose();
+      SceneHandler.lastStartScene = undefined;
+    }
+    // Only create startScene if not starting directly in GameScene1
+    if (initialSceneName === GameScene1 && gamePlayData) {
+      this.startScene = undefined;
+      this.gameplayScene = new GameplayScene(
+        this.canvas,
+        gamePlayData.currentLevelData,
+        this.checkMonsterPhaseUpdation(),
+        this.data.FeedbackTexts,
+        this.data.rightToLeft,
+        this.switchSceneToEndLevel,
+        gamePlayData.selectedLevelNumber,
+        () => {
+          this.switchSceneToLevelSelection(SCENE_NAME_GAME_PLAY);
+        },
+        this.switchSceneToGameplay,
+        (this.data.majVersion && this.data.minVersion)
+          ? this.data.majVersion.toString() + "." + this.data.minVersion.toString()
+          : "",
+        this.data.FeedbackAudios
+      );
+      SceneHandler.SceneName = GameScene1;
+    } else {
+      this.startScene = new StartScene(
+        this.canvas,
+        data,
+        this.switchSceneToLevelSelection
+      );
+      SceneHandler.lastStartScene = this.startScene;
+      SceneHandler.SceneName = initialSceneName || StartScene1;
+    }
     this.startAnimationLoop();
   }
 
@@ -100,11 +141,20 @@ export class SceneHandler {
     if (SceneHandler.SceneName === StartScene1) {
       this.startScene.animation(deltaTime);
     } else if (SceneHandler.SceneName === LevelSelection1) {
-      this.levelSelectionScene.drawLevelSelection();
+      if (
+        this.levelSelectionScene &&
+        typeof this.levelSelectionScene.drawLevelSelection === "function"
+      ) {
+        this.levelSelectionScene.drawLevelSelection();
+      }
     } else if (SceneHandler.SceneName === GameScene1) {
-      this.gameplayScene.draw(deltaTime);
+      if (this.gameplayScene && typeof this.gameplayScene.draw === "function") {
+        this.gameplayScene.draw(deltaTime);
+      }
     } else if (SceneHandler.SceneName === EndScene1) {
-      this.levelEndScene.draw(deltaTime);
+      if (this.levelEndScene && typeof this.levelEndScene.draw === "function") {
+        this.levelEndScene.draw(deltaTime);
+      }
     }
   };
 
@@ -167,6 +217,7 @@ export class SceneHandler {
   };
 
   switchSceneToLevelSelection = (changeSceneRequestFrom?: string) => {
+    console.log("switchSceneToLevelSelection called", { changeSceneRequestFrom, SceneName: SceneHandler.SceneName });
     this.showLoading();
     this.dispose(changeSceneRequestFrom);
     setTimeout(() => {
