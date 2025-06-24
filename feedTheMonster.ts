@@ -26,10 +26,7 @@ import {
 import { URL } from "@data";
 import { AndroidBridge } from "./src/common/utils";
 import { getOPDSData } from "@data/opds-api-data";
-import { lesson_id } from "./src/common/global-variables";
 declare const window: any;
-
-const ENABLE_DIRECT_LESSON_LOADING = true;
 
 class App {
   private canvas: HTMLCanvasElement;
@@ -94,11 +91,11 @@ class App {
         }
         console.log("Lesson ID from Android:", lessonId);
       }
-
+      
       if (Utils.isDeepLink && lessonId != "") {
         this.handleDeepLinkWithCaching(lessonId);
       }
-
+      
       // Set up Android-to-JS bridge listener
       window.onDataFromAndroid = function (responseJson: string) {
         AndroidBridge._handleDataFromAndroid(responseJson);
@@ -137,44 +134,6 @@ class App {
       window.addEventListener("resize", async () => {
         this.handleResize(this.dataModal);
       });
-
-      if (ENABLE_DIRECT_LESSON_LOADING) {
-        let levelIndex = 0;
-        if (typeof lesson_id !== 'undefined' && lesson_id !== null && !isNaN(Number(lesson_id))) {
-          levelIndex = Number(lesson_id) - 1;
-        }
-        // Fallback to first lesson if invalid
-        if (!this.dataModal.levels || !this.dataModal.levels[levelIndex]) {
-          levelIndex = 0;
-        }
-        if (this.dataModal.levels && this.dataModal.levels[levelIndex]) {
-          // Hide only start screen–specific elements if present
-          const versionInfoElement = document.getElementById("version-info-id");
-          if (versionInfoElement) versionInfoElement.style.display = "none";
-          const toggleBtn = document.getElementById("toggle-btn");
-          if (toggleBtn) toggleBtn.style.display = "none";
-          const monsterImg = document.getElementById("monster");
-          if (monsterImg) monsterImg.style.display = "none";
-          const descText = document.getElementById("discription-text");
-          if (descText) descText.style.display = "none";
-
-          const gamePlayData = {
-            currentLevelData: {
-              ...this.dataModal.levels[levelIndex],
-              levelNumber: levelIndex + 1,
-            },
-            selectedLevelNumber: levelIndex + 1,
-          };
-          this.sceneHandler = new SceneHandler(
-            this.canvas,
-            this.dataModal,
-            "GameScene1",
-            gamePlayData
-          );
-          this.passingDataToContainer();
-          return;
-        }
-      }
 
       const playedInfo = localStorage.getItem(this.lang + "gamePlayedInfo");
       const nextPlayableLevel = playedInfo
