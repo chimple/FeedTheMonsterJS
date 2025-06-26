@@ -10,6 +10,8 @@ export var campaign_id = urlParams.get("campaign_id") == null ? null : urlParams
 export var lang =
   urlParams.get("cr_lang") == null ? "english" : urlParams.get("cr_lang");
 
+export var lesson_id = urlParams.get("lesson_id") == null ? null : urlParams.get("lesson_id");
+
 export const font = Utils.getLanguageSpecificFont(lang);
 export const Debugger = {
   DevelopmentLink: window.location.href.includes(DevelopmentServer)

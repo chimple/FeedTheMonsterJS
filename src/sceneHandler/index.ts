@@ -38,7 +38,19 @@ export class SceneHandler {
   private toggleBtn: HTMLElement;
   private titleTextElement: HTMLElement;
 
-  constructor(canvas: HTMLCanvasElement, data: DataModal) {
+  constructor(canvas: HTMLCanvasElement, data: DataModal);
+  constructor(
+    canvas: HTMLCanvasElement,
+    data: DataModal,
+    initialSceneName?: string,
+    gamePlayData?: any
+  );
+  constructor(
+    canvas: HTMLCanvasElement,
+    data: DataModal,
+    initialSceneName?: string,
+    gamePlayData?: any
+  ) {
     this.canvas = canvas;
     this.data = data;
     this.width = canvas.width;
@@ -48,12 +60,34 @@ export class SceneHandler {
     this.titleTextElement = document.getElementById("title") as HTMLElement;
     window.addEventListener("beforeinstallprompt", this.handleInstallPrompt);
     this.context = this.canavsElement.getContext("2d");
-    this.startScene = new StartScene(
-      canvas,
-      data,
-      this.switchSceneToLevelSelection
-    );
-    SceneHandler.SceneName = StartScene1;
+    if (initialSceneName === "GameScene1" && gamePlayData) {
+      this.startScene = undefined;
+      this.gameplayScene = new GameplayScene(
+        this.canvas,
+        gamePlayData.currentLevelData,
+        this.checkMonsterPhaseUpdation(),
+        this.data.FeedbackTexts,
+        this.data.rightToLeft,
+        this.switchSceneToEndLevel,
+        gamePlayData.selectedLevelNumber,
+        () => {
+          this.switchSceneToLevelSelection("GameScene1");
+        },
+        this.switchSceneToGameplay,
+        (this.data.majVersion && this.data.minVersion)
+          ? this.data.majVersion.toString() + "." + this.data.minVersion.toString()
+          : "",
+        this.data.FeedbackAudios
+      );
+      SceneHandler.SceneName = "GameScene1";
+    } else {
+      this.startScene = new StartScene(
+        canvas,
+        data,
+        this.switchSceneToLevelSelection
+      );
+      SceneHandler.SceneName = StartScene1;
+    }
     this.loadingScreen = new LoadingScene(
       this.width,
       this.height,
@@ -209,3 +243,4 @@ export class SceneHandler {
     localStorage.setItem(PWAInstallStatus, "false");
   };
 }
+

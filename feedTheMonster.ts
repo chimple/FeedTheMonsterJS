@@ -24,6 +24,7 @@ import {
   SessionEnd,
 } from "./src/Firebase/firebase-event-interface";
 import { URL } from "@data";
+import { lesson_id } from "./src/common/global-variables";
 import { AndroidBridge } from "./src/common/utils";
 import { getOPDSData } from "@data/opds-api-data";
 declare const window: any;
@@ -91,11 +92,11 @@ class App {
         }
         console.log("Lesson ID from Android:", lessonId);
       }
-      
+
       if (Utils.isDeepLink && lessonId != "") {
         this.handleDeepLinkWithCaching(lessonId);
       }
-      
+
       // Set up Android-to-JS bridge listener
       window.onDataFromAndroid = function (responseJson: string) {
         AndroidBridge._handleDataFromAndroid(responseJson);
@@ -134,6 +135,17 @@ class App {
       window.addEventListener("resize", async () => {
         this.handleResize(this.dataModal);
       });
+
+      if (
+        typeof lesson_id !== 'undefined' &&
+        lesson_id !== null &&
+        !isNaN(Number(lesson_id))
+      ) {
+        Utils.isDeepLink = true;
+        this.handleDeepLinkWithCaching(lesson_id);
+        return;
+      }
+
 
       const playedInfo = localStorage.getItem(this.lang + "gamePlayedInfo");
       const nextPlayableLevel = playedInfo
@@ -499,29 +511,51 @@ class App {
     }
   };
 
+  // public startGameWithLevel(levelNumber: string | number): void {
+  //   console.log(`📱 FTM: Starting game with level ${levelNumber}`);
+  //   if (this.sceneHandler) {
+  //     // Skip level selection screen and directly start the game
+  //     console.log(`📱 FTM: Directly starting level ${levelNumber}`);
+
+  //     // Create the gameplay data structure
+  //     const gamePlayData = {
+  //       currentLevelData: {
+  //         ...this.dataModal.levels[levelNumber],
+  //         levelNumber: levelNumber,
+  //       },
+  //       selectedLevelNumber: levelNumber,
+  //     };
+
+  //     // Call the switchSceneToGameplay method directly with the gameplay data
+  //     this.sceneHandler.switchSceneToGameplay(gamePlayData, "START");
+  //   } else {
+  //     console.error(
+  //       "📱 FTM: Cannot start game - scene handler not initialized"
+  //     );
+  //   }
+  // }
+
   public startGameWithLevel(levelNumber: string | number): void {
-    console.log(`📱 FTM: Starting game with level ${levelNumber}`);
-    if (this.sceneHandler) {
-      // Skip level selection screen and directly start the game
-      console.log(`📱 FTM: Directly starting level ${levelNumber}`);
-
-      // Create the gameplay data structure
-      const gamePlayData = {
-        currentLevelData: {
-          ...this.dataModal.levels[levelNumber],
-          levelNumber: levelNumber,
-        },
-        selectedLevelNumber: levelNumber,
-      };
-
-      // Call the switchSceneToGameplay method directly with the gameplay data
-      this.sceneHandler.switchSceneToGameplay(gamePlayData, "START");
-    } else {
-      console.error(
-        "📱 FTM: Cannot start game - scene handler not initialized"
-      );
-    }
-  }
+  console.log(`📱 FTM: Starting game with level ${levelNumber}`);
+  const levelNum = Number(levelNumber);
+  const gamePlayData = {
+    currentLevelData: {
+      ...this.dataModal.levels[levelNum - 1],
+      levelNumber: levelNum,
+    },
+    selectedLevelNumber: levelNum,
+  };
+  // Always create a new SceneHandler for direct game loading
+  console.log("Creating SceneHandler for level", levelNum, gamePlayData);
+  this.sceneHandler = new SceneHandler(
+    this.canvas,
+    this.dataModal,
+    "GameScene1",
+    gamePlayData
+  );
+  console.log("SceneHandler created", this.sceneHandler);
+  this.passingDataToContainer();
+}
 
   //Shows the progress bar.
   showProgressBar() {
