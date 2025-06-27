@@ -10,6 +10,7 @@ import {
 } from "@constants";
 import { Workbox } from "workbox-window";
 import { FirebaseIntegration } from "./src/Firebase/firebase-integration";
+import { lesson_id } from "./src/common/global-variables";
 import {
   Utils,
   VISIBILITY_CHANGE,
@@ -91,11 +92,11 @@ class App {
         }
         console.log("Lesson ID from Android:", lessonId);
       }
-      
+
       if (Utils.isDeepLink && lessonId != "") {
         this.handleDeepLinkWithCaching(lessonId);
       }
-      
+
       // Set up Android-to-JS bridge listener
       window.onDataFromAndroid = function (responseJson: string) {
         AndroidBridge._handleDataFromAndroid(responseJson);
@@ -134,6 +135,37 @@ class App {
       window.addEventListener("resize", async () => {
         this.handleResize(this.dataModal);
       });
+
+      // Direct game start if lesson_id is present (before any scene handler creation)
+      if (lesson_id) {
+        // Run all caching logic first
+        if (Utils.isRespect) {
+          console.warn(
+            "Respect mode enabled. Simulating fake loading progress..."
+          );
+          this.simulateFakeCachingProgress(this.lang);
+        } else {
+          console.log("Respect mode disabled. Registering Workbox...");
+          await this.registerWorkbox();
+        }
+        this.sceneHandler = SceneHandler.createForDirectGameStart(
+          this.canvas,
+          this.dataModal,
+          Number(lesson_id)
+        );
+        this.passingDataToContainer();
+        return; // Prevent normal flow
+      } else {
+          if (Utils.isRespect) {
+          console.warn(
+            "Respect mode enabled. Simulating fake loading progress..."
+          );
+          this.simulateFakeCachingProgress(this.lang);
+        } else {
+          console.log("Respect mode disabled. Registering Workbox...");
+          await this.registerWorkbox();
+        }
+      }
 
       const playedInfo = localStorage.getItem(this.lang + "gamePlayedInfo");
       const nextPlayableLevel = playedInfo
@@ -652,7 +684,6 @@ class App {
       proceed();
     }
   }
-
 }
 
 const app = new App(lang);

@@ -38,7 +38,7 @@ export class SceneHandler {
   private toggleBtn: HTMLElement;
   private titleTextElement: HTMLElement;
 
-  constructor(canvas: HTMLCanvasElement, data: DataModal) {
+  constructor(canvas: HTMLCanvasElement, data: DataModal, lessonId?: number) {
     this.canvas = canvas;
     this.data = data;
     this.width = canvas.width;
@@ -48,17 +48,45 @@ export class SceneHandler {
     this.titleTextElement = document.getElementById("title") as HTMLElement;
     window.addEventListener("beforeinstallprompt", this.handleInstallPrompt);
     this.context = this.canavsElement.getContext("2d");
-    this.startScene = new StartScene(
-      canvas,
-      data,
-      this.switchSceneToLevelSelection
-    );
-    SceneHandler.SceneName = StartScene1;
     this.loadingScreen = new LoadingScene(
       this.width,
       this.height,
       this.removeLoading
     );
+    // When we get lessonId, we directly start the game with that level
+    if (lessonId !== undefined && lessonId !== null) {
+      let levelIndex = lessonId - 1;
+      if (!data.levels || !data.levels[levelIndex]) {
+        levelIndex = 0;
+      }
+      const gamePlayData = {
+        currentLevelData: {
+          ...data.levels[levelIndex],
+          levelNumber: levelIndex + 1,
+        },
+        selectedLevelNumber: levelIndex + 1,
+      };
+      let jsonVersionNumber =
+        !!data.majVersion && !!data.minVersion
+          ? data.majVersion.toString() + "." + data.minVersion.toString()
+          : "";
+      this.gameplayScene = new GameplayScene(
+        canvas,
+        gamePlayData.currentLevelData,
+        this.checkMonsterPhaseUpdation(),
+        data.FeedbackTexts,
+        data.rightToLeft,
+        this.switchSceneToEndLevel,
+        gamePlayData.selectedLevelNumber,
+        () => {
+          this.switchSceneToLevelSelection(SCENE_NAME_GAME_PLAY);
+        },
+        this.switchSceneToGameplay,
+        jsonVersionNumber,
+        data.FeedbackAudios
+      );
+      SceneHandler.SceneName = GameScene1;
+    }
     this.startAnimationLoop();
   }
 
@@ -208,4 +236,44 @@ export class SceneHandler {
     event.preventDefault();
     localStorage.setItem(PWAInstallStatus, "false");
   };
+
+  // This is a factoru method to directly the start in gamescreen
+  static createForDirectGameStart(
+    canvas: HTMLCanvasElement,
+    data: DataModal,
+    lessonId: number
+  ) {
+    const handler = new SceneHandler(canvas, data);
+    let levelIndex = lessonId - 1;
+    if (!data.levels || !data.levels[levelIndex]) {
+      levelIndex = 0;
+    }
+    const gamePlayData = {
+      currentLevelData: {
+        ...data.levels[levelIndex],
+        levelNumber: levelIndex + 1,
+      },
+      selectedLevelNumber: levelIndex + 1,
+    };
+    let jsonVersionNumber =
+      !!data.majVersion && !!data.minVersion
+        ? data.majVersion.toString() + "." + data.minVersion.toString()
+        : "";
+    handler.gameplayScene = new GameplayScene(
+      canvas,
+      gamePlayData.currentLevelData,
+      handler.checkMonsterPhaseUpdation(),
+      data.FeedbackTexts,
+      data.rightToLeft,
+      handler.switchSceneToEndLevel.bind(handler),
+      gamePlayData.selectedLevelNumber,
+      () => handler.switchSceneToLevelSelection(SCENE_NAME_GAME_PLAY),
+      handler.switchSceneToGameplay.bind(handler),
+      jsonVersionNumber,
+      data.FeedbackAudios
+    );
+    SceneHandler.SceneName = GameScene1;
+    handler.startScene = undefined;
+    return handler;
+  }
 }
