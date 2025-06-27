@@ -1,7 +1,7 @@
 export class DataModal {
   public title: string;
   public otherAudios: OtherAudios;
-  public levels: number;
+  public levels: any[];
   public FeedbackTexts: FeedbackTexts;
   public FeedbackAudios: FeedbackAudios;
   public rightToLeft: any;
@@ -11,7 +11,7 @@ export class DataModal {
   constructor(
     title: string,
     otherAudios: { [x: string]: any },
-    levels: number,
+    levels: any[],
     feedbackTexts: string,
     rightToLeft: any,
     feedbackAudios: any,

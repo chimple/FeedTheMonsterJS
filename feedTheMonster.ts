@@ -93,32 +93,6 @@ class App {
         console.log("Lesson ID from Android:", lessonId);
       }
 
-      if (Utils.isDeepLink && lessonId != "") {
-        this.handleDeepLinkWithCaching(lessonId);
-      }
-
-      // Set up Android-to-JS bridge listener
-      window.onDataFromAndroid = function (responseJson: string) {
-        AndroidBridge._handleDataFromAndroid(responseJson);
-      };
-
-      console.log("hello world from FTM");
-
-      try {
-        const data = await AndroidBridge.requestDataFromContainer("score");
-        console.log("Received score data from Container:", JSON.stringify(data));
-      } catch (err) {
-        console.error("Error in requestDataFromContainer promise:", err);
-      }
-
-      try {
-        const data = await AndroidBridge.requestInstalledAppInfo();
-        // console.log("Got response from Promise, isAppInstalled is:", data.isAppInstalled);
-        Utils.isRespect = data.isAppInstalled;
-      } catch (err) {
-        console.error("Error in installedAppInfo promise:", err);
-      }
-
       const font = await Utils.getLanguageSpecificFont(this.lang);
       await this.loadAndCacheFont(font, `./assets/fonts/${font}.ttf`);
       await this.loadTitleFeedbackCustomFont();
@@ -136,40 +110,24 @@ class App {
         this.handleResize(this.dataModal);
       });
 
-      if (
-        typeof lesson_id !== 'undefined' &&
-        lesson_id !== null &&
-        !isNaN(Number(lesson_id))
-      ) {
+      // Only call handleDeepLinkWithCaching after dataModal is initialized
+      if (Utils.isDeepLink && lessonId != "") {
+        await this.registerWorkbox();
+        this.handleDeepLinkWithCaching(lessonId);
+        return;
+      }
+      if (lesson_id !== "0") {
+        await this.registerWorkbox();
         Utils.isDeepLink = true;
         this.handleDeepLinkWithCaching(lesson_id);
         return;
       }
 
-
       const playedInfo = localStorage.getItem(this.lang + "gamePlayedInfo");
       const nextPlayableLevel = playedInfo
         ? JSON.parse(playedInfo).length - 1
         : 0;
-      const storageKey = Debugger.DebugMode
-        ? PreviousPlayedLevel + this.lang + "Debug"
-        : PreviousPlayedLevel + this.lang;
-
-      localStorage.setItem(storageKey, nextPlayableLevel.toString());
-
-      if (this.is_cached.has(this.lang)) {
-        this.handleCachedScenario(this.dataModal);
-      }
-
-      if (Utils.isRespect) {
-        console.warn(
-          "Respect mode enabled. Simulating fake loading progress..."
-        );
-        this.simulateFakeCachingProgress(this.lang);
-      } else {
-        console.log("Respect mode disabled. Registering Workbox...");
-        await this.registerWorkbox();
-      }
+      this.startGameWithLevel(nextPlayableLevel + 1);
     } catch (err) {
       console.error("Error in init:", err);
     }
@@ -511,51 +469,76 @@ class App {
     }
   };
 
-  // public startGameWithLevel(levelNumber: string | number): void {
-  //   console.log(`📱 FTM: Starting game with level ${levelNumber}`);
-  //   if (this.sceneHandler) {
-  //     // Skip level selection screen and directly start the game
-  //     console.log(`📱 FTM: Directly starting level ${levelNumber}`);
-
-  //     // Create the gameplay data structure
-  //     const gamePlayData = {
-  //       currentLevelData: {
-  //         ...this.dataModal.levels[levelNumber],
-  //         levelNumber: levelNumber,
-  //       },
-  //       selectedLevelNumber: levelNumber,
-  //     };
-
-  //     // Call the switchSceneToGameplay method directly with the gameplay data
-  //     this.sceneHandler.switchSceneToGameplay(gamePlayData, "START");
-  //   } else {
-  //     console.error(
-  //       "📱 FTM: Cannot start game - scene handler not initialized"
-  //     );
-  //   }
-  // }
-
   public startGameWithLevel(levelNumber: string | number): void {
-  console.log(`📱 FTM: Starting game with level ${levelNumber}`);
-  const levelNum = Number(levelNumber);
-  const gamePlayData = {
-    currentLevelData: {
-      ...this.dataModal.levels[levelNum - 1],
-      levelNumber: levelNum,
-    },
-    selectedLevelNumber: levelNum,
-  };
-  // Always create a new SceneHandler for direct game loading
-  console.log("Creating SceneHandler for level", levelNum, gamePlayData);
-  this.sceneHandler = new SceneHandler(
-    this.canvas,
-    this.dataModal,
-    "GameScene1",
-    gamePlayData
-  );
-  console.log("SceneHandler created", this.sceneHandler);
-  this.passingDataToContainer();
-}
+    if (!this.dataModal || !this.dataModal.levels) {
+      console.error("DataModal is not initialized! Cannot start game.");
+      return;
+    }
+    // Hide start-screen elements except feedback text
+    const monster = document.getElementById("monster");
+    if (monster) monster.style.display = "none";
+    const description = document.getElementById("discription-text");
+    if (description) description.style.display = "none";
+    const title = document.getElementById("title");
+    if (title) title.style.display = "none";
+    // Hide the white overlay blocker
+    const blocker = document.getElementById("app-blocker");
+    if (blocker) blocker.style.display = "none";
+    // Do NOT hide feedback-text
+    console.log(`📱 FTM: Starting game with level ${levelNumber}`);
+    const levelNum = Number(levelNumber);
+    const gamePlayData = {
+      currentLevelData: {
+        ...this.dataModal.levels[levelNum - 1],
+        levelNumber: levelNum,
+      },
+      selectedLevelNumber: levelNum,
+    };
+    // Always create a new SceneHandler for direct game loading
+    console.log("Creating SceneHandler for level", levelNum, gamePlayData);
+    this.sceneHandler = new SceneHandler(
+      this.canvas,
+      this.dataModal,
+      "GameScene1",
+      gamePlayData
+    );
+    console.log("SceneHandler created", this.sceneHandler);
+    this.passingDataToContainer();
+  }
+
+  private handleDeepLinkStart(lessonId: string | number) {
+    Utils.isDeepLink = false;
+    const levelNumber = Number(lessonId);
+    console.log("Lesson ID from Android:", levelNumber);
+    Utils.levelNum = levelNumber;
+    this.startGameWithLevel(levelNumber);
+  }
+
+  private handleDeepLinkWithCaching(lessonId: string | number) {
+    const proceed = () => {
+      setTimeout(() => {
+        if (this.dataModal && this.dataModal.levels) {
+          this.handleDeepLinkStart(lessonId);
+        } else {
+          console.warn("Waiting for dataModal to be initialized before starting game...");
+          setTimeout(proceed, 100);
+        }
+      }, 2000);
+    };
+
+    if (!this.isCachingComplete) {
+      const waitForCaching = () => {
+        if (this.isCachingComplete) {
+          proceed();
+        } else {
+          setTimeout(waitForCaching, 200);
+        }
+      };
+      waitForCaching();
+    } else {
+      proceed();
+    }
+  }
 
   //Shows the progress bar.
   showProgressBar() {
@@ -657,36 +640,6 @@ class App {
     }
     // Perform additional cleanup if necessary
   }
-
-  private handleDeepLinkStart(lessonId: string | number) {
-    Utils.isDeepLink = false;
-    const levelNumber = Number(lessonId);
-    console.log("Lesson ID from Android:", levelNumber);
-    Utils.levelNum = levelNumber;
-    this.startGameWithLevel(levelNumber);
-  }
-
-  private handleDeepLinkWithCaching(lessonId: string | number) {
-    const proceed = () => {
-      setTimeout(() => {
-        this.handleDeepLinkStart(lessonId);
-      }, 2000);
-    };
-
-    if (!this.isCachingComplete) {
-      const waitForCaching = () => {
-        if (this.isCachingComplete) {
-          proceed();
-        } else {
-          setTimeout(waitForCaching, 200);
-        }
-      };
-      waitForCaching();
-    } else {
-      proceed();
-    }
-  }
-
 }
 
 const app = new App(lang);
