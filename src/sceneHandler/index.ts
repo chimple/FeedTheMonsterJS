@@ -38,13 +38,6 @@ export class SceneHandler {
   private toggleBtn: HTMLElement;
   private titleTextElement: HTMLElement;
 
-  constructor(canvas: HTMLCanvasElement, data: DataModal);
-  constructor(
-    canvas: HTMLCanvasElement,
-    data: DataModal,
-    initialSceneName?: string,
-    gamePlayData?: any
-  );
   constructor(
     canvas: HTMLCanvasElement,
     data: DataModal,
