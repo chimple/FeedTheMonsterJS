@@ -104,19 +104,23 @@ class App {
 
       console.log("hello world from FTM");
 
-      try {
-        const data = await AndroidBridge.requestDataFromContainer("score");
-        console.log("Received score data from Container:", JSON.stringify(data));
-      } catch (err) {
-        console.error("Error in requestDataFromContainer promise:", err);
+      if(Utils.isRespect) {
+        try {
+          const data = await AndroidBridge.requestDataFromContainer("score");
+          console.log("Received score data from Container:", JSON.stringify(data));
+        } catch (err) {
+          console.error("Error in requestDataFromContainer promise:", err);
+        }
       }
 
-      try {
-        const data = await AndroidBridge.requestInstalledAppInfo();
-        // console.log("Got response from Promise, isAppInstalled is:", data.isAppInstalled);
-        Utils.isRespect = data.isAppInstalled;
-      } catch (err) {
-        console.error("Error in installedAppInfo promise:", err);
+      if(Utils.isRespect) {
+        try {
+          const data = await AndroidBridge.requestInstalledAppInfo();
+          // console.log("Got response from Promise, isAppInstalled is:", data.isAppInstalled);
+          Utils.isRespect = data.isAppInstalled;
+        } catch (err) {
+          console.error("Error in installedAppInfo promise:", err);
+        }
       }
 
       const font = await Utils.getLanguageSpecificFont(this.lang);

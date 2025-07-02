@@ -8,7 +8,7 @@ export var source = urlParams.get("source") == null ? null : urlParams.get("sour
 export var campaign_id = urlParams.get("campaign_id") == null ? null : urlParams.get("campaign_id");
 
 export var lang =
-  urlParams.get("cr_lang") == null ? "english" : urlParams.get("cr_lang");
+  urlParams.get("lang") == null ? "english" : urlParams.get("lang");
 
 export var lesson_id = urlParams.get("lesson_id") == null || urlParams.get("lesson_id") == "0" ? "1" : urlParams.get("lesson_id");
 
