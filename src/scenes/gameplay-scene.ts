@@ -602,14 +602,14 @@ export class GameplayScene {
     this.removeEventListeners();
   };
 
-  private dispatchGameExitedEvent() {
-    if (typeof Utils !== 'undefined' && !Utils.isRespect) {
-      const gameExitedEvent = new CustomEvent('gameExited', {
+  private dispatchGameExitEvent() {
+    if (!Utils.isRespect) {
+      const gameExitEvent = new CustomEvent('gameExit', {
         detail: {
           exited: true,
         }
       });
-      window.dispatchEvent(gameExitedEvent);
+      window.dispatchEvent(gameExitEvent);
     }
   }
 
@@ -617,7 +617,7 @@ export class GameplayScene {
   setSwitchToLevelSelectionWithExitEvent() {
     const originalSwitch = this.switchToLevelSelection;
     this.switchToLevelSelection = (...args) => {
-      this.dispatchGameExitedEvent();
+      this.dispatchGameExitEvent();
       return originalSwitch.apply(this, args);
     };
   }
@@ -810,7 +810,7 @@ export class GameplayScene {
     console.log("Sent level completed data to container:", levelCompletedData);
 
     // Dispatch gameFinished event
-    if (typeof Utils !== 'undefined' && !Utils.isRespect) {
+    if (!Utils.isRespect) {
       const gameFinishedEvent = new CustomEvent('gameFinished', {
         detail: {
           score: this.score,
