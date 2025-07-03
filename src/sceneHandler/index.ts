@@ -123,16 +123,16 @@ export class SceneHandler {
     this.lastTime = timeStamp;
 
     this.context.clearRect(0, 0, this.width, this.height);
-    this.loading ? this.loadingScreen.draw(deltaTime) : null;
+    if (this.loading) this.loadingScreen.draw(deltaTime);
 
     if (SceneHandler.SceneName === StartScene1) {
       this.startScene.animation(deltaTime);
     } else if (SceneHandler.SceneName === LevelSelection1) {
-      this.levelSelectionScene.drawLevelSelection();
+      if (this.levelSelectionScene) this.levelSelectionScene.drawLevelSelection();
     } else if (SceneHandler.SceneName === GameScene1) {
-      this.gameplayScene.draw(deltaTime);
+      if (this.gameplayScene) this.gameplayScene.draw(deltaTime);
     } else if (SceneHandler.SceneName === EndScene1) {
-      this.levelEndScene.draw(deltaTime);
+      if (this.levelEndScene) this.levelEndScene.draw(deltaTime);
     }
   };
 

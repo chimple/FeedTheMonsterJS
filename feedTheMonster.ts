@@ -104,19 +104,23 @@ class App {
 
       console.log("hello world from FTM");
 
-      try {
-        const data = await AndroidBridge.requestDataFromContainer("score");
-        console.log("Received score data from Container:", JSON.stringify(data));
-      } catch (err) {
-        console.error("Error in requestDataFromContainer promise:", err);
+      if(Utils.isRespect) {
+        try {
+          const data = await AndroidBridge.requestDataFromContainer("score");
+          console.log("Received score data from Container:", JSON.stringify(data));
+        } catch (err) {
+          console.error("Error in requestDataFromContainer promise:", err);
+        }
       }
 
-      try {
-        const data = await AndroidBridge.requestInstalledAppInfo();
-        // console.log("Got response from Promise, isAppInstalled is:", data.isAppInstalled);
-        Utils.isRespect = data.isAppInstalled;
-      } catch (err) {
-        console.error("Error in installedAppInfo promise:", err);
+      if(Utils.isRespect) {
+        try {
+          const data = await AndroidBridge.requestInstalledAppInfo();
+          // console.log("Got response from Promise, isAppInstalled is:", data.isAppInstalled);
+          Utils.isRespect = data.isAppInstalled;
+        } catch (err) {
+          console.error("Error in installedAppInfo promise:", err);
+        }
       }
 
       const font = await Utils.getLanguageSpecificFont(this.lang);
@@ -143,20 +147,30 @@ class App {
           console.warn(
             "Respect mode enabled. Simulating fake loading progress..."
           );
-          this.simulateFakeCachingProgress(this.lang);
+          this.simulateFakeCachingProgress(this.lang, () => {
+            this.sceneHandler = SceneHandler.createForDirectGameStart(
+              this.canvas,
+              this.dataModal,
+              Number(lesson_id)
+            );
+            this.passingDataToContainer();
+          });
         } else {
           console.log("Respect mode disabled. Registering Workbox...");
           await this.registerWorkbox();
+          // Wait for caching to complete and then start the game
+          this.waitForCachingAndStartGame(() => {
+            this.sceneHandler = SceneHandler.createForDirectGameStart(
+              this.canvas,
+              this.dataModal,
+              Number(lesson_id)
+            );
+            this.passingDataToContainer();
+          });
         }
-        this.sceneHandler = SceneHandler.createForDirectGameStart(
-          this.canvas,
-          this.dataModal,
-          Number(lesson_id)
-        );
-        this.passingDataToContainer();
         return; // Prevent normal flow
       } else {
-          if (Utils.isRespect) {
+        if (Utils.isRespect) {
           console.warn(
             "Respect mode enabled. Simulating fake loading progress..."
           );
@@ -195,7 +209,7 @@ class App {
     }
   }
 
-  private simulateFakeCachingProgress(lang: string) {
+  private simulateFakeCachingProgress(lang: string, callback?: () => void) {
     const steps = [25, 50, 75, 100];
     steps.forEach((val, i) => {
       setTimeout(() => {
@@ -206,6 +220,7 @@ class App {
         if (val === 100) {
           this.cacheLanguage();
           this.hideLoadingScreen();
+          if (callback) callback();
         }
       }, i * 700); // Simulate progress every 700ms
     });
@@ -683,6 +698,17 @@ class App {
     } else {
       proceed();
     }
+  }
+
+  private waitForCachingAndStartGame(callback: () => void) {
+    const check = () => {
+      if (this.isCachingComplete) {
+        callback();
+      } else {
+        setTimeout(check, 200);
+      }
+    };
+    check();
   }
 }
 
