@@ -28,6 +28,7 @@ import {
   Debugger,
   lang,
   pseudoId,
+  Utils,
 } from "@common";
 import { GameScore } from "@data";
 import {
@@ -90,7 +91,7 @@ export class GameplayScene {
   public isGameStarted: boolean = false;
   public time: number = 0;
   public score: number = 0;
-  public wrongMoves: number = 0; 
+  public wrongMoves: number = 0;
   public rightMoves: number = 0
 
   public switchToLevelSelection: Function;
@@ -164,6 +165,9 @@ export class GameplayScene {
     this.levelIndicators.setIndicators(this.counter);
     this.monster = new Monster(this.canvas, this.monsterPhaseNumber);
 
+    // Wrap switchToLevelSelection before passing to PausePopUp
+    this.switchToLevelSelection = switchToLevelSelection;
+    this.setSwitchToLevelSelectionWithExitEvent();
     this.pausePopup = new PausePopUp(
       this.canvas,
       this.resumeGame,
@@ -329,7 +333,7 @@ export class GameplayScene {
     if (this.pickedStone && this.pickedStone.frame <= 99) {
       return; // Prevent dragging if the stone is animating
     }
-    
+
     const stoneLetter = this.stoneHandler.handlePickStoneUp(x,y);
 
     if (stoneLetter) {
@@ -520,7 +524,7 @@ export class GameplayScene {
     this.handler.addEventListener(TOUCHMOVE, this.handleTouchMove, false);
     this.handler.addEventListener(TOUCHEND, this.handleTouchEnd, false);
     this.handler.addEventListener(CLICK, this.handleMouseClick, false);
-    
+
     document.addEventListener(
       VISIBILITY_CHANGE,
       this.handleVisibilityChange,
@@ -598,6 +602,26 @@ export class GameplayScene {
     this.removeEventListeners();
   };
 
+  private dispatchGameExitedEvent() {
+    if (typeof Utils !== 'undefined' && !Utils.isRespect) {
+      const gameExitedEvent = new CustomEvent('gameExited', {
+        detail: {
+          exited: true,
+        }
+      });
+      window.dispatchEvent(gameExitedEvent);
+    }
+  }
+
+  // with a wrapper that dispatches the event before switching
+  setSwitchToLevelSelectionWithExitEvent() {
+    const originalSwitch = this.switchToLevelSelection;
+    this.switchToLevelSelection = (...args) => {
+      this.dispatchGameExitedEvent();
+      return originalSwitch.apply(this, args);
+    };
+  }
+
   private checkStoneDropped(stone, feedBackIndex, isWord = false) {
     this.hasFed = true; //To prevent idle animation from firing when stone is dropped.
     return this.stoneHandler.isStoneLetterDropCorrect(
@@ -608,10 +632,10 @@ export class GameplayScene {
   }
 
   public letterPuzzle(droppedStone: string) {
-    
+
     if (this.pickedStone && this.pickedStone.frame <= 99) {
       return; // Prevent dragging if the stone is animating
-      
+
     }
     const feedBackIndex = this.getRandomInt(0, 1);
     const isCorrect = this.checkStoneDropped(
@@ -693,7 +717,7 @@ export class GameplayScene {
   const unansweredQuestions = totalQuestions - (this.rightMoves + this.wrongMoves);
   const totalMoves = this.rightMoves + this.wrongMoves + unansweredQuestions;
 
-  this.score = totalMoves > 0 
+  this.score = totalMoves > 0
     ? Math.round((this.rightMoves / totalMoves) * 100)
     : 0;
 
@@ -763,11 +787,9 @@ export class GameplayScene {
 
   public logLevelEndFirebaseEvent() {
     let endTime = Date.now();
-    
     const totalQuestions = this.levelData.puzzles.length;
     const unansweredQuestions = totalQuestions - (this.rightMoves + this.wrongMoves);
     const successfulPuzzles = this.rightMoves;
-
     const levelCompletedData: LevelCompletedEvent = {
       cr_user_id: pseudoId,
       ftm_language: lang,
@@ -786,6 +808,25 @@ export class GameplayScene {
     this.firebaseIntegration.sendLevelCompletedEvent(levelCompletedData);
     AndroidBridge.sendDataToContainer("gameData", levelCompletedData);
     console.log("Sent level completed data to container:", levelCompletedData);
+
+    // Dispatch gameFinished event
+    if (typeof Utils !== 'undefined' && !Utils.isRespect) {
+      const gameFinishedEvent = new CustomEvent('gameFinished', {
+        detail: {
+          score: this.score,
+          maxScore: 100,
+          appVersion: document.getElementById("version-info-id").innerHTML,
+          contentVersion: this.jsonVersionNumber,
+          right_moves: this.rightMoves,
+          wrong_moves: this.wrongMoves,
+          duration: (endTime - this.startTime) / 1000,
+          success_or_failure: GameScore.calculateStarCount(this.score) >= 3 ? "success" : "failure",
+          level_number: this.levelData.levelMeta.levelNumber,
+          number_of_successful_puzzles: successfulPuzzles,
+        }
+      });
+      window.dispatchEvent(gameFinishedEvent);
+    }
   }
 
   public startGameTime() {

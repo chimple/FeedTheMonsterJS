@@ -147,20 +147,30 @@ class App {
           console.warn(
             "Respect mode enabled. Simulating fake loading progress..."
           );
-          this.simulateFakeCachingProgress(this.lang);
+          this.simulateFakeCachingProgress(this.lang, () => {
+            this.sceneHandler = SceneHandler.createForDirectGameStart(
+              this.canvas,
+              this.dataModal,
+              Number(lesson_id)
+            );
+            this.passingDataToContainer();
+          });
         } else {
           console.log("Respect mode disabled. Registering Workbox...");
           await this.registerWorkbox();
+          // Wait for caching to complete and then start the game
+          this.waitForCachingAndStartGame(() => {
+            this.sceneHandler = SceneHandler.createForDirectGameStart(
+              this.canvas,
+              this.dataModal,
+              Number(lesson_id)
+            );
+            this.passingDataToContainer();
+          });
         }
-        this.sceneHandler = SceneHandler.createForDirectGameStart(
-          this.canvas,
-          this.dataModal,
-          Number(lesson_id)
-        );
-        this.passingDataToContainer();
         return; // Prevent normal flow
       } else {
-          if (Utils.isRespect) {
+        if (Utils.isRespect) {
           console.warn(
             "Respect mode enabled. Simulating fake loading progress..."
           );
@@ -199,7 +209,7 @@ class App {
     }
   }
 
-  private simulateFakeCachingProgress(lang: string) {
+  private simulateFakeCachingProgress(lang: string, callback?: () => void) {
     const steps = [25, 50, 75, 100];
     steps.forEach((val, i) => {
       setTimeout(() => {
@@ -210,6 +220,7 @@ class App {
         if (val === 100) {
           this.cacheLanguage();
           this.hideLoadingScreen();
+          if (callback) callback();
         }
       }, i * 700); // Simulate progress every 700ms
     });
@@ -687,6 +698,17 @@ class App {
     } else {
       proceed();
     }
+  }
+
+  private waitForCachingAndStartGame(callback: () => void) {
+    const check = () => {
+      if (this.isCachingComplete) {
+        callback();
+      } else {
+        setTimeout(check, 200);
+      }
+    };
+    check();
   }
 }
 

@@ -125,7 +125,9 @@ export class SceneHandler {
     this.context.clearRect(0, 0, this.width, this.height);
     if (this.loading) this.loadingScreen.draw(deltaTime);
 
-    if (SceneHandler.SceneName === LevelSelection1) {
+    if (SceneHandler.SceneName === StartScene1) {
+      this.startScene.animation(deltaTime);
+    } else if (SceneHandler.SceneName === LevelSelection1) {
       if (this.levelSelectionScene) this.levelSelectionScene.drawLevelSelection();
     } else if (SceneHandler.SceneName === GameScene1) {
       if (this.gameplayScene) this.gameplayScene.draw(deltaTime);
