@@ -120,96 +120,92 @@ export class GameplayScene {
     jsonVersionNumber,
     feedbackAudios
   ) {
-    this.width = canvas.width;
-    this.height = canvas.height;
-    this.rightToLeft = rightToLeft;
-    this.canvas = canvas;
-    this.context = this.canvas.getContext("2d", { willReadFrequently: true });
-    this.trailParticles = new TrailEffect(canvas);
-    this.monsterPhaseNumber = monsterPhaseNumber || 1;
-    this.levelData = levelData;
-    this.switchSceneToEnd = switchSceneToEnd;
-    this.levelNumber = levelNumber;
-    this.switchToLevelSelection = switchToLevelSelection;
-    this.reloadScene = reloadScene;
-    this.jsonVersionNumber = jsonVersionNumber;
-    this.startGameTime();
-    this.startPuzzleTime();
-    this.isDisposing = false;
-    this.pauseButton = new PauseButton(this.context, this.canvas);
-    this.timerTicking = new TimerTicking(
-      this.width,
-      this.height,
-      this.loadPuzzle
-    );
-    this.stoneHandler = new StoneHandler(
-      this.context,
-      this.canvas,
-      this.counter,
-      this.levelData,
-      feedbackAudios,
-      this.timerTicking
-    );
-    this.tutorial = new Tutorial(this.context, canvas.width, canvas.height);
-
-    this.promptText = new PromptText(
-      this.width,
-      this.height,
-      this.levelData.puzzles[this.counter],
-      this.levelData,
-      this.rightToLeft
-    );
-
-    this.levelIndicators = new LevelIndicators(this.context, this.canvas, 0);
-
-    this.levelIndicators.setIndicators(this.counter);
-    this.monster = new Monster(this.canvas, this.monsterPhaseNumber);
-
-    // Wrap switchToLevelSelection before passing to PausePopUp
-    this.switchToLevelSelection = switchToLevelSelection;
-    this.setSwitchToLevelSelectionWithExitEvent();
-    this.pausePopup = new PausePopUp(
-      this.canvas,
-      this.resumeGame,
-      this.switchToLevelSelection,
-      this.reloadScene,
-      {
-        currentLevelData: levelData,
-        selectedLevelNumber: levelNumber,
-      }
-    );
-    this.firebaseIntegration = new FirebaseIntegration();
-
-    this.feedbackTextEffects = new FeedbackTextEffects();
-
-    this.audioPlayer = new AudioPlayer();
-    this.handler = document.getElementById("canvas");
-    this.puzzleData = levelData.puzzles;
-    this.feedBackTexts = feedBackTexts;
-
-    this.images = {
-      profileMonster: ASSETS_PATH_MONSTER_IDLE,
-    };
-
-    loadImages(this.images, (images) => {
-      this.loadedImages = Object.assign({}, images);
-      this.imagesLoaded = true;
-    });
-    var previousPlayedLevel: string = this.levelData.levelMeta.levelNumber;
-    Debugger.DebugMode
-      ? localStorage.setItem(
-          PreviousPlayedLevel + lang + "Debug",
-          previousPlayedLevel
-        )
-      : localStorage.setItem(PreviousPlayedLevel + lang, previousPlayedLevel);
-    this.addEventListeners();
-    this.resetAnimationID = 0;
-    this.setupBg();
-    this.trailParticles?.init();
-    this.clickTrailToggle = false;
-    this.hasFed = false;
-
-    this.wordPuzzleLogic = new WordPuzzleLogic(levelData, this.counter);
+    try {
+      this.width = canvas.width;
+      this.height = canvas.height;
+      this.rightToLeft = rightToLeft;
+      this.canvas = canvas;
+      this.context = this.canvas.getContext("2d", { willReadFrequently: true });
+      this.trailParticles = new TrailEffect(canvas);
+      this.monsterPhaseNumber = monsterPhaseNumber || 1;
+      this.levelData = levelData;
+      this.switchSceneToEnd = switchSceneToEnd;
+      this.levelNumber = levelNumber;
+      this.switchToLevelSelection = switchToLevelSelection;
+      this.reloadScene = reloadScene;
+      this.jsonVersionNumber = jsonVersionNumber;
+      this.startGameTime();
+      this.startPuzzleTime();
+      this.isDisposing = false;
+      this.pauseButton = new PauseButton(this.context, this.canvas);
+      this.timerTicking = new TimerTicking(
+        this.width,
+        this.height,
+        this.loadPuzzle
+      );
+      this.stoneHandler = new StoneHandler(
+        this.context,
+        this.canvas,
+        this.counter,
+        this.levelData,
+        feedbackAudios,
+        this.timerTicking
+      );
+      this.tutorial = new Tutorial(this.context, canvas.width, canvas.height);
+      this.promptText = new PromptText(
+        this.width,
+        this.height,
+        this.levelData.puzzles[this.counter],
+        this.levelData,
+        this.rightToLeft
+      );
+      this.levelIndicators = new LevelIndicators(this.context, this.canvas, 0);
+      this.levelIndicators.setIndicators(this.counter);
+      this.monster = new Monster(this.canvas, this.monsterPhaseNumber);
+      // Wrap switchToLevelSelection before passing to PausePopUp
+      this.switchToLevelSelection = switchToLevelSelection;
+      this.setSwitchToLevelSelectionWithExitEvent();
+      this.pausePopup = new PausePopUp(
+        this.canvas,
+        this.resumeGame,
+        this.switchToLevelSelection,
+        this.reloadScene,
+        {
+          currentLevelData: levelData,
+          selectedLevelNumber: levelNumber,
+        }
+      );
+      this.firebaseIntegration = new FirebaseIntegration();
+      this.feedbackTextEffects = new FeedbackTextEffects();
+      this.audioPlayer = new AudioPlayer();
+      this.handler = document.getElementById("canvas");
+      this.puzzleData = levelData.puzzles;
+      this.feedBackTexts = feedBackTexts;
+      this.images = {
+        profileMonster: ASSETS_PATH_MONSTER_IDLE,
+      };
+      loadImages(this.images, (images) => {
+        this.loadedImages = Object.assign({}, images);
+        this.imagesLoaded = true;
+      });
+      var previousPlayedLevel: string = this.levelData.levelMeta.levelNumber;
+      Debugger.DebugMode
+        ? localStorage.setItem(
+            PreviousPlayedLevel + lang + "Debug",
+            previousPlayedLevel
+          )
+        : localStorage.setItem(PreviousPlayedLevel + lang, previousPlayedLevel);
+      this.addEventListeners();
+      this.resetAnimationID = 0;
+      this.setupBg();
+      this.trailParticles?.init();
+      this.clickTrailToggle = false;
+      this.hasFed = false;
+      this.wordPuzzleLogic = new WordPuzzleLogic(levelData, this.counter);
+      console.log('Game loaded successfully');
+    } catch (error) {
+      console.error('Error while loading game:', error);
+    }
   }
 
   private setupBg = async () => {
@@ -610,6 +606,7 @@ export class GameplayScene {
         }
       });
       window.dispatchEvent(gameExitEvent);
+      console.log('Game exit event dispatched:', gameExitEvent);
     }
   }
 
@@ -745,16 +742,16 @@ export class GameplayScene {
   }
 
   private initNewPuzzle(loadPuzzleEvent) {
-    this.removeEventListeners();
-    this.isGameStarted = false;
-    this.time = 0;
-    this.wordPuzzleLogic.updatePuzzleLevel(loadPuzzleEvent?.detail?.counter);
-    this.pickedStone = null;
-    document.dispatchEvent(loadPuzzleEvent);
-    this.addEventListeners();
-    this.audioPlayer.stopAllAudios();
-    this.startPuzzleTime();
-    this.hasFed = false;
+      this.removeEventListeners();
+      this.isGameStarted = false;
+      this.time = 0;
+      this.wordPuzzleLogic.updatePuzzleLevel(loadPuzzleEvent?.detail?.counter);
+      this.pickedStone = null;
+      document.dispatchEvent(loadPuzzleEvent);
+      this.addEventListeners();
+      this.audioPlayer.stopAllAudios();
+      this.startPuzzleTime();
+      this.hasFed = false;
   }
 
   public logPuzzleEndFirebaseEvent(isCorrect: boolean, puzzleType?: string) {
@@ -807,7 +804,6 @@ export class GameplayScene {
     };
     this.firebaseIntegration.sendLevelCompletedEvent(levelCompletedData);
     AndroidBridge.sendDataToContainer("gameData", levelCompletedData);
-    console.log("Sent level completed data to container:", levelCompletedData);
 
     // Dispatch gameFinished event
     if (!Utils.isRespect) {
@@ -826,6 +822,7 @@ export class GameplayScene {
         }
       });
       window.dispatchEvent(gameFinishedEvent);
+      console.log('Game finished event dispatched:', gameFinishedEvent);
     }
   }
 

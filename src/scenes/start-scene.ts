@@ -99,10 +99,8 @@ export class StartScene {
     document.addEventListener("selectstart", function (e) {
       e.preventDefault();
     });
-    console.log("if (!Utils.isDeepLink) {", !Utils.isDeepLink);
 
     if (!Utils.isDeepLink) {
-      console.log("added mouseclick");
       this.handler.addEventListener("click", this.handleMouseClick, false);
     }
   }
@@ -126,7 +124,6 @@ export class StartScene {
       });
       this.toggleBtn.style.display = "none";
       this.audioPlayer.playButtonClickSound();
-      console.log("if (!Utils.isDeepLink) {", !Utils.isDeepLink);
       self.switchSceneToLevelSelection("StartScene");
     }
   };
