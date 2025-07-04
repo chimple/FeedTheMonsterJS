@@ -7,7 +7,6 @@ export class BaseFirebaseIntegration {
     analytics: any;
     constructor() {
         this.initializeFirebase();
-        console.log(" source : ", source, " and  campaign_id: ", campaign_id);
         if (source != null || campaign_id != null)
             this.setUserProperty(source, campaign_id);
     }
@@ -15,7 +14,6 @@ export class BaseFirebaseIntegration {
         try {
             logEvent(this.analytics, eventName, event);
         } catch (error) {
-            console.error("Error while logging custom event:", error);
         }
     }
     protected sessionEnd(): void {
@@ -24,7 +22,6 @@ export class BaseFirebaseIntegration {
                 logEvent(this.analytics, "session_end");
             }
         } catch (error) {
-            console.error("Error while logging session_end event:", error);
         }
     }
     private setUserProperty(source: string, campaignId: string): void {
@@ -33,9 +30,7 @@ export class BaseFirebaseIntegration {
                 source: source,
                 campaign_id: campaignId
             }, { global: true });
-            console.log("User properties set: ", { source, campaignId });
         } catch (error) {
-            console.error("Error while setting user properties:", error);
         }
     }
     protected initializeFirebase() {
@@ -43,7 +38,6 @@ export class BaseFirebaseIntegration {
             this.firebaseApp = initializeApp(firebaseConfig);
             this.analytics = getAnalytics(this.firebaseApp);
         } catch (error) {
-            console.error("Error while initializing Firebase:", error);
         }
     }
 }

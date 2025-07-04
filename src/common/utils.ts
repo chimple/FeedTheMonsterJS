@@ -39,7 +39,6 @@ export class Utils {
       }
     }
 
-    console.log(`Font not found for language: ${language}`);
     return "NotoSans-Regular";
   }
 
@@ -221,17 +220,12 @@ const _callbacks: CallbackMap = window._callbacks;
 export const AndroidBridge = {
   sendDataToContainer(key: string, data: any) {
     try {
-      // console.log(`Attempting to send ${key} to container:`, JSON.stringify(data));
       if (window.Android !== undefined) {
         // Stringify the data before sending to avoid [object Object] issues
         const jsonData = typeof data === "object" ? JSON.stringify(data) : data;
         window.Android.sendDataToContainer(key, jsonData);
-      } else {
-        console.warn("Android bridge not available:  In sendDataToContainer");
       }
-    } catch (error) {
-      console.error("Error sending data to container:", error);
-    }
+    } catch (error) {}
   },
 
   requestDataFromContainer(type: string): Promise<any> {
@@ -248,7 +242,7 @@ export const AndroidBridge = {
       }
     });
   },
-  
+
   requestInstalledAppInfo(): Promise<any> {
     return new Promise((resolve, reject) => {
       try {
@@ -271,7 +265,7 @@ export const AndroidBridge = {
         if (window.Android?.sendGameLevelInfoToJS) {
           // Store the callback in the _callbacks map with a specific type
           _callbacks["gameLevelInfo"] = resolve;
-          
+
           // Request the game level info from Android
           window.Android.sendGameLevelInfoToJS();
         } else {
@@ -297,38 +291,30 @@ export const AndroidBridge = {
       if (type && _callbacks[type]) {
         _callbacks[type](data); // Resolve the Promise
         delete _callbacks[type]; // Clean up after resolving
-      } else {
-        console.warn("No callback found for type:", type);
       }
-    } catch (e) {
-      console.error("Failed to parse data from Android:", e);
-    }
+    } catch (e) {}
   },
 
   _handleGameLevelInfo(data: any) {
     try {
       if (data && data.data) {
         const gameLevelInfo = data.data;
-        
+
         // Get language from the game state or global context
         const currentLanguage = window.localStorage.getItem('lang') || 'english';
-        
+
         // Save to localStorage
         localStorage.setItem(
-          currentLanguage + "gamePlayedInfo", 
+          currentLanguage + "gamePlayedInfo",
           JSON.stringify(gameLevelInfo)
         );
-        
-        console.log("Received and saved game level info from Android:", gameLevelInfo);
-        
+
         // Use the callback system instead of events
         if (_callbacks["gameLevelInfo"]) {
           _callbacks["gameLevelInfo"](gameLevelInfo);
           delete _callbacks["gameLevelInfo"];
         }
       }
-    } catch (e) {
-      console.error("Failed to process game level info from Android:", e);
-    }
+    } catch (e) {}
   }
 };

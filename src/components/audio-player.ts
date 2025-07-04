@@ -30,7 +30,6 @@ export class AudioPlayer {
         AudioPlayer.audioBuffers.set(audioSrc, this.clickSoundBuffer);
         this.isClickSoundLoaded = true; // Set the flag to true after loading
       } catch (error) {
-        console.error("Error loading or decoding click sound:", error);
         return;
       }
     }
@@ -41,8 +40,6 @@ export class AudioPlayer {
       sourceNode.buffer = this.clickSoundBuffer;
       sourceNode.connect(this.audioContext!.destination);
       sourceNode.start();
-    } else {
-      console.error("Click sound buffer is not available.");
     }
   }
 
@@ -56,7 +53,6 @@ export class AudioPlayer {
         );
         resolve(audioBuffer);
       } catch (error) {
-        console.error("Error loading or decoding audio:", error);
         reject(error);
       }
     });

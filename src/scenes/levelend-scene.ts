@@ -170,19 +170,13 @@ export class LevelEndScene {
   }
   drawStars() {
     if (window.Android) {
-      console.log("Android bridge is available in levelend-scene");
     } else {
-      console.log("Android bridge is NOT available in levelend-scene");
     }
-    
     if (this.starCount >= 1 && this.starDrawnCount >= 1) {
       try {
         AndroidBridge.sendDataToContainer("star-count", this.starCount);
-        console.log("Sent star count to container:", this.starCount, this.starDrawnCount);
       } catch (error) {
-        console.error("Failed to send star count:", error);
       }
-      
       this.context.drawImage(
         this.loadedImages.star1Img,
         this.width * 0.2 - (this.width * 0.19) / 2,
@@ -190,7 +184,6 @@ export class LevelEndScene {
         this.width * 0.19,
         this.width * 0.19
       );
-
       if (
         this.starCount <= 3 &&
         this.starCount > 1 &&

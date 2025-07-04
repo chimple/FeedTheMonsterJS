@@ -90,7 +90,6 @@ class App {
         if (lessonId != "") {
           Utils.isDeepLink = true;
         }
-        console.log("Lesson ID from Android:", lessonId);
       }
 
       if (Utils.isDeepLink && lessonId != "") {
@@ -102,24 +101,18 @@ class App {
         AndroidBridge._handleDataFromAndroid(responseJson);
       };
 
-      console.log("hello world from FTM");
-
       if(Utils.isRespect) {
         try {
           const data = await AndroidBridge.requestDataFromContainer("score");
-          console.log("Received score data from Container:", JSON.stringify(data));
         } catch (err) {
-          console.error("Error in requestDataFromContainer promise:", err);
         }
       }
 
       if(Utils.isRespect) {
         try {
           const data = await AndroidBridge.requestInstalledAppInfo();
-          // console.log("Got response from Promise, isAppInstalled is:", data.isAppInstalled);
           Utils.isRespect = data.isAppInstalled;
         } catch (err) {
-          console.error("Error in installedAppInfo promise:", err);
         }
       }
 
@@ -144,9 +137,6 @@ class App {
       if (lesson_id) {
         // Run all caching logic first
         if (Utils.isRespect) {
-          console.warn(
-            "Respect mode enabled. Simulating fake loading progress..."
-          );
           this.simulateFakeCachingProgress(this.lang, () => {
             this.sceneHandler = SceneHandler.createForDirectGameStart(
               this.canvas,
@@ -156,7 +146,6 @@ class App {
             this.passingDataToContainer();
           });
         } else {
-          console.log("Respect mode disabled. Registering Workbox...");
           await this.registerWorkbox();
           // Wait for caching to complete and then start the game
           this.waitForCachingAndStartGame(() => {
@@ -171,12 +160,8 @@ class App {
         return; // Prevent normal flow
       } else {
         if (Utils.isRespect) {
-          console.warn(
-            "Respect mode enabled. Simulating fake loading progress..."
-          );
           this.simulateFakeCachingProgress(this.lang);
         } else {
-          console.log("Respect mode disabled. Registering Workbox...");
           await this.registerWorkbox();
         }
       }
@@ -196,16 +181,11 @@ class App {
       }
 
       if (Utils.isRespect) {
-        console.warn(
-          "Respect mode enabled. Simulating fake loading progress..."
-        );
         this.simulateFakeCachingProgress(this.lang);
       } else {
-        console.log("Respect mode disabled. Registering Workbox...");
         await this.registerWorkbox();
       }
     } catch (err) {
-      console.error("Error in init:", err);
     }
   }
 
@@ -276,7 +256,6 @@ class App {
         );
         break;
       default:
-        console.warn(`Unsupported progress percentage: ${percentage}`);
     }
     if (
       (percentage === 25 && this.logged25) ||
@@ -349,7 +328,6 @@ class App {
       await font.load();
       document.fonts.add(font);
     } catch (error) {
-      console.error(`Failed to load and cache font: ${error}`);
     }
   }
 
@@ -386,9 +364,6 @@ class App {
           })
             .then(async (response) => {
               if (!response.ok) {
-                console.error(
-                  "Failed to fetch the content file from the server!"
-                );
                 return;
               }
               const newContentFileData = await response.json();
@@ -403,9 +378,7 @@ class App {
               // If there's a new content version, we need to remove the cached content and reload
               // We are comparing here the contentVersion with the aheadContentVersion
               if (aheadContentVersion && cachedVersion != aheadContentVersion) {
-                console.log("Content version mismatch! Reloading...");
                 var cachedItem = JSON.parse(localStorage.getItem("is_cached"));
-                console.log("current lang  " + lang);
                 var newCachedItem = cachedItem.filter(
                   (e) => !e.toString().includes(lang)
                 );
@@ -417,7 +390,6 @@ class App {
               }
             })
             .catch((error) => {
-              console.error("Error fetching the content file: " + error);
             });
         }
         navigator.serviceWorker.addEventListener(
@@ -425,7 +397,6 @@ class App {
           this.handleServiceWorkerMessage
         );
       } catch (error) {
-        console.error(`Failed to register service worker: ${error}`);
       }
     }
   }
@@ -489,9 +460,7 @@ class App {
   }
 
   public passingDataToContainer = (): void => {
-    console.log("Hello FTM");
     if (window.Android) {
-      console.log("Hello FTM Android");
       window.Android.cachedStatus(this.is_cached.get(this.lang) == true);
     }
   };
@@ -547,10 +516,8 @@ class App {
   };
 
   public startGameWithLevel(levelNumber: string | number): void {
-    console.log(`📱 FTM: Starting game with level ${levelNumber}`);
     if (this.sceneHandler) {
       // Skip level selection screen and directly start the game
-      console.log(`📱 FTM: Directly starting level ${levelNumber}`);
 
       // Create the gameplay data structure
       const gamePlayData = {
@@ -564,9 +531,6 @@ class App {
       // Call the switchSceneToGameplay method directly with the gameplay data
       this.sceneHandler.switchSceneToGameplay(gamePlayData, "START");
     } else {
-      console.error(
-        "📱 FTM: Cannot start game - scene handler not initialized"
-      );
     }
   }
 
@@ -590,7 +554,6 @@ class App {
       );
       this.isCachingComplete = true;
     } catch (error) {
-      console.error("Error caching language:", error);
     }
   }
 
@@ -606,7 +569,6 @@ class App {
       this.loadingElement.style.display = "none";
       this.handleResize(this.dataModal);
     } catch (error) {
-      console.error("Error hiding loading screen:", error);
     }
   }
 
@@ -643,7 +605,6 @@ class App {
       Promise.all(preloadPromises)
         .then(() => resolve())
         .catch((error) => {
-          console.error("Error preloading audio:", error);
           reject(error);
         });
     });
@@ -674,7 +635,6 @@ class App {
   private handleDeepLinkStart(lessonId: string | number) {
     Utils.isDeepLink = false;
     const levelNumber = Number(lessonId);
-    console.log("Lesson ID from Android:", levelNumber);
     Utils.levelNum = levelNumber;
     this.startGameWithLevel(levelNumber);
   }

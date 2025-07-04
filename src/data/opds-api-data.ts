@@ -46,7 +46,6 @@ export async function getOPDSData(): Promise<any> {
     const data = await response.json();
     return data;
   } catch (error) {
-    console.error("Error loading language-specific JSON file:", error);
     throw error;
   }
 }

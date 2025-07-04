@@ -610,6 +610,7 @@ export class GameplayScene {
         }
       });
       window.dispatchEvent(gameExitEvent);
+      console.log('Game exit event dispatched.');
     }
   }
 
@@ -807,7 +808,6 @@ export class GameplayScene {
     };
     this.firebaseIntegration.sendLevelCompletedEvent(levelCompletedData);
     AndroidBridge.sendDataToContainer("gameData", levelCompletedData);
-    console.log("Sent level completed data to container:", levelCompletedData);
 
     // Dispatch gameFinished event
     if (!Utils.isRespect) {
@@ -826,6 +826,7 @@ export class GameplayScene {
         }
       });
       window.dispatchEvent(gameFinishedEvent);
+      console.log('Game finished event dispatched.');
     }
   }
 
