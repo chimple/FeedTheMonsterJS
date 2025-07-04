@@ -7,7 +7,6 @@ export class BaseFirebaseIntegration {
     analytics: any;
     constructor() {
         this.initializeFirebase();
-        console.log(" source : ", source, " and  campaign_id: ", campaign_id);
         if (source != null || campaign_id != null)
             this.setUserProperty(source, campaign_id);
     }
@@ -33,7 +32,6 @@ export class BaseFirebaseIntegration {
                 source: source,
                 campaign_id: campaignId
             }, { global: true });
-            console.log("User properties set: ", { source, campaignId });
         } catch (error) {
             console.error("Error while setting user properties:", error);
         }

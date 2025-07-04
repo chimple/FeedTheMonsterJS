@@ -90,7 +90,6 @@ class App {
         if (lessonId != "") {
           Utils.isDeepLink = true;
         }
-        console.log("Lesson ID from Android:", lessonId);
       }
 
       if (Utils.isDeepLink && lessonId != "") {
@@ -102,12 +101,10 @@ class App {
         AndroidBridge._handleDataFromAndroid(responseJson);
       };
 
-      console.log("hello world from FTM");
 
       if(Utils.isRespect) {
         try {
           const data = await AndroidBridge.requestDataFromContainer("score");
-          console.log("Received score data from Container:", JSON.stringify(data));
         } catch (err) {
           console.error("Error in requestDataFromContainer promise:", err);
         }
@@ -144,9 +141,6 @@ class App {
       if (lesson_id) {
         // Run all caching logic first
         if (Utils.isRespect) {
-          console.warn(
-            "Respect mode enabled. Simulating fake loading progress..."
-          );
           this.simulateFakeCachingProgress(this.lang, () => {
             this.sceneHandler = SceneHandler.createForDirectGameStart(
               this.canvas,
@@ -156,7 +150,6 @@ class App {
             this.passingDataToContainer();
           });
         } else {
-          console.log("Respect mode disabled. Registering Workbox...");
           await this.registerWorkbox();
           // Wait for caching to complete and then start the game
           this.waitForCachingAndStartGame(() => {
@@ -171,12 +164,8 @@ class App {
         return; // Prevent normal flow
       } else {
         if (Utils.isRespect) {
-          console.warn(
-            "Respect mode enabled. Simulating fake loading progress..."
-          );
           this.simulateFakeCachingProgress(this.lang);
         } else {
-          console.log("Respect mode disabled. Registering Workbox...");
           await this.registerWorkbox();
         }
       }
@@ -196,12 +185,8 @@ class App {
       }
 
       if (Utils.isRespect) {
-        console.warn(
-          "Respect mode enabled. Simulating fake loading progress..."
-        );
         this.simulateFakeCachingProgress(this.lang);
       } else {
-        console.log("Respect mode disabled. Registering Workbox...");
         await this.registerWorkbox();
       }
     } catch (err) {
@@ -276,7 +261,6 @@ class App {
         );
         break;
       default:
-        console.warn(`Unsupported progress percentage: ${percentage}`);
     }
     if (
       (percentage === 25 && this.logged25) ||
@@ -403,9 +387,7 @@ class App {
               // If there's a new content version, we need to remove the cached content and reload
               // We are comparing here the contentVersion with the aheadContentVersion
               if (aheadContentVersion && cachedVersion != aheadContentVersion) {
-                console.log("Content version mismatch! Reloading...");
                 var cachedItem = JSON.parse(localStorage.getItem("is_cached"));
-                console.log("current lang  " + lang);
                 var newCachedItem = cachedItem.filter(
                   (e) => !e.toString().includes(lang)
                 );
@@ -489,9 +471,7 @@ class App {
   }
 
   public passingDataToContainer = (): void => {
-    console.log("Hello FTM");
     if (window.Android) {
-      console.log("Hello FTM Android");
       window.Android.cachedStatus(this.is_cached.get(this.lang) == true);
     }
   };
@@ -547,11 +527,8 @@ class App {
   };
 
   public startGameWithLevel(levelNumber: string | number): void {
-    console.log(`📱 FTM: Starting game with level ${levelNumber}`);
     if (this.sceneHandler) {
       // Skip level selection screen and directly start the game
-      console.log(`📱 FTM: Directly starting level ${levelNumber}`);
-
       // Create the gameplay data structure
       const gamePlayData = {
         currentLevelData: {
@@ -674,7 +651,6 @@ class App {
   private handleDeepLinkStart(lessonId: string | number) {
     Utils.isDeepLink = false;
     const levelNumber = Number(lessonId);
-    console.log("Lesson ID from Android:", levelNumber);
     Utils.levelNum = levelNumber;
     this.startGameWithLevel(levelNumber);
   }
