@@ -66,7 +66,6 @@ export class TestGameplayScene {
     this.canavsElement = document.getElementById("canvas") as HTMLCanvasElement;
     this.context = this.canavsElement.getContext("2d");
     this.monster = new Monster(this.canvas, 0);
-    console.log(Date.now, " ::: ", performance.now);
     this.switchSceneToLevelSelection = switchSceneToLevelSelection;
     this.stoneHandler = new StoneHandler(
       this.context,

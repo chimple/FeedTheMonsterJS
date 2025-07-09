@@ -39,7 +39,6 @@ export class Utils {
       }
     }
 
-    console.log(`Font not found for language: ${language}`);
     return "NotoSans-Regular";
   }
 
@@ -227,7 +226,6 @@ export const AndroidBridge = {
         const jsonData = typeof data === "object" ? JSON.stringify(data) : data;
         window.Android.sendDataToContainer(key, jsonData);
       } else {
-        console.warn("Android bridge not available:  In sendDataToContainer");
       }
     } catch (error) {
       console.error("Error sending data to container:", error);
@@ -248,7 +246,7 @@ export const AndroidBridge = {
       }
     });
   },
-  
+
   requestInstalledAppInfo(): Promise<any> {
     return new Promise((resolve, reject) => {
       try {
@@ -271,7 +269,7 @@ export const AndroidBridge = {
         if (window.Android?.sendGameLevelInfoToJS) {
           // Store the callback in the _callbacks map with a specific type
           _callbacks["gameLevelInfo"] = resolve;
-          
+
           // Request the game level info from Android
           window.Android.sendGameLevelInfoToJS();
         } else {
@@ -297,8 +295,6 @@ export const AndroidBridge = {
       if (type && _callbacks[type]) {
         _callbacks[type](data); // Resolve the Promise
         delete _callbacks[type]; // Clean up after resolving
-      } else {
-        console.warn("No callback found for type:", type);
       }
     } catch (e) {
       console.error("Failed to parse data from Android:", e);
@@ -309,18 +305,16 @@ export const AndroidBridge = {
     try {
       if (data && data.data) {
         const gameLevelInfo = data.data;
-        
+
         // Get language from the game state or global context
         const currentLanguage = window.localStorage.getItem('lang') || 'english';
-        
+
         // Save to localStorage
         localStorage.setItem(
-          currentLanguage + "gamePlayedInfo", 
+          currentLanguage + "gamePlayedInfo",
           JSON.stringify(gameLevelInfo)
         );
-        
-        console.log("Received and saved game level info from Android:", gameLevelInfo);
-        
+
         // Use the callback system instead of events
         if (_callbacks["gameLevelInfo"]) {
           _callbacks["gameLevelInfo"](gameLevelInfo);
