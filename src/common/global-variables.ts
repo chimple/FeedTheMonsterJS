@@ -14,7 +14,7 @@ const supportedLanguages = [
 let urlLang = urlParams.get("lang") != null ? urlParams.get("lang").toLowerCase() : null;
 export var lang = supportedLanguages.includes(urlLang) ? urlLang : "english";
 
-export var lesson_id = urlParams.get("lesson_id") == null || urlParams.get("lesson_id") == "0" ? "1" : urlParams.get("lesson_id");
+export var lesson_id = urlParams.get("lesson_id") == null || urlParams.get("lesson_id") == "0" || urlParams.get("lesson_id") == "" ? "1" : urlParams.get("lesson_id");
 
 export const font = Utils.getLanguageSpecificFont(lang);
 export const Debugger = {

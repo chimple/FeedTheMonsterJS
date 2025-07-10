@@ -108,7 +108,7 @@ export default class StoneHandler extends EventManager {
           stone.draw(deltaTime);
         }
       });
-  
+
       if (
         this.foilStones[this.foilStones.length - 1].frame >= 100 &&
         !this.isGamePaused
@@ -124,7 +124,7 @@ export default class StoneHandler extends EventManager {
     groupedLetters: {} | { [key:number]: string }
   ):void {
     for (let i = 0; i < this.foilStones.length; i++) {
-
+      if (!this.foilStones[i]) continue;
       if (shouldHideStoneChecker(i)) {
         this.foilStones[i].draw(
           deltaTime,
@@ -133,8 +133,11 @@ export default class StoneHandler extends EventManager {
       }
     }
 
+    const lastStone = this.foilStones[this.foilStones.length - 1];
     if (
-      this.foilStones[this.foilStones.length - 1].frame >= 100 &&
+      lastStone &&
+      lastStone.frame !== undefined &&
+      lastStone.frame >= 100 &&
       !this.isGamePaused
     ) {
       this.timerTickingInstance.update(deltaTime);
