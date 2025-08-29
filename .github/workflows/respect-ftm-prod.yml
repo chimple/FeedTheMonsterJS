@@ -3,7 +3,7 @@ name: Respect Prod FTM Hosting
 on:
   push:
     branches:
-      - RESPECTify-prod
+      - RESPECTify-web-version-prod
 
 jobs:
   build:
