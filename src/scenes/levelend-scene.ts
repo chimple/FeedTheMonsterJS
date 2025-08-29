@@ -1,4 +1,4 @@
-import { loadImages, CLICK, isDocumentVisible, Utils } from "@common";
+import { loadImages, CLICK, isDocumentVisible } from "@common";
 import { AudioPlayer, Monster } from "@components";
 import { CloseButton, NextButton, RetryButton } from "@buttons";
 import {
@@ -147,14 +147,12 @@ export class LevelEndScene {
         this.height + this.height * 0.12
       );
       this.drawStars();
-      this.monster.update(deltaTime);
 
-      if (!Utils.isRespect) {
-        this.closeButton.draw();
-        this.retryButton.draw();
-        if (this.isLastLevel) {
-          this.nextButton.draw();
-        }
+      this.monster.update(deltaTime);
+      this.closeButton.draw();
+      this.retryButton.draw();
+      if (this.isLastLevel) {
+        this.nextButton.draw();
       }
     }
   }
