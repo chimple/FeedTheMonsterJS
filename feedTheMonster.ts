@@ -106,7 +106,7 @@ class App {
         try {
           const data = await AndroidBridge.requestDataFromContainer("score");
         } catch (err) {
-          console.error("Error in requestDataFromContainer promise:", err);
+          console.warn("Error in requestDataFromContainer promise:", err);
         }
       }
 
@@ -116,7 +116,7 @@ class App {
           // console.log("Got response from Promise, isAppInstalled is:", data.isAppInstalled);
           Utils.isRespect = data.isAppInstalled;
         } catch (err) {
-          console.error("Error in installedAppInfo promise:", err);
+          console.warn("Error in installedAppInfo promise:", err);
         }
       }
 
