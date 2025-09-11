@@ -315,16 +315,20 @@ export default class StoneHandler extends EventManager {
   }
 
   playCorrectAnswerFeedbackSound(feedBackIndex: number) {
-    const randomNumber = Utils.getRandomNumber(1, 3).toString();
-    this.audioPlayer.playFeedbackAudios(
-      false,
-      AUDIO_PATH_EATS,
-      AUDIO_PATH_CHEERING_FUNC(randomNumber),
-      AUDIO_PATH_POINTS_ADD,
-      Utils.getConvertedDevProdURL(this.feedbackAudios[feedBackIndex]),
-    );
-    // to play the audio parrallely.
-    this.correctStoneAudio.play();
+    try {
+      const randomNumber = Utils.getRandomNumber(1, 3).toString();
+      this.audioPlayer.playFeedbackAudios(
+        false,
+        AUDIO_PATH_EATS,
+        AUDIO_PATH_CHEERING_FUNC(randomNumber),
+        AUDIO_PATH_POINTS_ADD,
+        Utils.getConvertedDevProdURL(this.feedbackAudios[feedBackIndex])
+      );
+      // to play the audio parrallely.
+      this.correctStoneAudio.play();
+    } catch (error) {
+      console.warn("playCorrectAnswerFeedbackSound ", error);
+    }
   }
 
   resetStonePosition(
