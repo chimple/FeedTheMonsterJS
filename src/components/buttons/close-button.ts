@@ -1,4 +1,4 @@
-import { isClickInsideButton, loadImages } from "@common";
+import { isClickInsideButton, loadImages, Utils } from "@common";
 import { MAP_BTN_IMG } from "@constants";
 
 export default class CloseButton {
@@ -26,10 +26,13 @@ export default class CloseButton {
     this.context = context;
     this.canvas = canvas;
 
-    loadImages({ close_button_image: MAP_BTN_IMG }, (images) => {
-      this.close_button_image = images["close_button_image"];
-      this.imagesLoaded = true;
-    });
+    // don't load the image when respect mode is enabled
+    if (!Utils.isRespect) {
+      loadImages({ close_button_image: MAP_BTN_IMG }, (images) => {
+        this.close_button_image = images["close_button_image"];
+        this.imagesLoaded = true;
+      });
+    }
 
     this.btnSizeAnimation = 0.19;
     this.btnOriginalSize = this.btnSizeAnimation;
@@ -37,6 +40,9 @@ export default class CloseButton {
   }
 
   draw() {
+    // hide button in respect mode
+    if (Utils.isRespect) return;
+
     if (this.imagesLoaded) {
       this.context.drawImage(
         this.close_button_image,
@@ -56,6 +62,9 @@ export default class CloseButton {
   }
 
   onClick(xClick: number, yClick: number): boolean {
+    // ignore clicks in respect mode
+    if (Utils.isRespect) return false;
+
     const isInside = isClickInsideButton(
       xClick,
       yClick,
