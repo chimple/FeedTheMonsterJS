@@ -43,7 +43,7 @@ export default class PausePopUp {
     this.retryButton = new RetryButton(
       this.context,
       this.canvas,
-      this.canvas.width * 0.55,
+      this.canvas.width * 0.5 - (this.canvas.width * 0.19) / 2,
       this.canvas.height * 0.2 +
         this.canvas.width * 0.4 -
         (this.canvas.width * 0.19) / 2
