@@ -225,6 +225,10 @@ export class LevelEndScene {
     const x = event.clientX - rect.left;
     const y = event.clientY - rect.top;
 
+    if (Utils.isRespect) {
+      return;
+    }
+
     if (this.closeButton.onClick(x, y)) {
       this.audioPlayer.playButtonClickSound();
       this.switchToLevelSelectionCB("LevelEnd");
