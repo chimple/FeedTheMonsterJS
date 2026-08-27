@@ -7,7 +7,7 @@
     },
     {
       "public": "build",
-      "site": "ibiza-stage-ftm-respect-dev",
+      "site": "curious-reader-respect-ftm-dev",
       "ignore": ["firebase.json", "**/.*", "**/node_modules/**"]
     },
     {

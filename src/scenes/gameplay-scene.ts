@@ -48,6 +48,8 @@ import {
 } from "@compositions";
 import { WordPuzzleLogic } from '@gamepuzzles';
 import { AndroidBridge } from "../common/utils";
+import { lesson_id } from "../common/global-variables";
+import { sendRespectLevelCompletion } from "../common/respect-xapi";
 
 export class GameplayScene {
   public width: number;
@@ -106,6 +108,7 @@ export class GameplayScene {
   clickTrailToggle: boolean;
   hasFed: boolean;
   wordPuzzleLogic:any;
+  private respectCompletionSent: boolean = false;
 
   constructor(
     canvas,
@@ -804,6 +807,19 @@ export class GameplayScene {
     };
     this.firebaseIntegration.sendLevelCompletedEvent(levelCompletedData);
     AndroidBridge.sendDataToContainer("gameData", levelCompletedData);
+
+    // RESPECT supplies launch-scoped xAPI credentials, so only launched RESPECT lessons report to its LRS.
+    if (Utils.isRespect && !this.respectCompletionSent) {
+      this.respectCompletionSent = true;
+      void sendRespectLevelCompletion({
+        lessonId: lesson_id,
+        score: levelCompletedData.score,
+        success: levelCompletedData.success_or_failure === "success",
+        rightMoves: levelCompletedData.right_moves,
+        wrongMoves: levelCompletedData.wrong_moves,
+        duration: levelCompletedData.duration,
+      }).catch(() => undefined);
+    }
 
     // Dispatch gameFinished event
     if (!Utils.isRespect) {
